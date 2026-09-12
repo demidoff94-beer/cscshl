@@ -1,0 +1,90 @@
+# .github/workflows/hltv-sync.yml
+# Синхронизация данных HLTV без сервера: API поднимается на раннере,
+# JSON коммитится в эту же репу (папка data/) + ложится в артефакты.
+# Дополнительно можно получать файлы в Telegram (закомментировано ниже).
+
+name: hltv-sync
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"    # каждые 6 часов в :17 — вне часа пик раннеров
+  workflow_dispatch:           # ручной запуск: вкладка Actions → hltv-sync → Run workflow
+
+permissions:
+  contents: write              # нужно, чтобы коммитить data/ обратно в репу
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Скачать hltv-scraper-api
+        run: git clone --depth 1 https://github.com/M3MONs/hltv-scraper-api.git api
+
+      - name: Зависимости
+        run: pip install -r api/requirements.txt
+
+      - name: Подложить Cloudflare-сессию
+        run: |
+          echo '${{ secrets.CF_SESSION }}' > api/hltv_scraper/cf_session.json
+          test -s api/hltv_scraper/cf_session.json || { echo "CF_SESSION secret пуст!"; exit 1; }
+
+      - name: Запустить API и забрать данные
+        run: |
+          cd api
+          nohup python app.py > api.log 2>&1 &
+          sleep 10
+          if ! curl -sf http://127.0.0.1:8000/ > /dev/null; then
+            echo "API не поднялся, последние строки лога:"; tail -30 api.log; exit 1
+          fi
+          mkdir -p ../data
+          ok=0; fail=0
+          for ep in matches/upcoming results teams/rankings news; do
+            name=$(echo $ep | tr '/' '_')
+            if curl -sf --retry 2 --retry-delay 5 "http://127.0.0.1:8000/api/v1/$ep" -o "../data/$name.json"; then
+              ok=$((ok+1))
+            else
+              fail=$((fail+1)); echo "FAIL: $ep (возможно, протухла CF-сессия)"
+            fi
+            sleep 2
+          done
+          echo "OK=$ok FAIL=$fail"
+          test $ok -gt 0
+
+      - name: Коммит data/ в репозиторий
+        run: |
+          git config user.name "hltv-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/*.json
+          if git diff --cached --quiet; then
+            echo "Изменений нет"
+          else
+            git commit -m "hltv sync $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
+
+      - name: Артефакты (на всякий случай)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: hltv-data
+          path: data/*.json
+          retention-days: 30
+
+      # --- Опционально: получать файлы в Telegram ---
+      # 1) Напиши @BotFather → создай бота → скопируй токен
+      # 2) Напиши боту любое сообщение, узнай chat_id: https://api.telegram.org/bot<ТОКЕН>/getUpdates
+      # 3) Добавь секреты TELEGRAM_TOKEN и TELEGRAM_CHAT_ID (Settings → Secrets → Actions)
+      # 4) Раскомментируй блок ниже:
+      #
+      # - name: Отправить в Telegram
+      #   if: success()
+      #   run: |
+      #     for f in data/*.json; do
+      #       curl -sF document=@"$f" "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendDocument"       #         -F chat_id="${{ secrets.TELEGRAM_CHAT_ID }}"
+      #     done
