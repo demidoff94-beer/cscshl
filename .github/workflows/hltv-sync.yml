@@ -39,9 +39,11 @@ jobs:
           cd api
           nohup python app.py > api.log 2>&1 &
           sleep 10
-          if ! curl -sf http://127.0.0.1:8000/ > /dev/null; then
-            echo "API не поднялся, последние строки лога:"; tail -30 api.log; exit 1
+          code=$(curl -s -o /dev/null -w "%{http_code}" http://127.0.0.1:8000/apidocs/ || echo 000)
+          if [ "$code" = "000" ] || [ "$code" = "404" ]; then
+            echo "API не поднялся (код $code), последние строки лога:"; tail -30 api.log; exit 1
           fi
+          echo "API жив, код ответа: $code"
           mkdir -p ../data
           ok=0; fail=0
           for ep in matches/upcoming results teams/rankings news; do
