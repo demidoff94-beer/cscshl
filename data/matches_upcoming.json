@@ -1,95 +1,5 @@
 [
   {
-    "hour": "21:00",
-    "date": "2026-09-17",
-    "link": "/matches/2398256/ehisto-base-vs-fluxo-circuit-x-curitiba-fall-2026",
-    "meta": "bo3",
-    "event": "Circuit X Curitiba Fall 2026",
-    "team1": {
-      "name": "EHISTO BASE",
-      "logo": "/dynamic-svg/teamplaceholder?letter=E"
-    },
-    "team2": {
-      "name": "Fluxo",
-      "logo": "https://img-cdn.hltv.org/teamlogo/zGveLNj821BCJGMu93qnj-.png?ixlib=java-2.1.0&w=50&s=f7d69ef82fdaf8d8b7f5a1a7fa8f13ed"
-    }
-  },
-  {
-    "hour": "22:00",
-    "date": "2026-09-17",
-    "link": "/matches/2398150/faze-up-next-vs-nice-try-hyperx-retake-season-12",
-    "meta": "bo3",
-    "event": "HyperX Retake Season 12",
-    "team1": {
-      "name": "FaZe Up Next",
-      "logo": "https://img-cdn.hltv.org/teamlogo/kZhOzF3seD5lBgoxTSCx9Y.png?ixlib=java-2.1.0&w=50&s=cf3b7bd7113c4c92c5662f38e0ff3c7f"
-    },
-    "team2": {
-      "name": "Nice Try",
-      "logo": "https://img-cdn.hltv.org/teamlogo/jYTlrh5Dt5JG1YcDk4JmLq.png?ixlib=java-2.1.0&w=50&s=6b3e5ef356b375b5d4db309fc9812d8f"
-    }
-  },
-  {
-    "hour": "22:00",
-    "date": "2026-09-17",
-    "link": "/matches/2398257/galorys-vs-elementals-circuit-x-curitiba-fall-2026",
-    "meta": "bo3",
-    "event": "Circuit X Curitiba Fall 2026",
-    "team1": {
-      "name": "Galorys",
-      "logo": "https://img-cdn.hltv.org/teamlogo/GljsUhNlV1YdE2Z1ge-HzK.png?ixlib=java-2.1.0&w=50&s=fd7e8570af28b29e7dfa34eab2c506b1"
-    },
-    "team2": {
-      "name": "Elementals",
-      "logo": "/dynamic-svg/teamplaceholder?letter=E"
-    }
-  },
-  {
-    "hour": "22:00",
-    "date": "2026-09-17",
-    "link": "/matches/2398258/bestia-vs-clansbr-circuit-x-curitiba-fall-2026",
-    "meta": "bo3",
-    "event": "Circuit X Curitiba Fall 2026",
-    "team1": {
-      "name": "BESTIA",
-      "logo": "https://img-cdn.hltv.org/teamlogo/Z_R5K__qrvHmPjF66iCay-.png?ixlib=java-2.1.0&w=50&s=7e2afd72c2b3cabf53244ed6bc5142e3"
-    },
-    "team2": {
-      "name": "CLANSBR",
-      "logo": "https://img-cdn.hltv.org/teamlogo/_PYu3-Lze9CjlysXcgqlSc.png?ixlib=java-2.1.0&w=50&s=714f0abc44b4d46cad87fcd5f876aa49"
-    }
-  },
-  {
-    "hour": "02:00",
-    "date": "2026-09-18",
-    "link": "/matches/2398284/iowa-stormboar-vs-farmville-crossfire-season-6",
-    "meta": "bo3",
-    "event": "CROSSFIRE Season 6",
-    "team1": {
-      "name": "Iowa Stormboar",
-      "logo": "https://img-cdn.hltv.org/teamlogo/GqURbCKlAA99-cwuL01-dV.png?ixlib=java-2.1.0&w=50&s=1bd542c87bec397fe781cc1c9246a1c9"
-    },
-    "team2": {
-      "name": "FarmVille",
-      "logo": "/dynamic-svg/teamplaceholder?letter=F"
-    }
-  },
-  {
-    "hour": "02:30",
-    "date": "2026-09-18",
-    "link": "/matches/2397931/sportsbetexpert-vs-lag-esea-advanced-season-58-north-america",
-    "meta": "bo3",
-    "event": "ESEA Advanced Season 58 North America",
-    "team1": {
-      "name": "SportsBetExpert",
-      "logo": "https://img-cdn.hltv.org/teamlogo/gk75xUsUSOXNvyT0A4UBS2.png?ixlib=java-2.1.0&w=50&s=e522fb3aa5ea928b95903bcc31adc39d"
-    },
-    "team2": {
-      "name": "LAG",
-      "logo": "https://img-cdn.hltv.org/teamlogo/W30xfG1IVIUuOJnlsxtHMG.png?ixlib=java-2.1.0&w=50&s=7b86122252f70538d55be737b7e80c50"
-    }
-  },
-  {
     "hour": "03:00",
     "date": "2026-09-18",
     "link": "/matches/2398281/overtake-sector-vs-f5-crossfire-season-6",
@@ -102,6 +12,21 @@
     "team2": {
       "name": "F5",
       "logo": "https://img-cdn.hltv.org/teamlogo/CPiWPjY-3ngmAAV0LxGvsb.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=85703a1849d02cfd66706f32bc62806a"
+    }
+  },
+  {
+    "hour": "03:00",
+    "date": "2026-09-18",
+    "link": "/matches/2398284/iowa-stormboar-vs-farmville-crossfire-season-6",
+    "meta": "bo3",
+    "event": "CROSSFIRE Season 6",
+    "team1": {
+      "name": "Iowa Stormboar",
+      "logo": "https://img-cdn.hltv.org/teamlogo/GqURbCKlAA99-cwuL01-dV.png?ixlib=java-2.1.0&w=50&s=1bd542c87bec397fe781cc1c9246a1c9"
+    },
+    "team2": {
+      "name": "FarmVille",
+      "logo": "/dynamic-svg/teamplaceholder?letter=F"
     }
   },
   {
@@ -392,7 +317,7 @@
   {
     "hour": "14:30",
     "date": "2026-09-18",
-    "link": "/matches/2398100/magic-vs-furia-mibr-loser-starladder-starseries-fall-2026",
+    "link": "/matches/2398100/magic-vs-mibr-starladder-starseries-fall-2026",
     "meta": "bo3",
     "event": "StarLadder StarSeries Fall 2026",
     "team1": {
@@ -400,8 +325,8 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/KYi27Dm-DVyEUj0WIG5Bdx.png?ixlib=java-2.1.0&w=50&s=d490c0b14e24cbc6ddd70f0534ff3651"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "MIBR",
+      "logo": "https://img-cdn.hltv.org/teamlogo/sVnH-oAf1J5TnMwoY4cxUC.png?ixlib=java-2.1.0&w=50&s=b0ef463fa0f1638bce72a89590fbaddf"
     }
   },
   {
@@ -647,7 +572,7 @@
   {
     "hour": "19:30",
     "date": "2026-09-18",
-    "link": "/matches/2397459/spirit-academy-green-vs-berg-oldboys-pl-winner-esea-advanced-season-58-europe",
+    "link": "/matches/2397459/spirit-academy-green-vs-oldboys-pl-esea-advanced-season-58-europe",
     "meta": "bo3",
     "event": "ESEA Advanced Season 58 Europe",
     "team1": {
@@ -655,14 +580,14 @@
       "logo": "/dynamic-svg/teamplaceholder?letter=S"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "OLDBOYS PL",
+      "logo": "https://img-cdn.hltv.org/teamlogo/3eljdVm8xt4Yq61vY0P4A9.png?ixlib=java-2.1.0&w=50&s=7c1fdee04477aa0c4796dddce740ebcf"
     }
   },
   {
     "hour": "19:30",
     "date": "2026-09-18",
-    "link": "/matches/2398102/vitality-vs-furia-mibr-winner-starladder-starseries-fall-2026",
+    "link": "/matches/2398102/vitality-vs-furia-starladder-starseries-fall-2026",
     "meta": "bo3",
     "event": "StarLadder StarSeries Fall 2026",
     "team1": {
@@ -670,8 +595,8 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/ogcHrcCdzRvxbYvAz04KAN.png?ixlib=java-2.1.0&w=50&s=e1f6019aa9f274ffe45a5e99c88dbc02"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "FURIA",
+      "logo": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c"
     }
   },
   {
@@ -797,7 +722,7 @@
   {
     "hour": "02:00",
     "date": "2026-09-20",
-    "link": "/matches/2398310/babag-vs-tbd-crossfire-season-6",
+    "link": "/matches/2398310/babag-vs-zomblers-crossfire-season-6",
     "meta": "bo3",
     "event": "CROSSFIRE Season 6",
     "team1": {
@@ -805,8 +730,8 @@
       "logo": "/dynamic-svg/teamplaceholder?letter=B"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "Zomblers",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dzs1Ru_r0dAPURqi9Hldhj.png?ixlib=java-2.1.0&w=50&s=5f7336395fe481e9fea781589616b89b"
     }
   },
   {
@@ -842,7 +767,7 @@
   {
     "hour": "02:00",
     "date": "2026-09-20",
-    "link": "/matches/2398315/bucketjonsboys-vs-tbd-crossfire-season-6",
+    "link": "/matches/2398315/bucketjonsboys-vs-addice-crossfire-season-6",
     "meta": "bo3",
     "event": "CROSSFIRE Season 6",
     "team1": {
@@ -850,14 +775,14 @@
       "logo": "/dynamic-svg/teamplaceholder?letter=B"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "Addice",
+      "logo": "https://img-cdn.hltv.org/teamlogo/lTklQIBtWI61jIjK6lbkm2.png?ixlib=java-2.1.0&w=50&s=aa632852d7f1d79542eee1a01bbc4f49"
     }
   },
   {
     "hour": "02:00",
     "date": "2026-09-20",
-    "link": "/matches/2398316/my-life-be-like-vs-tbd-crossfire-season-6",
+    "link": "/matches/2398316/my-life-be-like-vs-beyond-limits-crossfire-season-6",
     "meta": "bo3",
     "event": "CROSSFIRE Season 6",
     "team1": {
@@ -865,8 +790,8 @@
       "logo": "/dynamic-svg/teamplaceholder?letter=m"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "Beyond Limits",
+      "logo": "https://img-cdn.hltv.org/teamlogo/OsvBiDr6Plt-_PlwyJO_mc.png?ixlib=java-2.1.0&w=50&s=076e4329d73309082ec91c54cc1578d4"
     }
   },
   {
