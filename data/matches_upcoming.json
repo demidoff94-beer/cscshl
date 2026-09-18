@@ -1,50 +1,5 @@
 [
   {
-    "hour": "03:00",
-    "date": "2026-09-18",
-    "link": "/matches/2398281/overtake-sector-vs-f5-crossfire-season-6",
-    "meta": "bo3",
-    "event": "CROSSFIRE Season 6",
-    "team1": {
-      "name": "Overtake Sector",
-      "logo": "https://img-cdn.hltv.org/teamlogo/VdRzYYxYU4tQuLTPJXud9C.png?ixlib=java-2.1.0&w=50&s=504457aaa043dea7ccd7ae30f0f270b4"
-    },
-    "team2": {
-      "name": "F5",
-      "logo": "https://img-cdn.hltv.org/teamlogo/CPiWPjY-3ngmAAV0LxGvsb.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=85703a1849d02cfd66706f32bc62806a"
-    }
-  },
-  {
-    "hour": "03:00",
-    "date": "2026-09-18",
-    "link": "/matches/2398284/iowa-stormboar-vs-farmville-crossfire-season-6",
-    "meta": "bo3",
-    "event": "CROSSFIRE Season 6",
-    "team1": {
-      "name": "Iowa Stormboar",
-      "logo": "https://img-cdn.hltv.org/teamlogo/GqURbCKlAA99-cwuL01-dV.png?ixlib=java-2.1.0&w=50&s=1bd542c87bec397fe781cc1c9246a1c9"
-    },
-    "team2": {
-      "name": "FarmVille",
-      "logo": "/dynamic-svg/teamplaceholder?letter=F"
-    }
-  },
-  {
-    "hour": "03:00",
-    "date": "2026-09-18",
-    "link": "/matches/2398286/nutorious-vs-without-a-roof-crossfire-season-6",
-    "meta": "bo3",
-    "event": "CROSSFIRE Season 6",
-    "team1": {
-      "name": "NuTorious",
-      "logo": "https://img-cdn.hltv.org/teamlogo/iR0NNyulDkSuYiGj26Q3ma.png?ixlib=java-2.1.0&w=50&s=0ceba122423414b28d4b3ee72d6eb4d5"
-    },
-    "team2": {
-      "name": "Without a Roof",
-      "logo": "https://img-cdn.hltv.org/teamlogo/hdZG8cLvx9zT18jobxu9Ga.svg?ixlib=java-2.1.0&s=224c98691ff7f19deb17625ede478be1"
-    }
-  },
-  {
     "hour": "10:00",
     "date": "2026-09-18",
     "link": "/matches/2397679/drama-vs-honvd-nodwin-clutch-series-12",
@@ -600,9 +555,39 @@
     }
   },
   {
+    "hour": "23:00",
+    "date": "2026-09-18",
+    "link": "/matches/2398336/underworld-vs-meia-noite-cct-2026-challengers-south-america-series-3",
+    "meta": "bo3",
+    "event": "CCT 2026 Challengers South America Series 3",
+    "team1": {
+      "name": "Underworld",
+      "logo": "/dynamic-svg/teamplaceholder?letter=U"
+    },
+    "team2": {
+      "name": "MEIA NOITE",
+      "logo": "/dynamic-svg/teamplaceholder?letter=M"
+    }
+  },
+  {
+    "hour": "01:45",
+    "date": "2026-09-19",
+    "link": "/matches/2398337/sementes-do-mal-vs-quintessncia-cct-2026-challengers-south-america-series-3",
+    "meta": "bo3",
+    "event": "CCT 2026 Challengers South America Series 3",
+    "team1": {
+      "name": "Sementes do Mal",
+      "logo": "/dynamic-svg/teamplaceholder?letter=S"
+    },
+    "team2": {
+      "name": "QUINTESS\u00caNCIA",
+      "logo": "/dynamic-svg/teamplaceholder?letter=Q"
+    }
+  },
+  {
     "hour": "02:30",
     "date": "2026-09-19",
-    "link": "/matches/2397932/olympus-vs-lag-sbe-loser-esea-advanced-season-58-north-america",
+    "link": "/matches/2397932/olympus-vs-lag-esea-advanced-season-58-north-america",
     "meta": "bo3",
     "event": "ESEA Advanced Season 58 North America",
     "team1": {
@@ -610,8 +595,8 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/TZ-At5GBk5ckm6wmkjsAgQ.png?ixlib=java-2.1.0&w=50&s=800cc5c06a7e445f6ad46702b7cabd52"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "LAG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/W30xfG1IVIUuOJnlsxtHMG.png?ixlib=java-2.1.0&w=50&s=7b86122252f70538d55be737b7e80c50"
     }
   },
   {
@@ -660,6 +645,21 @@
     }
   },
   {
+    "hour": "23:00",
+    "date": "2026-09-19",
+    "link": "/matches/2398338/your-end-vs-rush-cct-2026-challengers-south-america-series-3",
+    "meta": "bo3",
+    "event": "CCT 2026 Challengers South America Series 3",
+    "team1": {
+      "name": "your end",
+      "logo": "/dynamic-svg/teamplaceholder?letter=y"
+    },
+    "team2": {
+      "name": "RUSH",
+      "logo": "https://img-cdn.hltv.org/teamlogo/O4NwBNvVDL2qSzhEDD1Uvt.png?ixlib=java-2.1.0&w=50&s=b1538755f6bb53676df32031c2a555a6"
+    }
+  },
+  {
     "hour": "02:00",
     "date": "2026-09-20",
     "link": "/matches/2398301/olympus-vs-detonate-crossfire-season-6",
@@ -677,7 +677,7 @@
   {
     "hour": "02:00",
     "date": "2026-09-20",
-    "link": "/matches/2398302/villainous-vs-overtake-s-f5-winner-crossfire-season-6",
+    "link": "/matches/2398302/villainous-vs-overtake-sector-crossfire-season-6",
     "meta": "bo3",
     "event": "CROSSFIRE Season 6",
     "team1": {
@@ -685,14 +685,14 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/fuFdDXw1AVpezZ_udti5xf.png?ixlib=java-2.1.0&w=50&s=bae5b013f982e4d4b3596a15caf03afc"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "Overtake Sector",
+      "logo": "https://img-cdn.hltv.org/teamlogo/VdRzYYxYU4tQuLTPJXud9C.png?ixlib=java-2.1.0&w=50&s=504457aaa043dea7ccd7ae30f0f270b4"
     }
   },
   {
     "hour": "02:00",
     "date": "2026-09-20",
-    "link": "/matches/2398303/marsborne-vs-iowa-stormboar-farmville-winner-crossfire-season-6",
+    "link": "/matches/2398303/marsborne-vs-iowa-stormboar-crossfire-season-6",
     "meta": "bo3",
     "event": "CROSSFIRE Season 6",
     "team1": {
@@ -700,19 +700,34 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/s1nvkP0GnHTlIHagb0vOOB.png?ixlib=java-2.1.0&w=50&s=c1ef7f949e3b96760192f1eae0b0d31a"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "Iowa Stormboar",
+      "logo": "https://img-cdn.hltv.org/teamlogo/GqURbCKlAA99-cwuL01-dV.png?ixlib=java-2.1.0&w=50&s=1bd542c87bec397fe781cc1c9246a1c9"
     }
   },
   {
     "hour": "02:00",
     "date": "2026-09-20",
-    "link": "/matches/2398304/regain-vs-nutorious-war-winner-crossfire-season-6",
+    "link": "/matches/2398304/regain-vs-without-a-roof-crossfire-season-6",
     "meta": "bo3",
     "event": "CROSSFIRE Season 6",
     "team1": {
       "name": "regain",
       "logo": "https://img-cdn.hltv.org/teamlogo/-bjzyIYz1cnZSmS-8FE2fJ.png?ixlib=java-2.1.0&w=50&s=88b7b4f31c4a03bbc2310bb4c6624f03"
+    },
+    "team2": {
+      "name": "Without a Roof",
+      "logo": "https://img-cdn.hltv.org/teamlogo/hdZG8cLvx9zT18jobxu9Ga.svg?ixlib=java-2.1.0&s=224c98691ff7f19deb17625ede478be1"
+    }
+  },
+  {
+    "hour": "02:00",
+    "date": "2026-09-20",
+    "link": "/matches/2398309/nutorious-vs-tbd-crossfire-season-6",
+    "meta": "bo3",
+    "event": "CROSSFIRE Season 6",
+    "team1": {
+      "name": "NuTorious",
+      "logo": "https://img-cdn.hltv.org/teamlogo/iR0NNyulDkSuYiGj26Q3ma.png?ixlib=java-2.1.0&w=50&s=0ceba122423414b28d4b3ee72d6eb4d5"
     },
     "team2": {
       "name": null,
@@ -732,6 +747,21 @@
     "team2": {
       "name": "Zomblers",
       "logo": "https://img-cdn.hltv.org/teamlogo/dzs1Ru_r0dAPURqi9Hldhj.png?ixlib=java-2.1.0&w=50&s=5f7336395fe481e9fea781589616b89b"
+    }
+  },
+  {
+    "hour": "02:00",
+    "date": "2026-09-20",
+    "link": "/matches/2398311/farmville-vs-tbd-crossfire-season-6",
+    "meta": "bo3",
+    "event": "CROSSFIRE Season 6",
+    "team1": {
+      "name": "FarmVille",
+      "logo": "/dynamic-svg/teamplaceholder?letter=F"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
     }
   },
   {
@@ -758,6 +788,21 @@
     "team1": {
       "name": "Wanted Goons",
       "logo": "https://img-cdn.hltv.org/teamlogo/jgXPDKxRWNP3a5qGXUSRAT.png?ixlib=java-2.1.0&w=50&s=a4b4ec6b79da5b14fd5becaff8981489"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "02:00",
+    "date": "2026-09-20",
+    "link": "/matches/2398314/f5-vs-tbd-crossfire-season-6",
+    "meta": "bo3",
+    "event": "CROSSFIRE Season 6",
+    "team1": {
+      "name": "F5",
+      "logo": "https://img-cdn.hltv.org/teamlogo/CPiWPjY-3ngmAAV0LxGvsb.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=85703a1849d02cfd66706f32bc62806a"
     },
     "team2": {
       "name": null,
