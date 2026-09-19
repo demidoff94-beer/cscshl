@@ -1,20 +1,5 @@
 [
   {
-    "hour": "02:50",
-    "date": "2026-09-19",
-    "link": "/matches/2398265/imperial-vs-bestia-circuit-x-curitiba-season-3",
-    "meta": "bo3",
-    "event": "Circuit X Curitiba Season 3",
-    "team1": {
-      "name": "Imperial",
-      "logo": "https://img-cdn.hltv.org/teamlogo/bBDk6-rND06sAzn67b5RdP.png?ixlib=java-2.1.0&w=50&s=467e31ba123f509130d647fbf1e04ef2"
-    },
-    "team2": {
-      "name": "BESTIA",
-      "logo": "https://img-cdn.hltv.org/teamlogo/Z_R5K__qrvHmPjF66iCay-.png?ixlib=java-2.1.0&w=50&s=7e2afd72c2b3cabf53244ed6bc5142e3"
-    }
-  },
-  {
     "hour": "10:00",
     "date": "2026-09-19",
     "link": "/matches/2397683/pcific-vs-ex-rustec-nodwin-clutch-series-12",
@@ -362,7 +347,7 @@
   {
     "hour": "01:45",
     "date": "2026-09-20",
-    "link": "/matches/2398339/meia-noite-vs-sementes-do-mal-quintessncia-winner-cct-2026-challengers-south-america-series-3",
+    "link": "/matches/2398339/meia-noite-vs-quintessncia-cct-2026-challengers-south-america-series-3",
     "meta": "bo3",
     "event": "CCT 2026 Challengers South America Series 3",
     "team1": {
@@ -370,8 +355,8 @@
       "logo": "/dynamic-svg/teamplaceholder?letter=M"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "QUINTESS\u00caNCIA",
+      "logo": "/dynamic-svg/teamplaceholder?letter=Q"
     }
   },
   {
