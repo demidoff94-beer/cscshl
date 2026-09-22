@@ -1,20 +1,5 @@
 [
   {
-    "hour": "03:00",
-    "date": "2026-09-22",
-    "link": "/matches/2398320/my-life-be-like-vs-addice-crossfire-season-6",
-    "meta": "bo3",
-    "event": "CROSSFIRE Season 6",
-    "team1": {
-      "name": "my life be like",
-      "logo": "/dynamic-svg/teamplaceholder?letter=m"
-    },
-    "team2": {
-      "name": "Addice",
-      "logo": "https://img-cdn.hltv.org/teamlogo/lTklQIBtWI61jIjK6lbkm2.png?ixlib=java-2.1.0&w=50&s=aa632852d7f1d79542eee1a01bbc4f49"
-    }
-  },
-  {
     "hour": "10:00",
     "date": "2026-09-22",
     "link": "/matches/2397993/illyrians-vs-unity-exort-fiesta-series-2",
@@ -1547,7 +1532,7 @@
   {
     "hour": "02:00",
     "date": "2026-09-26",
-    "link": "/matches/2398321/villainous-vs-nutorious-zomblers-winner-crossfire-season-6",
+    "link": "/matches/2398321/villainous-vs-zomblers-crossfire-season-6",
     "meta": "bo3",
     "event": "CROSSFIRE Season 6",
     "team1": {
@@ -1555,8 +1540,8 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/fuFdDXw1AVpezZ_udti5xf.png?ixlib=java-2.1.0&w=50&s=bae5b013f982e4d4b3596a15caf03afc"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "Zomblers",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dzs1Ru_r0dAPURqi9Hldhj.png?ixlib=java-2.1.0&w=50&s=5f7336395fe481e9fea781589616b89b"
     }
   },
   {
@@ -1592,7 +1577,7 @@
   {
     "hour": "02:00",
     "date": "2026-09-26",
-    "link": "/matches/2398324/iowa-stormboar-vs-addice-mlbl-winner-crossfire-season-6",
+    "link": "/matches/2398324/iowa-stormboar-vs-addice-crossfire-season-6",
     "meta": "bo3",
     "event": "CROSSFIRE Season 6",
     "team1": {
@@ -1600,8 +1585,8 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/GqURbCKlAA99-cwuL01-dV.png?ixlib=java-2.1.0&w=50&s=1bd542c87bec397fe781cc1c9246a1c9"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "Addice",
+      "logo": "https://img-cdn.hltv.org/teamlogo/lTklQIBtWI61jIjK6lbkm2.png?ixlib=java-2.1.0&w=50&s=aa632852d7f1d79542eee1a01bbc4f49"
     }
   },
   {
