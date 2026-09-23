@@ -1,140 +1,5 @@
 [
   {
-    "hour": "03:00",
-    "date": "2026-09-23",
-    "link": "/matches/2398520/lag-vs-zomblers-esl-challenger-league-season-52-north-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 North America Cup 2",
-    "team1": {
-      "name": "LAG",
-      "logo": "https://img-cdn.hltv.org/teamlogo/W30xfG1IVIUuOJnlsxtHMG.png?ixlib=java-2.1.0&w=50&s=7b86122252f70538d55be737b7e80c50"
-    },
-    "team2": {
-      "name": "Zomblers",
-      "logo": "https://img-cdn.hltv.org/teamlogo/dzs1Ru_r0dAPURqi9Hldhj.png?ixlib=java-2.1.0&w=50&s=5f7336395fe481e9fea781589616b89b"
-    }
-  },
-  {
-    "hour": "03:00",
-    "date": "2026-09-23",
-    "link": "/matches/2398521/club-333-vs-detonate-esl-challenger-league-season-52-north-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 North America Cup 2",
-    "team1": {
-      "name": "Club 333",
-      "logo": "https://img-cdn.hltv.org/teamlogo/n2rEqBYWVN6fArZgqweDLi.png?ixlib=java-2.1.0&w=50&s=ded40b68efc8b784becbec3a9a9f8cdd"
-    },
-    "team2": {
-      "name": "DETONATE",
-      "logo": "https://img-cdn.hltv.org/teamlogo/Nh2yiqeEdJmgvMYvfD78mN.png?ixlib=java-2.1.0&w=50&s=45fdbf464ca9f94014446a0e82bc81e5"
-    }
-  },
-  {
-    "hour": "03:00",
-    "date": "2026-09-23",
-    "link": "/matches/2398522/villainous-vs-new-legends-esl-challenger-league-season-52-north-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 North America Cup 2",
-    "team1": {
-      "name": "Villainous",
-      "logo": "https://img-cdn.hltv.org/teamlogo/fuFdDXw1AVpezZ_udti5xf.png?ixlib=java-2.1.0&w=50&s=bae5b013f982e4d4b3596a15caf03afc"
-    },
-    "team2": {
-      "name": "New Legends",
-      "logo": "/dynamic-svg/teamplaceholder?letter=N"
-    }
-  },
-  {
-    "hour": "03:00",
-    "date": "2026-09-23",
-    "link": "/matches/2398523/frz-vs-overtake-sector-esl-challenger-league-season-52-north-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 North America Cup 2",
-    "team1": {
-      "name": "FRZ",
-      "logo": "/dynamic-svg/teamplaceholder?letter=F"
-    },
-    "team2": {
-      "name": "Overtake Sector",
-      "logo": "https://img-cdn.hltv.org/teamlogo/VdRzYYxYU4tQuLTPJXud9C.png?ixlib=java-2.1.0&w=50&s=504457aaa043dea7ccd7ae30f0f270b4"
-    }
-  },
-  {
-    "hour": "03:00",
-    "date": "2026-09-23",
-    "link": "/matches/2398524/regain-vs-marca-registrada-esl-challenger-league-season-52-north-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 North America Cup 2",
-    "team1": {
-      "name": "regain",
-      "logo": "https://img-cdn.hltv.org/teamlogo/-bjzyIYz1cnZSmS-8FE2fJ.png?ixlib=java-2.1.0&w=50&s=88b7b4f31c4a03bbc2310bb4c6624f03"
-    },
-    "team2": {
-      "name": "Marca Registrada",
-      "logo": "https://img-cdn.hltv.org/teamlogo/qDFEMQG0cmQImNsk7Umxdx.png?ixlib=java-2.1.0&w=50&s=8a39d1ef936f0d3d9eaae04c84e83f11"
-    }
-  },
-  {
-    "hour": "03:00",
-    "date": "2026-09-23",
-    "link": "/matches/2398525/farmville-vs-nutorious-esl-challenger-league-season-52-north-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 North America Cup 2",
-    "team1": {
-      "name": "FarmVille",
-      "logo": "/dynamic-svg/teamplaceholder?letter=F"
-    },
-    "team2": {
-      "name": "NuTorious",
-      "logo": "https://img-cdn.hltv.org/teamlogo/iR0NNyulDkSuYiGj26Q3ma.png?ixlib=java-2.1.0&w=50&s=0ceba122423414b28d4b3ee72d6eb4d5"
-    }
-  },
-  {
-    "hour": "03:00",
-    "date": "2026-09-23",
-    "link": "/matches/2398526/iowa-stormboar-vs-wanted-goons-esl-challenger-league-season-52-north-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 North America Cup 2",
-    "team1": {
-      "name": "Iowa Stormboar",
-      "logo": "https://img-cdn.hltv.org/teamlogo/GqURbCKlAA99-cwuL01-dV.png?ixlib=java-2.1.0&w=50&s=1bd542c87bec397fe781cc1c9246a1c9"
-    },
-    "team2": {
-      "name": "Wanted Goons",
-      "logo": "https://img-cdn.hltv.org/teamlogo/jgXPDKxRWNP3a5qGXUSRAT.png?ixlib=java-2.1.0&w=50&s=a4b4ec6b79da5b14fd5becaff8981489"
-    }
-  },
-  {
-    "hour": "03:00",
-    "date": "2026-09-23",
-    "link": "/matches/2398527/flyquest-red-vs-marsborne-esl-challenger-league-season-52-north-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 North America Cup 2",
-    "team1": {
-      "name": "FlyQuest RED",
-      "logo": "https://img-cdn.hltv.org/teamlogo/bqRjihc2rY4j6Er94k9vaB.png?ixlib=java-2.1.0&w=50&s=74ed489e974099a3eadc7fee8f9a104d"
-    },
-    "team2": {
-      "name": "Marsborne",
-      "logo": "https://img-cdn.hltv.org/teamlogo/s1nvkP0GnHTlIHagb0vOOB.png?ixlib=java-2.1.0&w=50&s=c1ef7f949e3b96760192f1eae0b0d31a"
-    }
-  },
-  {
-    "hour": "05:00",
-    "date": "2026-09-23",
-    "link": "/matches/2398318/kodex-vs-lag-crossfire-season-6",
-    "meta": "bo3",
-    "event": "CROSSFIRE Season 6",
-    "team1": {
-      "name": "KODEX",
-      "logo": "/dynamic-svg/teamplaceholder?letter=K"
-    },
-    "team2": {
-      "name": "LAG",
-      "logo": "https://img-cdn.hltv.org/teamlogo/W30xfG1IVIUuOJnlsxtHMG.png?ixlib=java-2.1.0&w=50&s=7b86122252f70538d55be737b7e80c50"
-    }
-  },
-  {
     "hour": "10:00",
     "date": "2026-09-23",
     "link": "/matches/2397697/inox-division-vs-g2-ares-nodwin-clutch-series-12",
@@ -945,6 +810,126 @@
     }
   },
   {
+    "hour": "03:00",
+    "date": "2026-09-24",
+    "link": "/matches/2398528/lag-vs-detonate-esl-challenger-league-season-52-north-america-cup-2",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 North America Cup 2",
+    "team1": {
+      "name": "LAG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/W30xfG1IVIUuOJnlsxtHMG.png?ixlib=java-2.1.0&w=50&s=7b86122252f70538d55be737b7e80c50"
+    },
+    "team2": {
+      "name": "DETONATE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Nh2yiqeEdJmgvMYvfD78mN.png?ixlib=java-2.1.0&w=50&s=45fdbf464ca9f94014446a0e82bc81e5"
+    }
+  },
+  {
+    "hour": "03:00",
+    "date": "2026-09-24",
+    "link": "/matches/2398529/villainous-vs-overtake-sector-esl-challenger-league-season-52-north-america-cup-2",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 North America Cup 2",
+    "team1": {
+      "name": "Villainous",
+      "logo": "https://img-cdn.hltv.org/teamlogo/fuFdDXw1AVpezZ_udti5xf.png?ixlib=java-2.1.0&w=50&s=bae5b013f982e4d4b3596a15caf03afc"
+    },
+    "team2": {
+      "name": "Overtake Sector",
+      "logo": "https://img-cdn.hltv.org/teamlogo/VdRzYYxYU4tQuLTPJXud9C.png?ixlib=java-2.1.0&w=50&s=504457aaa043dea7ccd7ae30f0f270b4"
+    }
+  },
+  {
+    "hour": "03:00",
+    "date": "2026-09-24",
+    "link": "/matches/2398530/regain-vs-farmville-esl-challenger-league-season-52-north-america-cup-2",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 North America Cup 2",
+    "team1": {
+      "name": "regain",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-bjzyIYz1cnZSmS-8FE2fJ.png?ixlib=java-2.1.0&w=50&s=88b7b4f31c4a03bbc2310bb4c6624f03"
+    },
+    "team2": {
+      "name": "FarmVille",
+      "logo": "/dynamic-svg/teamplaceholder?letter=F"
+    }
+  },
+  {
+    "hour": "03:00",
+    "date": "2026-09-24",
+    "link": "/matches/2398531/marsborne-vs-iowa-stormboar-esl-challenger-league-season-52-north-america-cup-2",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 North America Cup 2",
+    "team1": {
+      "name": "Marsborne",
+      "logo": "https://img-cdn.hltv.org/teamlogo/s1nvkP0GnHTlIHagb0vOOB.png?ixlib=java-2.1.0&w=50&s=c1ef7f949e3b96760192f1eae0b0d31a"
+    },
+    "team2": {
+      "name": "Iowa Stormboar",
+      "logo": "https://img-cdn.hltv.org/teamlogo/GqURbCKlAA99-cwuL01-dV.png?ixlib=java-2.1.0&w=50&s=1bd542c87bec397fe781cc1c9246a1c9"
+    }
+  },
+  {
+    "hour": "03:00",
+    "date": "2026-09-24",
+    "link": "/matches/2398532/zomblers-vs-club-333-esl-challenger-league-season-52-north-america-cup-2",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 North America Cup 2",
+    "team1": {
+      "name": "Zomblers",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dzs1Ru_r0dAPURqi9Hldhj.png?ixlib=java-2.1.0&w=50&s=5f7336395fe481e9fea781589616b89b"
+    },
+    "team2": {
+      "name": "Club 333",
+      "logo": "https://img-cdn.hltv.org/teamlogo/n2rEqBYWVN6fArZgqweDLi.png?ixlib=java-2.1.0&w=50&s=ded40b68efc8b784becbec3a9a9f8cdd"
+    }
+  },
+  {
+    "hour": "03:00",
+    "date": "2026-09-24",
+    "link": "/matches/2398533/new-legends-vs-frz-esl-challenger-league-season-52-north-america-cup-2",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 North America Cup 2",
+    "team1": {
+      "name": "New Legends",
+      "logo": "/dynamic-svg/teamplaceholder?letter=N"
+    },
+    "team2": {
+      "name": "FRZ",
+      "logo": "/dynamic-svg/teamplaceholder?letter=F"
+    }
+  },
+  {
+    "hour": "03:00",
+    "date": "2026-09-24",
+    "link": "/matches/2398534/marca-registrada-vs-nutorious-esl-challenger-league-season-52-north-america-cup-2",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 North America Cup 2",
+    "team1": {
+      "name": "Marca Registrada",
+      "logo": "https://img-cdn.hltv.org/teamlogo/qDFEMQG0cmQImNsk7Umxdx.png?ixlib=java-2.1.0&w=50&s=8a39d1ef936f0d3d9eaae04c84e83f11"
+    },
+    "team2": {
+      "name": "NuTorious",
+      "logo": "https://img-cdn.hltv.org/teamlogo/iR0NNyulDkSuYiGj26Q3ma.png?ixlib=java-2.1.0&w=50&s=0ceba122423414b28d4b3ee72d6eb4d5"
+    }
+  },
+  {
+    "hour": "03:00",
+    "date": "2026-09-24",
+    "link": "/matches/2398535/flyquest-red-vs-wanted-goons-esl-challenger-league-season-52-north-america-cup-2",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 North America Cup 2",
+    "team1": {
+      "name": "FlyQuest RED",
+      "logo": "https://img-cdn.hltv.org/teamlogo/bqRjihc2rY4j6Er94k9vaB.png?ixlib=java-2.1.0&w=50&s=74ed489e974099a3eadc7fee8f9a104d"
+    },
+    "team2": {
+      "name": "Wanted Goons",
+      "logo": "https://img-cdn.hltv.org/teamlogo/jgXPDKxRWNP3a5qGXUSRAT.png?ixlib=java-2.1.0&w=50&s=a4b4ec6b79da5b14fd5becaff8981489"
+    }
+  },
+  {
     "hour": "10:00",
     "date": "2026-09-24",
     "link": "/matches/2398042/the-last-resort-vs-nexus-european-pro-league-series-9",
@@ -1622,7 +1607,7 @@
   {
     "hour": "02:00",
     "date": "2026-09-26",
-    "link": "/matches/2398322/detonate-vs-lag-kodex-winner-crossfire-season-6",
+    "link": "/matches/2398322/detonate-vs-lag-crossfire-season-6",
     "meta": "bo3",
     "event": "CROSSFIRE Season 6",
     "team1": {
@@ -1630,8 +1615,8 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/Nh2yiqeEdJmgvMYvfD78mN.png?ixlib=java-2.1.0&w=50&s=45fdbf464ca9f94014446a0e82bc81e5"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "LAG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/W30xfG1IVIUuOJnlsxtHMG.png?ixlib=java-2.1.0&w=50&s=7b86122252f70538d55be737b7e80c50"
     }
   },
   {
