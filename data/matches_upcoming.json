@@ -1,155 +1,5 @@
 [
   {
-    "hour": "23:00",
-    "date": "2026-09-23",
-    "link": "/matches/2398498/galorys-vs-low-cortisol-br-esl-challenger-league-season-52-south-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 South America Cup 2",
-    "team1": {
-      "name": "Galorys",
-      "logo": "https://img-cdn.hltv.org/teamlogo/GljsUhNlV1YdE2Z1ge-HzK.png?ixlib=java-2.1.0&w=50&s=fd7e8570af28b29e7dfa34eab2c506b1"
-    },
-    "team2": {
-      "name": "Low Cortisol BR",
-      "logo": "/dynamic-svg/teamplaceholder?letter=L"
-    }
-  },
-  {
-    "hour": "23:00",
-    "date": "2026-09-23",
-    "link": "/matches/2398499/metanoia-wolves-vs-keyd-stars-esl-challenger-league-season-52-south-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 South America Cup 2",
-    "team1": {
-      "name": "METANOIA Wolves",
-      "logo": "https://img-cdn.hltv.org/teamlogo/7FOPKOQYNOwBLiPAMHa0MK.png?ixlib=java-2.1.0&w=50&s=7198c881eaa4f76a7f7c5a5bda1bb284"
-    },
-    "team2": {
-      "name": "Keyd Stars",
-      "logo": "https://img-cdn.hltv.org/teamlogo/m-SA9fWSyBqRgsrDCDXCId.png?ixlib=java-2.1.0&w=50&s=5e9b55327740978fb8f425c27d2ba70a"
-    }
-  },
-  {
-    "hour": "23:00",
-    "date": "2026-09-23",
-    "link": "/matches/2398500/oddik-vs-procyon-esl-challenger-league-season-52-south-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 South America Cup 2",
-    "team1": {
-      "name": "ODDIK",
-      "logo": "https://img-cdn.hltv.org/teamlogo/vpWs2bh24DJ8mqXotmXCJM.png?ixlib=java-2.1.0&w=50&s=415cf2a5a2ef2c318943b5bc53b38681"
-    },
-    "team2": {
-      "name": "Procyon",
-      "logo": "https://img-cdn.hltv.org/teamlogo/j3cZThec5Smnc2QLlkMZjX.png?ixlib=java-2.1.0&w=50&s=b90d609f9f63e6e1dcd8ef9772e7f92a"
-    }
-  },
-  {
-    "hour": "23:00",
-    "date": "2026-09-23",
-    "link": "/matches/2398501/bounty-hunters-vs-turma-do-pagode-esl-challenger-league-season-52-south-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 South America Cup 2",
-    "team1": {
-      "name": "Bounty Hunters",
-      "logo": "https://img-cdn.hltv.org/teamlogo/gID-fM4ZxvO6B78-OIKipA.png?ixlib=java-2.1.0&w=50&s=f230dcaef9e8bda5e8be0e7daeed1c9f"
-    },
-    "team2": {
-      "name": "Turma do Pagode",
-      "logo": "https://img-cdn.hltv.org/teamlogo/pl_iLOTm1KzDRG3AAc2PZf.png?ixlib=java-2.1.0&w=50&s=03cce9ed68c407f5adcf04bdedcdc8ae"
-    }
-  },
-  {
-    "hour": "23:00",
-    "date": "2026-09-23",
-    "link": "/matches/2398502/exodia-vs-yawara-esl-challenger-league-season-52-south-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 South America Cup 2",
-    "team1": {
-      "name": "EXODIA",
-      "logo": "/dynamic-svg/teamplaceholder?letter=E"
-    },
-    "team2": {
-      "name": "Yawara",
-      "logo": "https://img-cdn.hltv.org/teamlogo/JwKJz_nvCUbB5kvZGK6Ho5.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=bb750d9f5993bd3df97cf2a05aeef701"
-    }
-  },
-  {
-    "hour": "23:00",
-    "date": "2026-09-23",
-    "link": "/matches/2398503/isurus-vs-grmio-esl-challenger-league-season-52-south-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 South America Cup 2",
-    "team1": {
-      "name": "Isurus",
-      "logo": "https://img-cdn.hltv.org/teamlogo/VjHKZDxfmmvDKnlRMmxiNY.png?ixlib=java-2.1.0&w=50&s=80581e5cabf96feca782959829a3039f"
-    },
-    "team2": {
-      "name": "Gr\u00eamio",
-      "logo": "https://img-cdn.hltv.org/teamlogo/_X9jYYKByFuVx9o4KveYnB.svg?ixlib=java-2.1.0&s=b0354212f03962da301e922ebd9401cd"
-    }
-  },
-  {
-    "hour": "23:00",
-    "date": "2026-09-23",
-    "link": "/matches/2398504/sementes-do-mal-vs-alka-esl-challenger-league-season-52-south-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 South America Cup 2",
-    "team1": {
-      "name": "Sementes do Mal",
-      "logo": "/dynamic-svg/teamplaceholder?letter=S"
-    },
-    "team2": {
-      "name": "ALKA",
-      "logo": "https://img-cdn.hltv.org/teamlogo/ZVjnHx9996Pt7TIeUzyD_9.png?ixlib=java-2.1.0&w=50&s=4f480a3245f489efeac12fd660d4e520"
-    }
-  },
-  {
-    "hour": "23:00",
-    "date": "2026-09-23",
-    "link": "/matches/2398505/damajuana-vs-meia-noite-esl-challenger-league-season-52-south-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 South America Cup 2",
-    "team1": {
-      "name": "DAMAJUANA",
-      "logo": "https://img-cdn.hltv.org/teamlogo/UkUKmLXnhRYsDg4q_q-BKJ.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=2a81de46dbb8199118cb2ed7097e1acb"
-    },
-    "team2": {
-      "name": "MEIA NOITE",
-      "logo": "/dynamic-svg/teamplaceholder?letter=M"
-    }
-  },
-  {
-    "hour": "00:00",
-    "date": "2026-09-24",
-    "link": "/matches/2398557/pain-academy-vs-sementes-do-mal-cct-2026-south-america-series-6",
-    "meta": "bo3",
-    "event": "CCT 2026 South America Series 6",
-    "team1": {
-      "name": "paiN Academy",
-      "logo": "https://img-cdn.hltv.org/teamlogo/DJqL2qlXf6Fi01v-8QxQP1.png?ixlib=java-2.1.0&w=50&s=0e2a00494324afe7b104b4c749b70697"
-    },
-    "team2": {
-      "name": "Sementes do Mal",
-      "logo": "/dynamic-svg/teamplaceholder?letter=S"
-    }
-  },
-  {
-    "hour": "01:30",
-    "date": "2026-09-24",
-    "link": "/matches/2398319/fathom-vs-f5-crossfire-season-6",
-    "meta": "bo3",
-    "event": "CROSSFIRE Season 6",
-    "team1": {
-      "name": "Fathom",
-      "logo": "https://img-cdn.hltv.org/teamlogo/nI3fW1UiYp0ZDY7jeAxrNI.png?ixlib=java-2.1.0&w=50&s=4ce016a6eb110abd3f2f04568d8b7ff8"
-    },
-    "team2": {
-      "name": "F5",
-      "logo": "https://img-cdn.hltv.org/teamlogo/CPiWPjY-3ngmAAV0LxGvsb.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=85703a1849d02cfd66706f32bc62806a"
-    }
-  },
-  {
     "hour": "03:00",
     "date": "2026-09-24",
     "link": "/matches/2398528/lag-vs-detonate-esl-challenger-league-season-52-north-america-cup-2",
@@ -242,6 +92,21 @@
   {
     "hour": "03:00",
     "date": "2026-09-24",
+    "link": "/matches/2398535/flyquest-red-vs-wanted-goons-esl-challenger-league-season-52-north-america-cup-2",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 North America Cup 2",
+    "team1": {
+      "name": "FlyQuest RED",
+      "logo": "https://img-cdn.hltv.org/teamlogo/bqRjihc2rY4j6Er94k9vaB.png?ixlib=java-2.1.0&w=50&s=74ed489e974099a3eadc7fee8f9a104d"
+    },
+    "team2": {
+      "name": "Wanted Goons",
+      "logo": "https://img-cdn.hltv.org/teamlogo/jgXPDKxRWNP3a5qGXUSRAT.png?ixlib=java-2.1.0&w=50&s=a4b4ec6b79da5b14fd5becaff8981489"
+    }
+  },
+  {
+    "hour": "03:20",
+    "date": "2026-09-24",
     "link": "/matches/2398534/marca-registrada-vs-nutorious-esl-challenger-league-season-52-north-america-cup-2",
     "meta": "bo3",
     "event": "ESL Challenger League Season 52 North America Cup 2",
@@ -255,18 +120,18 @@
     }
   },
   {
-    "hour": "03:00",
+    "hour": "10:00",
     "date": "2026-09-24",
-    "link": "/matches/2398535/flyquest-red-vs-wanted-goons-esl-challenger-league-season-52-north-america-cup-2",
+    "link": "/matches/2397841/nemiga-vs-just-players-cct-2026-europe-series-9",
     "meta": "bo3",
-    "event": "ESL Challenger League Season 52 North America Cup 2",
+    "event": "CCT 2026 Europe Series 9",
     "team1": {
-      "name": "FlyQuest RED",
-      "logo": "https://img-cdn.hltv.org/teamlogo/bqRjihc2rY4j6Er94k9vaB.png?ixlib=java-2.1.0&w=50&s=74ed489e974099a3eadc7fee8f9a104d"
+      "name": "Nemiga",
+      "logo": "https://img-cdn.hltv.org/teamlogo/6ZPCm5r3XyGByXkFGiRnLh.png?ixlib=java-2.1.0&w=50&s=daa0328ebd0143763544b564610721e9"
     },
     "team2": {
-      "name": "Wanted Goons",
-      "logo": "https://img-cdn.hltv.org/teamlogo/jgXPDKxRWNP3a5qGXUSRAT.png?ixlib=java-2.1.0&w=50&s=a4b4ec6b79da5b14fd5becaff8981489"
+      "name": "Just Players",
+      "logo": "/dynamic-svg/teamplaceholder?letter=J"
     }
   },
   {
@@ -422,6 +287,21 @@
   {
     "hour": "13:00",
     "date": "2026-09-24",
+    "link": "/matches/2397842/iberian-soul-vs-navi-junior-cct-2026-europe-series-9",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 9",
+    "team1": {
+      "name": "Iberian Soul",
+      "logo": "https://img-cdn.hltv.org/teamlogo/HD2YseMU5u5fOtLMzN4o2i.png?ixlib=java-2.1.0&w=50&s=541c2792dc12ee0ab7c589bb741feed0"
+    },
+    "team2": {
+      "name": "NAVI Junior",
+      "logo": "https://img-cdn.hltv.org/teamlogo/v6HtbTihf7xoHF1YlAkJ87.svg?ixlib=java-2.1.0&s=42241b88f4ecffaba7cf57c937236809"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-09-24",
     "link": "/matches/2398351/spirit-academy-vs-phantom-academy-cct-2026-europe-series-10-closed-qualifier",
     "meta": "bo3",
     "event": "CCT 2026 Europe Series 10 Closed Qualifier",
@@ -482,6 +362,36 @@
   {
     "hour": "15:00",
     "date": "2026-09-24",
+    "link": "/matches/2398441/lph-vs-permitta-esl-challenger-league-season-52-europe-cup-7",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 Europe Cup 7",
+    "team1": {
+      "name": "LPH",
+      "logo": "https://img-cdn.hltv.org/teamlogo/J0cvf2_BNvKf1f9c6NAY1v.png?ixlib=java-2.1.0&w=50&s=0ca957f59f3a8aa7e3404d3e5c9a76ef"
+    },
+    "team2": {
+      "name": "Permitta",
+      "logo": "https://img-cdn.hltv.org/teamlogo/vHZtmGu5T9miL5KLF_1S1e.png?ixlib=java-2.1.0&w=50&s=f5254450f4e7c2db204ff4a927a58d02"
+    }
+  },
+  {
+    "hour": "15:00",
+    "date": "2026-09-24",
+    "link": "/matches/2398442/ryvex-vs-wbt-academy-esl-challenger-league-season-52-europe-cup-7",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 Europe Cup 7",
+    "team1": {
+      "name": "Ryvex",
+      "logo": "https://img-cdn.hltv.org/teamlogo/IpkeIYuxd-poIj_0O4qThd.png?ixlib=java-2.1.0&w=50&s=4bc4cddcef9c79ffe4cba54bec72b810"
+    },
+    "team2": {
+      "name": "WBT Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/7KNFH_dHt34XK5hMxOBYZm.png?ixlib=java-2.1.0&w=50&s=ffc4e8f82ff309c53a32718a71ab389e"
+    }
+  },
+  {
+    "hour": "15:00",
+    "date": "2026-09-24",
     "link": "/matches/2398450/pain-vs-bounty-hunters-ferjee-in-house-season-2",
     "meta": "bo3",
     "event": "FERJEE In House Season 2",
@@ -497,7 +407,7 @@
   {
     "hour": "15:00",
     "date": "2026-09-24",
-    "link": "/matches/2398451/imperial-vs-galorys-yawara-winner-ferjee-in-house-season-2",
+    "link": "/matches/2398451/imperial-vs-galorys-ferjee-in-house-season-2",
     "meta": "bo3",
     "event": "FERJEE In House Season 2",
     "team1": {
@@ -505,8 +415,8 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/bBDk6-rND06sAzn67b5RdP.png?ixlib=java-2.1.0&w=50&s=467e31ba123f509130d647fbf1e04ef2"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "Galorys",
+      "logo": "https://img-cdn.hltv.org/teamlogo/GljsUhNlV1YdE2Z1ge-HzK.png?ixlib=java-2.1.0&w=50&s=fd7e8570af28b29e7dfa34eab2c506b1"
     }
   },
   {
@@ -567,6 +477,36 @@
     "team2": {
       "name": "bLight blue",
       "logo": "/dynamic-svg/teamplaceholder?letter=b"
+    }
+  },
+  {
+    "hour": "15:00",
+    "date": "2026-09-24",
+    "link": "/matches/2398558/mibr-fe-vs-damajuana-cct-2026-south-america-series-6",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 6",
+    "team1": {
+      "name": "MIBR fe",
+      "logo": "https://img-cdn.hltv.org/teamlogo/m_JQ624LNFHWiUY-25uuaE.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=6f521aaf8c039fc3f6f235a8a1b7dd40"
+    },
+    "team2": {
+      "name": "DAMAJUANA",
+      "logo": "https://img-cdn.hltv.org/teamlogo/UkUKmLXnhRYsDg4q_q-BKJ.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=2a81de46dbb8199118cb2ed7097e1acb"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-09-24",
+    "link": "/matches/2397843/ww-vs-leo-cct-2026-europe-series-9",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 9",
+    "team1": {
+      "name": "WW",
+      "logo": "https://img-cdn.hltv.org/teamlogo/eCREd3vUcWijSsxUZ7GEoW.png?ixlib=java-2.1.0&w=50&s=aeda10fd2ce9c4467e66c3c4415b8cdc"
+    },
+    "team2": {
+      "name": "Leo",
+      "logo": "https://img-cdn.hltv.org/teamlogo/8W-UeGbtwFEzEz0RiPxxLS.png?ixlib=java-2.1.0&w=50&s=8e4a2a65e1aed01c87c1f317a81366ce"
     }
   },
   {
@@ -660,6 +600,21 @@
     }
   },
   {
+    "hour": "18:00",
+    "date": "2026-09-24",
+    "link": "/matches/2398559/meia-noite-vs-zetta-cct-2026-south-america-series-6",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 6",
+    "team1": {
+      "name": "MEIA NOITE",
+      "logo": "/dynamic-svg/teamplaceholder?letter=M"
+    },
+    "team2": {
+      "name": "Zetta",
+      "logo": "https://img-cdn.hltv.org/teamlogo/tBiNrfgQd520MFoJr7_8KA.png?ixlib=java-2.1.0&w=50&s=8010403785497ba945ef28e8eef4e549"
+    }
+  },
+  {
     "hour": "18:30",
     "date": "2026-09-24",
     "link": "/matches/2398452/turma-do-pagode-vs-keyd-stars-ferjee-in-house-season-2",
@@ -677,7 +632,7 @@
   {
     "hour": "18:30",
     "date": "2026-09-24",
-    "link": "/matches/2398453/juventus-vs-galorys-yawara-loser-ferjee-in-house-season-2",
+    "link": "/matches/2398453/juventus-vs-yawara-ferjee-in-house-season-2",
     "meta": "bo3",
     "event": "FERJEE In House Season 2",
     "team1": {
@@ -685,8 +640,23 @@
       "logo": "/dynamic-svg/teamplaceholder?letter=J"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "Yawara",
+      "logo": "https://img-cdn.hltv.org/teamlogo/JwKJz_nvCUbB5kvZGK6Ho5.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=bb750d9f5993bd3df97cf2a05aeef701"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-09-24",
+    "link": "/matches/2397844/inox-division-vs-black-phoenix-cct-2026-europe-series-9",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 9",
+    "team1": {
+      "name": "INOX Division",
+      "logo": "https://img-cdn.hltv.org/teamlogo/5jcprHN8P8ylGZJxkC3ZHj.png?ixlib=java-2.1.0&w=50&s=69743986c06bd0249fb39aab058ecf88"
+    },
+    "team2": {
+      "name": "Black Phoenix",
+      "logo": "https://img-cdn.hltv.org/teamlogo/FeWUb1K1oVk3xsrzBxaEz0.png?ixlib=java-2.1.0&w=50&s=2de1dbd4da9be1c044e1608eeb34ff6c"
     }
   },
   {
@@ -747,6 +717,96 @@
     "team2": {
       "name": "Phantom",
       "logo": "https://img-cdn.hltv.org/teamlogo/DzhUnKXRRy9yV2MILp29YH.png?ixlib=java-2.1.0&w=50&s=a856dc9cf0a2e9cb79c3166059885bed"
+    }
+  },
+  {
+    "hour": "21:00",
+    "date": "2026-09-24",
+    "link": "/matches/2398560/grmio-vs-your-end-cct-2026-south-america-series-6",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 6",
+    "team1": {
+      "name": "Gr\u00eamio",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_X9jYYKByFuVx9o4KveYnB.svg?ixlib=java-2.1.0&s=b0354212f03962da301e922ebd9401cd"
+    },
+    "team2": {
+      "name": "your end",
+      "logo": "/dynamic-svg/teamplaceholder?letter=y"
+    }
+  },
+  {
+    "hour": "23:00",
+    "date": "2026-09-24",
+    "link": "/matches/2398506/yawara-vs-bounty-hunters-esl-challenger-league-season-52-south-america-cup-2",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 South America Cup 2",
+    "team1": {
+      "name": "Yawara",
+      "logo": "https://img-cdn.hltv.org/teamlogo/JwKJz_nvCUbB5kvZGK6Ho5.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=bb750d9f5993bd3df97cf2a05aeef701"
+    },
+    "team2": {
+      "name": "Bounty Hunters",
+      "logo": "https://img-cdn.hltv.org/teamlogo/gID-fM4ZxvO6B78-OIKipA.png?ixlib=java-2.1.0&w=50&s=f230dcaef9e8bda5e8be0e7daeed1c9f"
+    }
+  },
+  {
+    "hour": "23:00",
+    "date": "2026-09-24",
+    "link": "/matches/2398507/ex-oddik-vs-grmio-esl-challenger-league-season-52-south-america-cup-2",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 South America Cup 2",
+    "team1": {
+      "name": "ex-ODDIK",
+      "logo": "/dynamic-svg/teamplaceholder?letter=e"
+    },
+    "team2": {
+      "name": "Gr\u00eamio",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_X9jYYKByFuVx9o4KveYnB.svg?ixlib=java-2.1.0&s=b0354212f03962da301e922ebd9401cd"
+    }
+  },
+  {
+    "hour": "23:00",
+    "date": "2026-09-24",
+    "link": "/matches/2398508/keyd-stars-vs-sementes-do-mal-alka-winner-esl-challenger-league-season-52-south-america-cup-2",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 South America Cup 2",
+    "team1": {
+      "name": "Keyd Stars",
+      "logo": "https://img-cdn.hltv.org/teamlogo/m-SA9fWSyBqRgsrDCDXCId.png?ixlib=java-2.1.0&w=50&s=5e9b55327740978fb8f425c27d2ba70a"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "23:00",
+    "date": "2026-09-24",
+    "link": "/matches/2398509/meia-noite-vs-low-cortisol-br-esl-challenger-league-season-52-south-america-cup-2",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 South America Cup 2",
+    "team1": {
+      "name": "MEIA NOITE",
+      "logo": "/dynamic-svg/teamplaceholder?letter=M"
+    },
+    "team2": {
+      "name": "Low Cortisol BR",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-09-25",
+    "link": "/matches/2397845/walczaki-vs-ence-cct-2026-europe-series-9",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 9",
+    "team1": {
+      "name": "Walczaki",
+      "logo": "https://img-cdn.hltv.org/teamlogo/7J1EJEnAG7-_sekQrIc_8E.png?ixlib=java-2.1.0&w=50&s=8984799e60101fff9a9c9edd76cc50df"
+    },
+    "team2": {
+      "name": "ENCE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-X8NoyWC_1gYqUHvZqcpkc.svg?ixlib=java-2.1.0&s=85bb9daa6f846fa097c5942f2565fdb8"
     }
   },
   {
@@ -900,6 +960,21 @@
     }
   },
   {
+    "hour": "13:00",
+    "date": "2026-09-25",
+    "link": "/matches/2397846/butterfly-vs-quazar-cct-2026-europe-series-9",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 9",
+    "team1": {
+      "name": "Butterfly",
+      "logo": "https://img-cdn.hltv.org/teamlogo/hgDb3HGkIozP3l72DbEtpp.png?ixlib=java-2.1.0&w=50&s=fa2f5a7d8bad88a0e91b6b27c9d22a06"
+    },
+    "team2": {
+      "name": "QUAZAR",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YiIFGuv43P9_fALVOSLJHh.png?ixlib=java-2.1.0&w=50&s=fb7fb2d19c66e04b89e883b0948ca78a"
+    }
+  },
+  {
     "hour": "14:00",
     "date": "2026-09-25",
     "link": "/matches/2398094/ninjas-in-pyjamas-vs-3dmax-1win-private-club-season-1",
@@ -960,6 +1035,36 @@
     }
   },
   {
+    "hour": "15:00",
+    "date": "2026-09-25",
+    "link": "/matches/2398562/quintessncia-vs-procyon-cct-2026-south-america-series-6",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 6",
+    "team1": {
+      "name": "QUINTESS\u00caNCIA",
+      "logo": "/dynamic-svg/teamplaceholder?letter=Q"
+    },
+    "team2": {
+      "name": "Procyon",
+      "logo": "https://img-cdn.hltv.org/teamlogo/j3cZThec5Smnc2QLlkMZjX.png?ixlib=java-2.1.0&w=50&s=b90d609f9f63e6e1dcd8ef9772e7f92a"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-09-25",
+    "link": "/matches/2397847/omega-vs-ex-rustec-cct-2026-europe-series-9",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 9",
+    "team1": {
+      "name": "Omega",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Q9UB4lO8MMt_CQmtRkOKxQ.png?ixlib=java-2.1.0&w=50&s=aa17db8852f77ced212387620c9fef57"
+    },
+    "team2": {
+      "name": "ex-RUSTEC",
+      "logo": "/dynamic-svg/teamplaceholder?letter=e"
+    }
+  },
+  {
     "hour": "17:00",
     "date": "2026-09-25",
     "link": "/matches/2398095/magic-vs-eyeballers-1win-private-club-season-1",
@@ -1007,6 +1112,21 @@
   {
     "hour": "18:00",
     "date": "2026-09-25",
+    "link": "/matches/2398563/alka-vs-borracheiros-cct-2026-south-america-series-6",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 6",
+    "team1": {
+      "name": "ALKA",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ZVjnHx9996Pt7TIeUzyD_9.png?ixlib=java-2.1.0&w=50&s=4f480a3245f489efeac12fd660d4e520"
+    },
+    "team2": {
+      "name": "BORRACHEIROS",
+      "logo": "/dynamic-svg/teamplaceholder?letter=B"
+    }
+  },
+  {
+    "hour": "18:00",
+    "date": "2026-09-25",
     "link": "/matches/2398654/infinite-vs-saw-nice-try-winner-leonbet-masters-season-1",
     "meta": "bo3",
     "event": "LeonBet Masters Season 1",
@@ -1017,6 +1137,21 @@
     "team2": {
       "name": null,
       "logo": null
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-09-25",
+    "link": "/matches/2397848/state-vs-baks-cct-2026-europe-series-9",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 9",
+    "team1": {
+      "name": "STATE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/LS8KGRWQbtUTfn8nMk5UUT.png?ixlib=java-2.1.0&w=50&s=73c4422b095d7baa4873b2f6d7ef284b"
+    },
+    "team2": {
+      "name": "BAKS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/addrkF7msTiD-HdGMcCXbZ.png?ixlib=java-2.1.0&w=50&s=77c6157e0f8f6c0cc067dba37eb1110c"
     }
   },
   {
@@ -1080,6 +1215,21 @@
     }
   },
   {
+    "hour": "21:00",
+    "date": "2026-09-25",
+    "link": "/matches/2398564/mira-vs-peladona-cct-2026-south-america-series-6",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 6",
+    "team1": {
+      "name": "Mira",
+      "logo": "/dynamic-svg/teamplaceholder?letter=M"
+    },
+    "team2": {
+      "name": "Peladona",
+      "logo": "/dynamic-svg/teamplaceholder?letter=P"
+    }
+  },
+  {
     "hour": "22:00",
     "date": "2026-09-25",
     "link": "/matches/2398292/m80-vs-bestia-ibuypower-masters-fml-2026",
@@ -1107,6 +1257,51 @@
     "team2": {
       "name": "Voca",
       "logo": "https://img-cdn.hltv.org/teamlogo/1Z_CvAJE9Qb5h9WyIi1PoP.png?ixlib=java-2.1.0&w=50&s=fb5cc17a7e784c586e6adb2372583c34"
+    }
+  },
+  {
+    "hour": "23:00",
+    "date": "2026-09-25",
+    "link": "/matches/2398510/galorys-vs-metanoia-wolves-esl-challenger-league-season-52-south-america-cup-2",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 South America Cup 2",
+    "team1": {
+      "name": "Galorys",
+      "logo": "https://img-cdn.hltv.org/teamlogo/GljsUhNlV1YdE2Z1ge-HzK.png?ixlib=java-2.1.0&w=50&s=fd7e8570af28b29e7dfa34eab2c506b1"
+    },
+    "team2": {
+      "name": "METANOIA Wolves",
+      "logo": "https://img-cdn.hltv.org/teamlogo/7FOPKOQYNOwBLiPAMHa0MK.png?ixlib=java-2.1.0&w=50&s=7198c881eaa4f76a7f7c5a5bda1bb284"
+    }
+  },
+  {
+    "hour": "23:00",
+    "date": "2026-09-25",
+    "link": "/matches/2398511/procyon-vs-turma-do-pagode-esl-challenger-league-season-52-south-america-cup-2",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 South America Cup 2",
+    "team1": {
+      "name": "Procyon",
+      "logo": "https://img-cdn.hltv.org/teamlogo/j3cZThec5Smnc2QLlkMZjX.png?ixlib=java-2.1.0&w=50&s=b90d609f9f63e6e1dcd8ef9772e7f92a"
+    },
+    "team2": {
+      "name": "Turma do Pagode",
+      "logo": "https://img-cdn.hltv.org/teamlogo/pl_iLOTm1KzDRG3AAc2PZf.png?ixlib=java-2.1.0&w=50&s=03cce9ed68c407f5adcf04bdedcdc8ae"
+    }
+  },
+  {
+    "hour": "00:00",
+    "date": "2026-09-26",
+    "link": "/matches/2398565/bestia-academy-vs-sementes-do-mal-cct-2026-south-america-series-6",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 6",
+    "team1": {
+      "name": "BESTIA Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Z_R5K__qrvHmPjF66iCay-.png?ixlib=java-2.1.0&w=50&s=7e2afd72c2b3cabf53244ed6bc5142e3"
+    },
+    "team2": {
+      "name": "Sementes do Mal",
+      "logo": "/dynamic-svg/teamplaceholder?letter=S"
     }
   },
   {
