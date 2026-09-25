@@ -1,65 +1,5 @@
 [
   {
-    "hour": "03:00",
-    "date": "2026-09-25",
-    "link": "/matches/2398536/iowa-stormboar-vs-club-333-esl-challenger-league-season-52-north-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 North America Cup 2",
-    "team1": {
-      "name": "Iowa Stormboar",
-      "logo": "https://img-cdn.hltv.org/teamlogo/GqURbCKlAA99-cwuL01-dV.png?ixlib=java-2.1.0&w=50&s=1bd542c87bec397fe781cc1c9246a1c9"
-    },
-    "team2": {
-      "name": "Club 333",
-      "logo": "https://img-cdn.hltv.org/teamlogo/n2rEqBYWVN6fArZgqweDLi.png?ixlib=java-2.1.0&w=50&s=ded40b68efc8b784becbec3a9a9f8cdd"
-    }
-  },
-  {
-    "hour": "03:00",
-    "date": "2026-09-25",
-    "link": "/matches/2398537/farmville-vs-unreal-nightmare-esl-challenger-league-season-52-north-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 North America Cup 2",
-    "team1": {
-      "name": "FarmVille",
-      "logo": "/dynamic-svg/teamplaceholder?letter=F"
-    },
-    "team2": {
-      "name": "Unreal Nightmare",
-      "logo": "/dynamic-svg/teamplaceholder?letter=U"
-    }
-  },
-  {
-    "hour": "03:00",
-    "date": "2026-09-25",
-    "link": "/matches/2398538/villainous-vs-nutorious-esl-challenger-league-season-52-north-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 North America Cup 2",
-    "team1": {
-      "name": "Villainous",
-      "logo": "https://img-cdn.hltv.org/teamlogo/fuFdDXw1AVpezZ_udti5xf.png?ixlib=java-2.1.0&w=50&s=bae5b013f982e4d4b3596a15caf03afc"
-    },
-    "team2": {
-      "name": "NuTorious",
-      "logo": "https://img-cdn.hltv.org/teamlogo/iR0NNyulDkSuYiGj26Q3ma.png?ixlib=java-2.1.0&w=50&s=0ceba122423414b28d4b3ee72d6eb4d5"
-    }
-  },
-  {
-    "hour": "03:00",
-    "date": "2026-09-25",
-    "link": "/matches/2398539/wanted-goons-vs-detonate-esl-challenger-league-season-52-north-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 North America Cup 2",
-    "team1": {
-      "name": "Wanted Goons",
-      "logo": "https://img-cdn.hltv.org/teamlogo/jgXPDKxRWNP3a5qGXUSRAT.png?ixlib=java-2.1.0&w=50&s=a4b4ec6b79da5b14fd5becaff8981489"
-    },
-    "team2": {
-      "name": "DETONATE",
-      "logo": "https://img-cdn.hltv.org/teamlogo/Nh2yiqeEdJmgvMYvfD78mN.png?ixlib=java-2.1.0&w=50&s=45fdbf464ca9f94014446a0e82bc81e5"
-    }
-  },
-  {
     "hour": "10:00",
     "date": "2026-09-25",
     "link": "/matches/2397700/nemiga-vs-inox-division-nodwin-clutch-series-12",
@@ -1065,6 +1005,66 @@
     }
   },
   {
+    "hour": "02:30",
+    "date": "2026-09-26",
+    "link": "/matches/2398710/marsborne-vs-qcclan-esea-season-58-north-america-finals",
+    "meta": "bo3",
+    "event": "ESEA Season 58 North America Finals",
+    "team1": {
+      "name": "Marsborne",
+      "logo": "https://img-cdn.hltv.org/teamlogo/s1nvkP0GnHTlIHagb0vOOB.png?ixlib=java-2.1.0&w=50&s=c1ef7f949e3b96760192f1eae0b0d31a"
+    },
+    "team2": {
+      "name": "QcClan",
+      "logo": "/dynamic-svg/teamplaceholder?letter=Q"
+    }
+  },
+  {
+    "hour": "02:30",
+    "date": "2026-09-26",
+    "link": "/matches/2398711/desi-boyz-vs-without-a-roof-esea-season-58-north-america-finals",
+    "meta": "bo3",
+    "event": "ESEA Season 58 North America Finals",
+    "team1": {
+      "name": "Desi Boyz",
+      "logo": "/dynamic-svg/teamplaceholder?letter=D"
+    },
+    "team2": {
+      "name": "Without a Roof",
+      "logo": "https://img-cdn.hltv.org/teamlogo/hdZG8cLvx9zT18jobxu9Ga.svg?ixlib=java-2.1.0&s=224c98691ff7f19deb17625ede478be1"
+    }
+  },
+  {
+    "hour": "02:30",
+    "date": "2026-09-26",
+    "link": "/matches/2398712/sportsbetexpert-vs-my-life-be-like-esea-season-58-north-america-finals",
+    "meta": "bo3",
+    "event": "ESEA Season 58 North America Finals",
+    "team1": {
+      "name": "SportsBetExpert",
+      "logo": "https://img-cdn.hltv.org/teamlogo/gk75xUsUSOXNvyT0A4UBS2.png?ixlib=java-2.1.0&w=50&s=e522fb3aa5ea928b95903bcc31adc39d"
+    },
+    "team2": {
+      "name": "my life be like",
+      "logo": "/dynamic-svg/teamplaceholder?letter=m"
+    }
+  },
+  {
+    "hour": "02:30",
+    "date": "2026-09-26",
+    "link": "/matches/2398713/lag-vs-babag-esea-season-58-north-america-finals",
+    "meta": "bo3",
+    "event": "ESEA Season 58 North America Finals",
+    "team1": {
+      "name": "LAG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/W30xfG1IVIUuOJnlsxtHMG.png?ixlib=java-2.1.0&w=50&s=7b86122252f70538d55be737b7e80c50"
+    },
+    "team2": {
+      "name": "Babag",
+      "logo": "/dynamic-svg/teamplaceholder?letter=B"
+    }
+  },
+  {
     "hour": "03:00",
     "date": "2026-09-26",
     "link": "/matches/2398540/lag-vs-overtake-sector-esl-challenger-league-season-52-north-america-cup-2",
@@ -1092,6 +1092,36 @@
     "team2": {
       "name": "Marsborne",
       "logo": "https://img-cdn.hltv.org/teamlogo/s1nvkP0GnHTlIHagb0vOOB.png?ixlib=java-2.1.0&w=50&s=c1ef7f949e3b96760192f1eae0b0d31a"
+    }
+  },
+  {
+    "hour": "03:00",
+    "date": "2026-09-26",
+    "link": "/matches/2398542/iowa-stormboar-vs-farmville-esl-challenger-league-season-52-north-america-cup-2",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 North America Cup 2",
+    "team1": {
+      "name": "Iowa Stormboar",
+      "logo": "https://img-cdn.hltv.org/teamlogo/GqURbCKlAA99-cwuL01-dV.png?ixlib=java-2.1.0&w=50&s=1bd542c87bec397fe781cc1c9246a1c9"
+    },
+    "team2": {
+      "name": "FarmVille",
+      "logo": "/dynamic-svg/teamplaceholder?letter=F"
+    }
+  },
+  {
+    "hour": "03:00",
+    "date": "2026-09-26",
+    "link": "/matches/2398543/villainous-vs-detonate-esl-challenger-league-season-52-north-america-cup-2",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 North America Cup 2",
+    "team1": {
+      "name": "Villainous",
+      "logo": "https://img-cdn.hltv.org/teamlogo/fuFdDXw1AVpezZ_udti5xf.png?ixlib=java-2.1.0&w=50&s=bae5b013f982e4d4b3596a15caf03afc"
+    },
+    "team2": {
+      "name": "DETONATE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Nh2yiqeEdJmgvMYvfD78mN.png?ixlib=java-2.1.0&w=50&s=45fdbf464ca9f94014446a0e82bc81e5"
     }
   },
   {
@@ -1247,7 +1277,7 @@
   {
     "hour": "02:00",
     "date": "2026-09-29",
-    "link": "/matches/2398325/villainous-vs-detonate-lag-winner-crossfire-season-6",
+    "link": "/matches/2398325/villainous-vs-lag-crossfire-season-6",
     "meta": "bo3",
     "event": "CROSSFIRE Season 6",
     "team1": {
@@ -1255,8 +1285,8 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/fuFdDXw1AVpezZ_udti5xf.png?ixlib=java-2.1.0&w=50&s=bae5b013f982e4d4b3596a15caf03afc"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "LAG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/W30xfG1IVIUuOJnlsxtHMG.png?ixlib=java-2.1.0&w=50&s=7b86122252f70538d55be737b7e80c50"
     }
   },
   {
