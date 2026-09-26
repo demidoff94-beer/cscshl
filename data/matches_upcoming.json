@@ -1,95 +1,5 @@
 [
   {
-    "hour": "03:00",
-    "date": "2026-09-26",
-    "link": "/matches/2398540/lag-vs-overtake-sector-esl-challenger-league-season-52-north-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 North America Cup 2",
-    "team1": {
-      "name": "LAG",
-      "logo": "https://img-cdn.hltv.org/teamlogo/W30xfG1IVIUuOJnlsxtHMG.png?ixlib=java-2.1.0&w=50&s=7b86122252f70538d55be737b7e80c50"
-    },
-    "team2": {
-      "name": "Overtake Sector",
-      "logo": "https://img-cdn.hltv.org/teamlogo/VdRzYYxYU4tQuLTPJXud9C.png?ixlib=java-2.1.0&w=50&s=504457aaa043dea7ccd7ae30f0f270b4"
-    }
-  },
-  {
-    "hour": "03:00",
-    "date": "2026-09-26",
-    "link": "/matches/2398542/iowa-stormboar-vs-farmville-esl-challenger-league-season-52-north-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 North America Cup 2",
-    "team1": {
-      "name": "Iowa Stormboar",
-      "logo": "https://img-cdn.hltv.org/teamlogo/GqURbCKlAA99-cwuL01-dV.png?ixlib=java-2.1.0&w=50&s=1bd542c87bec397fe781cc1c9246a1c9"
-    },
-    "team2": {
-      "name": "FarmVille",
-      "logo": "/dynamic-svg/teamplaceholder?letter=F"
-    }
-  },
-  {
-    "hour": "03:00",
-    "date": "2026-09-26",
-    "link": "/matches/2398543/villainous-vs-detonate-esl-challenger-league-season-52-north-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 North America Cup 2",
-    "team1": {
-      "name": "Villainous",
-      "logo": "https://img-cdn.hltv.org/teamlogo/fuFdDXw1AVpezZ_udti5xf.png?ixlib=java-2.1.0&w=50&s=bae5b013f982e4d4b3596a15caf03afc"
-    },
-    "team2": {
-      "name": "DETONATE",
-      "logo": "https://img-cdn.hltv.org/teamlogo/Nh2yiqeEdJmgvMYvfD78mN.png?ixlib=java-2.1.0&w=50&s=45fdbf464ca9f94014446a0e82bc81e5"
-    }
-  },
-  {
-    "hour": "03:00",
-    "date": "2026-09-26",
-    "link": "/matches/2398712/sportsbetexpert-vs-my-life-be-like-esea-season-58-north-america-finals",
-    "meta": "bo3",
-    "event": "ESEA Season 58 North America Finals",
-    "team1": {
-      "name": "SportsBetExpert",
-      "logo": "https://img-cdn.hltv.org/teamlogo/gk75xUsUSOXNvyT0A4UBS2.png?ixlib=java-2.1.0&w=50&s=e522fb3aa5ea928b95903bcc31adc39d"
-    },
-    "team2": {
-      "name": "my life be like",
-      "logo": "/dynamic-svg/teamplaceholder?letter=m"
-    }
-  },
-  {
-    "hour": "04:00",
-    "date": "2026-09-26",
-    "link": "/matches/2398294/m80-vs-dendele-ibuypower-masters-fml-2026",
-    "meta": "bo3",
-    "event": "iBUYPOWER Masters FML 2026",
-    "team1": {
-      "name": "M80",
-      "logo": "https://img-cdn.hltv.org/teamlogo/YsaWwP_VrkbHzuhszuANEK.png?ixlib=java-2.1.0&w=50&s=47a8cff375da8242af9137a2a592b97d"
-    },
-    "team2": {
-      "name": "DENDELE",
-      "logo": "https://img-cdn.hltv.org/teamlogo/xKB2zOMgkFKoD-MLU484IV.png?ixlib=java-2.1.0&w=50&s=ca11299f789fb7c48d83130b8396af9f"
-    }
-  },
-  {
-    "hour": "04:00",
-    "date": "2026-09-26",
-    "link": "/matches/2398295/bestia-vs-voca-ibuypower-masters-fml-2026",
-    "meta": "bo3",
-    "event": "iBUYPOWER Masters FML 2026",
-    "team1": {
-      "name": "BESTIA",
-      "logo": "https://img-cdn.hltv.org/teamlogo/Z_R5K__qrvHmPjF66iCay-.png?ixlib=java-2.1.0&w=50&s=7e2afd72c2b3cabf53244ed6bc5142e3"
-    },
-    "team2": {
-      "name": "Voca",
-      "logo": "https://img-cdn.hltv.org/teamlogo/1Z_CvAJE9Qb5h9WyIi1PoP.png?ixlib=java-2.1.0&w=50&s=fb5cc17a7e784c586e6adb2372583c34"
-    }
-  },
-  {
     "hour": "10:00",
     "date": "2026-09-26",
     "link": "/matches/2397704/ww-vs-color-nodwin-clutch-series-12",
@@ -117,21 +27,6 @@
     "team2": {
       "name": "ex-RUSTEC",
       "logo": "/dynamic-svg/teamplaceholder?letter=e"
-    }
-  },
-  {
-    "hour": "10:00",
-    "date": "2026-09-26",
-    "link": "/matches/2398046/vexar-vs-bushido-wildcats-european-pro-league-series-9",
-    "meta": "bo3",
-    "event": "European Pro League Series 9",
-    "team1": {
-      "name": "Vexar",
-      "logo": "https://img-cdn.hltv.org/teamlogo/v7u9v3JqwGreMtM-WiGXxt.png?ixlib=java-2.1.0&w=50&s=3acf468d7ce482bf121eac5912c5864c"
-    },
-    "team2": {
-      "name": "Bushido Wildcats",
-      "logo": "https://img-cdn.hltv.org/teamlogo/TZknfdU8-79rJ1gw-_6qy5.png?ixlib=java-2.1.0&w=50&s=a0dc291e786acba7de26684befd56800"
     }
   },
   {
@@ -330,6 +225,36 @@
     }
   },
   {
+    "hour": "13:00",
+    "date": "2026-09-26",
+    "link": "/matches/2398800/fire-flux-vs-rounds-cct-2026-challengers-europe-series-7",
+    "meta": "bo3",
+    "event": "CCT 2026 Challengers Europe Series 7",
+    "team1": {
+      "name": "Fire Flux",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dEkPG3QFLGo6xl9DtGPsm2.png?ixlib=java-2.1.0&w=50&s=9a9c4eeb77fd921baa804a425d4e2825"
+    },
+    "team2": {
+      "name": "ROUNDS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/cPadDH7e0PYB9lswGtg-kW.png?ixlib=java-2.1.0&w=50&s=7b4a916788f23724abf71ca33d6a44e5"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-09-26",
+    "link": "/matches/2398801/spirit-academy-vs-maybe-cct-2026-challengers-europe-series-7",
+    "meta": "bo3",
+    "event": "CCT 2026 Challengers Europe Series 7",
+    "team1": {
+      "name": "Spirit Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/txUq00aBKY7O4fLVJegmi_.png?ixlib=java-2.1.0&w=50&s=0be2e166db241569e89ac4ab8f5fb9a2"
+    },
+    "team2": {
+      "name": "MAYBE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/gvXj4AGwCvP_6KEUFypEsW.png?ixlib=java-2.1.0&w=50&s=c880d5397fafc9b511969c86181eae1e"
+    }
+  },
+  {
     "hour": "13:15",
     "date": "2026-09-26",
     "link": "/matches/2398620/inner-circle-academy-vs-infurity-tipsport-open-cup-2",
@@ -465,6 +390,36 @@
     }
   },
   {
+    "hour": "15:45",
+    "date": "2026-09-26",
+    "link": "/matches/2398802/banda-chuya-vs-forze-reload-cct-2026-challengers-europe-series-7",
+    "meta": "bo3",
+    "event": "CCT 2026 Challengers Europe Series 7",
+    "team1": {
+      "name": "Banda Chuya",
+      "logo": "/dynamic-svg/teamplaceholder?letter=B"
+    },
+    "team2": {
+      "name": "FORZE Reload",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YJnWBDwmRDJ9o2uOUrhNeQ.png?ixlib=java-2.1.0&w=50&s=83f5ce35b3f98833671987bc637c74b7"
+    }
+  },
+  {
+    "hour": "15:45",
+    "date": "2026-09-26",
+    "link": "/matches/2398803/privateer-vs-mellren-cct-2026-challengers-europe-series-7",
+    "meta": "bo3",
+    "event": "CCT 2026 Challengers Europe Series 7",
+    "team1": {
+      "name": "Privateer",
+      "logo": "https://img-cdn.hltv.org/teamlogo/5rEEQEdpho_TulFdTJyglr.png?ixlib=java-2.1.0&w=50&s=a9f60d7a0724722f46c641d984ded5f6"
+    },
+    "team2": {
+      "name": "mellren",
+      "logo": "https://img-cdn.hltv.org/teamlogo/XoPLNSnX1gDDBGnI5BKYK2.png?ixlib=java-2.1.0&w=50&s=c9e8528ba9162307ea4cdeb98994b83f"
+    }
+  },
+  {
     "hour": "16:00",
     "date": "2026-09-26",
     "link": "/matches/2397706/walczaki-vs-bet-m-nodwin-clutch-series-12",
@@ -587,6 +542,21 @@
   {
     "hour": "18:00",
     "date": "2026-09-26",
+    "link": "/matches/2398567/zetta-vs-your-end-cct-2026-south-america-series-6",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 6",
+    "team1": {
+      "name": "Zetta",
+      "logo": "https://img-cdn.hltv.org/teamlogo/tBiNrfgQd520MFoJr7_8KA.png?ixlib=java-2.1.0&w=50&s=8010403785497ba945ef28e8eef4e549"
+    },
+    "team2": {
+      "name": "your end",
+      "logo": "/dynamic-svg/teamplaceholder?letter=y"
+    }
+  },
+  {
+    "hour": "18:00",
+    "date": "2026-09-26",
     "link": "/matches/2398665/saw-vs-mouz-nxt-leonbet-masters-season-1",
     "meta": "bo3",
     "event": "LeonBet Masters Season 1",
@@ -662,7 +632,7 @@
   {
     "hour": "19:00",
     "date": "2026-09-26",
-    "link": "/matches/2398291/wildcard-vs-liquid-nrg-loser-ibuypower-masters-fml-2026",
+    "link": "/matches/2398291/wildcard-vs-nrg-ibuypower-masters-fml-2026",
     "meta": "bo3",
     "event": "iBUYPOWER Masters FML 2026",
     "team1": {
@@ -670,8 +640,23 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/-46lJ-DcmPL_j_5R2WvLiS.png?ixlib=java-2.1.0&w=50&s=3bf750ca209fefcb665134fd61f43ffb"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "NRG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/SJZaPBCyZssru-pUDS3aZe.png?ixlib=java-2.1.0&w=50&s=5f4ca255d90b4ea7092882834bbf1bdc"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-09-26",
+    "link": "/matches/2398296/m80-vs-voca-ibuypower-masters-fml-2026",
+    "meta": "bo3",
+    "event": "iBUYPOWER Masters FML 2026",
+    "team1": {
+      "name": "M80",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YsaWwP_VrkbHzuhszuANEK.png?ixlib=java-2.1.0&w=50&s=47a8cff375da8242af9137a2a592b97d"
+    },
+    "team2": {
+      "name": "Voca",
+      "logo": "https://img-cdn.hltv.org/teamlogo/1Z_CvAJE9Qb5h9WyIi1PoP.png?ixlib=java-2.1.0&w=50&s=fb5cc17a7e784c586e6adb2372583c34"
     }
   },
   {
@@ -765,6 +750,21 @@
     }
   },
   {
+    "hour": "21:00",
+    "date": "2026-09-26",
+    "link": "/matches/2398568/quintessncia-vs-meia-noite-cct-2026-south-america-series-6",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 6",
+    "team1": {
+      "name": "QUINTESS\u00caNCIA",
+      "logo": "/dynamic-svg/teamplaceholder?letter=Q"
+    },
+    "team2": {
+      "name": "MEIA NOITE",
+      "logo": "/dynamic-svg/teamplaceholder?letter=M"
+    }
+  },
+  {
     "hour": "23:00",
     "date": "2026-09-26",
     "link": "/matches/2398514/metanoia-wolves-vs-yawara-esl-challenger-league-season-52-south-america-cup-2",
@@ -795,6 +795,21 @@
     }
   },
   {
+    "hour": "00:00",
+    "date": "2026-09-27",
+    "link": "/matches/2398569/grmio-vs-peladona-cct-2026-south-america-series-6",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 6",
+    "team1": {
+      "name": "Gr\u00eamio",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_X9jYYKByFuVx9o4KveYnB.svg?ixlib=java-2.1.0&s=b0354212f03962da301e922ebd9401cd"
+    },
+    "team2": {
+      "name": "Peladona",
+      "logo": "/dynamic-svg/teamplaceholder?letter=P"
+    }
+  },
+  {
     "hour": "02:00",
     "date": "2026-09-27",
     "link": "/matches/2398305/olympus-vs-overtake-sector-crossfire-season-6",
@@ -812,7 +827,22 @@
   {
     "hour": "02:30",
     "date": "2026-09-27",
-    "link": "/matches/2398715/lag-vs-sbe-my-life-be-like-winner-esea-season-58-north-america-finals",
+    "link": "/matches/2398714/marsborne-vs-without-a-roof-esea-season-58-north-america-finals",
+    "meta": "bo3",
+    "event": "ESEA Season 58 North America Finals",
+    "team1": {
+      "name": "Marsborne",
+      "logo": "https://img-cdn.hltv.org/teamlogo/s1nvkP0GnHTlIHagb0vOOB.png?ixlib=java-2.1.0&w=50&s=c1ef7f949e3b96760192f1eae0b0d31a"
+    },
+    "team2": {
+      "name": "Without a Roof",
+      "logo": "https://img-cdn.hltv.org/teamlogo/hdZG8cLvx9zT18jobxu9Ga.svg?ixlib=java-2.1.0&s=224c98691ff7f19deb17625ede478be1"
+    }
+  },
+  {
+    "hour": "02:30",
+    "date": "2026-09-27",
+    "link": "/matches/2398715/lag-vs-sportsbetexpert-esea-season-58-north-america-finals",
     "meta": "bo3",
     "event": "ESEA Season 58 North America Finals",
     "team1": {
@@ -820,14 +850,29 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/W30xfG1IVIUuOJnlsxtHMG.png?ixlib=java-2.1.0&w=50&s=7b86122252f70538d55be737b7e80c50"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "SportsBetExpert",
+      "logo": "https://img-cdn.hltv.org/teamlogo/gk75xUsUSOXNvyT0A4UBS2.png?ixlib=java-2.1.0&w=50&s=e522fb3aa5ea928b95903bcc31adc39d"
     }
   },
   {
     "hour": "03:00",
     "date": "2026-09-27",
-    "link": "/matches/2398545/marsborne-vs-villainous-detonate-winner-esl-challenger-league-season-52-north-america-cup-2",
+    "link": "/matches/2398544/overtake-sector-vs-farmville-esl-challenger-league-season-52-north-america-cup-2",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 North America Cup 2",
+    "team1": {
+      "name": "Overtake Sector",
+      "logo": "https://img-cdn.hltv.org/teamlogo/VdRzYYxYU4tQuLTPJXud9C.png?ixlib=java-2.1.0&w=50&s=504457aaa043dea7ccd7ae30f0f270b4"
+    },
+    "team2": {
+      "name": "FarmVille",
+      "logo": "/dynamic-svg/teamplaceholder?letter=F"
+    }
+  },
+  {
+    "hour": "03:00",
+    "date": "2026-09-27",
+    "link": "/matches/2398545/marsborne-vs-detonate-esl-challenger-league-season-52-north-america-cup-2",
     "meta": "bo3",
     "event": "ESL Challenger League Season 52 North America Cup 2",
     "team1": {
@@ -835,8 +880,8 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/s1nvkP0GnHTlIHagb0vOOB.png?ixlib=java-2.1.0&w=50&s=c1ef7f949e3b96760192f1eae0b0d31a"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "DETONATE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Nh2yiqeEdJmgvMYvfD78mN.png?ixlib=java-2.1.0&w=50&s=45fdbf464ca9f94014446a0e82bc81e5"
     }
   },
   {
@@ -870,6 +915,81 @@
     }
   },
   {
+    "hour": "15:00",
+    "date": "2026-09-27",
+    "link": "/matches/2398570/borracheiros-vs-sementes-do-mal-cct-2026-south-america-series-6",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 6",
+    "team1": {
+      "name": "BORRACHEIROS",
+      "logo": "/dynamic-svg/teamplaceholder?letter=B"
+    },
+    "team2": {
+      "name": "Sementes do Mal",
+      "logo": "/dynamic-svg/teamplaceholder?letter=S"
+    }
+  },
+  {
+    "hour": "15:45",
+    "date": "2026-09-27",
+    "link": "/matches/2398804/phantom-academy-vs-illyrians-cct-2026-challengers-europe-series-7",
+    "meta": "bo3",
+    "event": "CCT 2026 Challengers Europe Series 7",
+    "team1": {
+      "name": "Phantom Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/1-ndJrd3Y-vYo3AYM1HywD.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=1c3d4a2021cea1c8a6d2384310747363"
+    },
+    "team2": {
+      "name": "Illyrians",
+      "logo": "https://img-cdn.hltv.org/teamlogo/cCPQDYWgTSfZKfjVvVLMoy.png?ixlib=java-2.1.0&w=50&s=7013d02394a2fc3236a41f19869f5b36"
+    }
+  },
+  {
+    "hour": "15:45",
+    "date": "2026-09-27",
+    "link": "/matches/2398805/mai-tai-vs-big-academy-cct-2026-challengers-europe-series-7",
+    "meta": "bo3",
+    "event": "CCT 2026 Challengers Europe Series 7",
+    "team1": {
+      "name": "Mai Tai",
+      "logo": "/dynamic-svg/teamplaceholder?letter=M"
+    },
+    "team2": {
+      "name": "BIG Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/jn7TgPjiSMAbYk0jeHNMqq.png?ixlib=java-2.1.0&w=50&s=c2bb5f09f9a0823fbd63e3def8dcfe11"
+    }
+  },
+  {
+    "hour": "18:00",
+    "date": "2026-09-27",
+    "link": "/matches/2398571/metanoia-wolves-vs-mibr-fe-cct-2026-south-america-series-6",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 6",
+    "team1": {
+      "name": "METANOIA Wolves",
+      "logo": "https://img-cdn.hltv.org/teamlogo/7FOPKOQYNOwBLiPAMHa0MK.png?ixlib=java-2.1.0&w=50&s=7198c881eaa4f76a7f7c5a5bda1bb284"
+    },
+    "team2": {
+      "name": "MIBR fe",
+      "logo": "https://img-cdn.hltv.org/teamlogo/m_JQ624LNFHWiUY-25uuaE.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=6f521aaf8c039fc3f6f235a8a1b7dd40"
+    }
+  },
+  {
+    "hour": "21:00",
+    "date": "2026-09-27",
+    "link": "/matches/2398572/bestia-academy-vs-procyon-cct-2026-south-america-series-6",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 6",
+    "team1": {
+      "name": "BESTIA Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Z_R5K__qrvHmPjF66iCay-.png?ixlib=java-2.1.0&w=50&s=7e2afd72c2b3cabf53244ed6bc5142e3"
+    },
+    "team2": {
+      "name": "Procyon",
+      "logo": "https://img-cdn.hltv.org/teamlogo/j3cZThec5Smnc2QLlkMZjX.png?ixlib=java-2.1.0&w=50&s=b90d609f9f63e6e1dcd8ef9772e7f92a"
+    }
+  },
+  {
     "hour": "23:00",
     "date": "2026-09-27",
     "link": "/matches/2398516/galorys-vs-procyon-esl-challenger-league-season-52-south-america-cup-2",
@@ -885,9 +1005,24 @@
     }
   },
   {
+    "hour": "00:00",
+    "date": "2026-09-28",
+    "link": "/matches/2398573/alka-vs-mira-cct-2026-south-america-series-6",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 6",
+    "team1": {
+      "name": "ALKA",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ZVjnHx9996Pt7TIeUzyD_9.png?ixlib=java-2.1.0&w=50&s=4f480a3245f489efeac12fd660d4e520"
+    },
+    "team2": {
+      "name": "Mira",
+      "logo": "/dynamic-svg/teamplaceholder?letter=M"
+    }
+  },
+  {
     "hour": "03:00",
     "date": "2026-09-28",
-    "link": "/matches/2398546/regain-vs-lag-overtake-sector-winner-esl-challenger-league-season-52-north-america-cup-2",
+    "link": "/matches/2398546/regain-vs-lag-esl-challenger-league-season-52-north-america-cup-2",
     "meta": "bo3",
     "event": "ESL Challenger League Season 52 North America Cup 2",
     "team1": {
@@ -895,8 +1030,8 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/-bjzyIYz1cnZSmS-8FE2fJ.png?ixlib=java-2.1.0&w=50&s=88b7b4f31c4a03bbc2310bb4c6624f03"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "LAG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/W30xfG1IVIUuOJnlsxtHMG.png?ixlib=java-2.1.0&w=50&s=7b86122252f70538d55be737b7e80c50"
     }
   },
   {
