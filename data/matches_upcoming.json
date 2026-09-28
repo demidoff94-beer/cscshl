@@ -1,125 +1,5 @@
 [
   {
-    "hour": "15:00",
-    "date": "2026-09-28",
-    "link": "/matches/2398488/the-huns-vs-nexvoid-esl-challenger-league-season-52-asia-pacific-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 Asia-Pacific Cup 2",
-    "team1": {
-      "name": "The Huns",
-      "logo": "https://img-cdn.hltv.org/teamlogo/VgVw2z9BmJJ2knbbyXeDfc.png?ixlib=java-2.1.0&w=50&s=c1577bd514234eb3d106357de5ea6aa4"
-    },
-    "team2": {
-      "name": "NEXVOID",
-      "logo": "https://img-cdn.hltv.org/teamlogo/zyy3eHTeRqdTqLKRIUJ9P-.png?ixlib=java-2.1.0&w=50&s=056b3b5aaa5520a3522d69954e992120"
-    }
-  },
-  {
-    "hour": "15:45",
-    "date": "2026-09-28",
-    "link": "/matches/2398834/fire-flux-vs-big-academy-cct-2026-challengers-europe-series-7",
-    "meta": "bo3",
-    "event": "CCT 2026 Challengers Europe Series 7",
-    "team1": {
-      "name": "Fire Flux",
-      "logo": "https://img-cdn.hltv.org/teamlogo/dEkPG3QFLGo6xl9DtGPsm2.png?ixlib=java-2.1.0&w=50&s=9a9c4eeb77fd921baa804a425d4e2825"
-    },
-    "team2": {
-      "name": "BIG Academy",
-      "logo": "https://img-cdn.hltv.org/teamlogo/jn7TgPjiSMAbYk0jeHNMqq.png?ixlib=java-2.1.0&w=50&s=c2bb5f09f9a0823fbd63e3def8dcfe11"
-    }
-  },
-  {
-    "hour": "15:45",
-    "date": "2026-09-28",
-    "link": "/matches/2398835/forze-reload-vs-megoshort-cct-2026-challengers-europe-series-7",
-    "meta": "bo3",
-    "event": "CCT 2026 Challengers Europe Series 7",
-    "team1": {
-      "name": "FORZE Reload",
-      "logo": "https://img-cdn.hltv.org/teamlogo/YJnWBDwmRDJ9o2uOUrhNeQ.png?ixlib=java-2.1.0&w=50&s=83f5ce35b3f98833671987bc637c74b7"
-    },
-    "team2": {
-      "name": "megoshort",
-      "logo": "https://img-cdn.hltv.org/teamlogo/KZxIFGye1KNVn7Q6Zt6hiV.png?ixlib=java-2.1.0&w=50&s=55ddac5f2aaddb4510f3dad57779c859"
-    }
-  },
-  {
-    "hour": "16:00",
-    "date": "2026-09-28",
-    "link": "/matches/2397714/bet-m-vs-nemiga-fokus-winner-nodwin-clutch-series-12",
-    "meta": "bo3",
-    "event": "NODWIN Clutch Series 12",
-    "team1": {
-      "name": "BET-M",
-      "logo": "https://img-cdn.hltv.org/teamlogo/V7kOhjpI4AiRCPnthLVvL6.png?ixlib=java-2.1.0&w=50&s=6ded0349cde3e1cc18b4b28c3d8cb91c"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
-    }
-  },
-  {
-    "hour": "16:00",
-    "date": "2026-09-28",
-    "link": "/matches/2398368/leo-vs-noir-verse-cct-2026-europe-series-10",
-    "meta": "bo3",
-    "event": "CCT 2026 Europe Series 10",
-    "team1": {
-      "name": "Leo",
-      "logo": "https://img-cdn.hltv.org/teamlogo/8W-UeGbtwFEzEz0RiPxxLS.png?ixlib=java-2.1.0&w=50&s=8e4a2a65e1aed01c87c1f317a81366ce"
-    },
-    "team2": {
-      "name": "Noir Verse",
-      "logo": "https://img-cdn.hltv.org/teamlogo/b-Io2gTRPLWPGCh3ZV8a_I.png?ixlib=java-2.1.0&w=50&s=0a149d61923d0b6f11979dddc4bdffb3"
-    }
-  },
-  {
-    "hour": "17:00",
-    "date": "2026-09-28",
-    "link": "/matches/2398245/ninjas-in-pyjamas-vs-magic-gamerlegion-winner-1win-private-club-season-1",
-    "meta": "bo5",
-    "event": "1win Private Club Season 1",
-    "team1": {
-      "name": "Ninjas in Pyjamas",
-      "logo": "https://img-cdn.hltv.org/teamlogo/-ttGATBV_P_HcZazxNNtIb.png?ixlib=java-2.1.0&w=50&s=ba94f7812d1f47183a83f3f34ab959eb"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
-    }
-  },
-  {
-    "hour": "18:00",
-    "date": "2026-09-28",
-    "link": "/matches/2398574/mibr-fe-vs-zetta-cct-2026-south-america-series-6",
-    "meta": "bo3",
-    "event": "CCT 2026 South America Series 6",
-    "team1": {
-      "name": "MIBR fe",
-      "logo": "https://img-cdn.hltv.org/teamlogo/m_JQ624LNFHWiUY-25uuaE.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=6f521aaf8c039fc3f6f235a8a1b7dd40"
-    },
-    "team2": {
-      "name": "Zetta",
-      "logo": "https://img-cdn.hltv.org/teamlogo/tBiNrfgQd520MFoJr7_8KA.png?ixlib=java-2.1.0&w=50&s=8010403785497ba945ef28e8eef4e549"
-    }
-  },
-  {
-    "hour": "19:00",
-    "date": "2026-09-28",
-    "link": "/matches/2398369/eac-vs-megoshort-cct-2026-europe-series-10",
-    "meta": "bo3",
-    "event": "CCT 2026 Europe Series 10",
-    "team1": {
-      "name": "EAC",
-      "logo": "https://img-cdn.hltv.org/teamlogo/V8KU6EhQyVGQatWSgmYj0V.png?ixlib=java-2.1.0&w=50&s=2c6d80d65e0de648c25217065446c2f9"
-    },
-    "team2": {
-      "name": "megoshort",
-      "logo": "https://img-cdn.hltv.org/teamlogo/KZxIFGye1KNVn7Q6Zt6hiV.png?ixlib=java-2.1.0&w=50&s=55ddac5f2aaddb4510f3dad57779c859"
-    }
-  },
-  {
     "hour": "21:00",
     "date": "2026-09-28",
     "link": "/matches/2398575/sementes-do-mal-vs-damajuana-cct-2026-south-america-series-6",
@@ -257,7 +137,7 @@
   {
     "hour": "10:00",
     "date": "2026-09-29",
-    "link": "/matches/2398055/bushido-wildcats-vs-nexus-mellren-loser-european-pro-league-series-9",
+    "link": "/matches/2398055/bushido-wildcats-vs-nexus-european-pro-league-series-9",
     "meta": "bo3",
     "event": "European Pro League Series 9",
     "team1": {
@@ -265,8 +145,8 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/TZknfdU8-79rJ1gw-_6qy5.png?ixlib=java-2.1.0&w=50&s=a0dc291e786acba7de26684befd56800"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "Nexus",
+      "logo": "https://img-cdn.hltv.org/teamlogo/TsvwZ9z4tVRO9Ry1jYxs_n.png?ixlib=java-2.1.0&w=50&s=ca777e2c0f8a3e0b26d0c90d98d72fbe"
     }
   },
   {
@@ -347,7 +227,7 @@
   {
     "hour": "15:00",
     "date": "2026-09-29",
-    "link": "/matches/2398489/lynn-vision-vs-the-huns-nexvoid-winner-esl-challenger-league-season-52-asia-pacific-cup-2",
+    "link": "/matches/2398489/lynn-vision-vs-nexvoid-esl-challenger-league-season-52-asia-pacific-cup-2",
     "meta": "bo3",
     "event": "ESL Challenger League Season 52 Asia-Pacific Cup 2",
     "team1": {
@@ -355,8 +235,8 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/DPcHT21uWwK1hDD_3txlL9.png?ixlib=java-2.1.0&w=50&s=4b5d5a187f00caf9bbae2d0fcbca6ff6"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "NEXVOID",
+      "logo": "https://img-cdn.hltv.org/teamlogo/zyy3eHTeRqdTqLKRIUJ9P-.png?ixlib=java-2.1.0&w=50&s=056b3b5aaa5520a3522d69954e992120"
     }
   },
   {
@@ -647,7 +527,7 @@
   {
     "hour": "10:00",
     "date": "2026-09-30",
-    "link": "/matches/2398054/leo-vs-nexus-mellren-winner-european-pro-league-series-9",
+    "link": "/matches/2398054/leo-vs-mellren-european-pro-league-series-9",
     "meta": "bo5",
     "event": "European Pro League Series 9",
     "team1": {
@@ -655,8 +535,8 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/8W-UeGbtwFEzEz0RiPxxLS.png?ixlib=java-2.1.0&w=50&s=8e4a2a65e1aed01c87c1f317a81366ce"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "mellren",
+      "logo": "https://img-cdn.hltv.org/teamlogo/XoPLNSnX1gDDBGnI5BKYK2.png?ixlib=java-2.1.0&w=50&s=c9e8528ba9162307ea4cdeb98994b83f"
     }
   },
   {
