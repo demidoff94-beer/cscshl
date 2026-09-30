@@ -1,50 +1,5 @@
 [
   {
-    "hour": "03:00",
-    "date": "2026-09-30",
-    "link": "/matches/2398549/lag-vs-marsborne-esl-challenger-league-season-52-north-america-cup-2",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 North America Cup 2",
-    "team1": {
-      "name": "LAG",
-      "logo": "https://img-cdn.hltv.org/teamlogo/W30xfG1IVIUuOJnlsxtHMG.png?ixlib=java-2.1.0&w=50&s=7b86122252f70538d55be737b7e80c50"
-    },
-    "team2": {
-      "name": "Marsborne",
-      "logo": "https://img-cdn.hltv.org/teamlogo/s1nvkP0GnHTlIHagb0vOOB.png?ixlib=java-2.1.0&w=50&s=c1ef7f949e3b96760192f1eae0b0d31a"
-    }
-  },
-  {
-    "hour": "05:00",
-    "date": "2026-09-30",
-    "link": "/matches/2398840/nexvoid-vs-space-esn-fall-showdown-2026",
-    "meta": "bo3",
-    "event": "ESN Fall Showdown 2026",
-    "team1": {
-      "name": "NEXVOID",
-      "logo": "https://img-cdn.hltv.org/teamlogo/zyy3eHTeRqdTqLKRIUJ9P-.png?ixlib=java-2.1.0&w=50&s=056b3b5aaa5520a3522d69954e992120"
-    },
-    "team2": {
-      "name": "Space",
-      "logo": "/dynamic-svg/teamplaceholder?letter=S"
-    }
-  },
-  {
-    "hour": "08:00",
-    "date": "2026-09-30",
-    "link": "/matches/2398841/chinggis-warriors-vs-100ra-esn-fall-showdown-2026",
-    "meta": "bo3",
-    "event": "ESN Fall Showdown 2026",
-    "team1": {
-      "name": "Chinggis Warriors",
-      "logo": "https://img-cdn.hltv.org/teamlogo/esvV905BqvAKUUPLq8e89T.png?ixlib=java-2.1.0&w=50&s=dd947742be3993f7b235cd1928ab078e"
-    },
-    "team2": {
-      "name": "100RA",
-      "logo": "/dynamic-svg/teamplaceholder?letter=1"
-    }
-  },
-  {
     "hour": "09:00",
     "date": "2026-09-30",
     "link": "/matches/2398768/paqt-vs-rune-eaters-1xbet-frag-season-18",
@@ -327,6 +282,21 @@
     "team2": {
       "name": "1337",
       "logo": "/dynamic-svg/teamplaceholder?letter=1"
+    }
+  },
+  {
+    "hour": "08:00",
+    "date": "2026-10-01",
+    "link": "/matches/2398848/space-vs-chinggis-w-100ra-loser-esn-fall-showdown-2026",
+    "meta": "bo3",
+    "event": "ESN Fall Showdown 2026",
+    "team1": {
+      "name": "Space",
+      "logo": "/dynamic-svg/teamplaceholder?letter=S"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
     }
   },
   {
@@ -857,12 +827,27 @@
   {
     "hour": "02:00",
     "date": "2026-10-02",
-    "link": "/matches/2398328/olympus-vs-iowa-s-war-winner-crossfire-season-6",
+    "link": "/matches/2398328/olympus-vs-without-a-roof-crossfire-season-6",
     "meta": "bo3",
     "event": "CROSSFIRE Season 6",
     "team1": {
       "name": "Olympus",
       "logo": "https://img-cdn.hltv.org/teamlogo/TZ-At5GBk5ckm6wmkjsAgQ.png?ixlib=java-2.1.0&w=50&s=800cc5c06a7e445f6ad46702b7cabd52"
+    },
+    "team2": {
+      "name": "Without a Roof",
+      "logo": "https://img-cdn.hltv.org/teamlogo/hdZG8cLvx9zT18jobxu9Ga.svg?ixlib=java-2.1.0&s=224c98691ff7f19deb17625ede478be1"
+    }
+  },
+  {
+    "hour": "05:00",
+    "date": "2026-10-02",
+    "link": "/matches/2398844/nexvoid-vs-chinggis-w-100ra-winner-esn-fall-showdown-2026",
+    "meta": "bo3",
+    "event": "ESN Fall Showdown 2026",
+    "team1": {
+      "name": "NEXVOID",
+      "logo": "https://img-cdn.hltv.org/teamlogo/zyy3eHTeRqdTqLKRIUJ9P-.png?ixlib=java-2.1.0&w=50&s=056b3b5aaa5520a3522d69954e992120"
     },
     "team2": {
       "name": null,
