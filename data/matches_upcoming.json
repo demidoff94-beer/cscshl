@@ -1,1 +1,872 @@
-[]
+[
+  {
+    "hour": "03:00",
+    "date": "2026-09-30",
+    "link": "/matches/2398549/lag-vs-marsborne-esl-challenger-league-season-52-north-america-cup-2",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 North America Cup 2",
+    "team1": {
+      "name": "LAG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/W30xfG1IVIUuOJnlsxtHMG.png?ixlib=java-2.1.0&w=50&s=7b86122252f70538d55be737b7e80c50"
+    },
+    "team2": {
+      "name": "Marsborne",
+      "logo": "https://img-cdn.hltv.org/teamlogo/s1nvkP0GnHTlIHagb0vOOB.png?ixlib=java-2.1.0&w=50&s=c1ef7f949e3b96760192f1eae0b0d31a"
+    }
+  },
+  {
+    "hour": "05:00",
+    "date": "2026-09-30",
+    "link": "/matches/2398840/nexvoid-vs-space-esn-fall-showdown-2026",
+    "meta": "bo3",
+    "event": "ESN Fall Showdown 2026",
+    "team1": {
+      "name": "NEXVOID",
+      "logo": "https://img-cdn.hltv.org/teamlogo/zyy3eHTeRqdTqLKRIUJ9P-.png?ixlib=java-2.1.0&w=50&s=056b3b5aaa5520a3522d69954e992120"
+    },
+    "team2": {
+      "name": "Space",
+      "logo": "/dynamic-svg/teamplaceholder?letter=S"
+    }
+  },
+  {
+    "hour": "08:00",
+    "date": "2026-09-30",
+    "link": "/matches/2398841/chinggis-warriors-vs-100ra-esn-fall-showdown-2026",
+    "meta": "bo3",
+    "event": "ESN Fall Showdown 2026",
+    "team1": {
+      "name": "Chinggis Warriors",
+      "logo": "https://img-cdn.hltv.org/teamlogo/esvV905BqvAKUUPLq8e89T.png?ixlib=java-2.1.0&w=50&s=dd947742be3993f7b235cd1928ab078e"
+    },
+    "team2": {
+      "name": "100RA",
+      "logo": "/dynamic-svg/teamplaceholder?letter=1"
+    }
+  },
+  {
+    "hour": "09:00",
+    "date": "2026-09-30",
+    "link": "/matches/2398768/paqt-vs-rune-eaters-1xbet-frag-season-18",
+    "meta": "bo3",
+    "event": "1xBet FRAG Season 18",
+    "team1": {
+      "name": "PAQT",
+      "logo": "/dynamic-svg/teamplaceholder?letter=P"
+    },
+    "team2": {
+      "name": "Rune Eaters",
+      "logo": "https://img-cdn.hltv.org/teamlogo/sAUU1xlaHaJ7WtXCi7SOOi.png?ixlib=java-2.1.0&w=50&s=dcdcaaca153483919e2f74f582732cbb"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-09-30",
+    "link": "/matches/2398054/leo-vs-mellren-european-pro-league-series-9",
+    "meta": "bo5",
+    "event": "European Pro League Series 9",
+    "team1": {
+      "name": "Leo",
+      "logo": "https://img-cdn.hltv.org/teamlogo/8W-UeGbtwFEzEz0RiPxxLS.png?ixlib=java-2.1.0&w=50&s=8e4a2a65e1aed01c87c1f317a81366ce"
+    },
+    "team2": {
+      "name": "mellren",
+      "logo": "https://img-cdn.hltv.org/teamlogo/XoPLNSnX1gDDBGnI5BKYK2.png?ixlib=java-2.1.0&w=50&s=c9e8528ba9162307ea4cdeb98994b83f"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-09-30",
+    "link": "/matches/2398374/azuolas-vs-enjoy-cct-2026-europe-series-10",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 10",
+    "team1": {
+      "name": "Azuolas",
+      "logo": "https://img-cdn.hltv.org/teamlogo/lDm1RZz0u9tr0BPIV6YiGX.png?ixlib=java-2.1.0&w=50&s=12976fe6ec2c3e0d1bfd785fcb438307"
+    },
+    "team2": {
+      "name": "Enjoy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/FXtaA3TkcW1-BMD3B-p1E7.png?ixlib=java-2.1.0&w=50&s=4cfdf5a6feba3bc93db929052dabb544"
+    }
+  },
+  {
+    "hour": "11:00",
+    "date": "2026-09-30",
+    "link": "/matches/2398769/arcred-vs-bushido-wildcats-1xbet-frag-season-18",
+    "meta": "bo3",
+    "event": "1xBet FRAG Season 18",
+    "team1": {
+      "name": "ARCRED",
+      "logo": "https://img-cdn.hltv.org/teamlogo/FkqmKLoI7VzD95HuCu36rp.png?ixlib=java-2.1.0&w=50&s=a939e8537e182dc2a7493840443ec227"
+    },
+    "team2": {
+      "name": "Bushido Wildcats",
+      "logo": "https://img-cdn.hltv.org/teamlogo/TZknfdU8-79rJ1gw-_6qy5.png?ixlib=java-2.1.0&w=50&s=a0dc291e786acba7de26684befd56800"
+    }
+  },
+  {
+    "hour": "11:00",
+    "date": "2026-09-30",
+    "link": "/matches/2398842/5star-vs-bronuud-esn-fall-showdown-2026",
+    "meta": "bo3",
+    "event": "ESN Fall Showdown 2026",
+    "team1": {
+      "name": "5star",
+      "logo": "https://img-cdn.hltv.org/teamlogo/DxfB_DH6Hhb1l1okhNQxxu.png?ixlib=java-2.1.0&w=50&s=4b5d0620de51193343d84d5247bc3fa5"
+    },
+    "team2": {
+      "name": "BRONUUD",
+      "logo": "/dynamic-svg/teamplaceholder?letter=B"
+    }
+  },
+  {
+    "hour": "12:00",
+    "date": "2026-09-30",
+    "link": "/matches/2398820/infurity-vs-hyperspirit-urban-riga-open-season-7",
+    "meta": "bo3",
+    "event": "Urban Riga Open Season 7",
+    "team1": {
+      "name": "INFURITY",
+      "logo": "https://img-cdn.hltv.org/teamlogo/O7_8BAktLrHF0mbFRXzpHB.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=61f0d77bfb334f6e64a37ddeab895d0b"
+    },
+    "team2": {
+      "name": "HYPERSPIRIT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/MdMPxRh2SX6Y3tOWO3Ok3M.png?ixlib=java-2.1.0&w=50&s=7ab5b1a592da8b9b944a10cff37b7a99"
+    }
+  },
+  {
+    "hour": "12:00",
+    "date": "2026-09-30",
+    "link": "/matches/2398821/sangal-vs-kuusamo-urban-riga-open-season-7",
+    "meta": "bo3",
+    "event": "Urban Riga Open Season 7",
+    "team1": {
+      "name": "Sangal",
+      "logo": "https://img-cdn.hltv.org/teamlogo/zPv_FeMF8CANC10Jz32P9l.png?ixlib=java-2.1.0&w=50&s=741a13d27b484b39f24cdc76dbf80568"
+    },
+    "team2": {
+      "name": "KUUSAMO",
+      "logo": "https://img-cdn.hltv.org/teamlogo/X0Pk9NTPK0ashhsvRFIfMN.png?ixlib=java-2.1.0&w=50&s=3e794e51d67cc7c19373350f6e5d7154"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-09-30",
+    "link": "/matches/2398375/black-phoenix-vs-megoshort-cct-2026-europe-series-10",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 10",
+    "team1": {
+      "name": "Black Phoenix",
+      "logo": "https://img-cdn.hltv.org/teamlogo/FeWUb1K1oVk3xsrzBxaEz0.png?ixlib=java-2.1.0&w=50&s=2de1dbd4da9be1c044e1608eeb34ff6c"
+    },
+    "team2": {
+      "name": "megoshort",
+      "logo": "https://img-cdn.hltv.org/teamlogo/KZxIFGye1KNVn7Q6Zt6hiV.png?ixlib=java-2.1.0&w=50&s=55ddac5f2aaddb4510f3dad57779c859"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-09-30",
+    "link": "/matches/2398900/big-academy-vs-maybe-cct-2026-challengers-europe-series-7",
+    "meta": "bo3",
+    "event": "CCT 2026 Challengers Europe Series 7",
+    "team1": {
+      "name": "BIG Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/jn7TgPjiSMAbYk0jeHNMqq.png?ixlib=java-2.1.0&w=50&s=c2bb5f09f9a0823fbd63e3def8dcfe11"
+    },
+    "team2": {
+      "name": "MAYBE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/gvXj4AGwCvP_6KEUFypEsW.png?ixlib=java-2.1.0&w=50&s=c880d5397fafc9b511969c86181eae1e"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-09-30",
+    "link": "/matches/2398901/phantom-academy-vs-rounds-cct-2026-challengers-europe-series-7",
+    "meta": "bo3",
+    "event": "CCT 2026 Challengers Europe Series 7",
+    "team1": {
+      "name": "Phantom Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/1-ndJrd3Y-vYo3AYM1HywD.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=1c3d4a2021cea1c8a6d2384310747363"
+    },
+    "team2": {
+      "name": "ROUNDS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/cPadDH7e0PYB9lswGtg-kW.png?ixlib=java-2.1.0&w=50&s=7b4a916788f23724abf71ca33d6a44e5"
+    }
+  },
+  {
+    "hour": "15:00",
+    "date": "2026-09-30",
+    "link": "/matches/2398822/inner-circle-academy-vs-sangal-kuusamo-winner-urban-riga-open-season-7",
+    "meta": "bo3",
+    "event": "Urban Riga Open Season 7",
+    "team1": {
+      "name": "Inner Circle Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/OSTRarXkAV-3YTtk0Thf5N.png?ixlib=java-2.1.0&w=50&s=236205a4f2cafd4fd8943e36d037ab21"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "15:00",
+    "date": "2026-09-30",
+    "link": "/matches/2398823/ence-vs-infurity-hyperspirit-winner-urban-riga-open-season-7",
+    "meta": "bo3",
+    "event": "Urban Riga Open Season 7",
+    "team1": {
+      "name": "ENCE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-X8NoyWC_1gYqUHvZqcpkc.svg?ixlib=java-2.1.0&s=85bb9daa6f846fa097c5942f2565fdb8"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-09-30",
+    "link": "/matches/2398376/leo-vs-phantom-academy-cct-2026-europe-series-10",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 10",
+    "team1": {
+      "name": "Leo",
+      "logo": "https://img-cdn.hltv.org/teamlogo/8W-UeGbtwFEzEz0RiPxxLS.png?ixlib=java-2.1.0&w=50&s=8e4a2a65e1aed01c87c1f317a81366ce"
+    },
+    "team2": {
+      "name": "Phantom Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/1-ndJrd3Y-vYo3AYM1HywD.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=1c3d4a2021cea1c8a6d2384310747363"
+    }
+  },
+  {
+    "hour": "17:00",
+    "date": "2026-09-30",
+    "link": "/matches/2398786/k27-vs-baks-winline-mpkbk-cis-lan-season-8",
+    "meta": "bo3",
+    "event": "WINLINE MPKBK CIS LAN Season 8",
+    "team1": {
+      "name": "K27",
+      "logo": "https://img-cdn.hltv.org/teamlogo/7LmOZHYhlq-fIAm23aM2q1.png?ixlib=java-2.1.0&w=50&s=e194cf9c20b306723ae899eac0e8a356"
+    },
+    "team2": {
+      "name": "BAKS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/addrkF7msTiD-HdGMcCXbZ.png?ixlib=java-2.1.0&w=50&s=77c6157e0f8f6c0cc067dba37eb1110c"
+    }
+  },
+  {
+    "hour": "18:00",
+    "date": "2026-09-30",
+    "link": "/matches/2398580/mibr-fe-vs-sementes-do-mal-cct-2026-south-america-series-6",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 6",
+    "team1": {
+      "name": "MIBR fe",
+      "logo": "https://img-cdn.hltv.org/teamlogo/m_JQ624LNFHWiUY-25uuaE.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=6f521aaf8c039fc3f6f235a8a1b7dd40"
+    },
+    "team2": {
+      "name": "Sementes do Mal",
+      "logo": "/dynamic-svg/teamplaceholder?letter=S"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-09-30",
+    "link": "/matches/2398377/ex-rustec-vs-berg-cct-2026-europe-series-10",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 10",
+    "team1": {
+      "name": "ex-RUSTEC",
+      "logo": "/dynamic-svg/teamplaceholder?letter=e"
+    },
+    "team2": {
+      "name": "BERG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/90lCXlzTp513yANJ_DR30l.png?ixlib=java-2.1.0&w=50&s=9ce7a5cadb9b10fa875708c8f65d45d7"
+    }
+  },
+  {
+    "hour": "21:00",
+    "date": "2026-09-30",
+    "link": "/matches/2398581/grmio-vs-quintessncia-cct-2026-south-america-series-6",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 6",
+    "team1": {
+      "name": "Gr\u00eamio",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_X9jYYKByFuVx9o4KveYnB.svg?ixlib=java-2.1.0&s=b0354212f03962da301e922ebd9401cd"
+    },
+    "team2": {
+      "name": "QUINTESS\u00caNCIA",
+      "logo": "/dynamic-svg/teamplaceholder?letter=Q"
+    }
+  },
+  {
+    "hour": "00:00",
+    "date": "2026-10-01",
+    "link": "/matches/2398582/metanoia-wolves-vs-meia-noite-cct-2026-south-america-series-6",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 6",
+    "team1": {
+      "name": "METANOIA Wolves",
+      "logo": "https://img-cdn.hltv.org/teamlogo/7FOPKOQYNOwBLiPAMHa0MK.png?ixlib=java-2.1.0&w=50&s=7198c881eaa4f76a7f7c5a5bda1bb284"
+    },
+    "team2": {
+      "name": "MEIA NOITE",
+      "logo": "/dynamic-svg/teamplaceholder?letter=M"
+    }
+  },
+  {
+    "hour": "05:00",
+    "date": "2026-10-01",
+    "link": "/matches/2398843/the-huns-vs-1337-esn-fall-showdown-2026",
+    "meta": "bo3",
+    "event": "ESN Fall Showdown 2026",
+    "team1": {
+      "name": "The Huns",
+      "logo": "https://img-cdn.hltv.org/teamlogo/VgVw2z9BmJJ2knbbyXeDfc.png?ixlib=java-2.1.0&w=50&s=c1577bd514234eb3d106357de5ea6aa4"
+    },
+    "team2": {
+      "name": "1337",
+      "logo": "/dynamic-svg/teamplaceholder?letter=1"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-10-01",
+    "link": "/matches/2398378/masonic-vs-lavked-cct-2026-europe-series-10",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 10",
+    "team1": {
+      "name": "MASONIC",
+      "logo": "https://img-cdn.hltv.org/teamlogo/LXy16DLCLqmbZWSr4RxeQu.svg?ixlib=java-2.1.0&s=dcd79250b3b5e2e757a89b7c27c6770d"
+    },
+    "team2": {
+      "name": "Lavked",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-10-01",
+    "link": "/matches/2398854/aimclub-vs-abt-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "aimclub",
+      "logo": "https://img-cdn.hltv.org/teamlogo/PhNn8XgEQgZbp6ti-_IfFT.png?ixlib=java-2.1.0&w=50&s=846feccd98ac0b3b9cca3409929ed3e3"
+    },
+    "team2": {
+      "name": "ABT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/WBgoSZFZAQ2AL4CktQC6_T.png?ixlib=java-2.1.0&w=50&s=82ad192d61f042eeffe9b9fb17fb015d"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-10-01",
+    "link": "/matches/2398856/falcons-force-vs-pure-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "Falcons Force",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YfOBM0ri-zSsx9Cc8q6nz-.png?ixlib=java-2.1.0&w=50&s=458ef7af43f0a705811f82722fc58f2d"
+    },
+    "team2": {
+      "name": "PURE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Djq1hZ4t4zziK0Wij3PvHM.png?ixlib=java-2.1.0&w=50&s=e581a94987f5319a5c971bc036581c7d"
+    }
+  },
+  {
+    "hour": "11:15",
+    "date": "2026-10-01",
+    "link": "/matches/2398857/navi-junior-vs-abt-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "NAVI Junior",
+      "logo": "https://img-cdn.hltv.org/teamlogo/v6HtbTihf7xoHF1YlAkJ87.svg?ixlib=java-2.1.0&s=42241b88f4ecffaba7cf57c937236809"
+    },
+    "team2": {
+      "name": "ABT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/WBgoSZFZAQ2AL4CktQC6_T.png?ixlib=java-2.1.0&w=50&s=82ad192d61f042eeffe9b9fb17fb015d"
+    }
+  },
+  {
+    "hour": "11:15",
+    "date": "2026-10-01",
+    "link": "/matches/2398859/aimclub-vs-falcons-force-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "aimclub",
+      "logo": "https://img-cdn.hltv.org/teamlogo/PhNn8XgEQgZbp6ti-_IfFT.png?ixlib=java-2.1.0&w=50&s=846feccd98ac0b3b9cca3409929ed3e3"
+    },
+    "team2": {
+      "name": "Falcons Force",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YfOBM0ri-zSsx9Cc8q6nz-.png?ixlib=java-2.1.0&w=50&s=458ef7af43f0a705811f82722fc58f2d"
+    }
+  },
+  {
+    "hour": "12:00",
+    "date": "2026-10-01",
+    "link": "/matches/2397938/b8-vs-luminosity-stake-ranked-episode-4",
+    "meta": "bo3",
+    "event": "Stake Ranked Episode 4",
+    "team1": {
+      "name": "B8",
+      "logo": "https://img-cdn.hltv.org/teamlogo/O6nRWTCjUzBAR4pcOcrpSG.png?ixlib=java-2.1.0&w=50&s=305dde82e764725dab7e626800328137"
+    },
+    "team2": {
+      "name": "Luminosity",
+      "logo": "https://img-cdn.hltv.org/teamlogo/HRSwDY9X42P2TiJqy1oeEJ.png?ixlib=java-2.1.0&w=50&s=987bcf053f274f928cf18f57f50076a6"
+    }
+  },
+  {
+    "hour": "12:30",
+    "date": "2026-10-01",
+    "link": "/matches/2398860/abt-vs-falcons-force-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "ABT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/WBgoSZFZAQ2AL4CktQC6_T.png?ixlib=java-2.1.0&w=50&s=82ad192d61f042eeffe9b9fb17fb015d"
+    },
+    "team2": {
+      "name": "Falcons Force",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YfOBM0ri-zSsx9Cc8q6nz-.png?ixlib=java-2.1.0&w=50&s=458ef7af43f0a705811f82722fc58f2d"
+    }
+  },
+  {
+    "hour": "12:30",
+    "date": "2026-10-01",
+    "link": "/matches/2398861/navi-junior-vs-pure-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "NAVI Junior",
+      "logo": "https://img-cdn.hltv.org/teamlogo/v6HtbTihf7xoHF1YlAkJ87.svg?ixlib=java-2.1.0&s=42241b88f4ecffaba7cf57c937236809"
+    },
+    "team2": {
+      "name": "PURE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Djq1hZ4t4zziK0Wij3PvHM.png?ixlib=java-2.1.0&w=50&s=e581a94987f5319a5c971bc036581c7d"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-10-01",
+    "link": "/matches/2398379/pcific-vs-nexus-cct-2026-europe-series-10",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 10",
+    "team1": {
+      "name": "PCIFIC",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ucoaKK-PQ_3K_dboEuYnto.png?ixlib=java-2.1.0&w=50&s=9b085fc0e9f7f653b58a194aca309be9"
+    },
+    "team2": {
+      "name": "Nexus",
+      "logo": "https://img-cdn.hltv.org/teamlogo/TsvwZ9z4tVRO9Ry1jYxs_n.png?ixlib=java-2.1.0&w=50&s=ca777e2c0f8a3e0b26d0c90d98d72fbe"
+    }
+  },
+  {
+    "hour": "13:45",
+    "date": "2026-10-01",
+    "link": "/matches/2398864/navi-junior-vs-falcons-force-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "NAVI Junior",
+      "logo": "https://img-cdn.hltv.org/teamlogo/v6HtbTihf7xoHF1YlAkJ87.svg?ixlib=java-2.1.0&s=42241b88f4ecffaba7cf57c937236809"
+    },
+    "team2": {
+      "name": "Falcons Force",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YfOBM0ri-zSsx9Cc8q6nz-.png?ixlib=java-2.1.0&w=50&s=458ef7af43f0a705811f82722fc58f2d"
+    }
+  },
+  {
+    "hour": "13:45",
+    "date": "2026-10-01",
+    "link": "/matches/2398865/pure-vs-aimclub-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "PURE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Djq1hZ4t4zziK0Wij3PvHM.png?ixlib=java-2.1.0&w=50&s=e581a94987f5319a5c971bc036581c7d"
+    },
+    "team2": {
+      "name": "aimclub",
+      "logo": "https://img-cdn.hltv.org/teamlogo/PhNn8XgEQgZbp6ti-_IfFT.png?ixlib=java-2.1.0&w=50&s=846feccd98ac0b3b9cca3409929ed3e3"
+    }
+  },
+  {
+    "hour": "14:30",
+    "date": "2026-10-01",
+    "link": "/matches/2397939/big-vs-fnatic-stake-ranked-episode-4",
+    "meta": "bo3",
+    "event": "Stake Ranked Episode 4",
+    "team1": {
+      "name": "BIG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/OgMRQA35hopXA8kDwMFHIY.svg?ixlib=java-2.1.0&s=ec7bc44165c7acf4224a22a1338ab7d7"
+    },
+    "team2": {
+      "name": "fnatic",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e"
+    }
+  },
+  {
+    "hour": "15:00",
+    "date": "2026-10-01",
+    "link": "/matches/2398866/pure-vs-abt-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "PURE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Djq1hZ4t4zziK0Wij3PvHM.png?ixlib=java-2.1.0&w=50&s=e581a94987f5319a5c971bc036581c7d"
+    },
+    "team2": {
+      "name": "ABT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/WBgoSZFZAQ2AL4CktQC6_T.png?ixlib=java-2.1.0&w=50&s=82ad192d61f042eeffe9b9fb17fb015d"
+    }
+  },
+  {
+    "hour": "15:00",
+    "date": "2026-10-01",
+    "link": "/matches/2398867/navi-junior-vs-aimclub-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "NAVI Junior",
+      "logo": "https://img-cdn.hltv.org/teamlogo/v6HtbTihf7xoHF1YlAkJ87.svg?ixlib=java-2.1.0&s=42241b88f4ecffaba7cf57c937236809"
+    },
+    "team2": {
+      "name": "aimclub",
+      "logo": "https://img-cdn.hltv.org/teamlogo/PhNn8XgEQgZbp6ti-_IfFT.png?ixlib=java-2.1.0&w=50&s=846feccd98ac0b3b9cca3409929ed3e3"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-10-01",
+    "link": "/matches/2398380/butterfly-vs-noir-verse-cct-2026-europe-series-10",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 10",
+    "team1": {
+      "name": "Butterfly",
+      "logo": "https://img-cdn.hltv.org/teamlogo/hgDb3HGkIozP3l72DbEtpp.png?ixlib=java-2.1.0&w=50&s=fa2f5a7d8bad88a0e91b6b27c9d22a06"
+    },
+    "team2": {
+      "name": "Noir Verse",
+      "logo": "https://img-cdn.hltv.org/teamlogo/b-Io2gTRPLWPGCh3ZV8a_I.png?ixlib=java-2.1.0&w=50&s=0a149d61923d0b6f11979dddc4bdffb3"
+    }
+  },
+  {
+    "hour": "17:00",
+    "date": "2026-10-01",
+    "link": "/matches/2397940/astralis-vs-alliance-stake-ranked-episode-4",
+    "meta": "bo3",
+    "event": "Stake Ranked Episode 4",
+    "team1": {
+      "name": "Astralis",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067"
+    },
+    "team2": {
+      "name": "Alliance",
+      "logo": "https://img-cdn.hltv.org/teamlogo/xsWK0BtR26rN776qdnWFC1.png?ixlib=java-2.1.0&w=50&s=4aaf659c3855ebf08c78c157a0653352"
+    }
+  },
+  {
+    "hour": "17:00",
+    "date": "2026-10-01",
+    "link": "/matches/2398869/saw-vs-nt-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "SAW",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9vOlYp2U_z0vXPb9aLK-4r.png?ixlib=java-2.1.0&w=50&s=22abd048c4d198e504696f27e8ff68d1"
+    },
+    "team2": {
+      "name": "NT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/jYTlrh5Dt5JG1YcDk4JmLq.png?ixlib=java-2.1.0&w=50&s=6b3e5ef356b375b5d4db309fc9812d8f"
+    }
+  },
+  {
+    "hour": "17:00",
+    "date": "2026-10-01",
+    "link": "/matches/2398870/sinqu-vs-famalico-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "SINQU",
+      "logo": "https://img-cdn.hltv.org/teamlogo/HCDj_182RlDUnkq7I4w5pv.png?ixlib=java-2.1.0&w=50&s=12ab1a7214643f8b4cdb053b5bb5e263"
+    },
+    "team2": {
+      "name": "Famalic\u00e3o",
+      "logo": "https://img-cdn.hltv.org/teamlogo/nik7FOYWN7wLBcHyGlGqp5.png?ixlib=java-2.1.0&w=50&s=104dbf32c6f12fd06749ad34cbb2cd52"
+    }
+  },
+  {
+    "hour": "17:00",
+    "date": "2026-10-01",
+    "link": "/matches/2398871/lazer-cats-vs-flamehard-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "Lazer Cats",
+      "logo": "https://img-cdn.hltv.org/teamlogo/WldQs3KiJJFmGzdeOdibuw.png?ixlib=java-2.1.0&w=50&s=995bcbd5b240788cce88d211d26a47b1"
+    },
+    "team2": {
+      "name": "FlameHard",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-wY7IV-6dOitQa7LRJtVBx.png?ixlib=java-2.1.0&w=50&s=ff9e4389e62daf51ef1da05b4391c185"
+    }
+  },
+  {
+    "hour": "18:15",
+    "date": "2026-10-01",
+    "link": "/matches/2398872/sinqu-vs-saw-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "SINQU",
+      "logo": "https://img-cdn.hltv.org/teamlogo/HCDj_182RlDUnkq7I4w5pv.png?ixlib=java-2.1.0&w=50&s=12ab1a7214643f8b4cdb053b5bb5e263"
+    },
+    "team2": {
+      "name": "SAW",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9vOlYp2U_z0vXPb9aLK-4r.png?ixlib=java-2.1.0&w=50&s=22abd048c4d198e504696f27e8ff68d1"
+    }
+  },
+  {
+    "hour": "18:15",
+    "date": "2026-10-01",
+    "link": "/matches/2398873/lazer-cats-vs-famalico-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "Lazer Cats",
+      "logo": "https://img-cdn.hltv.org/teamlogo/WldQs3KiJJFmGzdeOdibuw.png?ixlib=java-2.1.0&w=50&s=995bcbd5b240788cce88d211d26a47b1"
+    },
+    "team2": {
+      "name": "Famalic\u00e3o",
+      "logo": "https://img-cdn.hltv.org/teamlogo/nik7FOYWN7wLBcHyGlGqp5.png?ixlib=java-2.1.0&w=50&s=104dbf32c6f12fd06749ad34cbb2cd52"
+    }
+  },
+  {
+    "hour": "18:15",
+    "date": "2026-10-01",
+    "link": "/matches/2398874/flamehard-vs-nt-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "FlameHard",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-wY7IV-6dOitQa7LRJtVBx.png?ixlib=java-2.1.0&w=50&s=ff9e4389e62daf51ef1da05b4391c185"
+    },
+    "team2": {
+      "name": "NT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/jYTlrh5Dt5JG1YcDk4JmLq.png?ixlib=java-2.1.0&w=50&s=6b3e5ef356b375b5d4db309fc9812d8f"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-10-01",
+    "link": "/matches/2398381/eac-vs-ex-zero-tenacity-cct-2026-europe-series-10",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 10",
+    "team1": {
+      "name": "EAC",
+      "logo": "https://img-cdn.hltv.org/teamlogo/V8KU6EhQyVGQatWSgmYj0V.png?ixlib=java-2.1.0&w=50&s=2c6d80d65e0de648c25217065446c2f9"
+    },
+    "team2": {
+      "name": "ex-Zero Tenacity",
+      "logo": "/dynamic-svg/teamplaceholder?letter=e"
+    }
+  },
+  {
+    "hour": "19:30",
+    "date": "2026-10-01",
+    "link": "/matches/2397941/faze-vs-nemiga-stake-ranked-episode-4",
+    "meta": "bo3",
+    "event": "Stake Ranked Episode 4",
+    "team1": {
+      "name": "FaZe",
+      "logo": "https://img-cdn.hltv.org/teamlogo/OKLwq88GXjl5GQ48Y5SrvW.png?ixlib=java-2.1.0&w=50&s=0a0d65eeb1b0e82ada20c42c038552fa"
+    },
+    "team2": {
+      "name": "Nemiga",
+      "logo": "https://img-cdn.hltv.org/teamlogo/6ZPCm5r3XyGByXkFGiRnLh.png?ixlib=java-2.1.0&w=50&s=daa0328ebd0143763544b564610721e9"
+    }
+  },
+  {
+    "hour": "19:30",
+    "date": "2026-10-01",
+    "link": "/matches/2398875/famalico-vs-saw-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "Famalic\u00e3o",
+      "logo": "https://img-cdn.hltv.org/teamlogo/nik7FOYWN7wLBcHyGlGqp5.png?ixlib=java-2.1.0&w=50&s=104dbf32c6f12fd06749ad34cbb2cd52"
+    },
+    "team2": {
+      "name": "SAW",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9vOlYp2U_z0vXPb9aLK-4r.png?ixlib=java-2.1.0&w=50&s=22abd048c4d198e504696f27e8ff68d1"
+    }
+  },
+  {
+    "hour": "19:30",
+    "date": "2026-10-01",
+    "link": "/matches/2398876/lazer-cats-vs-nt-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "Lazer Cats",
+      "logo": "https://img-cdn.hltv.org/teamlogo/WldQs3KiJJFmGzdeOdibuw.png?ixlib=java-2.1.0&w=50&s=995bcbd5b240788cce88d211d26a47b1"
+    },
+    "team2": {
+      "name": "NT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/jYTlrh5Dt5JG1YcDk4JmLq.png?ixlib=java-2.1.0&w=50&s=6b3e5ef356b375b5d4db309fc9812d8f"
+    }
+  },
+  {
+    "hour": "19:30",
+    "date": "2026-10-01",
+    "link": "/matches/2398877/flamehard-vs-sinqu-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "FlameHard",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-wY7IV-6dOitQa7LRJtVBx.png?ixlib=java-2.1.0&w=50&s=ff9e4389e62daf51ef1da05b4391c185"
+    },
+    "team2": {
+      "name": "SINQU",
+      "logo": "https://img-cdn.hltv.org/teamlogo/HCDj_182RlDUnkq7I4w5pv.png?ixlib=java-2.1.0&w=50&s=12ab1a7214643f8b4cdb053b5bb5e263"
+    }
+  },
+  {
+    "hour": "20:45",
+    "date": "2026-10-01",
+    "link": "/matches/2398878/lazer-cats-vs-saw-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "Lazer Cats",
+      "logo": "https://img-cdn.hltv.org/teamlogo/WldQs3KiJJFmGzdeOdibuw.png?ixlib=java-2.1.0&w=50&s=995bcbd5b240788cce88d211d26a47b1"
+    },
+    "team2": {
+      "name": "SAW",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9vOlYp2U_z0vXPb9aLK-4r.png?ixlib=java-2.1.0&w=50&s=22abd048c4d198e504696f27e8ff68d1"
+    }
+  },
+  {
+    "hour": "20:45",
+    "date": "2026-10-01",
+    "link": "/matches/2398879/nt-vs-sinqu-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "NT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/jYTlrh5Dt5JG1YcDk4JmLq.png?ixlib=java-2.1.0&w=50&s=6b3e5ef356b375b5d4db309fc9812d8f"
+    },
+    "team2": {
+      "name": "SINQU",
+      "logo": "https://img-cdn.hltv.org/teamlogo/HCDj_182RlDUnkq7I4w5pv.png?ixlib=java-2.1.0&w=50&s=12ab1a7214643f8b4cdb053b5bb5e263"
+    }
+  },
+  {
+    "hour": "20:45",
+    "date": "2026-10-01",
+    "link": "/matches/2398880/famalico-vs-flamehard-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "Famalic\u00e3o",
+      "logo": "https://img-cdn.hltv.org/teamlogo/nik7FOYWN7wLBcHyGlGqp5.png?ixlib=java-2.1.0&w=50&s=104dbf32c6f12fd06749ad34cbb2cd52"
+    },
+    "team2": {
+      "name": "FlameHard",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-wY7IV-6dOitQa7LRJtVBx.png?ixlib=java-2.1.0&w=50&s=ff9e4389e62daf51ef1da05b4391c185"
+    }
+  },
+  {
+    "hour": "22:00",
+    "date": "2026-10-01",
+    "link": "/matches/2398881/nt-vs-famalico-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "NT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/jYTlrh5Dt5JG1YcDk4JmLq.png?ixlib=java-2.1.0&w=50&s=6b3e5ef356b375b5d4db309fc9812d8f"
+    },
+    "team2": {
+      "name": "Famalic\u00e3o",
+      "logo": "https://img-cdn.hltv.org/teamlogo/nik7FOYWN7wLBcHyGlGqp5.png?ixlib=java-2.1.0&w=50&s=104dbf32c6f12fd06749ad34cbb2cd52"
+    }
+  },
+  {
+    "hour": "22:00",
+    "date": "2026-10-01",
+    "link": "/matches/2398882/saw-vs-flamehard-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "SAW",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9vOlYp2U_z0vXPb9aLK-4r.png?ixlib=java-2.1.0&w=50&s=22abd048c4d198e504696f27e8ff68d1"
+    },
+    "team2": {
+      "name": "FlameHard",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-wY7IV-6dOitQa7LRJtVBx.png?ixlib=java-2.1.0&w=50&s=ff9e4389e62daf51ef1da05b4391c185"
+    }
+  },
+  {
+    "hour": "22:00",
+    "date": "2026-10-01",
+    "link": "/matches/2398883/lazer-cats-vs-sinqu-fox-legacy-season-1",
+    "meta": "bo1",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "Lazer Cats",
+      "logo": "https://img-cdn.hltv.org/teamlogo/WldQs3KiJJFmGzdeOdibuw.png?ixlib=java-2.1.0&w=50&s=995bcbd5b240788cce88d211d26a47b1"
+    },
+    "team2": {
+      "name": "SINQU",
+      "logo": "https://img-cdn.hltv.org/teamlogo/HCDj_182RlDUnkq7I4w5pv.png?ixlib=java-2.1.0&w=50&s=12ab1a7214643f8b4cdb053b5bb5e263"
+    }
+  },
+  {
+    "hour": "02:00",
+    "date": "2026-10-02",
+    "link": "/matches/2398307/marsborne-vs-overtake-sector-crossfire-season-6",
+    "meta": "bo3",
+    "event": "CROSSFIRE Season 6",
+    "team1": {
+      "name": "Marsborne",
+      "logo": "https://img-cdn.hltv.org/teamlogo/s1nvkP0GnHTlIHagb0vOOB.png?ixlib=java-2.1.0&w=50&s=c1ef7f949e3b96760192f1eae0b0d31a"
+    },
+    "team2": {
+      "name": "Overtake Sector",
+      "logo": "https://img-cdn.hltv.org/teamlogo/VdRzYYxYU4tQuLTPJXud9C.png?ixlib=java-2.1.0&w=50&s=504457aaa043dea7ccd7ae30f0f270b4"
+    }
+  },
+  {
+    "hour": "02:00",
+    "date": "2026-10-02",
+    "link": "/matches/2398327/regain-vs-lag-crossfire-season-6",
+    "meta": "bo3",
+    "event": "CROSSFIRE Season 6",
+    "team1": {
+      "name": "regain",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-bjzyIYz1cnZSmS-8FE2fJ.png?ixlib=java-2.1.0&w=50&s=88b7b4f31c4a03bbc2310bb4c6624f03"
+    },
+    "team2": {
+      "name": "LAG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/W30xfG1IVIUuOJnlsxtHMG.png?ixlib=java-2.1.0&w=50&s=7b86122252f70538d55be737b7e80c50"
+    }
+  },
+  {
+    "hour": "02:00",
+    "date": "2026-10-02",
+    "link": "/matches/2398328/olympus-vs-iowa-s-war-winner-crossfire-season-6",
+    "meta": "bo3",
+    "event": "CROSSFIRE Season 6",
+    "team1": {
+      "name": "Olympus",
+      "logo": "https://img-cdn.hltv.org/teamlogo/TZ-At5GBk5ckm6wmkjsAgQ.png?ixlib=java-2.1.0&w=50&s=800cc5c06a7e445f6ad46702b7cabd52"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  }
+]
