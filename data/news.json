@@ -1,51 +1,72 @@
 [
   {
+    "title": "HEROIC bench doto ",
+    "img": "/img/static/flags/30x20/FI.gif",
+    "date": "2026-10-01",
+    "comments": "40 comments",
+    "link": "/news/45601/heroic-bench-doto"
+  },
+  {
+    "title": "Short news: Week 39 ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-10-01",
+    "comments": "140 comments",
+    "link": "/news/45587/short-news-week-39"
+  },
+  {
+    "title": "Rating 3.0 receives small accuracy improvements ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-10-01",
+    "comments": "58 comments",
+    "link": "/news/45596/rating-30-receives-small-accuracy-improvements"
+  },
+  {
+    "title": "LOUD drop unannounced CS team ",
+    "img": "/img/static/flags/30x20/BR.gif",
+    "date": "2026-10-01",
+    "comments": "34 comments",
+    "link": "/news/45600/loud-drop-unannounced-cs-team"
+  },
+  {
     "title": "Five VRS talking points a month before Singapore Major invites ",
     "img": "/img/static/flags/30x20/WORLD.gif",
     "date": "2026-09-30",
-    "comments": "68 comments",
+    "comments": "73 comments",
     "link": "/news/45598/five-vrs-talking-points-a-month-before-singapore-major-invites"
   },
   {
     "title": "Without a Roof officially seek roof ",
     "img": "/img/static/flags/30x20/US.gif",
     "date": "2026-09-30",
-    "comments": "173 comments",
+    "comments": "174 comments",
     "link": "/news/45597/without-a-roof-officially-seek-roof"
-  },
-  {
-    "title": "Short news: Week 39 ",
-    "img": "/img/static/flags/30x20/WORLD.gif",
-    "date": "2026-09-30",
-    "comments": "132 comments",
-    "link": "/news/45587/short-news-week-39"
   },
   {
     "title": "AwaykeN sets CS2 LAN kill record in a single map ",
     "img": "/img/static/flags/30x20/BG.gif",
     "date": "2026-09-29",
-    "comments": "74 comments",
+    "comments": "75 comments",
     "link": "/news/45595/awayken-sets-cs2-lan-kill-record-in-a-single-map"
   },
   {
     "title": "SunPayus departs G2 ",
     "img": "/img/static/flags/30x20/ES.gif",
     "date": "2026-09-29",
-    "comments": "121 comments",
+    "comments": "123 comments",
     "link": "/news/45593/sunpayus-departs-g2"
   },
   {
     "title": "Envy return to CS with ex-3DMAX roster ",
     "img": "/img/static/flags/30x20/FR.gif",
     "date": "2026-09-29",
-    "comments": "148 comments",
+    "comments": "149 comments",
     "link": "/news/45594/envy-return-to-cs-with-ex-3dmax-roster"
   },
   {
     "title": "adamb: \"I see this team as a top 10 team soon, I have no doubts about that\" ",
     "img": "/img/static/flags/30x20/SE.gif",
     "date": "2026-09-28",
-    "comments": "82 comments",
+    "comments": "85 comments",
     "link": "/news/45592/adamb-i-see-this-team-as-a-top-10-team-soon-i-have-no-doubts-about-that"
   },
   {
@@ -227,7 +248,7 @@
     "title": "Official: BC.Game add asap ",
     "img": "/img/static/flags/30x20/AU.gif",
     "date": "2026-09-22",
-    "comments": "170 comments",
+    "comments": "171 comments",
     "link": "/news/45566/official-bcgame-add-asap"
   },
   {
