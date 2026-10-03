@@ -1,50 +1,5 @@
 [
   {
-    "hour": "21:00",
-    "date": "2026-10-02",
-    "link": "/matches/2398589/isurus-vs-procyon-cct-2026-south-america-series-6",
-    "meta": "bo3",
-    "event": "CCT 2026 South America Series 6",
-    "team1": {
-      "name": "Isurus",
-      "logo": "https://img-cdn.hltv.org/teamlogo/VjHKZDxfmmvDKnlRMmxiNY.png?ixlib=java-2.1.0&w=50&s=80581e5cabf96feca782959829a3039f"
-    },
-    "team2": {
-      "name": "Procyon",
-      "logo": "https://img-cdn.hltv.org/teamlogo/j3cZThec5Smnc2QLlkMZjX.png?ixlib=java-2.1.0&w=50&s=b90d609f9f63e6e1dcd8ef9772e7f92a"
-    }
-  },
-  {
-    "hour": "00:00",
-    "date": "2026-10-03",
-    "link": "/matches/2398590/galorys-vs-grmio-cct-2026-south-america-series-6",
-    "meta": "bo3",
-    "event": "CCT 2026 South America Series 6",
-    "team1": {
-      "name": "Galorys",
-      "logo": "https://img-cdn.hltv.org/teamlogo/GljsUhNlV1YdE2Z1ge-HzK.png?ixlib=java-2.1.0&w=50&s=fd7e8570af28b29e7dfa34eab2c506b1"
-    },
-    "team2": {
-      "name": "Gr\u00eamio",
-      "logo": "https://img-cdn.hltv.org/teamlogo/_X9jYYKByFuVx9o4KveYnB.svg?ixlib=java-2.1.0&s=b0354212f03962da301e922ebd9401cd"
-    }
-  },
-  {
-    "hour": "02:00",
-    "date": "2026-10-03",
-    "link": "/matches/2398327/regain-vs-lag-crossfire-season-6",
-    "meta": "bo3",
-    "event": "CROSSFIRE Season 6",
-    "team1": {
-      "name": "regain",
-      "logo": "https://img-cdn.hltv.org/teamlogo/-bjzyIYz1cnZSmS-8FE2fJ.png?ixlib=java-2.1.0&w=50&s=88b7b4f31c4a03bbc2310bb4c6624f03"
-    },
-    "team2": {
-      "name": "LAG",
-      "logo": "https://img-cdn.hltv.org/teamlogo/W30xfG1IVIUuOJnlsxtHMG.png?ixlib=java-2.1.0&w=50&s=7b86122252f70538d55be737b7e80c50"
-    }
-  },
-  {
     "hour": "05:00",
     "date": "2026-10-03",
     "link": "/matches/2398850/space-vs-the-huns-esn-fall-showdown-2026",
@@ -62,7 +17,7 @@
   {
     "hour": "08:00",
     "date": "2026-10-03",
-    "link": "/matches/2398852/nexvoid-vs-the-huns-space-winner-esn-fall-showdown-2026",
+    "link": "/matches/2398852/nexvoid-vs-space-the-huns-winner-esn-fall-showdown-2026",
     "meta": "bo3",
     "event": "ESN Fall Showdown 2026",
     "team1": {
@@ -72,21 +27,6 @@
     "team2": {
       "name": null,
       "logo": null
-    }
-  },
-  {
-    "hour": "10:00",
-    "date": "2026-10-03",
-    "link": "/matches/2398386/eac-vs-noir-verse-cct-2026-europe-series-10",
-    "meta": "bo3",
-    "event": "CCT 2026 Europe Series 10",
-    "team1": {
-      "name": "EAC",
-      "logo": "https://img-cdn.hltv.org/teamlogo/V8KU6EhQyVGQatWSgmYj0V.png?ixlib=java-2.1.0&w=50&s=2c6d80d65e0de648c25217065446c2f9"
-    },
-    "team2": {
-      "name": "Noir Verse",
-      "logo": "https://img-cdn.hltv.org/teamlogo/b-Io2gTRPLWPGCh3ZV8a_I.png?ixlib=java-2.1.0&w=50&s=0a149d61923d0b6f11979dddc4bdffb3"
     }
   },
   {
@@ -137,7 +77,7 @@
   {
     "hour": "11:00",
     "date": "2026-10-03",
-    "link": "/matches/2398968/sinners-vs-ninjas-in-pyjamas-johnny-speeds-winner-rog-journey-autumn-2026",
+    "link": "/matches/2398968/sinners-vs-ninjas-in-pyjamas-rog-journey-autumn-2026",
     "meta": "bo3",
     "event": "ROG JOURNEY Autumn 2026",
     "team1": {
@@ -145,14 +85,14 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/9l_WdQSU9JsNHzpK-pwOG2.svg?ixlib=java-2.1.0&s=af432c3ef61c0c843331cc0dc2fed1ed"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "Ninjas in Pyjamas",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-ttGATBV_P_HcZazxNNtIb.png?ixlib=java-2.1.0&w=50&s=ba94f7812d1f47183a83f3f34ab959eb"
     }
   },
   {
     "hour": "11:00",
     "date": "2026-10-03",
-    "link": "/matches/2398969/bcgame-vs-fokus-bbl-winner-rog-journey-autumn-2026",
+    "link": "/matches/2398969/bcgame-vs-bbl-rog-journey-autumn-2026",
     "meta": "bo3",
     "event": "ROG JOURNEY Autumn 2026",
     "team1": {
@@ -160,14 +100,14 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/Hwf-Y5nN-3qSvd0FZXOCh5.png?ixlib=java-2.1.0&w=50&s=a139a056665fc6d1534bd4d969ad2eaf"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "BBL",
+      "logo": "https://img-cdn.hltv.org/teamlogo/tzt1wJ9t26NGc8HNo-hIJy.png?ixlib=java-2.1.0&w=50&s=4e7e19f273052fbbff7c749184db1e35"
     }
   },
   {
     "hour": "11:00",
     "date": "2026-10-03",
-    "link": "/matches/2398970/jijiehao-vs-voca-100-thieves-winner-rog-journey-autumn-2026",
+    "link": "/matches/2398970/jijiehao-vs-100-thieves-rog-journey-autumn-2026",
     "meta": "bo3",
     "event": "ROG JOURNEY Autumn 2026",
     "team1": {
@@ -175,14 +115,14 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/OmcJcjX0obWnKkP7ChpuFA.png?ixlib=java-2.1.0&w=50&s=8e3bd16625d6f62c95285c98080ded66"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "100 Thieves",
+      "logo": "https://img-cdn.hltv.org/teamlogo/QdpX-_6C2wHMgv98VAE6il.png?ixlib=java-2.1.0&w=50&s=5f34e763e5f7c7d0408a8814f42d7a87"
     }
   },
   {
     "hour": "11:00",
     "date": "2026-10-03",
-    "link": "/matches/2398971/sangal-vs-eternal-fire-basement-boys-winner-rog-journey-autumn-2026",
+    "link": "/matches/2398971/sangal-vs-eternal-fire-rog-journey-autumn-2026",
     "meta": "bo3",
     "event": "ROG JOURNEY Autumn 2026",
     "team1": {
@@ -190,8 +130,8 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/zPv_FeMF8CANC10Jz32P9l.png?ixlib=java-2.1.0&w=50&s=741a13d27b484b39f24cdc76dbf80568"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "Eternal Fire",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Tafdq71X3B_-73b73bAixr.png?ixlib=java-2.1.0&w=50&s=f1505e0f7e03bed0d0d2b4c809768198"
     }
   },
   {
@@ -210,6 +150,36 @@
     }
   },
   {
+    "hour": "12:00",
+    "date": "2026-10-03",
+    "link": "/matches/2398894/saw-vs-aimclub-fox-legacy-season-1",
+    "meta": "bo3",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "SAW",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9vOlYp2U_z0vXPb9aLK-4r.png?ixlib=java-2.1.0&w=50&s=22abd048c4d198e504696f27e8ff68d1"
+    },
+    "team2": {
+      "name": "aimclub",
+      "logo": "https://img-cdn.hltv.org/teamlogo/PhNn8XgEQgZbp6ti-_IfFT.png?ixlib=java-2.1.0&w=50&s=846feccd98ac0b3b9cca3409929ed3e3"
+    }
+  },
+  {
+    "hour": "12:00",
+    "date": "2026-10-03",
+    "link": "/matches/2398895/wildcard-vs-eac-fox-legacy-season-1",
+    "meta": "bo3",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "Wildcard",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-46lJ-DcmPL_j_5R2WvLiS.png?ixlib=java-2.1.0&w=50&s=3bf750ca209fefcb665134fd61f43ffb"
+    },
+    "team2": {
+      "name": "EAC",
+      "logo": "https://img-cdn.hltv.org/teamlogo/V8KU6EhQyVGQatWSgmYj0V.png?ixlib=java-2.1.0&w=50&s=2c6d80d65e0de648c25217065446c2f9"
+    }
+  },
+  {
     "hour": "13:00",
     "date": "2026-10-03",
     "link": "/matches/2398387/leo-vs-enjoy-cct-2026-europe-series-10",
@@ -222,6 +192,21 @@
     "team2": {
       "name": "Enjoy",
       "logo": "https://img-cdn.hltv.org/teamlogo/FXtaA3TkcW1-BMD3B-p1E7.png?ixlib=java-2.1.0&w=50&s=4cfdf5a6feba3bc93db929052dabb544"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-10-03",
+    "link": "/matches/2399062/mellren-vs-forze-reload-cct-2026-challengers-europe-series-7",
+    "meta": "bo3",
+    "event": "CCT 2026 Challengers Europe Series 7",
+    "team1": {
+      "name": "mellren",
+      "logo": "https://img-cdn.hltv.org/teamlogo/XoPLNSnX1gDDBGnI5BKYK2.png?ixlib=java-2.1.0&w=50&s=c9e8528ba9162307ea4cdeb98994b83f"
+    },
+    "team2": {
+      "name": "FORZE Reload",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YJnWBDwmRDJ9o2uOUrhNeQ.png?ixlib=java-2.1.0&w=50&s=83f5ce35b3f98833671987bc637c74b7"
     }
   },
   {
@@ -257,7 +242,7 @@
   {
     "hour": "14:30",
     "date": "2026-10-03",
-    "link": "/matches/2398005/fnatic-vs-nemiga-alliance-loser-stake-ranked-episode-4",
+    "link": "/matches/2398005/fnatic-vs-alliance-stake-ranked-episode-4",
     "meta": "bo3",
     "event": "Stake Ranked Episode 4",
     "team1": {
@@ -265,8 +250,68 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "Alliance",
+      "logo": "https://img-cdn.hltv.org/teamlogo/xsWK0BtR26rN776qdnWFC1.png?ixlib=java-2.1.0&w=50&s=4aaf659c3855ebf08c78c157a0653352"
+    }
+  },
+  {
+    "hour": "15:00",
+    "date": "2026-10-03",
+    "link": "/matches/2398591/turma-do-pagode-vs-yawara-cct-2026-south-america-series-6",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 6",
+    "team1": {
+      "name": "Turma do Pagode",
+      "logo": "https://img-cdn.hltv.org/teamlogo/pl_iLOTm1KzDRG3AAc2PZf.png?ixlib=java-2.1.0&w=50&s=03cce9ed68c407f5adcf04bdedcdc8ae"
+    },
+    "team2": {
+      "name": "Yawara",
+      "logo": "https://img-cdn.hltv.org/teamlogo/JwKJz_nvCUbB5kvZGK6Ho5.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=bb750d9f5993bd3df97cf2a05aeef701"
+    }
+  },
+  {
+    "hour": "15:30",
+    "date": "2026-10-03",
+    "link": "/matches/2398890/nt-vs-lazer-cats-fox-legacy-season-1",
+    "meta": "bo3",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "NT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/jYTlrh5Dt5JG1YcDk4JmLq.png?ixlib=java-2.1.0&w=50&s=6b3e5ef356b375b5d4db309fc9812d8f"
+    },
+    "team2": {
+      "name": "Lazer Cats",
+      "logo": "https://img-cdn.hltv.org/teamlogo/WldQs3KiJJFmGzdeOdibuw.png?ixlib=java-2.1.0&w=50&s=995bcbd5b240788cce88d211d26a47b1"
+    }
+  },
+  {
+    "hour": "15:30",
+    "date": "2026-10-03",
+    "link": "/matches/2398891/infinite-vs-unity-fox-legacy-season-1",
+    "meta": "bo3",
+    "event": "FOX Legacy Season 1",
+    "team1": {
+      "name": "INFINITE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Bq4oCmwPwqkpV5XvHqmVhI.png?ixlib=java-2.1.0&w=50&s=16e18db9b1e19dc66aeed84ec4c6367e"
+    },
+    "team2": {
+      "name": "UNiTY",
+      "logo": "https://img-cdn.hltv.org/teamlogo/coucDlsynd0Ujutb5o2SC-.png?ixlib=java-2.1.0&w=50&s=a5d9a7be6bddda8b8c01ab037786a465"
+    }
+  },
+  {
+    "hour": "15:45",
+    "date": "2026-10-03",
+    "link": "/matches/2399063/spirit-academy-vs-fire-flux-cct-2026-challengers-europe-series-7",
+    "meta": "bo3",
+    "event": "CCT 2026 Challengers Europe Series 7",
+    "team1": {
+      "name": "Spirit Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/txUq00aBKY7O4fLVJegmi_.png?ixlib=java-2.1.0&w=50&s=0be2e166db241569e89ac4ab8f5fb9a2"
+    },
+    "team2": {
+      "name": "Fire Flux",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dEkPG3QFLGo6xl9DtGPsm2.png?ixlib=java-2.1.0&w=50&s=9a9c4eeb77fd921baa804a425d4e2825"
     }
   },
   {
@@ -317,7 +362,7 @@
   {
     "hour": "17:00",
     "date": "2026-10-03",
-    "link": "/matches/2398006/luminosity-vs-alliance-nemiga-winner-stake-ranked-episode-4",
+    "link": "/matches/2398006/luminosity-vs-nemiga-stake-ranked-episode-4",
     "meta": "bo3",
     "event": "Stake Ranked Episode 4",
     "team1": {
@@ -325,8 +370,23 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/HRSwDY9X42P2TiJqy1oeEJ.png?ixlib=java-2.1.0&w=50&s=987bcf053f274f928cf18f57f50076a6"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "Nemiga",
+      "logo": "https://img-cdn.hltv.org/teamlogo/6ZPCm5r3XyGByXkFGiRnLh.png?ixlib=java-2.1.0&w=50&s=daa0328ebd0143763544b564610721e9"
+    }
+  },
+  {
+    "hour": "18:00",
+    "date": "2026-10-03",
+    "link": "/matches/2398592/mira-vs-bounty-hunters-cct-2026-south-america-series-6",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 6",
+    "team1": {
+      "name": "Mira",
+      "logo": "/dynamic-svg/teamplaceholder?letter=M"
+    },
+    "team2": {
+      "name": "Bounty Hunters",
+      "logo": "https://img-cdn.hltv.org/teamlogo/gID-fM4ZxvO6B78-OIKipA.png?ixlib=java-2.1.0&w=50&s=f230dcaef9e8bda5e8be0e7daeed1c9f"
     }
   },
   {
@@ -372,6 +432,36 @@
     "team2": {
       "name": "Nexus",
       "logo": "https://img-cdn.hltv.org/teamlogo/TsvwZ9z4tVRO9Ry1jYxs_n.png?ixlib=java-2.1.0&w=50&s=ca777e2c0f8a3e0b26d0c90d98d72fbe"
+    }
+  },
+  {
+    "hour": "21:00",
+    "date": "2026-10-03",
+    "link": "/matches/2398593/galorys-vs-bestia-academy-cct-2026-south-america-series-6",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 6",
+    "team1": {
+      "name": "Galorys",
+      "logo": "https://img-cdn.hltv.org/teamlogo/GljsUhNlV1YdE2Z1ge-HzK.png?ixlib=java-2.1.0&w=50&s=fd7e8570af28b29e7dfa34eab2c506b1"
+    },
+    "team2": {
+      "name": "BESTIA Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Z_R5K__qrvHmPjF66iCay-.png?ixlib=java-2.1.0&w=50&s=7e2afd72c2b3cabf53244ed6bc5142e3"
+    }
+  },
+  {
+    "hour": "00:00",
+    "date": "2026-10-04",
+    "link": "/matches/2398594/ex-keyd-stars-vs-procyon-cct-2026-south-america-series-6",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 6",
+    "team1": {
+      "name": "ex-Keyd Stars",
+      "logo": "/dynamic-svg/teamplaceholder?letter=e"
+    },
+    "team2": {
+      "name": "Procyon",
+      "logo": "https://img-cdn.hltv.org/teamlogo/j3cZThec5Smnc2QLlkMZjX.png?ixlib=java-2.1.0&w=50&s=b90d609f9f63e6e1dcd8ef9772e7f92a"
     }
   },
   {
