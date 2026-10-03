@@ -1,35 +1,5 @@
 [
   {
-    "hour": "05:00",
-    "date": "2026-10-03",
-    "link": "/matches/2398850/space-vs-the-huns-esn-fall-showdown-2026",
-    "meta": "bo3",
-    "event": "ESN Fall Showdown 2026",
-    "team1": {
-      "name": "Space",
-      "logo": "/dynamic-svg/teamplaceholder?letter=S"
-    },
-    "team2": {
-      "name": "The Huns",
-      "logo": "https://img-cdn.hltv.org/teamlogo/VgVw2z9BmJJ2knbbyXeDfc.png?ixlib=java-2.1.0&w=50&s=c1577bd514234eb3d106357de5ea6aa4"
-    }
-  },
-  {
-    "hour": "08:00",
-    "date": "2026-10-03",
-    "link": "/matches/2398852/nexvoid-vs-space-the-huns-winner-esn-fall-showdown-2026",
-    "meta": "bo3",
-    "event": "ESN Fall Showdown 2026",
-    "team1": {
-      "name": "NEXVOID",
-      "logo": "https://img-cdn.hltv.org/teamlogo/zyy3eHTeRqdTqLKRIUJ9P-.png?ixlib=java-2.1.0&w=50&s=056b3b5aaa5520a3522d69954e992120"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
-    }
-  },
-  {
     "hour": "11:00",
     "date": "2026-10-03",
     "link": "/matches/2398717/falcons-vs-tyloo-esl-pro-league-season-24",
@@ -435,6 +405,21 @@
     }
   },
   {
+    "hour": "20:00",
+    "date": "2026-10-03",
+    "link": "/matches/2399066/dusty-vs-r-rafithrottir-ld-challengers-series-1-finals",
+    "meta": "bo5",
+    "event": "Rafithrottir LD Challengers Series 1 Finals",
+    "team1": {
+      "name": "DUSTY",
+      "logo": "https://img-cdn.hltv.org/teamlogo/XPpsW6FWlPNWrSdNilXUMD.svg?ixlib=java-2.1.0&s=63837b64774ab5ff89a09a3c0ec55ac8"
+    },
+    "team2": {
+      "name": "\u00de\u00f3r",
+      "logo": "https://img-cdn.hltv.org/teamlogo/wMrWtZkVLjn-_ytwB6ldI5.png?ixlib=java-2.1.0&w=50&s=7c4f60122bdf79c51d6d7b49c0541d9d"
+    }
+  },
+  {
     "hour": "21:00",
     "date": "2026-10-03",
     "link": "/matches/2398593/galorys-vs-bestia-academy-cct-2026-south-america-series-6",
@@ -467,7 +452,7 @@
   {
     "hour": "02:00",
     "date": "2026-10-05",
-    "link": "/matches/2398329/without-a-roof-vs-regain-lag-winner-crossfire-season-6",
+    "link": "/matches/2398329/without-a-roof-vs-lag-crossfire-season-6",
     "meta": "bo3",
     "event": "CROSSFIRE Season 6",
     "team1": {
@@ -475,8 +460,8 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/hdZG8cLvx9zT18jobxu9Ga.svg?ixlib=java-2.1.0&s=224c98691ff7f19deb17625ede478be1"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "LAG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/W30xfG1IVIUuOJnlsxtHMG.png?ixlib=java-2.1.0&w=50&s=7b86122252f70538d55be737b7e80c50"
     }
   },
   {
@@ -992,7 +977,7 @@
   {
     "hour": "02:00",
     "date": "2026-10-08",
-    "link": "/matches/2398330/overtake-sector-vs-tbd-crossfire-season-6",
+    "link": "/matches/2398330/overtake-sector-vs-without-a-roof-lag-winner-crossfire-season-6",
     "meta": "bo3",
     "event": "CROSSFIRE Season 6",
     "team1": {
