@@ -1,20 +1,5 @@
 [
   {
-    "hour": "03:30",
-    "date": "2026-10-07",
-    "link": "/matches/2398330/overtake-sector-vs-without-a-roof-crossfire-season-6",
-    "meta": "bo3",
-    "event": "CROSSFIRE Season 6",
-    "team1": {
-      "name": "Overtake Sector",
-      "logo": "https://img-cdn.hltv.org/teamlogo/VdRzYYxYU4tQuLTPJXud9C.png?ixlib=java-2.1.0&w=50&s=504457aaa043dea7ccd7ae30f0f270b4"
-    },
-    "team2": {
-      "name": "Without a Roof",
-      "logo": "https://img-cdn.hltv.org/teamlogo/hdZG8cLvx9zT18jobxu9Ga.svg?ixlib=java-2.1.0&s=224c98691ff7f19deb17625ede478be1"
-    }
-  },
-  {
     "hour": "10:00",
     "date": "2026-10-07",
     "link": "/matches/2399010/g2-ares-vs-orion-wanderers-roman-imperium-cup-ix",
@@ -947,6 +932,21 @@
   {
     "hour": "03:00",
     "date": "2026-10-08",
+    "link": "/matches/2398308/marsborne-vs-without-a-roof-crossfire-season-6",
+    "meta": "bo5",
+    "event": "CROSSFIRE Season 6",
+    "team1": {
+      "name": "Marsborne",
+      "logo": "https://img-cdn.hltv.org/teamlogo/s1nvkP0GnHTlIHagb0vOOB.png?ixlib=java-2.1.0&w=50&s=c1ef7f949e3b96760192f1eae0b0d31a"
+    },
+    "team2": {
+      "name": "Without a Roof",
+      "logo": "https://img-cdn.hltv.org/teamlogo/hdZG8cLvx9zT18jobxu9Ga.svg?ixlib=java-2.1.0&s=224c98691ff7f19deb17625ede478be1"
+    }
+  },
+  {
+    "hour": "03:00",
+    "date": "2026-10-08",
     "link": "/matches/2399206/empire-vs-detonate-esl-challenger-league-season-52-north-america-cup-3",
     "meta": "bo3",
     "event": "ESL Challenger League Season 52 North America Cup 3",
@@ -1407,21 +1407,6 @@
     "team2": {
       "name": "MARKandLARRY",
       "logo": "/dynamic-svg/teamplaceholder?letter=M"
-    }
-  },
-  {
-    "hour": "02:00",
-    "date": "2026-10-11",
-    "link": "/matches/2398308/marsborne-vs-overtake-sector-war-winner-crossfire-season-6",
-    "meta": "bo5",
-    "event": "CROSSFIRE Season 6",
-    "team1": {
-      "name": "Marsborne",
-      "logo": "https://img-cdn.hltv.org/teamlogo/s1nvkP0GnHTlIHagb0vOOB.png?ixlib=java-2.1.0&w=50&s=c1ef7f949e3b96760192f1eae0b0d31a"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
     }
   },
   {
