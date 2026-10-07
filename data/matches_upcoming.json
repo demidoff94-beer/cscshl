@@ -1,20 +1,5 @@
 [
   {
-    "hour": "20:45",
-    "date": "2026-10-06",
-    "link": "/matches/2398745/falcons-vs-natus-vincere-esl-pro-league-season-24",
-    "meta": "bo3",
-    "event": "ESL Pro League Season 24",
-    "team1": {
-      "name": "Falcons",
-      "logo": "https://img-cdn.hltv.org/teamlogo/4eJSkDQINNM6Tbs4WvLzkN.png?ixlib=java-2.1.0&w=50&s=d8c857ea47046f61eca695beab0d12ef"
-    },
-    "team2": {
-      "name": "Natus Vincere",
-      "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c"
-    }
-  },
-  {
     "hour": "03:30",
     "date": "2026-10-07",
     "link": "/matches/2398330/overtake-sector-vs-without-a-roof-crossfire-season-6",
@@ -72,6 +57,21 @@
     "team2": {
       "name": "SINQU",
       "logo": "https://img-cdn.hltv.org/teamlogo/HCDj_182RlDUnkq7I4w5pv.png?ixlib=java-2.1.0&w=50&s=12ab1a7214643f8b4cdb053b5bb5e263"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-10-07",
+    "link": "/matches/2399370/gothic-vs-lph-nodwin-clutch-series-13-closed-qualifier",
+    "meta": "bo3",
+    "event": "NODWIN Clutch Series 13 Closed Qualifier",
+    "team1": {
+      "name": "Gothic",
+      "logo": "/dynamic-svg/teamplaceholder?letter=G"
+    },
+    "team2": {
+      "name": "LPH",
+      "logo": "https://img-cdn.hltv.org/teamlogo/J0cvf2_BNvKf1f9c6NAY1v.png?ixlib=java-2.1.0&w=50&s=0ca957f59f3a8aa7e3404d3e5c9a76ef"
     }
   },
   {
@@ -182,6 +182,21 @@
   {
     "hour": "13:00",
     "date": "2026-10-07",
+    "link": "/matches/2398400/gothic-vs-eac-cct-2026-europe-series-10",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 10",
+    "team1": {
+      "name": "Gothic",
+      "logo": "/dynamic-svg/teamplaceholder?letter=G"
+    },
+    "team2": {
+      "name": "EAC",
+      "logo": "https://img-cdn.hltv.org/teamlogo/V8KU6EhQyVGQatWSgmYj0V.png?ixlib=java-2.1.0&w=50&s=2c6d80d65e0de648c25217065446c2f9"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-10-07",
     "link": "/matches/2399271/enjoy-vs-illyrians-cct-2026-europe-series-11-closed-qualifier",
     "meta": "bo3",
     "event": "CCT 2026 Europe Series 11 Closed Qualifier",
@@ -237,6 +252,21 @@
     "team2": {
       "name": "Orion Wanderers",
       "logo": "https://img-cdn.hltv.org/teamlogo/V5KePecCECSaujcKdgmW-y.png?ixlib=java-2.1.0&w=50&s=c292ecce452325b27aa4bf5d1ac713a8"
+    }
+  },
+  {
+    "hour": "14:00",
+    "date": "2026-10-07",
+    "link": "/matches/2398747/furia-vs-9z-esl-pro-league-season-24",
+    "meta": "bo3",
+    "event": "ESL Pro League Season 24",
+    "team1": {
+      "name": "FURIA",
+      "logo": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c"
+    },
+    "team2": {
+      "name": "9z",
+      "logo": "https://img-cdn.hltv.org/teamlogo/COZDFWOIm41AT0srqOHFhM.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=b00d55fe74b90f91c5b7e2b58bda5afb"
     }
   },
   {
@@ -405,6 +435,81 @@
     }
   },
   {
+    "hour": "15:00",
+    "date": "2026-10-07",
+    "link": "/matches/2399342/the-last-resort-vs-privateer-esl-challenger-league-season-52-europe-cup-8",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 Europe Cup 8",
+    "team1": {
+      "name": "The Last Resort",
+      "logo": "https://img-cdn.hltv.org/teamlogo/AI65hTB4kG_d6jJ8DiS4nZ.svg?ixlib=java-2.1.0&s=1bb2618494315b819daaf94547cca525"
+    },
+    "team2": {
+      "name": "Privateer",
+      "logo": "https://img-cdn.hltv.org/teamlogo/5rEEQEdpho_TulFdTJyglr.png?ixlib=java-2.1.0&w=50&s=a9f60d7a0724722f46c641d984ded5f6"
+    }
+  },
+  {
+    "hour": "15:00",
+    "date": "2026-10-07",
+    "link": "/matches/2399345/banda-chuya-vs-hyperspirit-esl-challenger-league-season-52-europe-cup-8",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 Europe Cup 8",
+    "team1": {
+      "name": "Banda Chuya",
+      "logo": "/dynamic-svg/teamplaceholder?letter=B"
+    },
+    "team2": {
+      "name": "HYPERSPIRIT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/MdMPxRh2SX6Y3tOWO3Ok3M.png?ixlib=java-2.1.0&w=50&s=7ab5b1a592da8b9b944a10cff37b7a99"
+    }
+  },
+  {
+    "hour": "15:00",
+    "date": "2026-10-07",
+    "link": "/matches/2399346/leo-vs-ryvex-esl-challenger-league-season-52-europe-cup-8",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 Europe Cup 8",
+    "team1": {
+      "name": "Leo",
+      "logo": "https://img-cdn.hltv.org/teamlogo/8W-UeGbtwFEzEz0RiPxxLS.png?ixlib=java-2.1.0&w=50&s=8e4a2a65e1aed01c87c1f317a81366ce"
+    },
+    "team2": {
+      "name": "Ryvex",
+      "logo": "https://img-cdn.hltv.org/teamlogo/8fb_49_81-pameJfTmnkQJ.png?ixlib=java-2.1.0&w=50&s=c7dbf7d07da3ed8227257247684a4f9a"
+    }
+  },
+  {
+    "hour": "15:00",
+    "date": "2026-10-07",
+    "link": "/matches/2399347/berg-vs-mellren-esl-challenger-league-season-52-europe-cup-8",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 Europe Cup 8",
+    "team1": {
+      "name": "BERG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/90lCXlzTp513yANJ_DR30l.png?ixlib=java-2.1.0&w=50&s=9ce7a5cadb9b10fa875708c8f65d45d7"
+    },
+    "team2": {
+      "name": "mellren",
+      "logo": "https://img-cdn.hltv.org/teamlogo/XoPLNSnX1gDDBGnI5BKYK2.png?ixlib=java-2.1.0&w=50&s=c9e8528ba9162307ea4cdeb98994b83f"
+    }
+  },
+  {
+    "hour": "15:00",
+    "date": "2026-10-07",
+    "link": "/matches/2399349/mouz-nxt-vs-ence-esl-challenger-league-season-52-europe-cup-8",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 Europe Cup 8",
+    "team1": {
+      "name": "MOUZ NXT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/RfR1zmFJ0eP08VmFb6UOu3.png?ixlib=java-2.1.0&w=50&s=051cbffad4d1c25468d83abee6f4fe23"
+    },
+    "team2": {
+      "name": "ENCE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-X8NoyWC_1gYqUHvZqcpkc.svg?ixlib=java-2.1.0&s=85bb9daa6f846fa097c5942f2565fdb8"
+    }
+  },
+  {
     "hour": "16:00",
     "date": "2026-10-07",
     "link": "/matches/2399272/azuolas-vs-megoshort-cct-2026-europe-series-11-closed-qualifier",
@@ -417,6 +522,21 @@
     "team2": {
       "name": "megoshort",
       "logo": "https://img-cdn.hltv.org/teamlogo/KZxIFGye1KNVn7Q6Zt6hiV.png?ixlib=java-2.1.0&w=50&s=55ddac5f2aaddb4510f3dad57779c859"
+    }
+  },
+  {
+    "hour": "16:30",
+    "date": "2026-10-07",
+    "link": "/matches/2398748/parivision-vs-natus-vincere-esl-pro-league-season-24",
+    "meta": "bo3",
+    "event": "ESL Pro League Season 24",
+    "team1": {
+      "name": "PARIVISION",
+      "logo": "https://img-cdn.hltv.org/teamlogo/MFcDe-M8wfGOUU6x4sRELR.png?ixlib=java-2.1.0&w=50&s=1d91076a58b354d8c3eaeda3162c292e"
+    },
+    "team2": {
+      "name": "Natus Vincere",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c"
     }
   },
   {
@@ -522,6 +642,36 @@
     "team2": {
       "name": "Lazer Cats",
       "logo": "https://img-cdn.hltv.org/teamlogo/WldQs3KiJJFmGzdeOdibuw.png?ixlib=java-2.1.0&w=50&s=995bcbd5b240788cce88d211d26a47b1"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-10-07",
+    "link": "/matches/2398402/iberian-soul-vs-ex-rustec-cct-2026-europe-series-10",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 10",
+    "team1": {
+      "name": "Iberian Soul",
+      "logo": "https://img-cdn.hltv.org/teamlogo/HD2YseMU5u5fOtLMzN4o2i.png?ixlib=java-2.1.0&w=50&s=541c2792dc12ee0ab7c589bb741feed0"
+    },
+    "team2": {
+      "name": "ex-RUSTEC",
+      "logo": "/dynamic-svg/teamplaceholder?letter=e"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-10-07",
+    "link": "/matches/2398749/spirit-vs-m80-esl-pro-league-season-24",
+    "meta": "bo3",
+    "event": "ESL Pro League Season 24",
+    "team1": {
+      "name": "Spirit",
+      "logo": "https://img-cdn.hltv.org/teamlogo/syrtYYKR7sBRw3ZHy1YFX7.png?ixlib=java-2.1.0&w=50&s=40e66714687bec05ea422255b1c0099e"
+    },
+    "team2": {
+      "name": "M80",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YsaWwP_VrkbHzuhszuANEK.png?ixlib=java-2.1.0&w=50&s=47a8cff375da8242af9137a2a592b97d"
     }
   },
   {
@@ -902,6 +1052,21 @@
   {
     "hour": "10:00",
     "date": "2026-10-08",
+    "link": "/matches/2398403/acend-vs-ex-zero-tenacity-cct-2026-europe-series-10",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 10",
+    "team1": {
+      "name": "Acend",
+      "logo": "https://img-cdn.hltv.org/teamlogo/TslndPhDvsn1bLMdm1j2i6.png?ixlib=java-2.1.0&w=50&s=0b477b55a7781f7f9bd5278cd9714ca2"
+    },
+    "team2": {
+      "name": "ex-Zero Tenacity",
+      "logo": "/dynamic-svg/teamplaceholder?letter=e"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-10-08",
     "link": "/matches/2399071/lavked-vs-fortress-nodwin-clutch-series-13-closed-qualifier",
     "meta": "bo3",
     "event": "NODWIN Clutch Series 13 Closed Qualifier",
@@ -927,6 +1092,21 @@
     "team2": {
       "name": "BET-M",
       "logo": "https://img-cdn.hltv.org/teamlogo/V7kOhjpI4AiRCPnthLVvL6.png?ixlib=java-2.1.0&w=50&s=6ded0349cde3e1cc18b4b28c3d8cb91c"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-10-08",
+    "link": "/matches/2398404/nemiga-vs-lavked-cct-2026-europe-series-10",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 10",
+    "team1": {
+      "name": "Nemiga",
+      "logo": "https://img-cdn.hltv.org/teamlogo/6ZPCm5r3XyGByXkFGiRnLh.png?ixlib=java-2.1.0&w=50&s=daa0328ebd0143763544b564610721e9"
+    },
+    "team2": {
+      "name": "Lavked",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L"
     }
   },
   {
@@ -977,6 +1157,21 @@
   {
     "hour": "16:00",
     "date": "2026-10-08",
+    "link": "/matches/2398405/cybershoke-vs-nexus-cct-2026-europe-series-10",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 10",
+    "team1": {
+      "name": "CYBERSHOKE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/gzn14uIQ6ENslja9hMqnkj.png?ixlib=java-2.1.0&w=50&s=0bea5f061e9130561d93b89834624603"
+    },
+    "team2": {
+      "name": "Nexus",
+      "logo": "https://img-cdn.hltv.org/teamlogo/TsvwZ9z4tVRO9Ry1jYxs_n.png?ixlib=java-2.1.0&w=50&s=ca777e2c0f8a3e0b26d0c90d98d72fbe"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-10-08",
     "link": "/matches/2399072/azuolas-vs-misa-nodwin-clutch-series-13-closed-qualifier",
     "meta": "bo3",
     "event": "NODWIN Clutch Series 13 Closed Qualifier",
@@ -1002,6 +1197,21 @@
     "team2": {
       "name": "PRIVATE",
       "logo": "/dynamic-svg/teamplaceholder?letter=P"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-10-08",
+    "link": "/matches/2398406/sinners-vs-black-phoenix-cct-2026-europe-series-10",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 10",
+    "team1": {
+      "name": "SINNERS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9l_WdQSU9JsNHzpK-pwOG2.svg?ixlib=java-2.1.0&s=af432c3ef61c0c843331cc0dc2fed1ed"
+    },
+    "team2": {
+      "name": "Black Phoenix",
+      "logo": "https://img-cdn.hltv.org/teamlogo/FeWUb1K1oVk3xsrzBxaEz0.png?ixlib=java-2.1.0&w=50&s=2de1dbd4da9be1c044e1608eeb34ff6c"
     }
   },
   {
