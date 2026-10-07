@@ -1,79 +1,128 @@
 [
   {
+    "title": "HObbit: \"For me nowadays it's like a dream\" ",
+    "img": "/img/static/flags/30x20/KZ.gif",
+    "date": "2026-10-07",
+    "comments": "7 comments",
+    "link": "/news/45670/hobbit-for-me-nowadays-its-like-a-dream"
+  },
+  {
+    "title": "arT to return for Thunderpick World Championship ",
+    "img": "/img/static/flags/30x20/BR.gif",
+    "date": "2026-10-07",
+    "comments": "17 comments",
+    "link": "/news/45669/art-to-return-for-thunderpick-world-championship"
+  },
+  {
+    "title": "PARIVISION make EPL playoffs over NAVI ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-07",
+    "comments": "41 comments",
+    "link": "/news/45667/parivision-make-epl-playoffs-over-navi"
+  },
+  {
+    "title": "Valve issues exception for BC.Game to qualify for Singapore Major through Asia ",
+    "img": "/img/static/flags/30x20/ASIA.gif",
+    "date": "2026-10-07",
+    "comments": "262 comments",
+    "link": "/news/45666/valve-issues-exception-for-bcgame-to-qualify-for-singapore-major-through-asia"
+  },
+  {
+    "title": "Short news: Week 40 ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-10-07",
+    "comments": "139 comments",
+    "link": "/news/45641/short-news-week-40"
+  },
+  {
+    "title": "KSCERATO: \"We're playing a lot of tournaments; when you see frustration, you can't handle it like you used to because you're so tired mentally\" ",
+    "img": "/img/static/flags/30x20/BR.gif",
+    "date": "2026-10-07",
+    "comments": "24 comments",
+    "link": "/news/45664/kscerato-were-playing-a-lot-of-tournaments-when-you-see-frustration-you-cant-handle-it-like-you-used-to-because-youre-so-tired-mentally"
+  },
+  {
+    "title": "FalleN reaches the Spodek one last time as FURIA overcome 9z in group stage decider ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-07",
+    "comments": "29 comments",
+    "link": "/news/45665/fallen-reaches-the-spodek-one-last-time-as-furia-overcome-9z-in-group-stage-decider"
+  },
+  {
     "title": "BC.Game CEO asks for fresh start: \"Take all our points away\" ",
     "img": "/img/static/flags/30x20/WORLD.gif",
     "date": "2026-10-07",
-    "comments": "158 comments",
+    "comments": "185 comments",
     "link": "/news/45663/bcgame-ceo-asks-for-fresh-start-take-all-our-points-away"
   },
   {
     "title": "Sources: Astralis look to replace duo ",
     "img": "/img/static/flags/30x20/DK.gif",
     "date": "2026-10-07",
-    "comments": "198 comments",
+    "comments": "258 comments",
     "link": "/news/45662/sources-astralis-look-to-replace-duo"
   },
   {
     "title": "TaZ: \"[The new rule] is difficult for me to accept\" ",
     "img": "/img/static/flags/30x20/PL.gif",
     "date": "2026-10-07",
-    "comments": "148 comments",
+    "comments": "182 comments",
     "link": "/news/45661/taz-the-new-rule-is-difficult-for-me-to-accept"
   },
   {
     "title": "Final group stage matchups set at EPL S24 ",
     "img": "/img/static/flags/30x20/PL.gif",
     "date": "2026-10-07",
-    "comments": "24 comments",
+    "comments": "33 comments",
     "link": "/news/45659/final-group-stage-matchups-set-at-epl-s24"
   },
   {
     "title": "The best highlights from EPL S24 groups ",
     "img": "/img/static/flags/30x20/PL.gif",
     "date": "2026-10-07",
-    "comments": "115 comments",
+    "comments": "123 comments",
     "link": "/news/45619/the-best-highlights-from-epl-s24-groups"
   },
   {
     "title": "Falcons outlast NAVI to secure EPL playoffs ",
     "img": "/img/static/flags/30x20/PL.gif",
     "date": "2026-10-07",
-    "comments": "43 comments",
+    "comments": "54 comments",
     "link": "/news/45660/falcons-outlast-navi-to-secure-epl-playoffs"
   },
   {
     "title": "Swisher: \"Everyone is hoping that Valve rethink their stance on the stickers\" ",
     "img": "/img/static/flags/30x20/US.gif",
     "date": "2026-10-06",
-    "comments": "21 comments",
+    "comments": "28 comments",
     "link": "/news/45658/swisher-everyone-is-hoping-that-valve-rethink-their-stance-on-the-stickers"
   },
   {
     "title": "M80 eliminate arT-less Legacy from EPL ",
     "img": "/img/static/flags/30x20/PL.gif",
     "date": "2026-10-06",
-    "comments": "26 comments",
+    "comments": "28 comments",
     "link": "/news/45657/m80-eliminate-art-less-legacy-from-epl"
   },
   {
     "title": "Aurora beat FURIA to qualify for Spodek ",
     "img": "/img/static/flags/30x20/PL.gif",
     "date": "2026-10-06",
-    "comments": "26 comments",
+    "comments": "27 comments",
     "link": "/news/45656/aurora-beat-furia-to-qualify-for-spodek"
   },
   {
     "title": "magic sign lattykk to replace mo0N ",
     "img": "/img/static/flags/30x20/RU.gif",
     "date": "2026-10-06",
-    "comments": "100 comments",
+    "comments": "105 comments",
     "link": "/news/45654/magic-sign-lattykk-to-replace-mo0n"
   },
   {
     "title": "Valve adjust rules for VRS region swaps ",
     "img": "/img/static/flags/30x20/WORLD.gif",
     "date": "2026-10-06",
-    "comments": "367 comments",
+    "comments": "373 comments",
     "link": "/news/45655/valve-adjust-rules-for-vrs-region-swaps"
   },
   {
@@ -87,7 +136,7 @@
     "title": "HeavyGod: \"We need to check why our level was so low this event\" ",
     "img": "/img/static/flags/30x20/IL.gif",
     "date": "2026-10-06",
-    "comments": "59 comments",
+    "comments": "61 comments",
     "link": "/news/45652/heavygod-we-need-to-check-why-our-level-was-so-low-this-event"
   },
   {
@@ -101,21 +150,21 @@
     "title": "nafany: \"I don't understand why players in Europe are not doing what we did with TDK\" ",
     "img": "/img/static/flags/30x20/RU.gif",
     "date": "2026-10-06",
-    "comments": "92 comments",
+    "comments": "98 comments",
     "link": "/news/45650/nafany-i-dont-understand-why-players-in-europe-are-not-doing-what-we-did-with-tdk"
   },
   {
     "title": "1win stun Spirit to reach ESL Pro League playoffs ",
     "img": "/img/static/flags/30x20/PL.gif",
     "date": "2026-10-06",
-    "comments": "59 comments",
+    "comments": "62 comments",
     "link": "/news/45620/1win-stun-spirit-to-reach-esl-pro-league-playoffs"
   },
   {
     "title": "ropz on maintaining their era: \"We have a lot more to give and we're not done with anything\" ",
     "img": "/img/static/flags/30x20/EE.gif",
     "date": "2026-10-06",
-    "comments": "56 comments",
+    "comments": "63 comments",
     "link": "/news/45648/ropz-on-maintaining-their-era-we-have-a-lot-more-to-give-and-were-not-done-with-anything"
   },
   {
@@ -161,31 +210,24 @@
     "link": "/news/45644/mouz-hand-spirit-first-swiss-group-stage-loss-in-668-days-to-make-epl-playoffs"
   },
   {
-    "title": "Short news: Week 40 ",
-    "img": "/img/static/flags/30x20/WORLD.gif",
-    "date": "2026-10-05",
-    "comments": "114 comments",
-    "link": "/news/45641/short-news-week-40"
-  },
-  {
     "title": "Community reacts: Sashi look to enter Asian VRS as Major race tightens ",
     "img": "/img/static/flags/30x20/WORLD.gif",
     "date": "2026-10-05",
-    "comments": "106 comments",
+    "comments": "107 comments",
     "link": "/news/45642/community-reacts-sashi-look-to-enter-asian-vrs-as-major-race-tightens"
   },
   {
     "title": "huNter-: \"We cannot change everything to make r1nkle comfortable, but we are trying to implement his things\" ",
     "img": "/img/static/flags/30x20/BA.gif",
     "date": "2026-10-05",
-    "comments": "54 comments",
+    "comments": "55 comments",
     "link": "/news/45640/hunter-we-cannot-change-everything-to-make-r1nkle-comfortable-but-we-are-trying-to-implement-his-things"
   },
   {
     "title": "Sashi target Asian VRS with Australian duo ",
     "img": "/img/static/flags/30x20/AU.gif",
     "date": "2026-10-05",
-    "comments": "201 comments",
+    "comments": "195 comments",
     "link": "/news/45639/sashi-target-asian-vrs-with-australian-duo"
   },
   {
