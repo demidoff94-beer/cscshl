@@ -1,167 +1,32 @@
 [
   {
-    "hour": "15:00",
+    "hour": "22:15",
     "date": "2026-10-10",
-    "link": "/matches/2398412/nexus-vs-black-phoenix-cct-2026-europe-series-10",
-    "meta": "bo3",
-    "event": "CCT 2026 Europe Series 10",
+    "link": "/matches/2399398/dendele-vs-imperial-frag-university-2026",
+    "meta": "bo1",
+    "event": "FRAG University 2026",
     "team1": {
-      "name": "Nexus",
-      "logo": "https://img-cdn.hltv.org/teamlogo/TsvwZ9z4tVRO9Ry1jYxs_n.png?ixlib=java-2.1.0&w=50&s=ca777e2c0f8a3e0b26d0c90d98d72fbe"
+      "name": "DENDELE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/xKB2zOMgkFKoD-MLU484IV.png?ixlib=java-2.1.0&w=50&s=ca11299f789fb7c48d83130b8396af9f"
     },
     "team2": {
-      "name": "Black Phoenix",
-      "logo": "https://img-cdn.hltv.org/teamlogo/FeWUb1K1oVk3xsrzBxaEz0.png?ixlib=java-2.1.0&w=50&s=2de1dbd4da9be1c044e1608eeb34ff6c"
+      "name": "Imperial",
+      "logo": "https://img-cdn.hltv.org/teamlogo/bBDk6-rND06sAzn67b5RdP.png?ixlib=java-2.1.0&w=50&s=467e31ba123f509130d647fbf1e04ef2"
     }
   },
   {
-    "hour": "15:00",
+    "hour": "22:15",
     "date": "2026-10-10",
-    "link": "/matches/2398988/gamerlegion-vs-private-1win-private-club-season-2-closed-qualifier",
-    "meta": "bo3",
-    "event": "1win Private Club Season 2 Closed Qualifier",
+    "link": "/matches/2399399/nrg-vs-wildcard-frag-university-2026",
+    "meta": "bo1",
+    "event": "FRAG University 2026",
     "team1": {
-      "name": "GamerLegion",
-      "logo": "https://img-cdn.hltv.org/teamlogo/vN7O46QoQ346WIRZ8D3spC.png?ixlib=java-2.1.0&w=50&s=f139433d31902eea5898c3a63fcc643a"
+      "name": "NRG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/SJZaPBCyZssru-pUDS3aZe.png?ixlib=java-2.1.0&w=50&s=5f4ca255d90b4ea7092882834bbf1bdc"
     },
     "team2": {
-      "name": "PRIVATE",
-      "logo": "/dynamic-svg/teamplaceholder?letter=P"
-    }
-  },
-  {
-    "hour": "15:00",
-    "date": "2026-10-10",
-    "link": "/matches/2399166/the-knockoutx-vs-lynn-vision-esl-challenger-league-season-52-asia-pacific-cup-3",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 Asia-Pacific Cup 3",
-    "team1": {
-      "name": "The KnockoutX",
-      "logo": "https://img-cdn.hltv.org/teamlogo/kaRBei4kE81TzL6_E9L9U1.png?ixlib=java-2.1.0&w=50&s=7f0e8c1e909a05bbf394e04d2a549787"
-    },
-    "team2": {
-      "name": "Lynn Vision",
-      "logo": "https://img-cdn.hltv.org/teamlogo/DPcHT21uWwK1hDD_3txlL9.png?ixlib=java-2.1.0&w=50&s=4b5d5a187f00caf9bbae2d0fcbca6ff6"
-    }
-  },
-  {
-    "hour": "15:00",
-    "date": "2026-10-10",
-    "link": "/matches/2399167/kaleido-vs-just-swing-esl-challenger-league-season-52-asia-pacific-cup-3",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 Asia-Pacific Cup 3",
-    "team1": {
-      "name": "Kaleido",
-      "logo": "https://img-cdn.hltv.org/teamlogo/7CqKzJ3jTU826IibHi_a5z.png?ixlib=java-2.1.0&w=50&s=e2ee54f65106fe1152c00c974c27505e"
-    },
-    "team2": {
-      "name": "Just Swing",
-      "logo": "https://img-cdn.hltv.org/teamlogo/QRyGrQj3EGLYIAjqiMGvFn.png?ixlib=java-2.1.0&w=50&s=4c8d020e08d6ac9f0ffe5b5b21cad90b"
-    }
-  },
-  {
-    "hour": "15:00",
-    "date": "2026-10-10",
-    "link": "/matches/2399168/alter-ego-vs-vitalem-aerem-esl-challenger-league-season-52-asia-pacific-cup-3",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 Asia-Pacific Cup 3",
-    "team1": {
-      "name": "Alter Ego",
-      "logo": "https://img-cdn.hltv.org/teamlogo/rcVrbr1QiFUoakiO5jGExR.png?ixlib=java-2.1.0&w=50&s=81bf2c78f6ef16e4f315ef2024527fc6"
-    },
-    "team2": {
-      "name": "Vitalem Aerem",
-      "logo": "https://img-cdn.hltv.org/teamlogo/0HR-ABrHDeqzgAUun49Ei1.png?ixlib=java-2.1.0&w=50&s=5581767c568defa6c55f40433f032b96"
-    }
-  },
-  {
-    "hour": "15:00",
-    "date": "2026-10-10",
-    "link": "/matches/2399169/chinggis-warriors-vs-the-unit-esl-challenger-league-season-52-asia-pacific-cup-3",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 Asia-Pacific Cup 3",
-    "team1": {
-      "name": "Chinggis Warriors",
-      "logo": "https://img-cdn.hltv.org/teamlogo/esvV905BqvAKUUPLq8e89T.png?ixlib=java-2.1.0&w=50&s=dd947742be3993f7b235cd1928ab078e"
-    },
-    "team2": {
-      "name": "THE UNIT",
-      "logo": "/dynamic-svg/teamplaceholder?letter=T"
-    }
-  },
-  {
-    "hour": "15:30",
-    "date": "2026-10-10",
-    "link": "/matches/2399054/sangal-vs-faze-navi-junior-loser-roman-imperium-cup-ix",
-    "meta": "bo3",
-    "event": "Roman Imperium Cup IX",
-    "team1": {
-      "name": "Sangal",
-      "logo": "https://img-cdn.hltv.org/teamlogo/zPv_FeMF8CANC10Jz32P9l.png?ixlib=java-2.1.0&w=50&s=741a13d27b484b39f24cdc76dbf80568"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
-    }
-  },
-  {
-    "hour": "15:45",
-    "date": "2026-10-10",
-    "link": "/matches/2398754/aurora-vs-vitality-esl-pro-league-season-24",
-    "meta": "bo3",
-    "event": "ESL Pro League Season 24",
-    "team1": {
-      "name": "Aurora",
-      "logo": "https://img-cdn.hltv.org/teamlogo/yJzPNOeXlyiniNxanYJCrv.png?ixlib=java-2.1.0&w=50&s=2c08f70c2f2f8c2024a438ddcf19bbf1"
-    },
-    "team2": {
-      "name": "Vitality",
-      "logo": "https://img-cdn.hltv.org/teamlogo/ogcHrcCdzRvxbYvAz04KAN.png?ixlib=java-2.1.0&w=50&s=e1f6019aa9f274ffe45a5e99c88dbc02"
-    }
-  },
-  {
-    "hour": "16:00",
-    "date": "2026-10-10",
-    "link": "/matches/2399284/bebop-vs-6666-cct-2026-europe-series-11-closed-qualifier",
-    "meta": "bo3",
-    "event": "CCT 2026 Europe Series 11 Closed Qualifier",
-    "team1": {
-      "name": "Bebop",
-      "logo": "/dynamic-svg/teamplaceholder?letter=B"
-    },
-    "team2": {
-      "name": "6666",
-      "logo": "https://img-cdn.hltv.org/teamlogo/dt87uFqACOFRSzmDKsHh_N.png?ixlib=java-2.1.0&w=50&s=4f91fca81f16fd1854f91bfafc6cf99e"
-    }
-  },
-  {
-    "hour": "19:00",
-    "date": "2026-10-10",
-    "link": "/matches/2398755/mouz-vs-spirit-esl-pro-league-season-24",
-    "meta": "bo3",
-    "event": "ESL Pro League Season 24",
-    "team1": {
-      "name": "MOUZ",
-      "logo": "https://img-cdn.hltv.org/teamlogo/IejtXpquZnE8KqYPB1LNKw.svg?ixlib=java-2.1.0&s=7fd33b8def053fbfd8fdbb58e3bdcd3c"
-    },
-    "team2": {
-      "name": "Spirit",
-      "logo": "https://img-cdn.hltv.org/teamlogo/syrtYYKR7sBRw3ZHy1YFX7.png?ixlib=java-2.1.0&w=50&s=40e66714687bec05ea422255b1c0099e"
-    }
-  },
-  {
-    "hour": "19:00",
-    "date": "2026-10-10",
-    "link": "/matches/2399285/saw-youngsters-vs-antidaun-cct-2026-europe-series-11-closed-qualifier",
-    "meta": "bo3",
-    "event": "CCT 2026 Europe Series 11 Closed Qualifier",
-    "team1": {
-      "name": "SAW Youngsters",
-      "logo": "https://img-cdn.hltv.org/teamlogo/jYQ4aML6vXnDCKEQ04ano1.png?ixlib=java-2.1.0&w=50&s=33afd7f95988d02b181f7c4a75c7fb79"
-    },
-    "team2": {
-      "name": "antidaun",
-      "logo": "/dynamic-svg/teamplaceholder?letter=a"
+      "name": "Wildcard",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-46lJ-DcmPL_j_5R2WvLiS.png?ixlib=java-2.1.0&w=50&s=3bf750ca209fefcb665134fd61f43ffb"
     }
   },
   {
@@ -222,6 +87,36 @@
     "team2": {
       "name": "BORRACHEIROS",
       "logo": "/dynamic-svg/teamplaceholder?letter=B"
+    }
+  },
+  {
+    "hour": "01:30",
+    "date": "2026-10-11",
+    "link": "/matches/2399244/ground-zero-vs-abyssal-anzc-locals-brisbane-2026-season-2",
+    "meta": "bo1",
+    "event": "ANZC Locals Brisbane 2026 Season 2",
+    "team1": {
+      "name": "Ground Zero",
+      "logo": "https://img-cdn.hltv.org/teamlogo/rGAB_PzwZbvmNy3V8Xrven.png?ixlib=java-2.1.0&w=50&s=09d53655350132af167d0b5471525cd0"
+    },
+    "team2": {
+      "name": "Abyssal",
+      "logo": "https://img-cdn.hltv.org/teamlogo/U7fek6lTSLbntoy7CPINPF.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=6a373faf166e038ba3c765bcf47133ee"
+    }
+  },
+  {
+    "hour": "01:30",
+    "date": "2026-10-11",
+    "link": "/matches/2399245/flyquest-vs-kzg-anzc-locals-brisbane-2026-season-2",
+    "meta": "bo1",
+    "event": "ANZC Locals Brisbane 2026 Season 2",
+    "team1": {
+      "name": "FlyQuest",
+      "logo": "https://img-cdn.hltv.org/teamlogo/fmqTgF6Ziw0uied7MO3_ri.png?ixlib=java-2.1.0&w=50&s=255b5a4c460ad03161509ff7eb77b2dc"
+    },
+    "team2": {
+      "name": "KZG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/3nBRNC2hmyfFgIGv65EKyf.png?ixlib=java-2.1.0&w=50&s=2cdee82e3a2de23a951d812e580a3c12"
     }
   },
   {
@@ -315,6 +210,126 @@
     }
   },
   {
+    "hour": "10:00",
+    "date": "2026-10-11",
+    "link": "/matches/2399433/just-players-vs-misa-nodwin-clutch-series-13-closed-qualifier",
+    "meta": "bo3",
+    "event": "NODWIN Clutch Series 13 Closed Qualifier",
+    "team1": {
+      "name": "Just Players",
+      "logo": "/dynamic-svg/teamplaceholder?letter=J"
+    },
+    "team2": {
+      "name": "Misa",
+      "logo": "https://img-cdn.hltv.org/teamlogo/NZDgFz0RzIniP7zbNUoHuU.png?ixlib=java-2.1.0&w=50&s=f04ee2b4b27a2aa62a3aca91566e92f4"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-10-11",
+    "link": "/matches/2399434/fire-flux-vs-gothic-nodwin-clutch-series-13-closed-qualifier",
+    "meta": "bo3",
+    "event": "NODWIN Clutch Series 13 Closed Qualifier",
+    "team1": {
+      "name": "Fire Flux",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dEkPG3QFLGo6xl9DtGPsm2.png?ixlib=java-2.1.0&w=50&s=9a9c4eeb77fd921baa804a425d4e2825"
+    },
+    "team2": {
+      "name": "Gothic",
+      "logo": "/dynamic-svg/teamplaceholder?letter=G"
+    }
+  },
+  {
+    "hour": "13:30",
+    "date": "2026-10-11",
+    "link": "/matches/2398756/aurora-vs-mouz-spirit-loser-esl-pro-league-season-24",
+    "meta": "bo3",
+    "event": "ESL Pro League Season 24",
+    "team1": {
+      "name": "Aurora",
+      "logo": "https://img-cdn.hltv.org/teamlogo/yJzPNOeXlyiniNxanYJCrv.png?ixlib=java-2.1.0&w=50&s=2c08f70c2f2f8c2024a438ddcf19bbf1"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "15:00",
+    "date": "2026-10-11",
+    "link": "/matches/2399170/the-knockoutx-vs-alter-ego-esl-challenger-league-season-52-asia-pacific-cup-3",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 Asia-Pacific Cup 3",
+    "team1": {
+      "name": "The KnockoutX",
+      "logo": "https://img-cdn.hltv.org/teamlogo/kaRBei4kE81TzL6_E9L9U1.png?ixlib=java-2.1.0&w=50&s=7f0e8c1e909a05bbf394e04d2a549787"
+    },
+    "team2": {
+      "name": "Alter Ego",
+      "logo": "https://img-cdn.hltv.org/teamlogo/rcVrbr1QiFUoakiO5jGExR.png?ixlib=java-2.1.0&w=50&s=81bf2c78f6ef16e4f315ef2024527fc6"
+    }
+  },
+  {
+    "hour": "15:00",
+    "date": "2026-10-11",
+    "link": "/matches/2399171/kaleido-vs-chinggis-warriors-esl-challenger-league-season-52-asia-pacific-cup-3",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 Asia-Pacific Cup 3",
+    "team1": {
+      "name": "Kaleido",
+      "logo": "https://img-cdn.hltv.org/teamlogo/7CqKzJ3jTU826IibHi_a5z.png?ixlib=java-2.1.0&w=50&s=e2ee54f65106fe1152c00c974c27505e"
+    },
+    "team2": {
+      "name": "Chinggis Warriors",
+      "logo": "https://img-cdn.hltv.org/teamlogo/esvV905BqvAKUUPLq8e89T.png?ixlib=java-2.1.0&w=50&s=dd947742be3993f7b235cd1928ab078e"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-10-11",
+    "link": "/matches/2399288/bebop-vs-mellren-cct-2026-europe-series-11-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 11 Closed Qualifier",
+    "team1": {
+      "name": "Bebop",
+      "logo": "/dynamic-svg/teamplaceholder?letter=B"
+    },
+    "team2": {
+      "name": "mellren",
+      "logo": "https://img-cdn.hltv.org/teamlogo/XoPLNSnX1gDDBGnI5BKYK2.png?ixlib=java-2.1.0&w=50&s=c9e8528ba9162307ea4cdeb98994b83f"
+    }
+  },
+  {
+    "hour": "17:00",
+    "date": "2026-10-11",
+    "link": "/matches/2398757/vitality-vs-mouz-spirit-winner-esl-pro-league-season-24",
+    "meta": "bo5",
+    "event": "ESL Pro League Season 24",
+    "team1": {
+      "name": "Vitality",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ogcHrcCdzRvxbYvAz04KAN.png?ixlib=java-2.1.0&w=50&s=e1f6019aa9f274ffe45a5e99c88dbc02"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-10-11",
+    "link": "/matches/2399436/mellren-vs-lavked-nodwin-clutch-series-13-closed-qualifier",
+    "meta": "bo3",
+    "event": "NODWIN Clutch Series 13 Closed Qualifier",
+    "team1": {
+      "name": "mellren",
+      "logo": "https://img-cdn.hltv.org/teamlogo/XoPLNSnX1gDDBGnI5BKYK2.png?ixlib=java-2.1.0&w=50&s=c9e8528ba9162307ea4cdeb98994b83f"
+    },
+    "team2": {
+      "name": "Lavked",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L"
+    }
+  },
+  {
     "hour": "11:00",
     "date": "2026-10-12",
     "link": "/matches/2399144/fruju-vs-markandlarry-esl-challenger-league-season-52-oceania-cup-3",
@@ -372,6 +387,21 @@
     "team2": {
       "name": "Betclic",
       "logo": "https://img-cdn.hltv.org/teamlogo/iX5wi-ZLkdHTARnXcMEvZF.png?ixlib=java-2.1.0&w=50&s=d543c7f38ede96ef911a66c407b6b6cd"
+    }
+  },
+  {
+    "hour": "15:00",
+    "date": "2026-10-12",
+    "link": "/matches/2399172/lynn-vision-vs-just-swing-esl-challenger-league-season-52-asia-pacific-cup-3",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 Asia-Pacific Cup 3",
+    "team1": {
+      "name": "Lynn Vision",
+      "logo": "https://img-cdn.hltv.org/teamlogo/DPcHT21uWwK1hDD_3txlL9.png?ixlib=java-2.1.0&w=50&s=4b5d5a187f00caf9bbae2d0fcbca6ff6"
+    },
+    "team2": {
+      "name": "Just Swing",
+      "logo": "https://img-cdn.hltv.org/teamlogo/QRyGrQj3EGLYIAjqiMGvFn.png?ixlib=java-2.1.0&w=50&s=4c8d020e08d6ac9f0ffe5b5b21cad90b"
     }
   },
   {
@@ -495,6 +525,21 @@
     }
   },
   {
+    "hour": "10:00",
+    "date": "2026-10-15",
+    "link": "/matches/2399418/wbt-vs-eac-elisa-breakout-series-2",
+    "meta": "bo1",
+    "event": "Elisa BreakOut Series 2",
+    "team1": {
+      "name": "WBT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_coqH_U02fBToVR-m_CKsU.png?ixlib=java-2.1.0&w=50&s=75768cd6a2752f22940f96c831bb31a6"
+    },
+    "team2": {
+      "name": "EAC",
+      "logo": "https://img-cdn.hltv.org/teamlogo/V8KU6EhQyVGQatWSgmYj0V.png?ixlib=java-2.1.0&w=50&s=2c6d80d65e0de648c25217065446c2f9"
+    }
+  },
+  {
     "hour": "12:00",
     "date": "2026-10-15",
     "link": "/matches/2399136/mibr-vs-bcgame-stake-pulse-beat-iii",
@@ -522,6 +567,171 @@
     "team2": {
       "name": "Envy",
       "logo": "https://img-cdn.hltv.org/teamlogo/caSZsIlWR3MQuSWMCJDj8V.svg?ixlib=java-2.1.0&s=52dab8f2955522087be3c5d43013bea8"
+    }
+  },
+  {
+    "hour": "12:00",
+    "date": "2026-10-15",
+    "link": "/matches/2399419/ence-vs-bojong-elisa-breakout-series-2",
+    "meta": "bo1",
+    "event": "Elisa BreakOut Series 2",
+    "team1": {
+      "name": "ENCE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-X8NoyWC_1gYqUHvZqcpkc.svg?ixlib=java-2.1.0&s=85bb9daa6f846fa097c5942f2565fdb8"
+    },
+    "team2": {
+      "name": "BOJONG",
+      "logo": "/dynamic-svg/teamplaceholder?letter=B"
+    }
+  },
+  {
+    "hour": "14:00",
+    "date": "2026-10-15",
+    "link": "/matches/2399420/wbt-vs-ence-elisa-breakout-series-2",
+    "meta": "bo1",
+    "event": "Elisa BreakOut Series 2",
+    "team1": {
+      "name": "WBT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_coqH_U02fBToVR-m_CKsU.png?ixlib=java-2.1.0&w=50&s=75768cd6a2752f22940f96c831bb31a6"
+    },
+    "team2": {
+      "name": "ENCE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-X8NoyWC_1gYqUHvZqcpkc.svg?ixlib=java-2.1.0&s=85bb9daa6f846fa097c5942f2565fdb8"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-10-15",
+    "link": "/matches/2399421/eac-vs-bojong-elisa-breakout-series-2",
+    "meta": "bo1",
+    "event": "Elisa BreakOut Series 2",
+    "team1": {
+      "name": "EAC",
+      "logo": "https://img-cdn.hltv.org/teamlogo/V8KU6EhQyVGQatWSgmYj0V.png?ixlib=java-2.1.0&w=50&s=2c6d80d65e0de648c25217065446c2f9"
+    },
+    "team2": {
+      "name": "BOJONG",
+      "logo": "/dynamic-svg/teamplaceholder?letter=B"
+    }
+  },
+  {
+    "hour": "18:00",
+    "date": "2026-10-15",
+    "link": "/matches/2399422/wbt-vs-bojong-elisa-breakout-series-2",
+    "meta": "bo1",
+    "event": "Elisa BreakOut Series 2",
+    "team1": {
+      "name": "WBT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_coqH_U02fBToVR-m_CKsU.png?ixlib=java-2.1.0&w=50&s=75768cd6a2752f22940f96c831bb31a6"
+    },
+    "team2": {
+      "name": "BOJONG",
+      "logo": "/dynamic-svg/teamplaceholder?letter=B"
+    }
+  },
+  {
+    "hour": "20:00",
+    "date": "2026-10-15",
+    "link": "/matches/2399423/eac-vs-ence-elisa-breakout-series-2",
+    "meta": "bo1",
+    "event": "Elisa BreakOut Series 2",
+    "team1": {
+      "name": "EAC",
+      "logo": "https://img-cdn.hltv.org/teamlogo/V8KU6EhQyVGQatWSgmYj0V.png?ixlib=java-2.1.0&w=50&s=2c6d80d65e0de648c25217065446c2f9"
+    },
+    "team2": {
+      "name": "ENCE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-X8NoyWC_1gYqUHvZqcpkc.svg?ixlib=java-2.1.0&s=85bb9daa6f846fa097c5942f2565fdb8"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-10-16",
+    "link": "/matches/2399424/voca-vs-phantom-elisa-breakout-series-2",
+    "meta": "bo1",
+    "event": "Elisa BreakOut Series 2",
+    "team1": {
+      "name": "Voca",
+      "logo": "https://img-cdn.hltv.org/teamlogo/1Z_CvAJE9Qb5h9WyIi1PoP.png?ixlib=java-2.1.0&w=50&s=fb5cc17a7e784c586e6adb2372583c34"
+    },
+    "team2": {
+      "name": "Phantom",
+      "logo": "https://img-cdn.hltv.org/teamlogo/DzhUnKXRRy9yV2MILp29YH.png?ixlib=java-2.1.0&w=50&s=a856dc9cf0a2e9cb79c3166059885bed"
+    }
+  },
+  {
+    "hour": "12:00",
+    "date": "2026-10-16",
+    "link": "/matches/2399425/havu-vs-rounds-elisa-breakout-series-2",
+    "meta": "bo1",
+    "event": "Elisa BreakOut Series 2",
+    "team1": {
+      "name": "HAVU",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_bpWybCQhDRnPq8Z2ZYO5h.png?ixlib=java-2.1.0&w=50&s=2e3c9e1a0a833d4d92ce10ec8adddf00"
+    },
+    "team2": {
+      "name": "ROUNDS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/cPadDH7e0PYB9lswGtg-kW.png?ixlib=java-2.1.0&w=50&s=7b4a916788f23724abf71ca33d6a44e5"
+    }
+  },
+  {
+    "hour": "14:00",
+    "date": "2026-10-16",
+    "link": "/matches/2399426/voca-vs-havu-elisa-breakout-series-2",
+    "meta": "bo1",
+    "event": "Elisa BreakOut Series 2",
+    "team1": {
+      "name": "Voca",
+      "logo": "https://img-cdn.hltv.org/teamlogo/1Z_CvAJE9Qb5h9WyIi1PoP.png?ixlib=java-2.1.0&w=50&s=fb5cc17a7e784c586e6adb2372583c34"
+    },
+    "team2": {
+      "name": "HAVU",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_bpWybCQhDRnPq8Z2ZYO5h.png?ixlib=java-2.1.0&w=50&s=2e3c9e1a0a833d4d92ce10ec8adddf00"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-10-16",
+    "link": "/matches/2399427/phantom-vs-rounds-elisa-breakout-series-2",
+    "meta": "bo1",
+    "event": "Elisa BreakOut Series 2",
+    "team1": {
+      "name": "Phantom",
+      "logo": "https://img-cdn.hltv.org/teamlogo/DzhUnKXRRy9yV2MILp29YH.png?ixlib=java-2.1.0&w=50&s=a856dc9cf0a2e9cb79c3166059885bed"
+    },
+    "team2": {
+      "name": "ROUNDS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/cPadDH7e0PYB9lswGtg-kW.png?ixlib=java-2.1.0&w=50&s=7b4a916788f23724abf71ca33d6a44e5"
+    }
+  },
+  {
+    "hour": "18:00",
+    "date": "2026-10-16",
+    "link": "/matches/2399428/voca-vs-rounds-elisa-breakout-series-2",
+    "meta": "bo1",
+    "event": "Elisa BreakOut Series 2",
+    "team1": {
+      "name": "Voca",
+      "logo": "https://img-cdn.hltv.org/teamlogo/1Z_CvAJE9Qb5h9WyIi1PoP.png?ixlib=java-2.1.0&w=50&s=fb5cc17a7e784c586e6adb2372583c34"
+    },
+    "team2": {
+      "name": "ROUNDS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/cPadDH7e0PYB9lswGtg-kW.png?ixlib=java-2.1.0&w=50&s=7b4a916788f23724abf71ca33d6a44e5"
+    }
+  },
+  {
+    "hour": "20:00",
+    "date": "2026-10-16",
+    "link": "/matches/2399429/phantom-vs-havu-elisa-breakout-series-2",
+    "meta": "bo1",
+    "event": "Elisa BreakOut Series 2",
+    "team1": {
+      "name": "Phantom",
+      "logo": "https://img-cdn.hltv.org/teamlogo/DzhUnKXRRy9yV2MILp29YH.png?ixlib=java-2.1.0&w=50&s=a856dc9cf0a2e9cb79c3166059885bed"
+    },
+    "team2": {
+      "name": "HAVU",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_bpWybCQhDRnPq8Z2ZYO5h.png?ixlib=java-2.1.0&w=50&s=2e3c9e1a0a833d4d92ce10ec8adddf00"
     }
   }
 ]
