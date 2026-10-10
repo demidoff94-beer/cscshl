@@ -1,1 +1,660 @@
-[]
+[
+  {
+    "title": "sidde: \"We need to find a good balance to not get to the Major feeling 100% burned out\" ",
+    "img": "/img/static/flags/30x20/BR.gif",
+    "date": "2026-10-09",
+    "comments": "41 comments",
+    "link": "/news/45687/sidde-we-need-to-find-a-good-balance-to-not-get-to-the-major-feeling-100-burned-out"
+  },
+  {
+    "title": "Live updates from ESL Pro League S24 playoffs ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-09",
+    "comments": "39 comments",
+    "link": "/news/45680/live-updates-from-esl-pro-league-s24-playoffs"
+  },
+  {
+    "title": "Spirit outclass Falcons to set up MOUZ rematch ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-09",
+    "comments": "80 comments",
+    "link": "/news/45689/spirit-outclass-falcons-to-set-up-mouz-rematch"
+  },
+  {
+    "title": "Short news: Week 40 ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-10-09",
+    "comments": "190 comments",
+    "link": "/news/45641/short-news-week-40"
+  },
+  {
+    "title": "Astralis bench HooXi and jabbi ",
+    "img": "/img/static/flags/30x20/DK.gif",
+    "date": "2026-10-09",
+    "comments": "179 comments",
+    "link": "/news/45676/astralis-bench-hooxi-and-jabbi"
+  },
+  {
+    "title": "Thunderpick World Championship matchups announced with Virtus.pro replaced by NIP ",
+    "img": "/img/static/flags/30x20/MT.gif",
+    "date": "2026-10-09",
+    "comments": "24 comments",
+    "link": "/news/45688/thunderpick-world-championship-matchups-announced-with-virtuspro-replaced-by-nip"
+  },
+  {
+    "title": "MOUZ see off FURIA to continue flawless EPL run ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-09",
+    "comments": "36 comments",
+    "link": "/news/45686/mouz-see-off-furia-to-continue-flawless-epl-run"
+  },
+  {
+    "title": "Maden joins BIG Academy as in-game leader ",
+    "img": "/img/static/flags/30x20/ME.gif",
+    "date": "2026-10-09",
+    "comments": "95 comments",
+    "link": "/news/45685/maden-joins-big-academy-as-in-game-leader"
+  },
+  {
+    "title": "flameZ: \"Every second on TeamSpeak was alive, and when we talk like that, no one can beat us\" ",
+    "img": "/img/static/flags/30x20/IL.gif",
+    "date": "2026-10-09",
+    "comments": "18 comments",
+    "link": "/news/45684/flamez-every-second-on-teamspeak-was-alive-and-when-we-talk-like-that-no-one-can-beat-us"
+  },
+  {
+    "title": "Vitality move past PARIVISION to make EPL semi ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-09",
+    "comments": "27 comments",
+    "link": "/news/45683/vitality-move-past-parivision-to-make-epl-semi"
+  },
+  {
+    "title": "kyxsan: \"I'm always open to feedback; when you play with so many experienced and good players, you can learn from every one of them\" ",
+    "img": "/img/static/flags/30x20/MK.gif",
+    "date": "2026-10-09",
+    "comments": "67 comments",
+    "link": "/news/45682/kyxsan-im-always-open-to-feedback-when-you-play-with-so-many-experienced-and-good-players-you-can-learn-from-every-one-of-them"
+  },
+  {
+    "title": "Aurora advance to EPL semi-finals over 1win ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-09",
+    "comments": "30 comments",
+    "link": "/news/45681/aurora-advance-to-epl-semi-finals-over-1win"
+  },
+  {
+    "title": "Sashi sign chelleos ",
+    "img": "/img/static/flags/30x20/NZ.gif",
+    "date": "2026-10-08",
+    "comments": "139 comments",
+    "link": "/news/45679/sashi-sign-chelleos"
+  },
+  {
+    "title": "BC.Game CEO: \"Our Asian players are the ones with the longest contracts, we are here to stay\" ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-10-08",
+    "comments": "115 comments",
+    "link": "/news/45677/bcgame-ceo-our-asian-players-are-the-ones-with-the-longest-contracts-we-are-here-to-stay"
+  },
+  {
+    "title": "MistR mutually parts ways with Sashi ",
+    "img": "/img/static/flags/30x20/DK.gif",
+    "date": "2026-10-08",
+    "comments": "48 comments",
+    "link": "/news/45678/mistr-mutually-parts-ways-with-sashi"
+  },
+  {
+    "title": "kyousuke is second-most picked at $197,000 in EPL Playoffs Fantasy ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-10-08",
+    "comments": "38 comments",
+    "link": "/news/45675/kyousuke-is-second-most-picked-at-197000-in-epl-playoffs-fantasy"
+  },
+  {
+    "title": "All top-14 teams accept invites to PGL Bucharest 2027 ",
+    "img": "/img/static/flags/30x20/RO.gif",
+    "date": "2026-10-08",
+    "comments": "117 comments",
+    "link": "/news/45674/all-top-14-teams-accept-invites-to-pgl-bucharest-2027"
+  },
+  {
+    "title": "HLTV Prospects ranking: October 2026 ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-10-08",
+    "comments": "40 comments",
+    "link": "/news/45599/hltv-prospects-ranking-october-2026"
+  },
+  {
+    "title": "Matchups set for EPL quarter-finals ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-07",
+    "comments": "81 comments",
+    "link": "/news/45673/matchups-set-for-epl-quarter-finals"
+  },
+  {
+    "title": "Spirit secure last spot in the Spodek over M80 ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-07",
+    "comments": "35 comments",
+    "link": "/news/45672/spirit-secure-last-spot-in-the-spodek-over-m80"
+  },
+  {
+    "title": "The best highlights from EPL S24 groups ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-07",
+    "comments": "135 comments",
+    "link": "/news/45619/the-best-highlights-from-epl-s24-groups"
+  },
+  {
+    "title": "Sources: cmtry to join Astralis on loan ",
+    "img": "/img/static/flags/30x20/UA.gif",
+    "date": "2026-10-07",
+    "comments": "160 comments",
+    "link": "/news/45671/sources-cmtry-to-join-astralis-on-loan"
+  },
+  {
+    "title": "Aleksib: \"We need to enjoy the game more; all these setbacks make you overthink\" ",
+    "img": "/img/static/flags/30x20/FI.gif",
+    "date": "2026-10-07",
+    "comments": "59 comments",
+    "link": "/news/45668/aleksib-we-need-to-enjoy-the-game-more-all-these-setbacks-make-you-overthink"
+  },
+  {
+    "title": "HObbit: \"For me nowadays it's like a dream\" ",
+    "img": "/img/static/flags/30x20/KZ.gif",
+    "date": "2026-10-07",
+    "comments": "64 comments",
+    "link": "/news/45670/hobbit-for-me-nowadays-its-like-a-dream"
+  },
+  {
+    "title": "arT to return for Thunderpick World Championship ",
+    "img": "/img/static/flags/30x20/BR.gif",
+    "date": "2026-10-07",
+    "comments": "57 comments",
+    "link": "/news/45669/art-to-return-for-thunderpick-world-championship"
+  },
+  {
+    "title": "PARIVISION make EPL playoffs over NAVI ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-07",
+    "comments": "55 comments",
+    "link": "/news/45667/parivision-make-epl-playoffs-over-navi"
+  },
+  {
+    "title": "Valve issues exception for BC.Game to qualify for Singapore Major through Asia ",
+    "img": "/img/static/flags/30x20/ASIA.gif",
+    "date": "2026-10-07",
+    "comments": "450 comments",
+    "link": "/news/45666/valve-issues-exception-for-bcgame-to-qualify-for-singapore-major-through-asia"
+  },
+  {
+    "title": "KSCERATO: \"We're playing a lot of tournaments; when you see frustration, you can't handle it like you used to because you're so tired mentally\" ",
+    "img": "/img/static/flags/30x20/BR.gif",
+    "date": "2026-10-07",
+    "comments": "28 comments",
+    "link": "/news/45664/kscerato-were-playing-a-lot-of-tournaments-when-you-see-frustration-you-cant-handle-it-like-you-used-to-because-youre-so-tired-mentally"
+  },
+  {
+    "title": "FalleN reaches the Spodek one last time as FURIA overcome 9z in group stage decider ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-07",
+    "comments": "31 comments",
+    "link": "/news/45665/fallen-reaches-the-spodek-one-last-time-as-furia-overcome-9z-in-group-stage-decider"
+  },
+  {
+    "title": "BC.Game CEO asks for fresh start: \"Take all our points away\" ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-10-07",
+    "comments": "177 comments",
+    "link": "/news/45663/bcgame-ceo-asks-for-fresh-start-take-all-our-points-away"
+  },
+  {
+    "title": "Sources: Astralis look to replace duo ",
+    "img": "/img/static/flags/30x20/DK.gif",
+    "date": "2026-10-07",
+    "comments": "286 comments",
+    "link": "/news/45662/sources-astralis-look-to-replace-duo"
+  },
+  {
+    "title": "TaZ: \"[The new rule] is difficult for me to accept\" ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-07",
+    "comments": "191 comments",
+    "link": "/news/45661/taz-the-new-rule-is-difficult-for-me-to-accept"
+  },
+  {
+    "title": "Final group stage matchups set at EPL S24 ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-07",
+    "comments": "33 comments",
+    "link": "/news/45659/final-group-stage-matchups-set-at-epl-s24"
+  },
+  {
+    "title": "Falcons outlast NAVI to secure EPL playoffs ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-07",
+    "comments": "54 comments",
+    "link": "/news/45660/falcons-outlast-navi-to-secure-epl-playoffs"
+  },
+  {
+    "title": "Swisher: \"Everyone is hoping that Valve rethink their stance on the stickers\" ",
+    "img": "/img/static/flags/30x20/US.gif",
+    "date": "2026-10-06",
+    "comments": "32 comments",
+    "link": "/news/45658/swisher-everyone-is-hoping-that-valve-rethink-their-stance-on-the-stickers"
+  },
+  {
+    "title": "M80 eliminate arT-less Legacy from EPL ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-06",
+    "comments": "29 comments",
+    "link": "/news/45657/m80-eliminate-art-less-legacy-from-epl"
+  },
+  {
+    "title": "Aurora beat FURIA to qualify for Spodek ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-06",
+    "comments": "27 comments",
+    "link": "/news/45656/aurora-beat-furia-to-qualify-for-spodek"
+  },
+  {
+    "title": "magic sign lattykk to replace mo0N ",
+    "img": "/img/static/flags/30x20/RU.gif",
+    "date": "2026-10-06",
+    "comments": "106 comments",
+    "link": "/news/45654/magic-sign-lattykk-to-replace-mo0n"
+  },
+  {
+    "title": "Valve adjust rules for VRS region swaps ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-10-06",
+    "comments": "324 comments",
+    "link": "/news/45655/valve-adjust-rules-for-vrs-region-swaps"
+  },
+  {
+    "title": "9z send BETBOOM packing from Katowice ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-06",
+    "comments": "33 comments",
+    "link": "/news/45653/9z-send-betboom-packing-from-katowice"
+  },
+  {
+    "title": "HeavyGod: \"We need to check why our level was so low this event\" ",
+    "img": "/img/static/flags/30x20/IL.gif",
+    "date": "2026-10-06",
+    "comments": "61 comments",
+    "link": "/news/45652/heavygod-we-need-to-check-why-our-level-was-so-low-this-event"
+  },
+  {
+    "title": "PARIVISION eliminate G2 from EPL S24 ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-06",
+    "comments": "41 comments",
+    "link": "/news/45651/parivision-eliminate-g2-from-epl-s24"
+  },
+  {
+    "title": "nafany: \"I don't understand why players in Europe are not doing what we did with TDK\" ",
+    "img": "/img/static/flags/30x20/RU.gif",
+    "date": "2026-10-06",
+    "comments": "101 comments",
+    "link": "/news/45650/nafany-i-dont-understand-why-players-in-europe-are-not-doing-what-we-did-with-tdk"
+  },
+  {
+    "title": "1win stun Spirit to reach ESL Pro League playoffs ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-06",
+    "comments": "59 comments",
+    "link": "/news/45620/1win-stun-spirit-to-reach-esl-pro-league-playoffs"
+  },
+  {
+    "title": "ropz on maintaining their era: \"We have a lot more to give and we're not done with anything\" ",
+    "img": "/img/static/flags/30x20/EE.gif",
+    "date": "2026-10-06",
+    "comments": "64 comments",
+    "link": "/news/45648/ropz-on-maintaining-their-era-we-have-a-lot-more-to-give-and-were-not-done-with-anything"
+  },
+  {
+    "title": "NAVI to play Falcons on EPL S24 day three ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-05",
+    "comments": "32 comments",
+    "link": "/news/45649/navi-to-play-falcons-on-epl-s24-day-three"
+  },
+  {
+    "title": "Vitality reverse-sweep Falcons to make playoffs ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-05",
+    "comments": "52 comments",
+    "link": "/news/45647/vitality-reverse-sweep-falcons-to-make-playoffs"
+  },
+  {
+    "title": "Valve release October VRS update ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-10-05",
+    "comments": "37 comments",
+    "link": "/news/45646/valve-release-october-vrs-update"
+  },
+  {
+    "title": "torzsi: \"StarSeries was a nice slap in the face\" ",
+    "img": "/img/static/flags/30x20/HU.gif",
+    "date": "2026-10-05",
+    "comments": "17 comments",
+    "link": "/news/45643/torzsi-starseries-was-a-nice-slap-in-the-face"
+  },
+  {
+    "title": "M80 send TYLOO home from EPL S24 ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-05",
+    "comments": "19 comments",
+    "link": "/news/45645/m80-send-tyloo-home-from-epl-s24"
+  },
+  {
+    "title": "MOUZ hand Spirit first Swiss group stage loss in 668 days to make EPL playoffs ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-05",
+    "comments": "72 comments",
+    "link": "/news/45644/mouz-hand-spirit-first-swiss-group-stage-loss-in-668-days-to-make-epl-playoffs"
+  },
+  {
+    "title": "Community reacts: Sashi look to enter Asian VRS as Major race tightens ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-10-05",
+    "comments": "107 comments",
+    "link": "/news/45642/community-reacts-sashi-look-to-enter-asian-vrs-as-major-race-tightens"
+  },
+  {
+    "title": "huNter-: \"We cannot change everything to make r1nkle comfortable, but we are trying to implement his things\" ",
+    "img": "/img/static/flags/30x20/BA.gif",
+    "date": "2026-10-05",
+    "comments": "55 comments",
+    "link": "/news/45640/hunter-we-cannot-change-everything-to-make-r1nkle-comfortable-but-we-are-trying-to-implement-his-things"
+  },
+  {
+    "title": "Sashi target Asian VRS with Australian duo ",
+    "img": "/img/static/flags/30x20/AU.gif",
+    "date": "2026-10-05",
+    "comments": "197 comments",
+    "link": "/news/45639/sashi-target-asian-vrs-with-australian-duo"
+  },
+  {
+    "title": "The MongolZ sign nin9 and bring back cobrazera ",
+    "img": "/img/static/flags/30x20/MN.gif",
+    "date": "2026-10-05",
+    "comments": "93 comments",
+    "link": "/news/45638/the-mongolz-sign-nin9-and-bring-back-cobrazera"
+  },
+  {
+    "title": "Boombl4 on veto mind games: \"We were [16-4] on Dust2, and it's 0 maps played last 3 months\" ",
+    "img": "/img/static/flags/30x20/RU.gif",
+    "date": "2026-10-04",
+    "comments": "23 comments",
+    "link": "/news/45636/boombl4-on-veto-mind-games-we-were-16-4-on-dust2-and-its-0-maps-played-last-3-months"
+  },
+  {
+    "title": "Astralis beat Nemiga to win Stake Ranked Episode 4 and lift first LAN trophy since 2019 ",
+    "img": "/img/static/flags/30x20/ES.gif",
+    "date": "2026-10-04",
+    "comments": "61 comments",
+    "link": "/news/45637/astralis-beat-nemiga-to-win-stake-ranked-episode-4-and-lift-first-lan-trophy-since-2019"
+  },
+  {
+    "title": "Vitality beat NAVI as EPL S24 day two concludes ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-04",
+    "comments": "13 comments",
+    "link": "/news/45635/vitality-beat-navi-as-epl-s24-day-two-concludes"
+  },
+  {
+    "title": "BELCHONOKK: \"I feel much more comfortable now; in PARIVISION we had high expectations\" ",
+    "img": "/img/static/flags/30x20/RU.gif",
+    "date": "2026-10-04",
+    "comments": "28 comments",
+    "link": "/news/45632/belchonokk-i-feel-much-more-comfortable-now-in-parivision-we-had-high-expectations"
+  },
+  {
+    "title": "OG overhaul roster with Ex3rcice, nut nut, and Chucky signings ",
+    "img": "/img/static/flags/30x20/EU.gif",
+    "date": "2026-10-04",
+    "comments": "87 comments",
+    "link": "/news/45634/og-overhaul-roster-with-ex3rcice-nut-nut-and-chucky-signings"
+  },
+  {
+    "title": "G2 facing elimination in EPL after 1win loss ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-04",
+    "comments": "33 comments",
+    "link": "/news/45633/g2-facing-elimination-in-epl-after-1win-loss"
+  },
+  {
+    "title": "Short news: Week 39 ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-10-04",
+    "comments": "265 comments",
+    "link": "/news/45587/short-news-week-39"
+  },
+  {
+    "title": "Falcons sweep Aurora to stay flawless at EPL ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-04",
+    "comments": "28 comments",
+    "link": "/news/45631/falcons-sweep-aurora-to-stay-flawless-at-epl"
+  },
+  {
+    "title": "luchov: \"My playstyle really depends on confidence; I need to be useful also without it\" ",
+    "img": "/img/static/flags/30x20/AR.gif",
+    "date": "2026-10-04",
+    "comments": "6 comments",
+    "link": "/news/45630/luchov-my-playstyle-really-depends-on-confidence-i-need-to-be-useful-also-without-it"
+  },
+  {
+    "title": "5star settle for third as Chinggis Warriors win ESN Fall Showdown over The Huns ",
+    "img": "/img/static/flags/30x20/MN.gif",
+    "date": "2026-10-04",
+    "comments": "22 comments",
+    "link": "/news/45629/5star-settle-for-third-as-chinggis-warriors-win-esn-fall-showdown-over-the-huns"
+  },
+  {
+    "title": "NIP claim second consecutive title with ROG JOURNEY win ",
+    "img": "/img/static/flags/30x20/SE.gif",
+    "date": "2026-10-03",
+    "comments": "63 comments",
+    "link": "/news/45628/nip-claim-second-consecutive-title-with-rog-journey-win"
+  },
+  {
+    "title": "Nemiga through to Stake Ranked Episode 4 final ",
+    "img": "/img/static/flags/30x20/ES.gif",
+    "date": "2026-10-03",
+    "comments": "10 comments",
+    "link": "/news/45627/nemiga-through-to-stake-ranked-episode-4-final"
+  },
+  {
+    "title": "Vitality to play NAVI on EPL S24 day two ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-03",
+    "comments": "47 comments",
+    "link": "/news/45626/vitality-to-play-navi-on-epl-s24-day-two"
+  },
+  {
+    "title": "NAVI begin important EPL S24 campaign with decisive win over G2 ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-03",
+    "comments": "41 comments",
+    "link": "/news/45625/navi-begin-important-epl-s24-campaign-with-decisive-win-over-g2"
+  },
+  {
+    "title": "ash on Wicadia: \"He pays so much attention in prep now; I'm blown away, as a guy that wasn't throwing any grenades, he knows them all now\" ",
+    "img": "/img/static/flags/30x20/GB.gif",
+    "date": "2026-10-03",
+    "comments": "18 comments",
+    "link": "/news/45624/ash-on-wicadia-he-pays-so-much-attention-in-prep-now-im-blown-away-as-a-guy-that-wasnt-throwing-any-grenades-he-knows-them-all-now"
+  },
+  {
+    "title": "dastan: \"I try to play with HObbit to bring one more trophy for him\" ",
+    "img": "/img/static/flags/30x20/KZ.gif",
+    "date": "2026-10-03",
+    "comments": "40 comments",
+    "link": "/news/45622/dastan-i-try-to-play-with-hobbit-to-bring-one-more-trophy-for-him"
+  },
+  {
+    "title": "BCG and 100T eliminated from ROG JOURNEY ",
+    "img": "/img/static/flags/30x20/SE.gif",
+    "date": "2026-10-03",
+    "comments": "60 comments",
+    "link": "/news/45623/bcg-and-100t-eliminated-from-rog-journey"
+  },
+  {
+    "title": "PARIVISION secure massive VRS payout over arT-less Legacy ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-03",
+    "comments": "31 comments",
+    "link": "/news/45621/parivision-secure-massive-vrs-payout-over-art-less-legacy"
+  },
+  {
+    "title": "Luminosity and Nemiga move into Stake Ranked upper final ",
+    "img": "/img/static/flags/30x20/ES.gif",
+    "date": "2026-10-02",
+    "comments": "35 comments",
+    "link": "/news/45618/luminosity-and-nemiga-move-into-stake-ranked-upper-final"
+  },
+  {
+    "title": "makazze: \"If you think about [the Major], you cannot focus on the tournament, because you will have a lot of pressure\" ",
+    "img": "/img/static/flags/30x20/XK.gif",
+    "date": "2026-10-02",
+    "comments": "54 comments",
+    "link": "/news/45613/makazze-if-you-think-about-the-major-you-cannot-focus-on-the-tournament-because-you-will-have-a-lot-of-pressure"
+  },
+  {
+    "title": "molodoy: \"I'll try to play aggressive again\" ",
+    "img": "/img/static/flags/30x20/KZ.gif",
+    "date": "2026-10-02",
+    "comments": "42 comments",
+    "link": "/news/45611/molodoy-ill-try-to-play-aggressive-again"
+  },
+  {
+    "title": "BC.Game crack top two in Asia VRS after ROG JOURNEY groups ",
+    "img": "/img/static/flags/30x20/SE.gif",
+    "date": "2026-10-02",
+    "comments": "120 comments",
+    "link": "/news/45617/bcgame-crack-top-two-in-asia-vrs-after-rog-journey-groups"
+  },
+  {
+    "title": "dumau: \"arT's getting much better, he's probably coming to Malta to play Thunderpick\" ",
+    "img": "/img/static/flags/30x20/BR.gif",
+    "date": "2026-10-02",
+    "comments": "33 comments",
+    "link": "/news/45614/dumau-arts-getting-much-better-hes-probably-coming-to-malta-to-play-thunderpick"
+  },
+  {
+    "title": "kyousuke on improving his consistency: \"It's just being a bit smarter, being a bit more disciplined\" ",
+    "img": "/img/static/flags/30x20/RU.gif",
+    "date": "2026-10-02",
+    "comments": "50 comments",
+    "link": "/news/45612/kyousuke-on-improving-his-consistency-its-just-being-a-bit-smarter-being-a-bit-more-disciplined"
+  },
+  {
+    "title": "Astralis condemn FaZe to last-place exit at Stake ",
+    "img": "/img/static/flags/30x20/ES.gif",
+    "date": "2026-10-02",
+    "comments": "85 comments",
+    "link": "/news/45616/astralis-condemn-faze-to-last-place-exit-at-stake"
+  },
+  {
+    "title": "Thunderpick World Championship talent revealed ",
+    "img": "/img/static/flags/30x20/MT.gif",
+    "date": "2026-10-02",
+    "comments": "36 comments",
+    "link": "/news/45615/thunderpick-world-championship-talent-revealed"
+  },
+  {
+    "title": "siuhy leaves Liquid ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-02",
+    "comments": "86 comments",
+    "link": "/news/45605/siuhy-leaves-liquid"
+  },
+  {
+    "title": "xelex on developing his identity: \"I don't really like to be passive\" ",
+    "img": "/img/static/flags/30x20/HU.gif",
+    "date": "2026-10-02",
+    "comments": "35 comments",
+    "link": "/news/45610/xelex-on-developing-his-identity-i-dont-really-like-to-be-passive"
+  },
+  {
+    "title": "Mercury: \"The purpose of practice should be so they can make their own judgment calls, not just be limited to what's written on the tactics sheet\" ",
+    "img": "/img/static/flags/30x20/CN.gif",
+    "date": "2026-10-02",
+    "comments": "19 comments",
+    "link": "/news/45609/mercury-the-purpose-of-practice-should-be-so-they-can-make-their-own-judgment-calls-not-just-be-limited-to-whats-written-on-the-tactics-sheet"
+  },
+  {
+    "title": "Snappi: \"My individual level has gotten to the point where it's better to let some new faces come in\" ",
+    "img": "/img/static/flags/30x20/DK.gif",
+    "date": "2026-10-02",
+    "comments": "45 comments",
+    "link": "/news/45607/snappi-my-individual-level-has-gotten-to-the-point-where-its-better-to-let-some-new-faces-come-in"
+  },
+  {
+    "title": "FaZe and Astralis facing elimination after day one of Stake Ranked Episode 4 ",
+    "img": "/img/static/flags/30x20/ES.gif",
+    "date": "2026-10-01",
+    "comments": "53 comments",
+    "link": "/news/45608/faze-and-astralis-facing-elimination-after-day-one-of-stake-ranked-episode-4"
+  },
+  {
+    "title": "Sources: The MongolZ set sights on nin9 ",
+    "img": "/img/static/flags/30x20/MN.gif",
+    "date": "2026-10-01",
+    "comments": "112 comments",
+    "link": "/news/45604/sources-the-mongolz-set-sights-on-nin9"
+  },
+  {
+    "title": "donk is second-most-picked in EPL S24 group stage Fantasy despite $250k price ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-01",
+    "comments": "31 comments",
+    "link": "/news/45606/donk-is-second-most-picked-in-epl-s24-group-stage-fantasy-despite-250k-price"
+  },
+  {
+    "title": "Snappi takes over as HEROIC coach ",
+    "img": "/img/static/flags/30x20/DK.gif",
+    "date": "2026-10-01",
+    "comments": "169 comments",
+    "link": "/news/45602/snappi-takes-over-as-heroic-coach"
+  },
+  {
+    "title": "ESL expands IEM Cologne playoffs to eight teams for 2027, with 360\u00b0 stage setup ",
+    "img": "/img/static/flags/30x20/DE.gif",
+    "date": "2026-10-01",
+    "comments": "60 comments",
+    "link": "/news/45603/esl-expands-iem-cologne-playoffs-to-eight-teams-for-2027-with-360-stage-setup"
+  },
+  {
+    "title": "FUT confirm SunPayus signing ",
+    "img": "/img/static/flags/30x20/ES.gif",
+    "date": "2026-10-01",
+    "comments": "177 comments",
+    "link": "/news/45588/fut-confirm-sunpayus-signing"
+  },
+  {
+    "title": "HEROIC bench doto ",
+    "img": "/img/static/flags/30x20/FI.gif",
+    "date": "2026-10-01",
+    "comments": "90 comments",
+    "link": "/news/45601/heroic-bench-doto"
+  },
+  {
+    "title": "Rating 3.0 receives small accuracy improvements ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-10-01",
+    "comments": "80 comments",
+    "link": "/news/45596/rating-30-receives-small-accuracy-improvements"
+  },
+  {
+    "title": "LOUD drop unannounced CS team ",
+    "img": "/img/static/flags/30x20/BR.gif",
+    "date": "2026-10-01",
+    "comments": "62 comments",
+    "link": "/news/45600/loud-drop-unannounced-cs-team"
+  }
+]
