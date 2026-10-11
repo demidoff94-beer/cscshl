@@ -1,125 +1,5 @@
 [
   {
-    "hour": "22:15",
-    "date": "2026-10-10",
-    "link": "/matches/2399398/dendele-vs-imperial-frag-university-2026",
-    "meta": "bo1",
-    "event": "FRAG University 2026",
-    "team1": {
-      "name": "DENDELE",
-      "logo": "https://img-cdn.hltv.org/teamlogo/xKB2zOMgkFKoD-MLU484IV.png?ixlib=java-2.1.0&w=50&s=ca11299f789fb7c48d83130b8396af9f"
-    },
-    "team2": {
-      "name": "Imperial",
-      "logo": "https://img-cdn.hltv.org/teamlogo/bBDk6-rND06sAzn67b5RdP.png?ixlib=java-2.1.0&w=50&s=467e31ba123f509130d647fbf1e04ef2"
-    }
-  },
-  {
-    "hour": "22:15",
-    "date": "2026-10-10",
-    "link": "/matches/2399399/nrg-vs-wildcard-frag-university-2026",
-    "meta": "bo1",
-    "event": "FRAG University 2026",
-    "team1": {
-      "name": "NRG",
-      "logo": "https://img-cdn.hltv.org/teamlogo/SJZaPBCyZssru-pUDS3aZe.png?ixlib=java-2.1.0&w=50&s=5f4ca255d90b4ea7092882834bbf1bdc"
-    },
-    "team2": {
-      "name": "Wildcard",
-      "logo": "https://img-cdn.hltv.org/teamlogo/-46lJ-DcmPL_j_5R2WvLiS.png?ixlib=java-2.1.0&w=50&s=3bf750ca209fefcb665134fd61f43ffb"
-    }
-  },
-  {
-    "hour": "23:00",
-    "date": "2026-10-10",
-    "link": "/matches/2399196/ex-keyd-stars-vs-yawara-esl-challenger-league-season-52-south-america-cup-3",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 South America Cup 3",
-    "team1": {
-      "name": "ex-Keyd Stars",
-      "logo": "/dynamic-svg/teamplaceholder?letter=e"
-    },
-    "team2": {
-      "name": "Yawara",
-      "logo": "https://img-cdn.hltv.org/teamlogo/JwKJz_nvCUbB5kvZGK6Ho5.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=bb750d9f5993bd3df97cf2a05aeef701"
-    }
-  },
-  {
-    "hour": "23:00",
-    "date": "2026-10-10",
-    "link": "/matches/2399197/bounty-hunters-vs-lp-esl-challenger-league-season-52-south-america-cup-3",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 South America Cup 3",
-    "team1": {
-      "name": "Bounty Hunters",
-      "logo": "https://img-cdn.hltv.org/teamlogo/gID-fM4ZxvO6B78-OIKipA.png?ixlib=java-2.1.0&w=50&s=f230dcaef9e8bda5e8be0e7daeed1c9f"
-    },
-    "team2": {
-      "name": "LP",
-      "logo": "https://img-cdn.hltv.org/teamlogo/KBb30Dkm5nlsRT24ptDbYv.png?ixlib=java-2.1.0&w=50&s=ccd67bad274ec28c2fc439732b6dad8c"
-    }
-  },
-  {
-    "hour": "23:00",
-    "date": "2026-10-10",
-    "link": "/matches/2399198/galorys-vs-meia-noite-esl-challenger-league-season-52-south-america-cup-3",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 South America Cup 3",
-    "team1": {
-      "name": "Galorys",
-      "logo": "https://img-cdn.hltv.org/teamlogo/GljsUhNlV1YdE2Z1ge-HzK.png?ixlib=java-2.1.0&w=50&s=fd7e8570af28b29e7dfa34eab2c506b1"
-    },
-    "team2": {
-      "name": "MEIA NOITE",
-      "logo": "/dynamic-svg/teamplaceholder?letter=M"
-    }
-  },
-  {
-    "hour": "23:00",
-    "date": "2026-10-10",
-    "link": "/matches/2399199/procyon-vs-borracheiros-esl-challenger-league-season-52-south-america-cup-3",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 South America Cup 3",
-    "team1": {
-      "name": "Procyon",
-      "logo": "https://img-cdn.hltv.org/teamlogo/j3cZThec5Smnc2QLlkMZjX.png?ixlib=java-2.1.0&w=50&s=b90d609f9f63e6e1dcd8ef9772e7f92a"
-    },
-    "team2": {
-      "name": "BORRACHEIROS",
-      "logo": "/dynamic-svg/teamplaceholder?letter=B"
-    }
-  },
-  {
-    "hour": "01:30",
-    "date": "2026-10-11",
-    "link": "/matches/2399244/ground-zero-vs-abyssal-anzc-locals-brisbane-2026-season-2",
-    "meta": "bo1",
-    "event": "ANZC Locals Brisbane 2026 Season 2",
-    "team1": {
-      "name": "Ground Zero",
-      "logo": "https://img-cdn.hltv.org/teamlogo/rGAB_PzwZbvmNy3V8Xrven.png?ixlib=java-2.1.0&w=50&s=09d53655350132af167d0b5471525cd0"
-    },
-    "team2": {
-      "name": "Abyssal",
-      "logo": "https://img-cdn.hltv.org/teamlogo/U7fek6lTSLbntoy7CPINPF.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=6a373faf166e038ba3c765bcf47133ee"
-    }
-  },
-  {
-    "hour": "01:30",
-    "date": "2026-10-11",
-    "link": "/matches/2399245/flyquest-vs-kzg-anzc-locals-brisbane-2026-season-2",
-    "meta": "bo1",
-    "event": "ANZC Locals Brisbane 2026 Season 2",
-    "team1": {
-      "name": "FlyQuest",
-      "logo": "https://img-cdn.hltv.org/teamlogo/fmqTgF6Ziw0uied7MO3_ri.png?ixlib=java-2.1.0&w=50&s=255b5a4c460ad03161509ff7eb77b2dc"
-    },
-    "team2": {
-      "name": "KZG",
-      "logo": "https://img-cdn.hltv.org/teamlogo/3nBRNC2hmyfFgIGv65EKyf.png?ixlib=java-2.1.0&w=50&s=2cdee82e3a2de23a951d812e580a3c12"
-    }
-  },
-  {
     "hour": "03:00",
     "date": "2026-10-11",
     "link": "/matches/2399224/overtake-sector-vs-chicken-coop-esl-challenger-league-season-52-north-america-cup-3",
@@ -242,7 +122,7 @@
   {
     "hour": "13:30",
     "date": "2026-10-11",
-    "link": "/matches/2398756/aurora-vs-mouz-spirit-loser-esl-pro-league-season-24",
+    "link": "/matches/2398756/aurora-vs-spirit-esl-pro-league-season-24",
     "meta": "bo3",
     "event": "ESL Pro League Season 24",
     "team1": {
@@ -250,8 +130,8 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/yJzPNOeXlyiniNxanYJCrv.png?ixlib=java-2.1.0&w=50&s=2c08f70c2f2f8c2024a438ddcf19bbf1"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "Spirit",
+      "logo": "https://img-cdn.hltv.org/teamlogo/syrtYYKR7sBRw3ZHy1YFX7.png?ixlib=java-2.1.0&w=50&s=40e66714687bec05ea422255b1c0099e"
     }
   },
   {
@@ -302,7 +182,7 @@
   {
     "hour": "17:00",
     "date": "2026-10-11",
-    "link": "/matches/2398757/vitality-vs-mouz-spirit-winner-esl-pro-league-season-24",
+    "link": "/matches/2398757/vitality-vs-mouz-esl-pro-league-season-24",
     "meta": "bo5",
     "event": "ESL Pro League Season 24",
     "team1": {
@@ -310,8 +190,23 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/ogcHrcCdzRvxbYvAz04KAN.png?ixlib=java-2.1.0&w=50&s=e1f6019aa9f274ffe45a5e99c88dbc02"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "MOUZ",
+      "logo": "https://img-cdn.hltv.org/teamlogo/IejtXpquZnE8KqYPB1LNKw.svg?ixlib=java-2.1.0&s=7fd33b8def053fbfd8fdbb58e3bdcd3c"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-10-11",
+    "link": "/matches/2399289/antidaun-vs-saint-sinners-cct-2026-europe-series-11-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 11 Closed Qualifier",
+    "team1": {
+      "name": "antidaun",
+      "logo": "/dynamic-svg/teamplaceholder?letter=a"
+    },
+    "team2": {
+      "name": "Saint Sinners",
+      "logo": "/dynamic-svg/teamplaceholder?letter=S"
     }
   },
   {
@@ -327,6 +222,66 @@
     "team2": {
       "name": "Lavked",
       "logo": "/dynamic-svg/teamplaceholder?letter=L"
+    }
+  },
+  {
+    "hour": "19:45",
+    "date": "2026-10-11",
+    "link": "/matches/2399406/dendele-vs-tbd-frag-university-2026",
+    "meta": "bo3",
+    "event": "FRAG University 2026",
+    "team1": {
+      "name": "DENDELE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/xKB2zOMgkFKoD-MLU484IV.png?ixlib=java-2.1.0&w=50&s=ca11299f789fb7c48d83130b8396af9f"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "22:30",
+    "date": "2026-10-11",
+    "link": "/matches/2399407/wildcard-vs-tbd-frag-university-2026",
+    "meta": "bo5",
+    "event": "FRAG University 2026",
+    "team1": {
+      "name": "Wildcard",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-46lJ-DcmPL_j_5R2WvLiS.png?ixlib=java-2.1.0&w=50&s=3bf750ca209fefcb665134fd61f43ffb"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "23:00",
+    "date": "2026-10-11",
+    "link": "/matches/2399200/yawara-vs-galorys-esl-challenger-league-season-52-south-america-cup-3",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 South America Cup 3",
+    "team1": {
+      "name": "Yawara",
+      "logo": "https://img-cdn.hltv.org/teamlogo/JwKJz_nvCUbB5kvZGK6Ho5.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=bb750d9f5993bd3df97cf2a05aeef701"
+    },
+    "team2": {
+      "name": "Galorys",
+      "logo": "https://img-cdn.hltv.org/teamlogo/GljsUhNlV1YdE2Z1ge-HzK.png?ixlib=java-2.1.0&w=50&s=fd7e8570af28b29e7dfa34eab2c506b1"
+    }
+  },
+  {
+    "hour": "23:00",
+    "date": "2026-10-11",
+    "link": "/matches/2399201/borracheiros-vs-bounty-hunters-esl-challenger-league-season-52-south-america-cup-3",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 South America Cup 3",
+    "team1": {
+      "name": "BORRACHEIROS",
+      "logo": "/dynamic-svg/teamplaceholder?letter=B"
+    },
+    "team2": {
+      "name": "Bounty Hunters",
+      "logo": "https://img-cdn.hltv.org/teamlogo/gID-fM4ZxvO6B78-OIKipA.png?ixlib=java-2.1.0&w=50&s=f230dcaef9e8bda5e8be0e7daeed1c9f"
     }
   },
   {
@@ -402,6 +357,21 @@
     "team2": {
       "name": "Just Swing",
       "logo": "https://img-cdn.hltv.org/teamlogo/QRyGrQj3EGLYIAjqiMGvFn.png?ixlib=java-2.1.0&w=50&s=4c8d020e08d6ac9f0ffe5b5b21cad90b"
+    }
+  },
+  {
+    "hour": "23:00",
+    "date": "2026-10-12",
+    "link": "/matches/2399202/ex-keyd-stars-vs-lp-esl-challenger-league-season-52-south-america-cup-3",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 South America Cup 3",
+    "team1": {
+      "name": "ex-Keyd Stars",
+      "logo": "/dynamic-svg/teamplaceholder?letter=e"
+    },
+    "team2": {
+      "name": "LP",
+      "logo": "https://img-cdn.hltv.org/teamlogo/KBb30Dkm5nlsRT24ptDbYv.png?ixlib=java-2.1.0&w=50&s=ccd67bad274ec28c2fc439732b6dad8c"
     }
   },
   {
