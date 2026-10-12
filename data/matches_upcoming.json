@@ -1,65 +1,5 @@
 [
   {
-    "hour": "21:30",
-    "date": "2026-10-11",
-    "link": "/matches/2399406/dendele-vs-imperial-nrg-winner-frag-university-2026",
-    "meta": "bo3",
-    "event": "FRAG University 2026",
-    "team1": {
-      "name": "DENDELE",
-      "logo": "https://img-cdn.hltv.org/teamlogo/xKB2zOMgkFKoD-MLU484IV.png?ixlib=java-2.1.0&w=50&s=ca11299f789fb7c48d83130b8396af9f"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
-    }
-  },
-  {
-    "hour": "23:00",
-    "date": "2026-10-11",
-    "link": "/matches/2399200/yawara-vs-galorys-esl-challenger-league-season-52-south-america-cup-3",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 South America Cup 3",
-    "team1": {
-      "name": "Yawara",
-      "logo": "https://img-cdn.hltv.org/teamlogo/JwKJz_nvCUbB5kvZGK6Ho5.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=bb750d9f5993bd3df97cf2a05aeef701"
-    },
-    "team2": {
-      "name": "Galorys",
-      "logo": "https://img-cdn.hltv.org/teamlogo/GljsUhNlV1YdE2Z1ge-HzK.png?ixlib=java-2.1.0&w=50&s=fd7e8570af28b29e7dfa34eab2c506b1"
-    }
-  },
-  {
-    "hour": "23:00",
-    "date": "2026-10-11",
-    "link": "/matches/2399201/borracheiros-vs-bounty-hunters-esl-challenger-league-season-52-south-america-cup-3",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 South America Cup 3",
-    "team1": {
-      "name": "BORRACHEIROS",
-      "logo": "/dynamic-svg/teamplaceholder?letter=B"
-    },
-    "team2": {
-      "name": "Bounty Hunters",
-      "logo": "https://img-cdn.hltv.org/teamlogo/gID-fM4ZxvO6B78-OIKipA.png?ixlib=java-2.1.0&w=50&s=f230dcaef9e8bda5e8be0e7daeed1c9f"
-    }
-  },
-  {
-    "hour": "23:00",
-    "date": "2026-10-11",
-    "link": "/matches/2399407/wildcard-vs-tbd-frag-university-2026",
-    "meta": "bo5",
-    "event": "FRAG University 2026",
-    "team1": {
-      "name": "Wildcard",
-      "logo": "https://img-cdn.hltv.org/teamlogo/-46lJ-DcmPL_j_5R2WvLiS.png?ixlib=java-2.1.0&w=50&s=3bf750ca209fefcb665134fd61f43ffb"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
-    }
-  },
-  {
     "hour": "03:00",
     "date": "2026-10-12",
     "link": "/matches/2399228/overtake-sector-vs-regain-esl-challenger-league-season-52-north-america-cup-3",
@@ -87,6 +27,21 @@
     "team2": {
       "name": "Iowa Stormboar",
       "logo": "https://img-cdn.hltv.org/teamlogo/GqURbCKlAA99-cwuL01-dV.png?ixlib=java-2.1.0&w=50&s=1bd542c87bec397fe781cc1c9246a1c9"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-10-12",
+    "link": "/matches/2399290/enjoy-vs-saint-sinners-cct-2026-europe-series-11-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 11 Closed Qualifier",
+    "team1": {
+      "name": "Enjoy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/FXtaA3TkcW1-BMD3B-p1E7.png?ixlib=java-2.1.0&w=50&s=4cfdf5a6feba3bc93db929052dabb544"
+    },
+    "team2": {
+      "name": "Saint Sinners",
+      "logo": "/dynamic-svg/teamplaceholder?letter=S"
     }
   },
   {
@@ -150,6 +105,21 @@
     }
   },
   {
+    "hour": "13:00",
+    "date": "2026-10-12",
+    "link": "/matches/2399291/fire-flux-vs-mellren-cct-2026-europe-series-11-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 11 Closed Qualifier",
+    "team1": {
+      "name": "Fire Flux",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dEkPG3QFLGo6xl9DtGPsm2.png?ixlib=java-2.1.0&w=50&s=9a9c4eeb77fd921baa804a425d4e2825"
+    },
+    "team2": {
+      "name": "mellren",
+      "logo": "https://img-cdn.hltv.org/teamlogo/XoPLNSnX1gDDBGnI5BKYK2.png?ixlib=java-2.1.0&w=50&s=c9e8528ba9162307ea4cdeb98994b83f"
+    }
+  },
+  {
     "hour": "15:00",
     "date": "2026-10-12",
     "link": "/matches/2399172/lynn-vision-vs-just-swing-esl-challenger-league-season-52-asia-pacific-cup-3",
@@ -177,6 +147,21 @@
     "team2": {
       "name": "Chinggis Warriors",
       "logo": "https://img-cdn.hltv.org/teamlogo/esvV905BqvAKUUPLq8e89T.png?ixlib=java-2.1.0&w=50&s=dd947742be3993f7b235cd1928ab078e"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-10-12",
+    "link": "/matches/2399292/saw-youngsters-vs-illyrians-cct-2026-europe-series-11-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 11 Closed Qualifier",
+    "team1": {
+      "name": "SAW Youngsters",
+      "logo": "https://img-cdn.hltv.org/teamlogo/jYQ4aML6vXnDCKEQ04ano1.png?ixlib=java-2.1.0&w=50&s=33afd7f95988d02b181f7c4a75c7fb79"
+    },
+    "team2": {
+      "name": "Illyrians",
+      "logo": "https://img-cdn.hltv.org/teamlogo/cCPQDYWgTSfZKfjVvVLMoy.png?ixlib=java-2.1.0&w=50&s=7013d02394a2fc3236a41f19869f5b36"
     }
   },
   {
@@ -225,18 +210,18 @@
     }
   },
   {
-    "hour": "16:00",
+    "hour": "19:00",
     "date": "2026-10-12",
-    "link": "/matches/2399452/genone-vs-tbd-pgl-bucharest-2027-open-qualifier-1",
+    "link": "/matches/2399293/6666-vs-megoshort-cct-2026-europe-series-11-closed-qualifier",
     "meta": "bo3",
-    "event": "PGL Bucharest 2027 Open Qualifier 1",
+    "event": "CCT 2026 Europe Series 11 Closed Qualifier",
     "team1": {
-      "name": "GenOne",
-      "logo": "https://img-cdn.hltv.org/teamlogo/DlMJrDmPA7qofO3HhP7Tbe.png?ixlib=java-2.1.0&w=50&s=5dedfb534782d2c3e00a5d476fc8fba9"
+      "name": "6666",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dt87uFqACOFRSzmDKsHh_N.png?ixlib=java-2.1.0&w=50&s=4f91fca81f16fd1854f91bfafc6cf99e"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "megoshort",
+      "logo": "https://img-cdn.hltv.org/teamlogo/KZxIFGye1KNVn7Q6Zt6hiV.png?ixlib=java-2.1.0&w=50&s=55ddac5f2aaddb4510f3dad57779c859"
     }
   },
   {
@@ -252,6 +237,21 @@
     "team2": {
       "name": "LP",
       "logo": "https://img-cdn.hltv.org/teamlogo/KBb30Dkm5nlsRT24ptDbYv.png?ixlib=java-2.1.0&w=50&s=ccd67bad274ec28c2fc439732b6dad8c"
+    }
+  },
+  {
+    "hour": "23:00",
+    "date": "2026-10-12",
+    "link": "/matches/2399203/galorys-vs-bounty-hunters-esl-challenger-league-season-52-south-america-cup-3",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 South America Cup 3",
+    "team1": {
+      "name": "Galorys",
+      "logo": "https://img-cdn.hltv.org/teamlogo/GljsUhNlV1YdE2Z1ge-HzK.png?ixlib=java-2.1.0&w=50&s=fd7e8570af28b29e7dfa34eab2c506b1"
+    },
+    "team2": {
+      "name": "Bounty Hunters",
+      "logo": "https://img-cdn.hltv.org/teamlogo/gID-fM4ZxvO6B78-OIKipA.png?ixlib=java-2.1.0&w=50&s=f230dcaef9e8bda5e8be0e7daeed1c9f"
     }
   },
   {
@@ -597,6 +597,66 @@
     "team2": {
       "name": "HAVU",
       "logo": "https://img-cdn.hltv.org/teamlogo/_bpWybCQhDRnPq8Z2ZYO5h.png?ixlib=java-2.1.0&w=50&s=2e3c9e1a0a833d4d92ce10ec8adddf00"
+    }
+  },
+  {
+    "hour": "11:00",
+    "date": "2026-10-19",
+    "link": "/matches/2398989/big-vs-private-1win-private-club-season-2",
+    "meta": "bo3",
+    "event": "1win Private Club Season 2",
+    "team1": {
+      "name": "BIG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/OgMRQA35hopXA8kDwMFHIY.svg?ixlib=java-2.1.0&s=ec7bc44165c7acf4224a22a1338ab7d7"
+    },
+    "team2": {
+      "name": "PRIVATE",
+      "logo": "/dynamic-svg/teamplaceholder?letter=P"
+    }
+  },
+  {
+    "hour": "14:00",
+    "date": "2026-10-19",
+    "link": "/matches/2398990/the-mongolz-vs-alliance-1win-private-club-season-2",
+    "meta": "bo3",
+    "event": "1win Private Club Season 2",
+    "team1": {
+      "name": "The MongolZ",
+      "logo": "https://img-cdn.hltv.org/teamlogo/bRk2sh_tSTO6fq1GLhgcal.png?ixlib=java-2.1.0&w=50&s=8b08e53858eb817852ae74b30a30151d"
+    },
+    "team2": {
+      "name": "Alliance",
+      "logo": "https://img-cdn.hltv.org/teamlogo/xsWK0BtR26rN776qdnWFC1.png?ixlib=java-2.1.0&w=50&s=4aaf659c3855ebf08c78c157a0653352"
+    }
+  },
+  {
+    "hour": "17:00",
+    "date": "2026-10-19",
+    "link": "/matches/2398991/liquid-vs-fnatic-1win-private-club-season-2",
+    "meta": "bo3",
+    "event": "1win Private Club Season 2",
+    "team1": {
+      "name": "Liquid",
+      "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62"
+    },
+    "team2": {
+      "name": "fnatic",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e"
+    }
+  },
+  {
+    "hour": "20:00",
+    "date": "2026-10-19",
+    "link": "/matches/2398992/parivision-vs-magic-1win-private-club-season-2",
+    "meta": "bo3",
+    "event": "1win Private Club Season 2",
+    "team1": {
+      "name": "PARIVISION",
+      "logo": "https://img-cdn.hltv.org/teamlogo/MFcDe-M8wfGOUU6x4sRELR.png?ixlib=java-2.1.0&w=50&s=1d91076a58b354d8c3eaeda3162c292e"
+    },
+    "team2": {
+      "name": "magic",
+      "logo": "https://img-cdn.hltv.org/teamlogo/KYi27Dm-DVyEUj0WIG5Bdx.png?ixlib=java-2.1.0&w=50&s=d490c0b14e24cbc6ddd70f0534ff3651"
     }
   }
 ]
