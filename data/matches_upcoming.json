@@ -1,35 +1,5 @@
 [
   {
-    "hour": "03:00",
-    "date": "2026-10-12",
-    "link": "/matches/2399228/overtake-sector-vs-regain-esl-challenger-league-season-52-north-america-cup-3",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 North America Cup 3",
-    "team1": {
-      "name": "Overtake Sector",
-      "logo": "https://img-cdn.hltv.org/teamlogo/VdRzYYxYU4tQuLTPJXud9C.png?ixlib=java-2.1.0&w=50&s=504457aaa043dea7ccd7ae30f0f270b4"
-    },
-    "team2": {
-      "name": "regain",
-      "logo": "https://img-cdn.hltv.org/teamlogo/-bjzyIYz1cnZSmS-8FE2fJ.png?ixlib=java-2.1.0&w=50&s=88b7b4f31c4a03bbc2310bb4c6624f03"
-    }
-  },
-  {
-    "hour": "03:00",
-    "date": "2026-10-12",
-    "link": "/matches/2399229/detonate-vs-iowa-stormboar-esl-challenger-league-season-52-north-america-cup-3",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 North America Cup 3",
-    "team1": {
-      "name": "DETONATE",
-      "logo": "https://img-cdn.hltv.org/teamlogo/Nh2yiqeEdJmgvMYvfD78mN.png?ixlib=java-2.1.0&w=50&s=45fdbf464ca9f94014446a0e82bc81e5"
-    },
-    "team2": {
-      "name": "Iowa Stormboar",
-      "logo": "https://img-cdn.hltv.org/teamlogo/GqURbCKlAA99-cwuL01-dV.png?ixlib=java-2.1.0&w=50&s=1bd542c87bec397fe781cc1c9246a1c9"
-    }
-  },
-  {
     "hour": "10:00",
     "date": "2026-10-12",
     "link": "/matches/2399290/enjoy-vs-saint-sinners-cct-2026-europe-series-11-closed-qualifier",
@@ -267,6 +237,21 @@
     "team2": {
       "name": "Zomblers",
       "logo": "https://img-cdn.hltv.org/teamlogo/dzs1Ru_r0dAPURqi9Hldhj.png?ixlib=java-2.1.0&w=50&s=5f7336395fe481e9fea781589616b89b"
+    }
+  },
+  {
+    "hour": "03:00",
+    "date": "2026-10-13",
+    "link": "/matches/2399231/overtake-sector-vs-iowa-stormboar-esl-challenger-league-season-52-north-america-cup-3",
+    "meta": "bo3",
+    "event": "ESL Challenger League Season 52 North America Cup 3",
+    "team1": {
+      "name": "Overtake Sector",
+      "logo": "https://img-cdn.hltv.org/teamlogo/VdRzYYxYU4tQuLTPJXud9C.png?ixlib=java-2.1.0&w=50&s=504457aaa043dea7ccd7ae30f0f270b4"
+    },
+    "team2": {
+      "name": "Iowa Stormboar",
+      "logo": "https://img-cdn.hltv.org/teamlogo/GqURbCKlAA99-cwuL01-dV.png?ixlib=java-2.1.0&w=50&s=1bd542c87bec397fe781cc1c9246a1c9"
     }
   },
   {
