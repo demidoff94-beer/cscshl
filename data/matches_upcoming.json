@@ -1,92 +1,17 @@
 [
   {
-    "hour": "00:00",
+    "hour": "08:00",
     "date": "2026-10-15",
-    "link": "/matches/2399575/joga-de-terno-vs-a-nata-cct-2026-south-america-series-7",
-    "meta": "bo3",
-    "event": "CCT 2026 South America Series 7",
-    "team1": {
-      "name": "JOGA DE TERNO",
-      "logo": "/dynamic-svg/teamplaceholder?letter=J"
-    },
-    "team2": {
-      "name": "A NATA",
-      "logo": "/dynamic-svg/teamplaceholder?letter=A"
-    }
-  },
-  {
-    "hour": "02:00",
-    "date": "2026-10-15",
-    "link": "/matches/2399533/nexvoid-vs-mindfreak-dfrag-logitech-g-pro-series-2026",
+    "link": "/matches/2399537/mindfreak-vs-rooster-dfrag-logitech-g-pro-series-2026",
     "meta": "bo3",
     "event": "DFRAG Logitech G Pro Series 2026",
     "team1": {
-      "name": "NEXVOID",
-      "logo": "https://img-cdn.hltv.org/teamlogo/zyy3eHTeRqdTqLKRIUJ9P-.png?ixlib=java-2.1.0&w=50&s=056b3b5aaa5520a3522d69954e992120"
-    },
-    "team2": {
       "name": "Mindfreak",
       "logo": "https://img-cdn.hltv.org/teamlogo/JXoqNVZaSa0PHYSnfNeJGO.png?ixlib=java-2.1.0&w=50&s=24a2d2849779f23196e546a6ab58c933"
-    }
-  },
-  {
-    "hour": "02:00",
-    "date": "2026-10-15",
-    "link": "/matches/2399534/rare-atom-vs-rooster-dfrag-logitech-g-pro-series-2026",
-    "meta": "bo3",
-    "event": "DFRAG Logitech G Pro Series 2026",
-    "team1": {
-      "name": "Rare Atom",
-      "logo": "https://img-cdn.hltv.org/teamlogo/CH9I3Xh0tW94uEN1BMe9Pu.png?ixlib=java-2.1.0&w=50&s=fda7c0e83d4889a4164b99316b8f358f"
     },
     "team2": {
       "name": "Rooster",
       "logo": "https://img-cdn.hltv.org/teamlogo/LPjU8AAPrha2zdFvetTTMp.png?ixlib=java-2.1.0&w=50&s=e3db90a303823ddd00ad39fa7b963a8d"
-    }
-  },
-  {
-    "hour": "03:00",
-    "date": "2026-10-15",
-    "link": "/matches/2399233/chicken-coop-vs-overtake-sector-esl-challenger-league-season-52-north-america-cup-3",
-    "meta": "bo3",
-    "event": "ESL Challenger League Season 52 North America Cup 3",
-    "team1": {
-      "name": "Chicken Coop",
-      "logo": "https://img-cdn.hltv.org/teamlogo/b4BdjAEO0sntamT0gjZFx1.png?ixlib=java-2.1.0&w=50&s=40c84b4545e75a1729296ea6fbbb23ea"
-    },
-    "team2": {
-      "name": "Overtake Sector",
-      "logo": "https://img-cdn.hltv.org/teamlogo/VdRzYYxYU4tQuLTPJXud9C.png?ixlib=java-2.1.0&w=50&s=504457aaa043dea7ccd7ae30f0f270b4"
-    }
-  },
-  {
-    "hour": "05:00",
-    "date": "2026-10-15",
-    "link": "/matches/2399535/rooster-vs-nexvoid-mindfreak-winner-dfrag-logitech-g-pro-series-2026",
-    "meta": "bo3",
-    "event": "DFRAG Logitech G Pro Series 2026",
-    "team1": {
-      "name": "Rooster",
-      "logo": "https://img-cdn.hltv.org/teamlogo/LPjU8AAPrha2zdFvetTTMp.png?ixlib=java-2.1.0&w=50&s=e3db90a303823ddd00ad39fa7b963a8d"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
-    }
-  },
-  {
-    "hour": "05:00",
-    "date": "2026-10-15",
-    "link": "/matches/2399536/rare-atom-vs-nexvoid-mindfreak-loser-dfrag-logitech-g-pro-series-2026",
-    "meta": "bo3",
-    "event": "DFRAG Logitech G Pro Series 2026",
-    "team1": {
-      "name": "Rare Atom",
-      "logo": "https://img-cdn.hltv.org/teamlogo/CH9I3Xh0tW94uEN1BMe9Pu.png?ixlib=java-2.1.0&w=50&s=fda7c0e83d4889a4164b99316b8f358f"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
     }
   },
   {
@@ -570,6 +495,21 @@
     }
   },
   {
+    "hour": "15:00",
+    "date": "2026-10-16",
+    "link": "/matches/2399671/joga-de-terno-vs-your-end-cct-2026-south-america-series-7",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 7",
+    "team1": {
+      "name": "JOGA DE TERNO",
+      "logo": "/dynamic-svg/teamplaceholder?letter=J"
+    },
+    "team2": {
+      "name": "your end",
+      "logo": "/dynamic-svg/teamplaceholder?letter=y"
+    }
+  },
+  {
     "hour": "16:00",
     "date": "2026-10-16",
     "link": "/matches/2399308/forze-reload-vs-lavked-cct-2026-europe-series-11",
@@ -627,6 +567,21 @@
     "team2": {
       "name": "ROUNDS",
       "logo": "https://img-cdn.hltv.org/teamlogo/cPadDH7e0PYB9lswGtg-kW.png?ixlib=java-2.1.0&w=50&s=7b4a916788f23724abf71ca33d6a44e5"
+    }
+  },
+  {
+    "hour": "18:00",
+    "date": "2026-10-16",
+    "link": "/matches/2399672/procyon-vs-los-ninos-cct-2026-south-america-series-7",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 7",
+    "team1": {
+      "name": "Procyon",
+      "logo": "https://img-cdn.hltv.org/teamlogo/j3cZThec5Smnc2QLlkMZjX.png?ixlib=java-2.1.0&w=50&s=b90d609f9f63e6e1dcd8ef9772e7f92a"
+    },
+    "team2": {
+      "name": "LOS NINOS",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L"
     }
   },
   {
