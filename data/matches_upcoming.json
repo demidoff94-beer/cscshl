@@ -1,140 +1,5 @@
 [
   {
-    "hour": "19:00",
-    "date": "2026-10-16",
-    "link": "/matches/2399265/100-thieves-vs-sangal-stake-pulse-beat-iii",
-    "meta": "bo3",
-    "event": "Stake Pulse Beat III",
-    "team1": {
-      "name": "100 Thieves",
-      "logo": "https://img-cdn.hltv.org/teamlogo/QdpX-_6C2wHMgv98VAE6il.png?ixlib=java-2.1.0&w=50&s=5f34e763e5f7c7d0408a8814f42d7a87"
-    },
-    "team2": {
-      "name": "Sangal",
-      "logo": "https://img-cdn.hltv.org/teamlogo/zPv_FeMF8CANC10Jz32P9l.png?ixlib=java-2.1.0&w=50&s=741a13d27b484b39f24cdc76dbf80568"
-    }
-  },
-  {
-    "hour": "19:00",
-    "date": "2026-10-16",
-    "link": "/matches/2399309/baks-vs-g2-ares-cct-2026-europe-series-11",
-    "meta": "bo3",
-    "event": "CCT 2026 Europe Series 11",
-    "team1": {
-      "name": "BAKS",
-      "logo": "https://img-cdn.hltv.org/teamlogo/addrkF7msTiD-HdGMcCXbZ.png?ixlib=java-2.1.0&w=50&s=77c6157e0f8f6c0cc067dba37eb1110c"
-    },
-    "team2": {
-      "name": "G2 Ares",
-      "logo": "https://img-cdn.hltv.org/teamlogo/7s-UIVdwo4C6iV1zYq20Ou.png?ixlib=java-2.1.0&w=50&s=30beb08dcc7ff03452b4ab839828307a"
-    }
-  },
-  {
-    "hour": "19:00",
-    "date": "2026-10-16",
-    "link": "/matches/2399413/betboom-vs-legacy-thunderpick-world-championship-2026",
-    "meta": "bo3",
-    "event": "Thunderpick World Championship 2026",
-    "team1": {
-      "name": "BETBOOM",
-      "logo": "https://img-cdn.hltv.org/teamlogo/G4ZrdB0-q41USPd_z27IQA.png?ixlib=java-2.1.0&w=50&s=9c15ddf70f9c66399d4a47e0d8e93511"
-    },
-    "team2": {
-      "name": "Legacy",
-      "logo": "https://img-cdn.hltv.org/teamlogo/RWbHH6RA8uGwJurGeLFvSr.png?ixlib=java-2.1.0&w=50&s=3d251032e156cab2f6df8c630ca29745"
-    }
-  },
-  {
-    "hour": "19:00",
-    "date": "2026-10-16",
-    "link": "/matches/2399645/black-phoenix-vs-young-tigeres-y27-winner-gluck-yungstar-2026-series-3",
-    "meta": "bo3",
-    "event": "GLuck Yungstar 2026 Series 3",
-    "team1": {
-      "name": "Black Phoenix",
-      "logo": "https://img-cdn.hltv.org/teamlogo/FeWUb1K1oVk3xsrzBxaEz0.png?ixlib=java-2.1.0&w=50&s=2de1dbd4da9be1c044e1608eeb34ff6c"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
-    }
-  },
-  {
-    "hour": "19:00",
-    "date": "2026-10-16",
-    "link": "/matches/2399649/xcity-vs-young-tigeres-y27-loser-gluck-yungstar-2026-series-3",
-    "meta": "bo3",
-    "event": "GLuck Yungstar 2026 Series 3",
-    "team1": {
-      "name": "Xcity",
-      "logo": "https://img-cdn.hltv.org/teamlogo/HwE3hD7JAtC8-F7yXIMZb_.png?ixlib=java-2.1.0&w=50&s=a96229b946103ae8c262c485da1b0063"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
-    }
-  },
-  {
-    "hour": "19:00",
-    "date": "2026-10-16",
-    "link": "/matches/2399657/gamerlegion-vs-ex-rustec-pgl-bucharest-2027-closed-qualifier",
-    "meta": "bo3",
-    "event": "PGL Bucharest 2027 Closed Qualifier",
-    "team1": {
-      "name": "GamerLegion",
-      "logo": "https://img-cdn.hltv.org/teamlogo/vN7O46QoQ346WIRZ8D3spC.png?ixlib=java-2.1.0&w=50&s=f139433d31902eea5898c3a63fcc643a"
-    },
-    "team2": {
-      "name": "ex-RUSTEC",
-      "logo": "/dynamic-svg/teamplaceholder?letter=e"
-    }
-  },
-  {
-    "hour": "21:00",
-    "date": "2026-10-16",
-    "link": "/matches/2399650/jumbo-vs-tbd-gluck-yungstar-2026-series-3",
-    "meta": "bo3",
-    "event": "GLuck Yungstar 2026 Series 3",
-    "team1": {
-      "name": "JUMBO",
-      "logo": "https://img-cdn.hltv.org/teamlogo/568bCFHKBUnfzxRbFKoaMV.png?ixlib=java-2.1.0&w=50&s=fd73f269707aced36070bcecb5f34520"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
-    }
-  },
-  {
-    "hour": "21:00",
-    "date": "2026-10-16",
-    "link": "/matches/2399651/quazar-vs-tbd-gluck-yungstar-2026-series-3",
-    "meta": "bo3",
-    "event": "GLuck Yungstar 2026 Series 3",
-    "team1": {
-      "name": "QUAZAR",
-      "logo": "https://img-cdn.hltv.org/teamlogo/YiIFGuv43P9_fALVOSLJHh.png?ixlib=java-2.1.0&w=50&s=fb7fb2d19c66e04b89e883b0948ca78a"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
-    }
-  },
-  {
-    "hour": "21:00",
-    "date": "2026-10-16",
-    "link": "/matches/2399762/honvd-vs-lavked-cis-esports-league-cyberclash-season-2",
-    "meta": "bo3",
-    "event": "CIS Esports League CyberClash Season 2",
-    "team1": {
-      "name": "Honv\u00e9d",
-      "logo": "https://img-cdn.hltv.org/teamlogo/GRDCTjbpIWDj6cS-k5j69x.png?ixlib=java-2.1.0&w=50&s=9eeb2cd0832ec343547466896a0b8f89"
-    },
-    "team2": {
-      "name": "Lavked",
-      "logo": "/dynamic-svg/teamplaceholder?letter=L"
-    }
-  },
-  {
     "hour": "02:00",
     "date": "2026-10-17",
     "link": "/matches/2399543/nexvoid-vs-off-chops-dfrag-logitech-g-pro-series-2026",
@@ -197,6 +62,36 @@
   {
     "hour": "10:00",
     "date": "2026-10-17",
+    "link": "/matches/2399310/g2-ares-vs-ex-6666-cct-2026-europe-series-11",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 11",
+    "team1": {
+      "name": "G2 Ares",
+      "logo": "https://img-cdn.hltv.org/teamlogo/7s-UIVdwo4C6iV1zYq20Ou.png?ixlib=java-2.1.0&w=50&s=30beb08dcc7ff03452b4ab839828307a"
+    },
+    "team2": {
+      "name": "ex-6666",
+      "logo": "/dynamic-svg/teamplaceholder?letter=e"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-10-17",
+    "link": "/matches/2399430/wbt-vs-havu-elisa-breakout-series-2",
+    "meta": "bo3",
+    "event": "Elisa BreakOut Series 2",
+    "team1": {
+      "name": "WBT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_coqH_U02fBToVR-m_CKsU.png?ixlib=java-2.1.0&w=50&s=75768cd6a2752f22940f96c831bb31a6"
+    },
+    "team2": {
+      "name": "HAVU",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_bpWybCQhDRnPq8Z2ZYO5h.png?ixlib=java-2.1.0&w=50&s=2e3c9e1a0a833d4d92ce10ec8adddf00"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-10-17",
     "link": "/matches/2399658/eternal-fire-vs-nuclear-tigeres-pgl-bucharest-2027-closed-qualifier",
     "meta": "bo3",
     "event": "PGL Bucharest 2027 Closed Qualifier",
@@ -212,7 +107,7 @@
   {
     "hour": "11:00",
     "date": "2026-10-17",
-    "link": "/matches/2399646/vpfuture-vs-tbd-gluck-yungstar-2026-series-3",
+    "link": "/matches/2399646/vpfuture-vs-black-phoenix-gluck-yungstar-2026-series-3",
     "meta": "bo3",
     "event": "GLuck Yungstar 2026 Series 3",
     "team1": {
@@ -220,8 +115,8 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/a9Ukx-rpMOPXRnqWIRQHWm.png?ixlib=java-2.1.0&w=50&s=6f50672be3b1687515daf4026cc05dfc"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "Black Phoenix",
+      "logo": "https://img-cdn.hltv.org/teamlogo/FeWUb1K1oVk3xsrzBxaEz0.png?ixlib=java-2.1.0&w=50&s=2de1dbd4da9be1c044e1608eeb34ff6c"
     }
   },
   {
@@ -242,16 +137,46 @@
   {
     "hour": "13:00",
     "date": "2026-10-17",
-    "link": "/matches/2399474/privateer-vs-noir-verse-antidaun-loser-cct-2026-europe-series-12-closed-qualifier",
+    "link": "/matches/2399267/mibr-vs-100-thieves-stake-pulse-beat-iii",
     "meta": "bo3",
-    "event": "CCT 2026 Europe Series 12 Closed Qualifier",
+    "event": "Stake Pulse Beat III",
     "team1": {
-      "name": "Privateer",
-      "logo": "https://img-cdn.hltv.org/teamlogo/WNG2XtUyzlCEDCwL5SFd3M.png?ixlib=java-2.1.0&w=50&s=da08ed10b01177566f320f2b15dbb991"
+      "name": "MIBR",
+      "logo": "https://img-cdn.hltv.org/teamlogo/sVnH-oAf1J5TnMwoY4cxUC.png?ixlib=java-2.1.0&w=50&s=b0ef463fa0f1638bce72a89590fbaddf"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "100 Thieves",
+      "logo": "https://img-cdn.hltv.org/teamlogo/QdpX-_6C2wHMgv98VAE6il.png?ixlib=java-2.1.0&w=50&s=5f34e763e5f7c7d0408a8814f42d7a87"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-10-17",
+    "link": "/matches/2399311/lavked-vs-lfo-10-cct-2026-europe-series-11",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 11",
+    "team1": {
+      "name": "Lavked",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L"
+    },
+    "team2": {
+      "name": "LFO 10",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-10-17",
+    "link": "/matches/2399659/eyeballers-vs-gamerlegion-pgl-bucharest-2027-closed-qualifier",
+    "meta": "bo3",
+    "event": "PGL Bucharest 2027 Closed Qualifier",
+    "team1": {
+      "name": "EYEBALLERS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/3-Mfc-yWBTls8MPSEFhma5.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=2ffde3e377d01663937bf08b74d2057b"
+    },
+    "team2": {
+      "name": "GamerLegion",
+      "logo": "https://img-cdn.hltv.org/teamlogo/vN7O46QoQ346WIRZ8D3spC.png?ixlib=java-2.1.0&w=50&s=f139433d31902eea5898c3a63fcc643a"
     }
   },
   {
@@ -267,6 +192,36 @@
     "team2": {
       "name": "DONSTU",
       "logo": "https://img-cdn.hltv.org/teamlogo/9ueb9xIjZJND19aXJ-02H-.png?ixlib=java-2.1.0&w=50&s=aafb584d0a8eee097f9129fe1b7602db"
+    }
+  },
+  {
+    "hour": "14:00",
+    "date": "2026-10-17",
+    "link": "/matches/2399431/ence-vs-phantom-elisa-breakout-series-2",
+    "meta": "bo3",
+    "event": "Elisa BreakOut Series 2",
+    "team1": {
+      "name": "ENCE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-X8NoyWC_1gYqUHvZqcpkc.svg?ixlib=java-2.1.0&s=85bb9daa6f846fa097c5942f2565fdb8"
+    },
+    "team2": {
+      "name": "Phantom",
+      "logo": "https://img-cdn.hltv.org/teamlogo/DzhUnKXRRy9yV2MILp29YH.png?ixlib=java-2.1.0&w=50&s=a856dc9cf0a2e9cb79c3166059885bed"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-10-17",
+    "link": "/matches/2399312/bushido-wildcats-vs-gothic-cct-2026-europe-series-11",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 11",
+    "team1": {
+      "name": "Bushido Wildcats",
+      "logo": "https://img-cdn.hltv.org/teamlogo/TZknfdU8-79rJ1gw-_6qy5.png?ixlib=java-2.1.0&w=50&s=a0dc291e786acba7de26684befd56800"
+    },
+    "team2": {
+      "name": "Gothic",
+      "logo": "/dynamic-svg/teamplaceholder?letter=G"
     }
   },
   {
@@ -317,7 +272,7 @@
   {
     "hour": "19:00",
     "date": "2026-10-17",
-    "link": "/matches/2399415/falcons-vs-betboom-legacy-winner-thunderpick-world-championship-2026",
+    "link": "/matches/2399415/falcons-vs-betboom-thunderpick-world-championship-2026",
     "meta": "bo3",
     "event": "Thunderpick World Championship 2026",
     "team1": {
@@ -325,23 +280,23 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/4eJSkDQINNM6Tbs4WvLzkN.png?ixlib=java-2.1.0&w=50&s=d8c857ea47046f61eca695beab0d12ef"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "BETBOOM",
+      "logo": "https://img-cdn.hltv.org/teamlogo/G4ZrdB0-q41USPd_z27IQA.png?ixlib=java-2.1.0&w=50&s=9c15ddf70f9c66399d4a47e0d8e93511"
     }
   },
   {
     "hour": "19:00",
     "date": "2026-10-17",
-    "link": "/matches/2399476/mellren-vs-noir-verse-antidaun-winner-cct-2026-europe-series-12-closed-qualifier",
+    "link": "/matches/2399661/bbl-vs-ex-rustec-pgl-bucharest-2027-closed-qualifier",
     "meta": "bo3",
-    "event": "CCT 2026 Europe Series 12 Closed Qualifier",
+    "event": "PGL Bucharest 2027 Closed Qualifier",
     "team1": {
-      "name": "mellren",
-      "logo": "https://img-cdn.hltv.org/teamlogo/XoPLNSnX1gDDBGnI5BKYK2.png?ixlib=java-2.1.0&w=50&s=c9e8528ba9162307ea4cdeb98994b83f"
+      "name": "BBL",
+      "logo": "https://img-cdn.hltv.org/teamlogo/tzt1wJ9t26NGc8HNo-hIJy.png?ixlib=java-2.1.0&w=50&s=4e7e19f273052fbbff7c749184db1e35"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "ex-RUSTEC",
+      "logo": "/dynamic-svg/teamplaceholder?letter=e"
     }
   },
   {
@@ -357,6 +312,21 @@
     "team2": {
       "name": "Enjoy",
       "logo": "https://img-cdn.hltv.org/teamlogo/FXtaA3TkcW1-BMD3B-p1E7.png?ixlib=java-2.1.0&w=50&s=4cfdf5a6feba3bc93db929052dabb544"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-10-18",
+    "link": "/matches/2399315/ex-rustec-vs-illyrians-cct-2026-europe-series-11",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 11",
+    "team1": {
+      "name": "ex-RUSTEC",
+      "logo": "/dynamic-svg/teamplaceholder?letter=e"
+    },
+    "team2": {
+      "name": "Illyrians",
+      "logo": "https://img-cdn.hltv.org/teamlogo/cCPQDYWgTSfZKfjVvVLMoy.png?ixlib=java-2.1.0&w=50&s=7013d02394a2fc3236a41f19869f5b36"
     }
   },
   {
@@ -387,6 +357,21 @@
     "team2": {
       "name": "Phantom Academy",
       "logo": "https://img-cdn.hltv.org/teamlogo/1-ndJrd3Y-vYo3AYM1HywD.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=1c3d4a2021cea1c8a6d2384310747363"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-10-18",
+    "link": "/matches/2399317/forze-reload-vs-baks-cct-2026-europe-series-11",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 11",
+    "team1": {
+      "name": "FORZE Reload",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YJnWBDwmRDJ9o2uOUrhNeQ.png?ixlib=java-2.1.0&w=50&s=83f5ce35b3f98833671987bc637c74b7"
+    },
+    "team2": {
+      "name": "BAKS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/addrkF7msTiD-HdGMcCXbZ.png?ixlib=java-2.1.0&w=50&s=77c6157e0f8f6c0cc067dba37eb1110c"
     }
   },
   {
