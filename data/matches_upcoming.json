@@ -1,65 +1,5 @@
 [
   {
-    "hour": "23:00",
-    "date": "2026-10-18",
-    "link": "/matches/2399789/6yubojlbl-vs-hyperspirit-cis-esports-league-cyberclash-season-2",
-    "meta": "bo3",
-    "event": "CIS Esports League CyberClash Season 2",
-    "team1": {
-      "name": "6yuBoJlbl",
-      "logo": "/dynamic-svg/teamplaceholder?letter=6"
-    },
-    "team2": {
-      "name": "HYPERSPIRIT",
-      "logo": "https://img-cdn.hltv.org/teamlogo/MdMPxRh2SX6Y3tOWO3Ok3M.png?ixlib=java-2.1.0&w=50&s=7ab5b1a592da8b9b944a10cff37b7a99"
-    }
-  },
-  {
-    "hour": "00:00",
-    "date": "2026-10-19",
-    "link": "/matches/2399793/procyon-vs-your-end-cct-2026-south-america-series-7",
-    "meta": "bo3",
-    "event": "CCT 2026 South America Series 7",
-    "team1": {
-      "name": "Procyon",
-      "logo": "https://img-cdn.hltv.org/teamlogo/j3cZThec5Smnc2QLlkMZjX.png?ixlib=java-2.1.0&w=50&s=b90d609f9f63e6e1dcd8ef9772e7f92a"
-    },
-    "team2": {
-      "name": "your end",
-      "logo": "/dynamic-svg/teamplaceholder?letter=y"
-    }
-  },
-  {
-    "hour": "00:00",
-    "date": "2026-10-19",
-    "link": "/matches/2399798/detonate-vs-lag-nstlga-emerald-cup-2026",
-    "meta": "bo3",
-    "event": "NSTLGA Emerald Cup 2026",
-    "team1": {
-      "name": "DETONATE",
-      "logo": "https://img-cdn.hltv.org/teamlogo/Nh2yiqeEdJmgvMYvfD78mN.png?ixlib=java-2.1.0&w=50&s=45fdbf464ca9f94014446a0e82bc81e5"
-    },
-    "team2": {
-      "name": "LAG",
-      "logo": "https://img-cdn.hltv.org/teamlogo/W30xfG1IVIUuOJnlsxtHMG.png?ixlib=java-2.1.0&w=50&s=7b86122252f70538d55be737b7e80c50"
-    }
-  },
-  {
-    "hour": "00:00",
-    "date": "2026-10-19",
-    "link": "/matches/2399799/kodex-vs-empire-nstlga-emerald-cup-2026",
-    "meta": "bo3",
-    "event": "NSTLGA Emerald Cup 2026",
-    "team1": {
-      "name": "KODEX",
-      "logo": "https://img-cdn.hltv.org/teamlogo/M-dxyJ-_YYZMtDvw2r8UBz.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=60f423aa794f0ad35248c57102e6617f"
-    },
-    "team2": {
-      "name": "EMPIRE",
-      "logo": "https://img-cdn.hltv.org/teamlogo/sfoAswoJQ1ZYrdrHn8L7pk.png?ixlib=java-2.1.0&w=50&s=0f5d5e21be7b7413bcee65a5d6622ab4"
-    }
-  },
-  {
     "hour": "10:00",
     "date": "2026-10-19",
     "link": "/matches/2399095/genone-vs-forze-reload-nodwin-clutch-series-13",
@@ -477,6 +417,21 @@
     "team2": {
       "name": "magic",
       "logo": "https://img-cdn.hltv.org/teamlogo/KYi27Dm-DVyEUj0WIG5Bdx.png?ixlib=java-2.1.0&w=50&s=d490c0b14e24cbc6ddd70f0534ff3651"
+    }
+  },
+  {
+    "hour": "00:00",
+    "date": "2026-10-20",
+    "link": "/matches/2399804/a-nata-vs-hacha-cct-2026-south-america-series-7",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 7",
+    "team1": {
+      "name": "A NATA",
+      "logo": "/dynamic-svg/teamplaceholder?letter=A"
+    },
+    "team2": {
+      "name": "Hacha",
+      "logo": "https://img-cdn.hltv.org/teamlogo/2nErexNT3M48np8RuuJ2he.png?ixlib=java-2.1.0&w=50&s=fafcb0d41a8f7510bbac4eec95d0ddda"
     }
   },
   {
