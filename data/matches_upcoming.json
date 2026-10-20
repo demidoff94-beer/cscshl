@@ -1,1 +1,872 @@
-[]
+[
+  {
+    "hour": "19:30",
+    "date": "2026-10-20",
+    "link": "/matches/2399779/nt-vs-aimclub-stake-ranked-episode-6-closed-qualifier",
+    "meta": "bo3",
+    "event": "Stake Ranked Episode 6 Closed Qualifier",
+    "team1": {
+      "name": "NT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/jYTlrh5Dt5JG1YcDk4JmLq.png?ixlib=java-2.1.0&w=50&s=6b3e5ef356b375b5d4db309fc9812d8f"
+    },
+    "team2": {
+      "name": "aimclub",
+      "logo": "https://img-cdn.hltv.org/teamlogo/PhNn8XgEQgZbp6ti-_IfFT.png?ixlib=java-2.1.0&w=50&s=846feccd98ac0b3b9cca3409929ed3e3"
+    }
+  },
+  {
+    "hour": "19:30",
+    "date": "2026-10-20",
+    "link": "/matches/2399831/k27-vs-ww-winline-mpkbk-cis-lan-season-9",
+    "meta": "bo3",
+    "event": "WINLINE MPKBK CIS LAN Season 9",
+    "team1": {
+      "name": "K27",
+      "logo": "https://img-cdn.hltv.org/teamlogo/7LmOZHYhlq-fIAm23aM2q1.png?ixlib=java-2.1.0&w=50&s=e194cf9c20b306723ae899eac0e8a356"
+    },
+    "team2": {
+      "name": "WW",
+      "logo": "https://img-cdn.hltv.org/teamlogo/eCREd3vUcWijSsxUZ7GEoW.png?ixlib=java-2.1.0&w=50&s=aeda10fd2ce9c4467e66c3c4415b8cdc"
+    }
+  },
+  {
+    "hour": "19:30",
+    "date": "2026-10-20",
+    "link": "/matches/2399832/wisp-vs-dynastiya-winline-mpkbk-cis-lan-season-9",
+    "meta": "bo3",
+    "event": "WINLINE MPKBK CIS LAN Season 9",
+    "team1": {
+      "name": "WISP",
+      "logo": "/dynamic-svg/teamplaceholder?letter=W"
+    },
+    "team2": {
+      "name": "DYNASTIYA",
+      "logo": "/dynamic-svg/teamplaceholder?letter=D"
+    }
+  },
+  {
+    "hour": "20:00",
+    "date": "2026-10-20",
+    "link": "/matches/2399619/astral-vs-jijiehao-iberian-soul-loser-digital-crusade-draculan-season-7",
+    "meta": "bo3",
+    "event": "Digital Crusade DraculaN Season 7",
+    "team1": {
+      "name": "ASTRAL",
+      "logo": "https://img-cdn.hltv.org/teamlogo/cep1rsT1ueXzsovbqAxK76.png?ixlib=java-2.1.0&w=50&s=50638f4d39d33d5e6eff0005372b36b8"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "20:00",
+    "date": "2026-10-20",
+    "link": "/matches/2399621/bbl-vs-luminosity-nexus-loser-digital-crusade-draculan-season-7",
+    "meta": "bo3",
+    "event": "Digital Crusade DraculaN Season 7",
+    "team1": {
+      "name": "BBL",
+      "logo": "https://img-cdn.hltv.org/teamlogo/tzt1wJ9t26NGc8HNo-hIJy.png?ixlib=java-2.1.0&w=50&s=4e7e19f273052fbbff7c749184db1e35"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "21:00",
+    "date": "2026-10-20",
+    "link": "/matches/2399822/quintessncia-vs-los-ninos-cct-2026-south-america-series-7",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 7",
+    "team1": {
+      "name": "QUINTESS\u00caNCIA",
+      "logo": "/dynamic-svg/teamplaceholder?letter=Q"
+    },
+    "team2": {
+      "name": "LOS NINOS",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L"
+    }
+  },
+  {
+    "hour": "00:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399823/joga-de-terno-vs-grmio-cct-2026-south-america-series-7",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 7",
+    "team1": {
+      "name": "JOGA DE TERNO",
+      "logo": "/dynamic-svg/teamplaceholder?letter=J"
+    },
+    "team2": {
+      "name": "Gr\u00eamio",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_X9jYYKByFuVx9o4KveYnB.svg?ixlib=java-2.1.0&s=b0354212f03962da301e922ebd9401cd"
+    }
+  },
+  {
+    "hour": "05:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399580/alter-ego-vs-morningstar-macemedia-void-autumn-cup-2026",
+    "meta": "bo3",
+    "event": "MaceMedia VOID Autumn Cup 2026",
+    "team1": {
+      "name": "Alter Ego",
+      "logo": "https://img-cdn.hltv.org/teamlogo/rcVrbr1QiFUoakiO5jGExR.png?ixlib=java-2.1.0&w=50&s=81bf2c78f6ef16e4f315ef2024527fc6"
+    },
+    "team2": {
+      "name": "Morningstar",
+      "logo": "https://img-cdn.hltv.org/teamlogo/fSc8yuspcMAlV0G-AYk6sH.png?ixlib=java-2.1.0&w=50&s=f074ee1af04d3c36a2b9af3a839a61fd"
+    }
+  },
+  {
+    "hour": "07:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399581/wxm-vs-vitalem-aerem-macemedia-void-autumn-cup-2026",
+    "meta": "bo3",
+    "event": "MaceMedia VOID Autumn Cup 2026",
+    "team1": {
+      "name": "WXM",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ve7jQslIADDYzFrirb5mTZ.png?ixlib=java-2.1.0&w=50&s=3ea0f06bd61660afeba6eee1fa506a30"
+    },
+    "team2": {
+      "name": "Vitalem Aerem",
+      "logo": "https://img-cdn.hltv.org/teamlogo/0HR-ABrHDeqzgAUun49Ei1.png?ixlib=java-2.1.0&w=50&s=5581767c568defa6c55f40433f032b96"
+    }
+  },
+  {
+    "hour": "08:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399834/virtuspro-vs-xmeta-winline-mpkbk-cis-lan-season-9",
+    "meta": "bo3",
+    "event": "WINLINE MPKBK CIS LAN Season 9",
+    "team1": {
+      "name": "Virtus.pro",
+      "logo": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875"
+    },
+    "team2": {
+      "name": "XMETA",
+      "logo": "/dynamic-svg/teamplaceholder?letter=X"
+    }
+  },
+  {
+    "hour": "09:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399582/rare-atom-vs-lynn-vision-macemedia-void-autumn-cup-2026",
+    "meta": "bo3",
+    "event": "MaceMedia VOID Autumn Cup 2026",
+    "team1": {
+      "name": "Rare Atom",
+      "logo": "https://img-cdn.hltv.org/teamlogo/CH9I3Xh0tW94uEN1BMe9Pu.png?ixlib=java-2.1.0&w=50&s=fda7c0e83d4889a4164b99316b8f358f"
+    },
+    "team2": {
+      "name": "Lynn Vision",
+      "logo": "https://img-cdn.hltv.org/teamlogo/DPcHT21uWwK1hDD_3txlL9.png?ixlib=java-2.1.0&w=50&s=4b5d5a187f00caf9bbae2d0fcbca6ff6"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399102/brute-vs-ex-6666-nodwin-clutch-series-13",
+    "meta": "bo3",
+    "event": "NODWIN Clutch Series 13",
+    "team1": {
+      "name": "BRUTE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Bh8oZnAYofBgma_vPu55I7.svg?ixlib=java-2.1.0&s=98154a0be5a53ccadf51c17bdcd57536"
+    },
+    "team2": {
+      "name": "ex-6666",
+      "logo": "/dynamic-svg/teamplaceholder?letter=e"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399489/baks-vs-lfo-10-cct-2026-europe-series-12",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 12",
+    "team1": {
+      "name": "BAKS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/addrkF7msTiD-HdGMcCXbZ.png?ixlib=java-2.1.0&w=50&s=77c6157e0f8f6c0cc067dba37eb1110c"
+    },
+    "team2": {
+      "name": "LFO 10",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L"
+    }
+  },
+  {
+    "hour": "11:00",
+    "date": "2026-10-21",
+    "link": "/matches/2398997/magic-vs-the-mongolz-1win-private-club-season-2",
+    "meta": "bo3",
+    "event": "1win Private Club Season 2",
+    "team1": {
+      "name": "magic",
+      "logo": "https://img-cdn.hltv.org/teamlogo/KYi27Dm-DVyEUj0WIG5Bdx.png?ixlib=java-2.1.0&w=50&s=d490c0b14e24cbc6ddd70f0534ff3651"
+    },
+    "team2": {
+      "name": "The MongolZ",
+      "logo": "https://img-cdn.hltv.org/teamlogo/bRk2sh_tSTO6fq1GLhgcal.png?ixlib=java-2.1.0&w=50&s=8b08e53858eb817852ae74b30a30151d"
+    }
+  },
+  {
+    "hour": "11:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399583/chinggis-warriors-vs-nexvoid-macemedia-void-autumn-cup-2026",
+    "meta": "bo3",
+    "event": "MaceMedia VOID Autumn Cup 2026",
+    "team1": {
+      "name": "Chinggis Warriors",
+      "logo": "https://img-cdn.hltv.org/teamlogo/esvV905BqvAKUUPLq8e89T.png?ixlib=java-2.1.0&w=50&s=dd947742be3993f7b235cd1928ab078e"
+    },
+    "team2": {
+      "name": "NEXVOID",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dtGHo6Ay84XO2R3eQTiwgA.png?ixlib=java-2.1.0&w=50&s=9d3b53b8688ae30a8c4557fa8d6dab61"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399103/just-players-vs-fire-flux-nodwin-clutch-series-13",
+    "meta": "bo3",
+    "event": "NODWIN Clutch Series 13",
+    "team1": {
+      "name": "Just Players",
+      "logo": "/dynamic-svg/teamplaceholder?letter=J"
+    },
+    "team2": {
+      "name": "Fire Flux",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dEkPG3QFLGo6xl9DtGPsm2.png?ixlib=java-2.1.0&w=50&s=9a9c4eeb77fd921baa804a425d4e2825"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399490/inner-circle-academy-vs-havu-cct-2026-europe-series-12",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 12",
+    "team1": {
+      "name": "Inner Circle Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/OSTRarXkAV-3YTtk0Thf5N.png?ixlib=java-2.1.0&w=50&s=236205a4f2cafd4fd8943e36d037ab21"
+    },
+    "team2": {
+      "name": "HAVU",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_bpWybCQhDRnPq8Z2ZYO5h.png?ixlib=java-2.1.0&w=50&s=2e3c9e1a0a833d4d92ce10ec8adddf00"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399622/sinners-vs-heroic-digital-crusade-draculan-season-7",
+    "meta": "bo3",
+    "event": "Digital Crusade DraculaN Season 7",
+    "team1": {
+      "name": "SINNERS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9l_WdQSU9JsNHzpK-pwOG2.svg?ixlib=java-2.1.0&s=af432c3ef61c0c843331cc0dc2fed1ed"
+    },
+    "team2": {
+      "name": "HEROIC",
+      "logo": "https://img-cdn.hltv.org/teamlogo/4S22uk_gnZTiQiI-hhH4yp.png?ixlib=java-2.1.0&w=50&s=3619ddf1d490573ab3dc261b8c2f3f6f"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399623/faze-vs-jijiehao-iberian-soul-winner-digital-crusade-draculan-season-7",
+    "meta": "bo3",
+    "event": "Digital Crusade DraculaN Season 7",
+    "team1": {
+      "name": "FaZe",
+      "logo": "https://img-cdn.hltv.org/teamlogo/OKLwq88GXjl5GQ48Y5SrvW.png?ixlib=java-2.1.0&w=50&s=0a0d65eeb1b0e82ada20c42c038552fa"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399624/basement-boys-vs-eternal-fire-digital-crusade-draculan-season-7",
+    "meta": "bo3",
+    "event": "Digital Crusade DraculaN Season 7",
+    "team1": {
+      "name": "BASEMENT BOYS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/IAgnK7oXGijw4nomIKEVIw.png?ixlib=java-2.1.0&w=50&s=b4de8c1c642e9e648d878215fc8ac9ba"
+    },
+    "team2": {
+      "name": "Eternal Fire",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Tafdq71X3B_-73b73bAixr.png?ixlib=java-2.1.0&w=50&s=f1505e0f7e03bed0d0d2b4c809768198"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399625/bcgame-vs-luminosity-nexus-winner-digital-crusade-draculan-season-7",
+    "meta": "bo3",
+    "event": "Digital Crusade DraculaN Season 7",
+    "team1": {
+      "name": "BC.Game",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Sh3oQBtd6xemdynQ-H_NJa.png?ixlib=java-2.1.0&w=50&s=75de32fe0ecfa58e1267b9ebd3d577bd"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "14:00",
+    "date": "2026-10-21",
+    "link": "/matches/2398998/private-vs-fnatic-parivision-loser-1win-private-club-season-2",
+    "meta": "bo3",
+    "event": "1win Private Club Season 2",
+    "team1": {
+      "name": "PRIVATE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/r31Wu6qCyS8909Zj1ftP36.png?ixlib=java-2.1.0&w=50&s=a74a13c148071d5419921ec93071c3f6"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399104/butterfly-vs-bet-m-nodwin-clutch-series-13",
+    "meta": "bo3",
+    "event": "NODWIN Clutch Series 13",
+    "team1": {
+      "name": "Butterfly",
+      "logo": "https://img-cdn.hltv.org/teamlogo/hgDb3HGkIozP3l72DbEtpp.png?ixlib=java-2.1.0&w=50&s=fa2f5a7d8bad88a0e91b6b27c9d22a06"
+    },
+    "team2": {
+      "name": "BET-M",
+      "logo": "https://img-cdn.hltv.org/teamlogo/V7kOhjpI4AiRCPnthLVvL6.png?ixlib=java-2.1.0&w=50&s=6ded0349cde3e1cc18b4b28c3d8cb91c"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399491/lavked-vs-spirit-academy-cct-2026-europe-series-12",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 12",
+    "team1": {
+      "name": "Lavked",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L"
+    },
+    "team2": {
+      "name": "Spirit Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/txUq00aBKY7O4fLVJegmi_.png?ixlib=java-2.1.0&w=50&s=0be2e166db241569e89ac4ab8f5fb9a2"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399805/pain-vs-lp-circuit-x-curitiba-season-4",
+    "meta": "bo3",
+    "event": "Circuit X Curitiba Season 4",
+    "team1": {
+      "name": "paiN",
+      "logo": "https://img-cdn.hltv.org/teamlogo/iUUCFwCOFmOrwhB8q8smMg.svg?ixlib=java-2.1.0&s=1446e1cf3d02deb8190fe6efd14e4ce4"
+    },
+    "team2": {
+      "name": "LP",
+      "logo": "https://img-cdn.hltv.org/teamlogo/KBb30Dkm5nlsRT24ptDbYv.png?ixlib=java-2.1.0&w=50&s=ccd67bad274ec28c2fc439732b6dad8c"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399806/fluxo-vs-galorys-circuit-x-curitiba-season-4",
+    "meta": "bo3",
+    "event": "Circuit X Curitiba Season 4",
+    "team1": {
+      "name": "Fluxo",
+      "logo": "https://img-cdn.hltv.org/teamlogo/zGveLNj821BCJGMu93qnj-.png?ixlib=java-2.1.0&w=50&s=f7d69ef82fdaf8d8b7f5a1a7fa8f13ed"
+    },
+    "team2": {
+      "name": "Galorys",
+      "logo": "https://img-cdn.hltv.org/teamlogo/GljsUhNlV1YdE2Z1ge-HzK.png?ixlib=java-2.1.0&w=50&s=fd7e8570af28b29e7dfa34eab2c506b1"
+    }
+  },
+  {
+    "hour": "17:00",
+    "date": "2026-10-21",
+    "link": "/matches/2398999/big-vs-fnatic-parivision-winner-1win-private-club-season-2",
+    "meta": "bo3",
+    "event": "1win Private Club Season 2",
+    "team1": {
+      "name": "BIG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/OgMRQA35hopXA8kDwMFHIY.svg?ixlib=java-2.1.0&s=ec7bc44165c7acf4224a22a1338ab7d7"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "17:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399839/ex-cybershoke-vs-blinkdagger-winline-mpkbk-cis-lan-season-9",
+    "meta": "bo3",
+    "event": "WINLINE MPKBK CIS LAN Season 9",
+    "team1": {
+      "name": "ex-CYBERSHOKE",
+      "logo": "/dynamic-svg/teamplaceholder?letter=e"
+    },
+    "team2": {
+      "name": "BlinkDagger",
+      "logo": "/dynamic-svg/teamplaceholder?letter=B"
+    }
+  },
+  {
+    "hour": "17:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399840/upgrade-vs-flacons-winline-mpkbk-cis-lan-season-9",
+    "meta": "bo3",
+    "event": "WINLINE MPKBK CIS LAN Season 9",
+    "team1": {
+      "name": "UPGRADE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-vGUPCc5eof0EN06ySnwWM.png?ixlib=java-2.1.0&w=50&s=6dfc5349a1869edeeb026d7b956408b6"
+    },
+    "team2": {
+      "name": "flacons",
+      "logo": "/dynamic-svg/teamplaceholder?letter=f"
+    }
+  },
+  {
+    "hour": "15:45",
+    "date": "2026-10-22",
+    "link": "/matches/2399697/donstu-vs-banda-chuya-cct-2026-challengers-europe-series-8",
+    "meta": "bo3",
+    "event": "CCT 2026 Challengers Europe Series 8",
+    "team1": {
+      "name": "DONSTU",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9ueb9xIjZJND19aXJ-02H-.png?ixlib=java-2.1.0&w=50&s=aafb584d0a8eee097f9129fe1b7602db"
+    },
+    "team2": {
+      "name": "Banda Chuya",
+      "logo": "/dynamic-svg/teamplaceholder?letter=B"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-10-22",
+    "link": "/matches/2399810/imperial-vs-turma-do-pagode-circuit-x-curitiba-season-4",
+    "meta": "bo3",
+    "event": "Circuit X Curitiba Season 4",
+    "team1": {
+      "name": "Imperial",
+      "logo": "https://img-cdn.hltv.org/teamlogo/bBDk6-rND06sAzn67b5RdP.png?ixlib=java-2.1.0&w=50&s=467e31ba123f509130d647fbf1e04ef2"
+    },
+    "team2": {
+      "name": "Turma do Pagode",
+      "logo": "https://img-cdn.hltv.org/teamlogo/pl_iLOTm1KzDRG3AAc2PZf.png?ixlib=java-2.1.0&w=50&s=03cce9ed68c407f5adcf04bdedcdc8ae"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-10-22",
+    "link": "/matches/2399811/bestia-vs-shinden-circuit-x-curitiba-season-4",
+    "meta": "bo3",
+    "event": "Circuit X Curitiba Season 4",
+    "team1": {
+      "name": "BESTIA",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Z_R5K__qrvHmPjF66iCay-.png?ixlib=java-2.1.0&w=50&s=7e2afd72c2b3cabf53244ed6bc5142e3"
+    },
+    "team2": {
+      "name": "ShindeN",
+      "logo": "https://img-cdn.hltv.org/teamlogo/5tfhYrPKeLDzFW8X-vFExJ.png?ixlib=java-2.1.0&w=50&s=cfc4c6391157f58820f5108485a4f2a6"
+    }
+  },
+  {
+    "hour": "09:00",
+    "date": "2026-10-24",
+    "link": "/matches/2399719/aurora-vs-the-mongolz-pgl-masters-bucharest-2026",
+    "meta": "bo3",
+    "event": "PGL Masters Bucharest 2026",
+    "team1": {
+      "name": "Aurora",
+      "logo": "https://img-cdn.hltv.org/teamlogo/yJzPNOeXlyiniNxanYJCrv.png?ixlib=java-2.1.0&w=50&s=2c08f70c2f2f8c2024a438ddcf19bbf1"
+    },
+    "team2": {
+      "name": "The MongolZ",
+      "logo": "https://img-cdn.hltv.org/teamlogo/bRk2sh_tSTO6fq1GLhgcal.png?ixlib=java-2.1.0&w=50&s=8b08e53858eb817852ae74b30a30151d"
+    }
+  },
+  {
+    "hour": "09:00",
+    "date": "2026-10-24",
+    "link": "/matches/2399720/fut-vs-tyloo-pgl-masters-bucharest-2026",
+    "meta": "bo3",
+    "event": "PGL Masters Bucharest 2026",
+    "team1": {
+      "name": "FUT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Os71GAOy8KDuQFc0M8HE6O.png?ixlib=java-2.1.0&w=50&s=86f2bded6bcb7c690a42a62250ed69e7"
+    },
+    "team2": {
+      "name": "TYLOO",
+      "logo": "https://img-cdn.hltv.org/teamlogo/hMPKtNMDxp07n3lrBEHCuq.svg?ixlib=java-2.1.0&s=6d22fc4af07d0cd9d31fcd7f3023af9a"
+    }
+  },
+  {
+    "hour": "12:00",
+    "date": "2026-10-24",
+    "link": "/matches/2399721/spirit-vs-betboom-pgl-masters-bucharest-2026",
+    "meta": "bo3",
+    "event": "PGL Masters Bucharest 2026",
+    "team1": {
+      "name": "Spirit",
+      "logo": "https://img-cdn.hltv.org/teamlogo/syrtYYKR7sBRw3ZHy1YFX7.png?ixlib=java-2.1.0&w=50&s=40e66714687bec05ea422255b1c0099e"
+    },
+    "team2": {
+      "name": "BETBOOM",
+      "logo": "https://img-cdn.hltv.org/teamlogo/G4ZrdB0-q41USPd_z27IQA.png?ixlib=java-2.1.0&w=50&s=9c15ddf70f9c66399d4a47e0d8e93511"
+    }
+  },
+  {
+    "hour": "12:00",
+    "date": "2026-10-24",
+    "link": "/matches/2399722/mouz-vs-liquid-pgl-masters-bucharest-2026",
+    "meta": "bo3",
+    "event": "PGL Masters Bucharest 2026",
+    "team1": {
+      "name": "MOUZ",
+      "logo": "https://img-cdn.hltv.org/teamlogo/IejtXpquZnE8KqYPB1LNKw.svg?ixlib=java-2.1.0&s=7fd33b8def053fbfd8fdbb58e3bdcd3c"
+    },
+    "team2": {
+      "name": "Liquid",
+      "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62"
+    }
+  },
+  {
+    "hour": "15:00",
+    "date": "2026-10-24",
+    "link": "/matches/2399723/vitality-vs-9z-pgl-masters-bucharest-2026",
+    "meta": "bo3",
+    "event": "PGL Masters Bucharest 2026",
+    "team1": {
+      "name": "Vitality",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ogcHrcCdzRvxbYvAz04KAN.png?ixlib=java-2.1.0&w=50&s=e1f6019aa9f274ffe45a5e99c88dbc02"
+    },
+    "team2": {
+      "name": "9z",
+      "logo": "https://img-cdn.hltv.org/teamlogo/COZDFWOIm41AT0srqOHFhM.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=b00d55fe74b90f91c5b7e2b58bda5afb"
+    }
+  },
+  {
+    "hour": "15:00",
+    "date": "2026-10-24",
+    "link": "/matches/2399724/legacy-vs-nemiga-pgl-masters-bucharest-2026",
+    "meta": "bo3",
+    "event": "PGL Masters Bucharest 2026",
+    "team1": {
+      "name": "Legacy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/RWbHH6RA8uGwJurGeLFvSr.png?ixlib=java-2.1.0&w=50&s=3d251032e156cab2f6df8c630ca29745"
+    },
+    "team2": {
+      "name": "Nemiga",
+      "logo": "https://img-cdn.hltv.org/teamlogo/6ZPCm5r3XyGByXkFGiRnLh.png?ixlib=java-2.1.0&w=50&s=daa0328ebd0143763544b564610721e9"
+    }
+  },
+  {
+    "hour": "18:00",
+    "date": "2026-10-24",
+    "link": "/matches/2399725/g2-vs-natus-vincere-pgl-masters-bucharest-2026",
+    "meta": "bo3",
+    "event": "PGL Masters Bucharest 2026",
+    "team1": {
+      "name": "G2",
+      "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b"
+    },
+    "team2": {
+      "name": "Natus Vincere",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c"
+    }
+  },
+  {
+    "hour": "18:00",
+    "date": "2026-10-24",
+    "link": "/matches/2399726/furia-vs-dendele-pgl-masters-bucharest-2026",
+    "meta": "bo3",
+    "event": "PGL Masters Bucharest 2026",
+    "team1": {
+      "name": "FURIA",
+      "logo": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c"
+    },
+    "team2": {
+      "name": "DENDELE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/xKB2zOMgkFKoD-MLU484IV.png?ixlib=java-2.1.0&w=50&s=ca11299f789fb7c48d83130b8396af9f"
+    }
+  },
+  {
+    "hour": "12:00",
+    "date": "2026-10-27",
+    "link": "/matches/2399705/magic-vs-big-stake-ranked-episode-5",
+    "meta": "bo3",
+    "event": "Stake Ranked Episode 5",
+    "team1": {
+      "name": "magic",
+      "logo": "https://img-cdn.hltv.org/teamlogo/KYi27Dm-DVyEUj0WIG5Bdx.png?ixlib=java-2.1.0&w=50&s=d490c0b14e24cbc6ddd70f0534ff3651"
+    },
+    "team2": {
+      "name": "BIG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/OgMRQA35hopXA8kDwMFHIY.svg?ixlib=java-2.1.0&s=ec7bc44165c7acf4224a22a1338ab7d7"
+    }
+  },
+  {
+    "hour": "14:30",
+    "date": "2026-10-27",
+    "link": "/matches/2399706/inner-circle-vs-nemesis-stake-ranked-episode-5",
+    "meta": "bo3",
+    "event": "Stake Ranked Episode 5",
+    "team1": {
+      "name": "Inner Circle",
+      "logo": "https://img-cdn.hltv.org/teamlogo/nzJhoae6HI3i1UORM-DBFD.png?ixlib=java-2.1.0&w=50&s=35faf966127b13f4cc4b7250a5aed454"
+    },
+    "team2": {
+      "name": "Nemesis",
+      "logo": "https://img-cdn.hltv.org/teamlogo/elLVHPbX3OkW4t8CHjKnoY.png?ixlib=java-2.1.0&w=50&s=334764e4cfd4a3b805b21085a21a4c5b"
+    }
+  },
+  {
+    "hour": "17:00",
+    "date": "2026-10-27",
+    "link": "/matches/2399707/astralis-vs-fnatic-stake-ranked-episode-5",
+    "meta": "bo3",
+    "event": "Stake Ranked Episode 5",
+    "team1": {
+      "name": "Astralis",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067"
+    },
+    "team2": {
+      "name": "fnatic",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e"
+    }
+  },
+  {
+    "hour": "19:30",
+    "date": "2026-10-27",
+    "link": "/matches/2399708/mibr-vs-eternal-fire-stake-ranked-episode-5",
+    "meta": "bo3",
+    "event": "Stake Ranked Episode 5",
+    "team1": {
+      "name": "MIBR",
+      "logo": "https://img-cdn.hltv.org/teamlogo/sVnH-oAf1J5TnMwoY4cxUC.png?ixlib=java-2.1.0&w=50&s=b0ef463fa0f1638bce72a89590fbaddf"
+    },
+    "team2": {
+      "name": "Eternal Fire",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Tafdq71X3B_-73b73bAixr.png?ixlib=java-2.1.0&w=50&s=f1505e0f7e03bed0d0d2b4c809768198"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-10-31",
+    "link": "/matches/2399437/hotu-vs-the-huns-gluck-moscow-cyber-games-2026",
+    "meta": "bo3",
+    "event": "GLuck Moscow Cyber Games 2026",
+    "team1": {
+      "name": "HOTU",
+      "logo": "https://img-cdn.hltv.org/teamlogo/UH5TD1Lyutr_JwKu2ldl-A.png?ixlib=java-2.1.0&w=50&s=6ff0544743996e6f3b166643371d2839"
+    },
+    "team2": {
+      "name": "The Huns",
+      "logo": "https://img-cdn.hltv.org/teamlogo/VgVw2z9BmJJ2knbbyXeDfc.png?ixlib=java-2.1.0&w=50&s=c1577bd514234eb3d106357de5ea6aa4"
+    }
+  },
+  {
+    "hour": "14:00",
+    "date": "2026-10-31",
+    "link": "/matches/2399438/1win-vs-5star-gluck-moscow-cyber-games-2026",
+    "meta": "bo3",
+    "event": "GLuck Moscow Cyber Games 2026",
+    "team1": {
+      "name": "1win",
+      "logo": "https://img-cdn.hltv.org/teamlogo/zbmzI2IMFNwHUvTO4EHaTZ.png?ixlib=java-2.1.0&w=50&s=fd29838f5b22b76075de4c80c2e04c0b"
+    },
+    "team2": {
+      "name": "5star",
+      "logo": "https://img-cdn.hltv.org/teamlogo/DxfB_DH6Hhb1l1okhNQxxu.png?ixlib=java-2.1.0&w=50&s=4b5d0620de51193343d84d5247bc3fa5"
+    }
+  },
+  {
+    "hour": "08:00",
+    "date": "2026-11-02",
+    "link": "/matches/2399855/legacy-vs-the-mongolz-iem-beijing-2026",
+    "meta": "bo3",
+    "event": "IEM Beijing 2026",
+    "team1": {
+      "name": "Legacy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/RWbHH6RA8uGwJurGeLFvSr.png?ixlib=java-2.1.0&w=50&s=3d251032e156cab2f6df8c630ca29745"
+    },
+    "team2": {
+      "name": "The MongolZ",
+      "logo": "https://img-cdn.hltv.org/teamlogo/bRk2sh_tSTO6fq1GLhgcal.png?ixlib=java-2.1.0&w=50&s=8b08e53858eb817852ae74b30a30151d"
+    }
+  },
+  {
+    "hour": "08:00",
+    "date": "2026-11-02",
+    "link": "/matches/2399856/heroic-vs-b8-iem-beijing-2026",
+    "meta": "bo3",
+    "event": "IEM Beijing 2026",
+    "team1": {
+      "name": "HEROIC",
+      "logo": "https://img-cdn.hltv.org/teamlogo/4S22uk_gnZTiQiI-hhH4yp.png?ixlib=java-2.1.0&w=50&s=3619ddf1d490573ab3dc261b8c2f3f6f"
+    },
+    "team2": {
+      "name": "B8",
+      "logo": "https://img-cdn.hltv.org/teamlogo/O6nRWTCjUzBAR4pcOcrpSG.png?ixlib=java-2.1.0&w=50&s=305dde82e764725dab7e626800328137"
+    }
+  },
+  {
+    "hour": "08:00",
+    "date": "2026-11-02",
+    "link": "/matches/2399857/furia-vs-faze-iem-beijing-2026",
+    "meta": "bo3",
+    "event": "IEM Beijing 2026",
+    "team1": {
+      "name": "FURIA",
+      "logo": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c"
+    },
+    "team2": {
+      "name": "FaZe",
+      "logo": "https://img-cdn.hltv.org/teamlogo/OKLwq88GXjl5GQ48Y5SrvW.png?ixlib=java-2.1.0&w=50&s=0a0d65eeb1b0e82ada20c42c038552fa"
+    }
+  },
+  {
+    "hour": "08:00",
+    "date": "2026-11-02",
+    "link": "/matches/2399858/natus-vincere-vs-falcons-iem-beijing-2026",
+    "meta": "bo3",
+    "event": "IEM Beijing 2026",
+    "team1": {
+      "name": "Natus Vincere",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c"
+    },
+    "team2": {
+      "name": "Falcons",
+      "logo": "https://img-cdn.hltv.org/teamlogo/4eJSkDQINNM6Tbs4WvLzkN.png?ixlib=java-2.1.0&w=50&s=d8c857ea47046f61eca695beab0d12ef"
+    }
+  },
+  {
+    "hour": "08:00",
+    "date": "2026-11-02",
+    "link": "/matches/2399859/mouz-vs-tyloo-iem-beijing-2026",
+    "meta": "bo3",
+    "event": "IEM Beijing 2026",
+    "team1": {
+      "name": "MOUZ",
+      "logo": "https://img-cdn.hltv.org/teamlogo/IejtXpquZnE8KqYPB1LNKw.svg?ixlib=java-2.1.0&s=7fd33b8def053fbfd8fdbb58e3bdcd3c"
+    },
+    "team2": {
+      "name": "TYLOO",
+      "logo": "https://img-cdn.hltv.org/teamlogo/hMPKtNMDxp07n3lrBEHCuq.svg?ixlib=java-2.1.0&s=6d22fc4af07d0cd9d31fcd7f3023af9a"
+    }
+  },
+  {
+    "hour": "08:00",
+    "date": "2026-11-02",
+    "link": "/matches/2399860/9z-vs-betboom-iem-beijing-2026",
+    "meta": "bo3",
+    "event": "IEM Beijing 2026",
+    "team1": {
+      "name": "9z",
+      "logo": "https://img-cdn.hltv.org/teamlogo/COZDFWOIm41AT0srqOHFhM.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=b00d55fe74b90f91c5b7e2b58bda5afb"
+    },
+    "team2": {
+      "name": "BETBOOM",
+      "logo": "https://img-cdn.hltv.org/teamlogo/G4ZrdB0-q41USPd_z27IQA.png?ixlib=java-2.1.0&w=50&s=9c15ddf70f9c66399d4a47e0d8e93511"
+    }
+  },
+  {
+    "hour": "08:00",
+    "date": "2026-11-02",
+    "link": "/matches/2399861/aurora-vs-liquid-iem-beijing-2026",
+    "meta": "bo3",
+    "event": "IEM Beijing 2026",
+    "team1": {
+      "name": "Aurora",
+      "logo": "https://img-cdn.hltv.org/teamlogo/yJzPNOeXlyiniNxanYJCrv.png?ixlib=java-2.1.0&w=50&s=2c08f70c2f2f8c2024a438ddcf19bbf1"
+    },
+    "team2": {
+      "name": "Liquid",
+      "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62"
+    }
+  },
+  {
+    "hour": "08:00",
+    "date": "2026-11-02",
+    "link": "/matches/2399862/parivision-vs-g2-iem-beijing-2026",
+    "meta": "bo3",
+    "event": "IEM Beijing 2026",
+    "team1": {
+      "name": "PARIVISION",
+      "logo": "https://img-cdn.hltv.org/teamlogo/MFcDe-M8wfGOUU6x4sRELR.png?ixlib=java-2.1.0&w=50&s=1d91076a58b354d8c3eaeda3162c292e"
+    },
+    "team2": {
+      "name": "G2",
+      "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b"
+    }
+  },
+  {
+    "hour": "04:00",
+    "date": "2026-11-11",
+    "link": "/matches/2399851/legacy-vs-furia-blast-rivals-2026-season-2",
+    "meta": "bo3",
+    "event": "BLAST Rivals 2026 Season 2",
+    "team1": {
+      "name": "Legacy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/RWbHH6RA8uGwJurGeLFvSr.png?ixlib=java-2.1.0&w=50&s=3d251032e156cab2f6df8c630ca29745"
+    },
+    "team2": {
+      "name": "FURIA",
+      "logo": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c"
+    }
+  },
+  {
+    "hour": "06:30",
+    "date": "2026-11-11",
+    "link": "/matches/2399852/vitality-vs-falcons-blast-rivals-2026-season-2",
+    "meta": "bo3",
+    "event": "BLAST Rivals 2026 Season 2",
+    "team1": {
+      "name": "Vitality",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ogcHrcCdzRvxbYvAz04KAN.png?ixlib=java-2.1.0&w=50&s=e1f6019aa9f274ffe45a5e99c88dbc02"
+    },
+    "team2": {
+      "name": "Falcons",
+      "logo": "https://img-cdn.hltv.org/teamlogo/4eJSkDQINNM6Tbs4WvLzkN.png?ixlib=java-2.1.0&w=50&s=d8c857ea47046f61eca695beab0d12ef"
+    }
+  },
+  {
+    "hour": "09:00",
+    "date": "2026-11-11",
+    "link": "/matches/2399853/spirit-vs-fut-blast-rivals-2026-season-2",
+    "meta": "bo3",
+    "event": "BLAST Rivals 2026 Season 2",
+    "team1": {
+      "name": "Spirit",
+      "logo": "https://img-cdn.hltv.org/teamlogo/syrtYYKR7sBRw3ZHy1YFX7.png?ixlib=java-2.1.0&w=50&s=40e66714687bec05ea422255b1c0099e"
+    },
+    "team2": {
+      "name": "FUT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Os71GAOy8KDuQFc0M8HE6O.png?ixlib=java-2.1.0&w=50&s=86f2bded6bcb7c690a42a62250ed69e7"
+    }
+  },
+  {
+    "hour": "11:30",
+    "date": "2026-11-11",
+    "link": "/matches/2399854/mouz-vs-g2-blast-rivals-2026-season-2",
+    "meta": "bo3",
+    "event": "BLAST Rivals 2026 Season 2",
+    "team1": {
+      "name": "MOUZ",
+      "logo": "https://img-cdn.hltv.org/teamlogo/IejtXpquZnE8KqYPB1LNKw.svg?ixlib=java-2.1.0&s=7fd33b8def053fbfd8fdbb58e3bdcd3c"
+    },
+    "team2": {
+      "name": "G2",
+      "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b"
+    }
+  }
+]
