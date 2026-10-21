@@ -1,50 +1,5 @@
 [
   {
-    "hour": "00:00",
-    "date": "2026-10-21",
-    "link": "/matches/2399823/joga-de-terno-vs-grmio-cct-2026-south-america-series-7",
-    "meta": "bo3",
-    "event": "CCT 2026 South America Series 7",
-    "team1": {
-      "name": "JOGA DE TERNO",
-      "logo": "/dynamic-svg/teamplaceholder?letter=J"
-    },
-    "team2": {
-      "name": "Gr\u00eamio",
-      "logo": "https://img-cdn.hltv.org/teamlogo/_X9jYYKByFuVx9o4KveYnB.svg?ixlib=java-2.1.0&s=b0354212f03962da301e922ebd9401cd"
-    }
-  },
-  {
-    "hour": "05:00",
-    "date": "2026-10-21",
-    "link": "/matches/2399580/alter-ego-vs-morningstar-macemedia-void-autumn-cup-2026",
-    "meta": "bo3",
-    "event": "MaceMedia VOID Autumn Cup 2026",
-    "team1": {
-      "name": "Alter Ego",
-      "logo": "https://img-cdn.hltv.org/teamlogo/rcVrbr1QiFUoakiO5jGExR.png?ixlib=java-2.1.0&w=50&s=81bf2c78f6ef16e4f315ef2024527fc6"
-    },
-    "team2": {
-      "name": "Morningstar",
-      "logo": "https://img-cdn.hltv.org/teamlogo/fSc8yuspcMAlV0G-AYk6sH.png?ixlib=java-2.1.0&w=50&s=f074ee1af04d3c36a2b9af3a839a61fd"
-    }
-  },
-  {
-    "hour": "07:00",
-    "date": "2026-10-21",
-    "link": "/matches/2399581/wxm-vs-vitalem-aerem-macemedia-void-autumn-cup-2026",
-    "meta": "bo3",
-    "event": "MaceMedia VOID Autumn Cup 2026",
-    "team1": {
-      "name": "WXM",
-      "logo": "https://img-cdn.hltv.org/teamlogo/ve7jQslIADDYzFrirb5mTZ.png?ixlib=java-2.1.0&w=50&s=3ea0f06bd61660afeba6eee1fa506a30"
-    },
-    "team2": {
-      "name": "Vitalem Aerem",
-      "logo": "https://img-cdn.hltv.org/teamlogo/0HR-ABrHDeqzgAUun49Ei1.png?ixlib=java-2.1.0&w=50&s=5581767c568defa6c55f40433f032b96"
-    }
-  },
-  {
     "hour": "08:00",
     "date": "2026-10-21",
     "link": "/matches/2399834/virtuspro-vs-xmeta-winline-mpkbk-cis-lan-season-9",
@@ -431,7 +386,7 @@
     },
     "team2": {
       "name": "BARCA",
-      "logo": "/dynamic-svg/teamplaceholder?letter=B"
+      "logo": "https://img-cdn.hltv.org/teamlogo/OTzPVp91pmfM7Z37y2MLbJ.png?ixlib=java-2.1.0&w=50&s=6790766013d8bcc8d88b7df509ecfa37"
     }
   },
   {
@@ -510,6 +465,21 @@
     }
   },
   {
+    "hour": "18:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399863/joga-de-terno-vs-martians-cct-2026-south-america-series-7",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 7",
+    "team1": {
+      "name": "JOGA DE TERNO",
+      "logo": "/dynamic-svg/teamplaceholder?letter=J"
+    },
+    "team2": {
+      "name": "Martians",
+      "logo": "https://img-cdn.hltv.org/teamlogo/0tdZile5XtzGd-rOI0e5hr.png?ixlib=java-2.1.0&w=50&s=04c4283c6f7789951949db858f4ca30b"
+    }
+  },
+  {
     "hour": "19:30",
     "date": "2026-10-21",
     "link": "/matches/2399783/metizport-vs-genone-stake-ranked-episode-6-closed-qualifier",
@@ -522,6 +492,51 @@
     "team2": {
       "name": "GenOne",
       "logo": "https://img-cdn.hltv.org/teamlogo/DlMJrDmPA7qofO3HhP7Tbe.png?ixlib=java-2.1.0&w=50&s=5dedfb534782d2c3e00a5d476fc8fba9"
+    }
+  },
+  {
+    "hour": "21:00",
+    "date": "2026-10-21",
+    "link": "/matches/2399864/damajuana-vs-hacha-cct-2026-south-america-series-7",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 7",
+    "team1": {
+      "name": "DAMAJUANA",
+      "logo": "https://img-cdn.hltv.org/teamlogo/QGEAzsxlc66HnbvhgKMuFV.png?ixlib=java-2.1.0&w=50&s=c19a936b9c993f687acd0afda35ed99e"
+    },
+    "team2": {
+      "name": "Hacha",
+      "logo": "https://img-cdn.hltv.org/teamlogo/2nErexNT3M48np8RuuJ2he.png?ixlib=java-2.1.0&w=50&s=fafcb0d41a8f7510bbac4eec95d0ddda"
+    }
+  },
+  {
+    "hour": "00:00",
+    "date": "2026-10-22",
+    "link": "/matches/2399865/zetta-vs-los-ninos-cct-2026-south-america-series-7",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 7",
+    "team1": {
+      "name": "Zetta",
+      "logo": "https://img-cdn.hltv.org/teamlogo/tBiNrfgQd520MFoJr7_8KA.png?ixlib=java-2.1.0&w=50&s=8010403785497ba945ef28e8eef4e549"
+    },
+    "team2": {
+      "name": "LOS NINOS",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L"
+    }
+  },
+  {
+    "hour": "05:00",
+    "date": "2026-10-22",
+    "link": "/matches/2399584/morningstar-vs-cwarriors-nexvoid-loser-macemedia-void-autumn-cup-2026",
+    "meta": "bo3",
+    "event": "MaceMedia VOID Autumn Cup 2026",
+    "team1": {
+      "name": "Morningstar",
+      "logo": "https://img-cdn.hltv.org/teamlogo/fSc8yuspcMAlV0G-AYk6sH.png?ixlib=java-2.1.0&w=50&s=f074ee1af04d3c36a2b9af3a839a61fd"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
     }
   },
   {
