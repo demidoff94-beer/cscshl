@@ -1,216 +1,21 @@
 [
   {
-    "hour": "15:00",
+    "hour": "19:20",
     "date": "2026-10-22",
-    "link": "/matches/2399634/jijiehao-vs-nexus-digital-crusade-draculan-season-7",
+    "link": "/matches/2399846/nexora-vs-k27-winline-mpkbk-cis-lan-season-9",
     "meta": "bo3",
-    "event": "Digital Crusade DraculaN Season 7",
+    "event": "WINLINE MPKBK CIS LAN Season 9",
     "team1": {
-      "name": "JiJieHao",
-      "logo": "https://img-cdn.hltv.org/teamlogo/OmcJcjX0obWnKkP7ChpuFA.png?ixlib=java-2.1.0&w=50&s=8e3bd16625d6f62c95285c98080ded66"
+      "name": "NEXORA",
+      "logo": "/dynamic-svg/teamplaceholder?letter=N"
     },
     "team2": {
-      "name": "Nexus",
-      "logo": "https://img-cdn.hltv.org/teamlogo/TsvwZ9z4tVRO9Ry1jYxs_n.png?ixlib=java-2.1.0&w=50&s=ca777e2c0f8a3e0b26d0c90d98d72fbe"
+      "name": "K27",
+      "logo": "https://img-cdn.hltv.org/teamlogo/7LmOZHYhlq-fIAm23aM2q1.png?ixlib=java-2.1.0&w=50&s=e194cf9c20b306723ae899eac0e8a356"
     }
   },
   {
-    "hour": "15:00",
-    "date": "2026-10-22",
-    "link": "/matches/2399635/faze-vs-bcgame-digital-crusade-draculan-season-7",
-    "meta": "bo3",
-    "event": "Digital Crusade DraculaN Season 7",
-    "team1": {
-      "name": "FaZe",
-      "logo": "https://img-cdn.hltv.org/teamlogo/OKLwq88GXjl5GQ48Y5SrvW.png?ixlib=java-2.1.0&w=50&s=0a0d65eeb1b0e82ada20c42c038552fa"
-    },
-    "team2": {
-      "name": "BC.Game",
-      "logo": "https://img-cdn.hltv.org/teamlogo/Sh3oQBtd6xemdynQ-H_NJa.png?ixlib=java-2.1.0&w=50&s=75de32fe0ecfa58e1267b9ebd3d577bd"
-    }
-  },
-  {
-    "hour": "15:00",
-    "date": "2026-10-22",
-    "link": "/matches/2399904/tropa-do-kingui-vs-martians-cct-2026-south-america-series-7",
-    "meta": "bo3",
-    "event": "CCT 2026 South America Series 7",
-    "team1": {
-      "name": "Tropa do KinGui",
-      "logo": "/dynamic-svg/teamplaceholder?letter=T"
-    },
-    "team2": {
-      "name": "Martians",
-      "logo": "https://img-cdn.hltv.org/teamlogo/0tdZile5XtzGd-rOI0e5hr.png?ixlib=java-2.1.0&w=50&s=04c4283c6f7789951949db858f4ca30b"
-    }
-  },
-  {
-    "hour": "15:45",
-    "date": "2026-10-22",
-    "link": "/matches/2399697/donstu-vs-banda-chuya-cct-2026-challengers-europe-series-8",
-    "meta": "bo3",
-    "event": "CCT 2026 Challengers Europe Series 8",
-    "team1": {
-      "name": "DONSTU",
-      "logo": "https://img-cdn.hltv.org/teamlogo/9ueb9xIjZJND19aXJ-02H-.png?ixlib=java-2.1.0&w=50&s=aafb584d0a8eee097f9129fe1b7602db"
-    },
-    "team2": {
-      "name": "Banda Chuya",
-      "logo": "/dynamic-svg/teamplaceholder?letter=B"
-    }
-  },
-  {
-    "hour": "16:00",
-    "date": "2026-10-22",
-    "link": "/matches/2399329/acend-vs-ex-6666-cct-2026-europe-series-11",
-    "meta": "bo3",
-    "event": "CCT 2026 Europe Series 11",
-    "team1": {
-      "name": "Acend",
-      "logo": "https://img-cdn.hltv.org/teamlogo/TslndPhDvsn1bLMdm1j2i6.png?ixlib=java-2.1.0&w=50&s=0b477b55a7781f7f9bd5278cd9714ca2"
-    },
-    "team2": {
-      "name": "ex-6666",
-      "logo": "/dynamic-svg/teamplaceholder?letter=e"
-    }
-  },
-  {
-    "hour": "16:00",
-    "date": "2026-10-22",
-    "link": "/matches/2399495/lavked-vs-havu-cct-2026-europe-series-12",
-    "meta": "bo3",
-    "event": "CCT 2026 Europe Series 12",
-    "team1": {
-      "name": "Lavked",
-      "logo": "/dynamic-svg/teamplaceholder?letter=L"
-    },
-    "team2": {
-      "name": "HAVU",
-      "logo": "https://img-cdn.hltv.org/teamlogo/_bpWybCQhDRnPq8Z2ZYO5h.png?ixlib=java-2.1.0&w=50&s=2e3c9e1a0a833d4d92ce10ec8adddf00"
-    }
-  },
-  {
-    "hour": "16:00",
-    "date": "2026-10-22",
-    "link": "/matches/2399784/unity-vs-betclic-stake-ranked-episode-6-closed-qualifier",
-    "meta": "bo3",
-    "event": "Stake Ranked Episode 6 Closed Qualifier",
-    "team1": {
-      "name": "UNiTY",
-      "logo": "https://img-cdn.hltv.org/teamlogo/coucDlsynd0Ujutb5o2SC-.png?ixlib=java-2.1.0&w=50&s=a5d9a7be6bddda8b8c01ab037786a465"
-    },
-    "team2": {
-      "name": "Betclic",
-      "logo": "https://img-cdn.hltv.org/teamlogo/iX5wi-ZLkdHTARnXcMEvZF.png?ixlib=java-2.1.0&w=50&s=d543c7f38ede96ef911a66c407b6b6cd"
-    }
-  },
-  {
-    "hour": "16:00",
-    "date": "2026-10-22",
-    "link": "/matches/2399810/imperial-vs-turma-do-pagode-circuit-x-curitiba-season-4",
-    "meta": "bo3",
-    "event": "Circuit X Curitiba Season 4",
-    "team1": {
-      "name": "Imperial",
-      "logo": "https://img-cdn.hltv.org/teamlogo/bBDk6-rND06sAzn67b5RdP.png?ixlib=java-2.1.0&w=50&s=467e31ba123f509130d647fbf1e04ef2"
-    },
-    "team2": {
-      "name": "Turma do Pagode",
-      "logo": "https://img-cdn.hltv.org/teamlogo/pl_iLOTm1KzDRG3AAc2PZf.png?ixlib=java-2.1.0&w=50&s=03cce9ed68c407f5adcf04bdedcdc8ae"
-    }
-  },
-  {
-    "hour": "16:00",
-    "date": "2026-10-22",
-    "link": "/matches/2399811/bestia-vs-shinden-circuit-x-curitiba-season-4",
-    "meta": "bo3",
-    "event": "Circuit X Curitiba Season 4",
-    "team1": {
-      "name": "BESTIA",
-      "logo": "https://img-cdn.hltv.org/teamlogo/Z_R5K__qrvHmPjF66iCay-.png?ixlib=java-2.1.0&w=50&s=7e2afd72c2b3cabf53244ed6bc5142e3"
-    },
-    "team2": {
-      "name": "ShindeN",
-      "logo": "https://img-cdn.hltv.org/teamlogo/5tfhYrPKeLDzFW8X-vFExJ.png?ixlib=java-2.1.0&w=50&s=cfc4c6391157f58820f5108485a4f2a6"
-    }
-  },
-  {
-    "hour": "17:00",
-    "date": "2026-10-22",
-    "link": "/matches/2399002/parivision-vs-big-the-mongolz-winner-1win-private-club-season-2",
-    "meta": "bo5",
-    "event": "1win Private Club Season 2",
-    "team1": {
-      "name": "PARIVISION",
-      "logo": "https://img-cdn.hltv.org/teamlogo/MFcDe-M8wfGOUU6x4sRELR.png?ixlib=java-2.1.0&w=50&s=1d91076a58b354d8c3eaeda3162c292e"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
-    }
-  },
-  {
-    "hour": "18:00",
-    "date": "2026-10-22",
-    "link": "/matches/2399636/sinners-vs-eternal-fire-digital-crusade-draculan-season-7",
-    "meta": "bo3",
-    "event": "Digital Crusade DraculaN Season 7",
-    "team1": {
-      "name": "SINNERS",
-      "logo": "https://img-cdn.hltv.org/teamlogo/9l_WdQSU9JsNHzpK-pwOG2.svg?ixlib=java-2.1.0&s=af432c3ef61c0c843331cc0dc2fed1ed"
-    },
-    "team2": {
-      "name": "Eternal Fire",
-      "logo": "https://img-cdn.hltv.org/teamlogo/Tafdq71X3B_-73b73bAixr.png?ixlib=java-2.1.0&w=50&s=f1505e0f7e03bed0d0d2b4c809768198"
-    }
-  },
-  {
-    "hour": "18:00",
-    "date": "2026-10-22",
-    "link": "/matches/2399905/meia-noite-vs-procyon-cct-2026-south-america-series-7",
-    "meta": "bo3",
-    "event": "CCT 2026 South America Series 7",
-    "team1": {
-      "name": "MEIA NOITE",
-      "logo": "/dynamic-svg/teamplaceholder?letter=M"
-    },
-    "team2": {
-      "name": "Procyon",
-      "logo": "https://img-cdn.hltv.org/teamlogo/j3cZThec5Smnc2QLlkMZjX.png?ixlib=java-2.1.0&w=50&s=b90d609f9f63e6e1dcd8ef9772e7f92a"
-    }
-  },
-  {
-    "hour": "18:30",
-    "date": "2026-10-22",
-    "link": "/matches/2399785/sangal-vs-metizport-stake-ranked-episode-6-closed-qualifier",
-    "meta": "bo3",
-    "event": "Stake Ranked Episode 6 Closed Qualifier",
-    "team1": {
-      "name": "Sangal",
-      "logo": "https://img-cdn.hltv.org/teamlogo/zPv_FeMF8CANC10Jz32P9l.png?ixlib=java-2.1.0&w=50&s=741a13d27b484b39f24cdc76dbf80568"
-    },
-    "team2": {
-      "name": "Metizport",
-      "logo": "https://img-cdn.hltv.org/teamlogo/L6vT42LZaQh88EXiZ5FpHK.png?ixlib=java-2.1.0&w=50&s=85eeac10933db8bdbf17dfcc28972af2"
-    }
-  },
-  {
-    "hour": "19:00",
-    "date": "2026-10-22",
-    "link": "/matches/2399330/rune-eaters-vs-forze-reload-cct-2026-europe-series-11",
-    "meta": "bo3",
-    "event": "CCT 2026 Europe Series 11",
-    "team1": {
-      "name": "Rune Eaters",
-      "logo": "https://img-cdn.hltv.org/teamlogo/0tz6_3o6A0NY93l0krNNVE.png?ixlib=java-2.1.0&w=50&s=3a6acfc6c37d490a77a59847edc81882"
-    },
-    "team2": {
-      "name": "FORZE Reload",
-      "logo": "https://img-cdn.hltv.org/teamlogo/YJnWBDwmRDJ9o2uOUrhNeQ.png?ixlib=java-2.1.0&w=50&s=83f5ce35b3f98833671987bc637c74b7"
-    }
-  },
-  {
-    "hour": "19:00",
+    "hour": "19:30",
     "date": "2026-10-22",
     "link": "/matches/2399496/6yubojlbl-vs-ex-6666-cct-2026-europe-series-12",
     "meta": "bo3",
@@ -225,18 +30,33 @@
     }
   },
   {
-    "hour": "19:30",
+    "hour": "19:45",
     "date": "2026-10-22",
-    "link": "/matches/2399846/nexora-vs-k27-winline-mpkbk-cis-lan-season-9",
+    "link": "/matches/2399812/imperial-vs-bestia-circuit-x-curitiba-season-4",
     "meta": "bo3",
-    "event": "WINLINE MPKBK CIS LAN Season 9",
+    "event": "Circuit X Curitiba Season 4",
     "team1": {
-      "name": "NEXORA",
-      "logo": "/dynamic-svg/teamplaceholder?letter=N"
+      "name": "Imperial",
+      "logo": "https://img-cdn.hltv.org/teamlogo/bBDk6-rND06sAzn67b5RdP.png?ixlib=java-2.1.0&w=50&s=467e31ba123f509130d647fbf1e04ef2"
     },
     "team2": {
-      "name": "K27",
-      "logo": "https://img-cdn.hltv.org/teamlogo/7LmOZHYhlq-fIAm23aM2q1.png?ixlib=java-2.1.0&w=50&s=e194cf9c20b306723ae899eac0e8a356"
+      "name": "BESTIA",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Z_R5K__qrvHmPjF66iCay-.png?ixlib=java-2.1.0&w=50&s=7e2afd72c2b3cabf53244ed6bc5142e3"
+    }
+  },
+  {
+    "hour": "19:45",
+    "date": "2026-10-22",
+    "link": "/matches/2399813/turma-do-pagode-vs-shinden-circuit-x-curitiba-season-4",
+    "meta": "bo3",
+    "event": "Circuit X Curitiba Season 4",
+    "team1": {
+      "name": "Turma do Pagode",
+      "logo": "https://img-cdn.hltv.org/teamlogo/pl_iLOTm1KzDRG3AAc2PZf.png?ixlib=java-2.1.0&w=50&s=03cce9ed68c407f5adcf04bdedcdc8ae"
+    },
+    "team2": {
+      "name": "ShindeN",
+      "logo": "https://img-cdn.hltv.org/teamlogo/5tfhYrPKeLDzFW8X-vFExJ.png?ixlib=java-2.1.0&w=50&s=cfc4c6391157f58820f5108485a4f2a6"
     }
   },
   {
@@ -357,6 +177,21 @@
     "team2": {
       "name": "Spirit Academy",
       "logo": "https://img-cdn.hltv.org/teamlogo/txUq00aBKY7O4fLVJegmi_.png?ixlib=java-2.1.0&w=50&s=0be2e166db241569e89ac4ab8f5fb9a2"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-10-23",
+    "link": "/matches/2399699/phantom-academy-vs-banda-chuya-cct-2026-challengers-europe-series-8",
+    "meta": "bo3",
+    "event": "CCT 2026 Challengers Europe Series 8",
+    "team1": {
+      "name": "Phantom Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/1-ndJrd3Y-vYo3AYM1HywD.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=1c3d4a2021cea1c8a6d2384310747363"
+    },
+    "team2": {
+      "name": "Banda Chuya",
+      "logo": "/dynamic-svg/teamplaceholder?letter=B"
     }
   },
   {
@@ -537,6 +372,21 @@
     "team2": {
       "name": "Liquid",
       "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-10-24",
+    "link": "/matches/2399701/donstu-vs-quintessence-ryvex-winner-cct-2026-challengers-europe-series-8",
+    "meta": "bo3",
+    "event": "CCT 2026 Challengers Europe Series 8",
+    "team1": {
+      "name": "DONSTU",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9ueb9xIjZJND19aXJ-02H-.png?ixlib=java-2.1.0&w=50&s=aafb584d0a8eee097f9129fe1b7602db"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
     }
   },
   {
