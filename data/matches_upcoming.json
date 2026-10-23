@@ -1,80 +1,5 @@
 [
   {
-    "hour": "19:20",
-    "date": "2026-10-23",
-    "link": "/matches/2399334/brute-vs-baks-cct-2026-europe-series-11",
-    "meta": "bo3",
-    "event": "CCT 2026 Europe Series 11",
-    "team1": {
-      "name": "BRUTE",
-      "logo": "https://img-cdn.hltv.org/teamlogo/Bh8oZnAYofBgma_vPu55I7.svg?ixlib=java-2.1.0&s=98154a0be5a53ccadf51c17bdcd57536"
-    },
-    "team2": {
-      "name": "BAKS",
-      "logo": "https://img-cdn.hltv.org/teamlogo/addrkF7msTiD-HdGMcCXbZ.png?ixlib=java-2.1.0&w=50&s=77c6157e0f8f6c0cc067dba37eb1110c"
-    }
-  },
-  {
-    "hour": "20:00",
-    "date": "2026-10-23",
-    "link": "/matches/2399815/bestia-vs-galorys-circuit-x-curitiba-season-4",
-    "meta": "bo3",
-    "event": "Circuit X Curitiba Season 4",
-    "team1": {
-      "name": "BESTIA",
-      "logo": "https://img-cdn.hltv.org/teamlogo/Z_R5K__qrvHmPjF66iCay-.png?ixlib=java-2.1.0&w=50&s=7e2afd72c2b3cabf53244ed6bc5142e3"
-    },
-    "team2": {
-      "name": "Galorys",
-      "logo": "https://img-cdn.hltv.org/teamlogo/GljsUhNlV1YdE2Z1ge-HzK.png?ixlib=java-2.1.0&w=50&s=fd7e8570af28b29e7dfa34eab2c506b1"
-    }
-  },
-  {
-    "hour": "20:30",
-    "date": "2026-10-23",
-    "link": "/matches/2399639/sinners-vs-jijiehao-eternal-fire-winner-digital-crusade-draculan-season-7",
-    "meta": "bo3",
-    "event": "Digital Crusade DraculaN Season 7",
-    "team1": {
-      "name": "SINNERS",
-      "logo": "https://img-cdn.hltv.org/teamlogo/9l_WdQSU9JsNHzpK-pwOG2.svg?ixlib=java-2.1.0&s=af432c3ef61c0c843331cc0dc2fed1ed"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
-    }
-  },
-  {
-    "hour": "21:00",
-    "date": "2026-10-23",
-    "link": "/matches/2399910/bestia-academy-vs-red-canids-academy-cct-2026-south-america-series-7",
-    "meta": "bo3",
-    "event": "CCT 2026 South America Series 7",
-    "team1": {
-      "name": "BESTIA Academy",
-      "logo": "https://img-cdn.hltv.org/teamlogo/Z_R5K__qrvHmPjF66iCay-.png?ixlib=java-2.1.0&w=50&s=7e2afd72c2b3cabf53244ed6bc5142e3"
-    },
-    "team2": {
-      "name": "RED Canids Academy",
-      "logo": "https://img-cdn.hltv.org/teamlogo/cBbt6PRgyMMpkSLJWncEV3.png?ixlib=java-2.1.0&w=50&s=06898dac8e3dc1cc763c07a28d7b35a2"
-    }
-  },
-  {
-    "hour": "23:00",
-    "date": "2026-10-23",
-    "link": "/matches/2399816/pain-vs-imperial-circuit-x-curitiba-season-4",
-    "meta": "bo3",
-    "event": "Circuit X Curitiba Season 4",
-    "team1": {
-      "name": "paiN",
-      "logo": "https://img-cdn.hltv.org/teamlogo/iUUCFwCOFmOrwhB8q8smMg.svg?ixlib=java-2.1.0&s=1446e1cf3d02deb8190fe6efd14e4ce4"
-    },
-    "team2": {
-      "name": "Imperial",
-      "logo": "https://img-cdn.hltv.org/teamlogo/bBDk6-rND06sAzn67b5RdP.png?ixlib=java-2.1.0&w=50&s=467e31ba123f509130d647fbf1e04ef2"
-    }
-  },
-  {
     "hour": "00:00",
     "date": "2026-10-24",
     "link": "/matches/2399908/alka-vs-los-ninos-cct-2026-south-america-series-7",
@@ -165,6 +90,21 @@
     }
   },
   {
+    "hour": "10:00",
+    "date": "2026-10-24",
+    "link": "/matches/2399335/acend-vs-forze-reload-cct-2026-europe-series-11",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 11",
+    "team1": {
+      "name": "Acend",
+      "logo": "https://img-cdn.hltv.org/teamlogo/TslndPhDvsn1bLMdm1j2i6.png?ixlib=java-2.1.0&w=50&s=0b477b55a7781f7f9bd5278cd9714ca2"
+    },
+    "team2": {
+      "name": "FORZE Reload",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YJnWBDwmRDJ9o2uOUrhNeQ.png?ixlib=java-2.1.0&w=50&s=83f5ce35b3f98833671987bc637c74b7"
+    }
+  },
+  {
     "hour": "11:00",
     "date": "2026-10-24",
     "link": "/matches/2398697/state-vs-overtime-hotspawn-showdown-2026-finals",
@@ -207,6 +147,36 @@
     "team2": {
       "name": "Liquid",
       "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-10-24",
+    "link": "/matches/2399336/spirit-academy-vs-lavked-cct-2026-europe-series-11",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 11",
+    "team1": {
+      "name": "Spirit Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/txUq00aBKY7O4fLVJegmi_.png?ixlib=java-2.1.0&w=50&s=0be2e166db241569e89ac4ab8f5fb9a2"
+    },
+    "team2": {
+      "name": "Lavked",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-10-24",
+    "link": "/matches/2399502/havu-vs-azuolas-cct-2026-europe-series-12",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 12",
+    "team1": {
+      "name": "HAVU",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_bpWybCQhDRnPq8Z2ZYO5h.png?ixlib=java-2.1.0&w=50&s=2e3c9e1a0a833d4d92ce10ec8adddf00"
+    },
+    "team2": {
+      "name": "Azuolas",
+      "logo": "https://img-cdn.hltv.org/teamlogo/lDm1RZz0u9tr0BPIV6YiGX.png?ixlib=java-2.1.0&w=50&s=12976fe6ec2c3e0d1bfd785fcb438307"
     }
   },
   {
@@ -270,6 +240,36 @@
     }
   },
   {
+    "hour": "16:00",
+    "date": "2026-10-24",
+    "link": "/matches/2399337/inox-division-vs-brute-cct-2026-europe-series-11",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 11",
+    "team1": {
+      "name": "INOX Division",
+      "logo": "https://img-cdn.hltv.org/teamlogo/5jcprHN8P8ylGZJxkC3ZHj.png?ixlib=java-2.1.0&w=50&s=69743986c06bd0249fb39aab058ecf88"
+    },
+    "team2": {
+      "name": "BRUTE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Bh8oZnAYofBgma_vPu55I7.svg?ixlib=java-2.1.0&s=98154a0be5a53ccadf51c17bdcd57536"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-10-24",
+    "link": "/matches/2399503/6yubojlbl-vs-saint-sinners-cct-2026-europe-series-12",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 12",
+    "team1": {
+      "name": "6yuBoJlbl",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Cv0OeT-3Hqb0_tbi5CQe5r.png?ixlib=java-2.1.0&w=50&s=eb49fe140e0cb440e5489b235297c90d"
+    },
+    "team2": {
+      "name": "Saint Sinners",
+      "logo": "/dynamic-svg/teamplaceholder?letter=S"
+    }
+  },
+  {
     "hour": "18:00",
     "date": "2026-10-24",
     "link": "/matches/2399725/g2-vs-natus-vincere-pgl-masters-bucharest-2026",
@@ -297,6 +297,66 @@
     "team2": {
       "name": "DENDELE",
       "logo": "https://img-cdn.hltv.org/teamlogo/xKB2zOMgkFKoD-MLU484IV.png?ixlib=java-2.1.0&w=50&s=ca11299f789fb7c48d83130b8396af9f"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-10-24",
+    "link": "/matches/2399338/nuclear-tigeres-vs-ex-zero-tenacity-cct-2026-europe-series-11",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 11",
+    "team1": {
+      "name": "Nuclear TigeRES",
+      "logo": "https://img-cdn.hltv.org/teamlogo/GcO3SLh1j8cgiNGoEXNUVS.png?ixlib=java-2.1.0&w=50&s=856dc9f0ffdbeedbe76d9874fbcdb546"
+    },
+    "team2": {
+      "name": "ex-Zero Tenacity",
+      "logo": "/dynamic-svg/teamplaceholder?letter=e"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-10-24",
+    "link": "/matches/2399504/baks-vs-illyrians-cct-2026-europe-series-12",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 12",
+    "team1": {
+      "name": "BAKS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/addrkF7msTiD-HdGMcCXbZ.png?ixlib=java-2.1.0&w=50&s=77c6157e0f8f6c0cc067dba37eb1110c"
+    },
+    "team2": {
+      "name": "Illyrians",
+      "logo": "https://img-cdn.hltv.org/teamlogo/cCPQDYWgTSfZKfjVvVLMoy.png?ixlib=java-2.1.0&w=50&s=7013d02394a2fc3236a41f19869f5b36"
+    }
+  },
+  {
+    "hour": "20:00",
+    "date": "2026-10-24",
+    "link": "/matches/2399817/galorys-vs-pain-imperial-loser-circuit-x-curitiba-season-4",
+    "meta": "bo3",
+    "event": "Circuit X Curitiba Season 4",
+    "team1": {
+      "name": "Galorys",
+      "logo": "https://img-cdn.hltv.org/teamlogo/GljsUhNlV1YdE2Z1ge-HzK.png?ixlib=java-2.1.0&w=50&s=fd7e8570af28b29e7dfa34eab2c506b1"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "23:00",
+    "date": "2026-10-24",
+    "link": "/matches/2399818/bestia-vs-pain-imperial-winner-circuit-x-curitiba-season-4",
+    "meta": "bo3",
+    "event": "Circuit X Curitiba Season 4",
+    "team1": {
+      "name": "BESTIA",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Z_R5K__qrvHmPjF66iCay-.png?ixlib=java-2.1.0&w=50&s=7e2afd72c2b3cabf53244ed6bc5142e3"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
     }
   },
   {
@@ -330,6 +390,21 @@
     }
   },
   {
+    "hour": "13:00",
+    "date": "2026-10-25",
+    "link": "/matches/2399506/spirit-academy-vs-lfo-10-cct-2026-europe-series-12",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 12",
+    "team1": {
+      "name": "Spirit Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/txUq00aBKY7O4fLVJegmi_.png?ixlib=java-2.1.0&w=50&s=0be2e166db241569e89ac4ab8f5fb9a2"
+    },
+    "team2": {
+      "name": "LFO 10",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L"
+    }
+  },
+  {
     "hour": "16:00",
     "date": "2026-10-25",
     "link": "/matches/2399114/infinite-vs-brute-nodwin-clutch-series-13",
@@ -356,6 +431,21 @@
     },
     "team2": {
       "name": "ex-Zero Tenacity",
+      "logo": "/dynamic-svg/teamplaceholder?letter=e"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-10-25",
+    "link": "/matches/2399508/forze-reload-vs-ex-rustec-cct-2026-europe-series-12",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 12",
+    "team1": {
+      "name": "FORZE Reload",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YJnWBDwmRDJ9o2uOUrhNeQ.png?ixlib=java-2.1.0&w=50&s=83f5ce35b3f98833671987bc637c74b7"
+    },
+    "team2": {
+      "name": "ex-RUSTEC",
       "logo": "/dynamic-svg/teamplaceholder?letter=e"
     }
   },
