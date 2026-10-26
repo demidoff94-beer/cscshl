@@ -2940,7 +2940,7 @@
         "name": "Next Up",
         "id": "14072",
         "link": "/team/14072/next-up",
-        "logo": "/dynamic-svg/teamplaceholder?letter=N",
+        "logo": "https://img-cdn.hltv.org/teamlogo/K7hrFntJXd6WZ-f-_dym2F.png?ixlib=java-2.1.0&w=50&s=3ae4e665d5cb5be25bcd088de1ec9563",
         "points": "3",
         "players": [
           "kickdown",
