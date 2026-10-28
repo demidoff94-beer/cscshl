@@ -1,52 +1,108 @@
 [
   {
+    "title": "Short news: Week 42 ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-10-28",
+    "comments": "35 comments",
+    "link": "/news/45811/short-news-week-42"
+  },
+  {
+    "title": "All teams added to the PGL Masters Bucharest playoffs Fantasy game ",
+    "img": "/img/static/flags/30x20/RO.gif",
+    "date": "2026-10-28",
+    "comments": "5 comments",
+    "link": "/news/45845/all-teams-added-to-the-pgl-masters-bucharest-playoffs-fantasy-game"
+  },
+  {
+    "title": "PGL Masters Bucharest bracket set ",
+    "img": "/img/static/flags/30x20/RO.gif",
+    "date": "2026-10-28",
+    "comments": "27 comments",
+    "link": "/news/45844/pgl-masters-bucharest-bracket-set"
+  },
+  {
+    "title": "The best highlights from PGL Masters Bucharest groups ",
+    "img": "/img/static/flags/30x20/RO.gif",
+    "date": "2026-10-28",
+    "comments": "133 comments",
+    "link": "/news/45786/the-best-highlights-from-pgl-masters-bucharest-groups"
+  },
+  {
+    "title": "NAVI embarrass Spirit for last playoff berth ",
+    "img": "/img/static/flags/30x20/RO.gif",
+    "date": "2026-10-28",
+    "comments": "122 comments",
+    "link": "/news/45843/navi-embarrass-spirit-for-last-playoff-berth"
+  },
+  {
+    "title": "YEKINDAR: \"We're definitely playing better; before Thunderpick, we played a lot worse\" ",
+    "img": "/img/static/flags/30x20/LV.gif",
+    "date": "2026-10-28",
+    "comments": "19 comments",
+    "link": "/news/45842/yekindar-were-definitely-playing-better-before-thunderpick-we-played-a-lot-worse"
+  },
+  {
+    "title": "hooch: \"[K27] are very talented, and most importantly, they're all pretty cool characters\" ",
+    "img": "/img/static/flags/30x20/RU.gif",
+    "date": "2026-10-28",
+    "comments": "11 comments",
+    "link": "/news/45841/hooch-k27-are-very-talented-and-most-importantly-theyre-all-pretty-cool-characters"
+  },
+  {
+    "title": "FURIA go to PGL Masters quarters over Liquid ",
+    "img": "/img/static/flags/30x20/RO.gif",
+    "date": "2026-10-28",
+    "comments": "23 comments",
+    "link": "/news/45840/furia-go-to-pgl-masters-quarters-over-liquid"
+  },
+  {
+    "title": "Nemiga through to PGL Masters Bucharest playoffs over The MongolZ ",
+    "img": "/img/static/flags/30x20/RO.gif",
+    "date": "2026-10-28",
+    "comments": "24 comments",
+    "link": "/news/45839/nemiga-through-to-pgl-masters-bucharest-playoffs-over-the-mongolz"
+  },
+  {
     "title": "Legacy bench n1ssim, ksloks to stand in for the rest of 2026* ",
     "img": "/img/static/flags/30x20/BR.gif",
     "date": "2026-10-28",
-    "comments": "78 comments",
+    "comments": "121 comments",
     "link": "/news/45838/legacy-bench-n1ssim-ksloks-to-stand-in-for-the-rest-of-2026"
   },
   {
     "title": "jL: \"This is why Vitality is the best team in the world, they have the ability to cover for players\" ",
     "img": "/img/static/flags/30x20/LT.gif",
     "date": "2026-10-28",
-    "comments": "50 comments",
+    "comments": "75 comments",
     "link": "/news/45835/jl-this-is-why-vitality-is-the-best-team-in-the-world-they-have-the-ability-to-cover-for-players"
   },
   {
     "title": "Twistzz: \"Sometimes I'm the one dampening the good mood, these young players don't deserve [that], so now I'll just bring in the good vibes\" ",
     "img": "/img/static/flags/30x20/CA.gif",
     "date": "2026-10-27",
-    "comments": "69 comments",
+    "comments": "70 comments",
     "link": "/news/45837/twistzz-sometimes-im-the-one-dampening-the-good-mood-these-young-players-dont-deserve-that-so-now-ill-just-bring-in-the-good-vibes"
   },
   {
     "title": "torzsi on beating Spirit: \"They trash talked us a little before the last map, so it was a nice statement to win\" ",
     "img": "/img/static/flags/30x20/HU.gif",
     "date": "2026-10-27",
-    "comments": "85 comments",
+    "comments": "88 comments",
     "link": "/news/45832/torzsi-on-beating-spirit-they-trash-talked-us-a-little-before-the-last-map-so-it-was-a-nice-statement-to-win"
   },
   {
     "title": "jabbi returns to Astralis for Stake Ranked to help salvage Major invite ",
     "img": "/img/static/flags/30x20/DK.gif",
     "date": "2026-10-27",
-    "comments": "64 comments",
+    "comments": "66 comments",
     "link": "/news/45836/jabbi-returns-to-astralis-for-stake-ranked-to-help-salvage-major-invite"
   },
   {
     "title": "Spirit-NAVI to headline PGL Masters day five ",
     "img": "/img/static/flags/30x20/RO.gif",
     "date": "2026-10-27",
-    "comments": "46 comments",
+    "comments": "52 comments",
     "link": "/news/45833/spirit-navi-to-headline-pgl-masters-day-five"
-  },
-  {
-    "title": "The best highlights from PGL Masters Bucharest groups ",
-    "img": "/img/static/flags/30x20/RO.gif",
-    "date": "2026-10-27",
-    "comments": "110 comments",
-    "link": "/news/45786/the-best-highlights-from-pgl-masters-bucharest-groups"
   },
   {
     "title": "Vitality crush NAVI to make Bucharest playoffs ",
@@ -87,7 +143,7 @@
     "title": "Aleksib convicted of aggravated tax fraud ",
     "img": "/img/static/flags/30x20/FI.gif",
     "date": "2026-10-27",
-    "comments": "340 comments",
+    "comments": "350 comments",
     "link": "/news/45828/aleksib-convicted-of-aggravated-tax-fraud"
   },
   {
@@ -143,7 +199,7 @@
     "title": "DENDELE eliminate lackluster G2 from PGL Masters Bucharest ",
     "img": "/img/static/flags/30x20/RO.gif",
     "date": "2026-10-26",
-    "comments": "56 comments",
+    "comments": "57 comments",
     "link": "/news/45820/dendele-eliminate-lackluster-g2-from-pgl-masters-bucharest"
   },
   {
@@ -178,15 +234,8 @@
     "title": "ENCE file for bankruptcy ",
     "img": "/img/static/flags/30x20/FI.gif",
     "date": "2026-10-26",
-    "comments": "234 comments",
+    "comments": "235 comments",
     "link": "/news/45814/ence-file-for-bankruptcy"
-  },
-  {
-    "title": "Short news: Week 42 ",
-    "img": "/img/static/flags/30x20/WORLD.gif",
-    "date": "2026-10-26",
-    "comments": "21 comments",
-    "link": "/news/45811/short-news-week-42"
   },
   {
     "title": "Jee-less TYLOO send 9z packing in Bucharest ",
@@ -598,7 +647,7 @@
     "title": "HLTV Attributes receive an overhaul with 29 new metrics ",
     "img": "/img/static/flags/30x20/WORLD.gif",
     "date": "2026-10-19",
-    "comments": "102 comments",
+    "comments": "103 comments",
     "link": "/news/45755/hltv-attributes-receive-an-overhaul-with-29-new-metrics"
   },
   {
@@ -934,7 +983,7 @@
     "title": "Live updates from the race for PGL Major Singapore ",
     "img": "/img/static/flags/30x20/SG.gif",
     "date": "2026-10-12",
-    "comments": "616 comments",
+    "comments": "641 comments",
     "link": "/news/45705/live-updates-from-the-race-for-pgl-major-singapore"
   },
   {
