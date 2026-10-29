@@ -1,188 +1,8 @@
 [
   {
-    "hour": "14:25",
-    "date": "2026-10-29",
-    "link": "/matches/2399754/aurora-vs-mouz-pgl-masters-bucharest-2026",
-    "meta": "bo3",
-    "event": "PGL Masters Bucharest 2026",
-    "team1": {
-      "name": "Aurora",
-      "logo": "https://img-cdn.hltv.org/teamlogo/yJzPNOeXlyiniNxanYJCrv.png?ixlib=java-2.1.0&w=50&s=2c08f70c2f2f8c2024a438ddcf19bbf1"
-    },
-    "team2": {
-      "name": "MOUZ",
-      "logo": "https://img-cdn.hltv.org/teamlogo/IejtXpquZnE8KqYPB1LNKw.svg?ixlib=java-2.1.0&s=7fd33b8def053fbfd8fdbb58e3bdcd3c"
-    }
-  },
-  {
-    "hour": "14:45",
-    "date": "2026-10-29",
-    "link": "/matches/2399928/wbt-academy-vs-jijihao-saw-yng-loser-hyperx-retake-season-13",
-    "meta": "bo3",
-    "event": "HyperX Retake Season 13",
-    "team1": {
-      "name": "WBT Academy",
-      "logo": "https://img-cdn.hltv.org/teamlogo/7KNFH_dHt34XK5hMxOBYZm.png?ixlib=java-2.1.0&w=50&s=ffc4e8f82ff309c53a32718a71ab389e"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
-    }
-  },
-  {
-    "hour": "15:00",
-    "date": "2026-10-29",
-    "link": "/matches/2399929/iberian-soul-vs-zotix-hyperx-retake-season-13",
-    "meta": "bo1",
-    "event": "HyperX Retake Season 13",
-    "team1": {
-      "name": "Iberian Soul",
-      "logo": "https://img-cdn.hltv.org/teamlogo/HD2YseMU5u5fOtLMzN4o2i.png?ixlib=java-2.1.0&w=50&s=541c2792dc12ee0ab7c589bb741feed0"
-    },
-    "team2": {
-      "name": "ZOTIX",
-      "logo": "https://img-cdn.hltv.org/teamlogo/5_ylw7ZOs7c_SAyEg3Qp7V.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=988456843405a7cc93a101b86194d993"
-    }
-  },
-  {
-    "hour": "16:00",
-    "date": "2026-10-29",
-    "link": "/matches/2399520/acend-vs-saint-sinners-cct-2026-europe-series-12",
-    "meta": "bo3",
-    "event": "CCT 2026 Europe Series 12",
-    "team1": {
-      "name": "Acend",
-      "logo": "https://img-cdn.hltv.org/teamlogo/TslndPhDvsn1bLMdm1j2i6.png?ixlib=java-2.1.0&w=50&s=0b477b55a7781f7f9bd5278cd9714ca2"
-    },
-    "team2": {
-      "name": "Saint Sinners",
-      "logo": "/dynamic-svg/teamplaceholder?letter=S"
-    }
-  },
-  {
-    "hour": "16:00",
-    "date": "2026-10-29",
-    "link": "/matches/2399878/b8-vs-faze-gamerlegion-loser-rlg-tesla-cup-2026",
-    "meta": "bo3",
-    "event": "RLG Tesla Cup 2026",
-    "team1": {
-      "name": "B8",
-      "logo": "https://img-cdn.hltv.org/teamlogo/O6nRWTCjUzBAR4pcOcrpSG.png?ixlib=java-2.1.0&w=50&s=305dde82e764725dab7e626800328137"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
-    }
-  },
-  {
-    "hour": "16:00",
-    "date": "2026-10-29",
-    "link": "/matches/2400014/spirit-academy-vs-megoshort-cct-2026-europe-series-13-closed-qualifier",
-    "meta": "bo3",
-    "event": "CCT 2026 Europe Series 13 Closed Qualifier",
-    "team1": {
-      "name": "Spirit Academy",
-      "logo": "https://img-cdn.hltv.org/teamlogo/txUq00aBKY7O4fLVJegmi_.png?ixlib=java-2.1.0&w=50&s=0be2e166db241569e89ac4ab8f5fb9a2"
-    },
-    "team2": {
-      "name": "megoshort",
-      "logo": "https://img-cdn.hltv.org/teamlogo/KZxIFGye1KNVn7Q6Zt6hiV.png?ixlib=java-2.1.0&w=50&s=55ddac5f2aaddb4510f3dad57779c859"
-    }
-  },
-  {
-    "hour": "17:00",
-    "date": "2026-10-29",
-    "link": "/matches/2399715/fnatic-vs-mibr-stake-ranked-episode-5",
-    "meta": "bo3",
-    "event": "Stake Ranked Episode 5",
-    "team1": {
-      "name": "fnatic",
-      "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e"
-    },
-    "team2": {
-      "name": "MIBR",
-      "logo": "https://img-cdn.hltv.org/teamlogo/sVnH-oAf1J5TnMwoY4cxUC.png?ixlib=java-2.1.0&w=50&s=b0ef463fa0f1638bce72a89590fbaddf"
-    }
-  },
-  {
-    "hour": "17:00",
-    "date": "2026-10-29",
-    "link": "/matches/2399930/tyloo-vs-iberian-soul-zotix-winner-hyperx-retake-season-13",
-    "meta": "bo3",
-    "event": "HyperX Retake Season 13",
-    "team1": {
-      "name": "TYLOO",
-      "logo": "https://img-cdn.hltv.org/teamlogo/hMPKtNMDxp07n3lrBEHCuq.svg?ixlib=java-2.1.0&s=6d22fc4af07d0cd9d31fcd7f3023af9a"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
-    }
-  },
-  {
-    "hour": "17:30",
-    "date": "2026-10-29",
-    "link": "/matches/2399949/pain-vs-naocopulas-gamers-club-masters-vii",
-    "meta": "bo3",
-    "event": "Gamers Club Masters VII",
-    "team1": {
-      "name": "paiN",
-      "logo": "https://img-cdn.hltv.org/teamlogo/iUUCFwCOFmOrwhB8q8smMg.svg?ixlib=java-2.1.0&s=1446e1cf3d02deb8190fe6efd14e4ce4"
-    },
-    "team2": {
-      "name": "NAOCOPULAS",
-      "logo": "https://img-cdn.hltv.org/teamlogo/SjdG7sZHAp0fBkKer2tWCI.png?ixlib=java-2.1.0&w=50&s=c5442b175203f7c217879480fe34782f"
-    }
-  },
-  {
-    "hour": "18:00",
-    "date": "2026-10-29",
-    "link": "/matches/2399755/betboom-vs-furia-pgl-masters-bucharest-2026",
-    "meta": "bo3",
-    "event": "PGL Masters Bucharest 2026",
-    "team1": {
-      "name": "BETBOOM",
-      "logo": "https://img-cdn.hltv.org/teamlogo/G4ZrdB0-q41USPd_z27IQA.png?ixlib=java-2.1.0&w=50&s=9c15ddf70f9c66399d4a47e0d8e93511"
-    },
-    "team2": {
-      "name": "FURIA",
-      "logo": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c"
-    }
-  },
-  {
-    "hour": "19:00",
-    "date": "2026-10-29",
-    "link": "/matches/2399879/hotu-vs-faze-gamerlegion-winner-rlg-tesla-cup-2026",
-    "meta": "bo3",
-    "event": "RLG Tesla Cup 2026",
-    "team1": {
-      "name": "HOTU",
-      "logo": "https://img-cdn.hltv.org/teamlogo/UH5TD1Lyutr_JwKu2ldl-A.png?ixlib=java-2.1.0&w=50&s=6ff0544743996e6f3b166643371d2839"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
-    }
-  },
-  {
-    "hour": "19:30",
-    "date": "2026-10-29",
-    "link": "/matches/2399716/eternal-fire-vs-astralis-inner-circle-winner-stake-ranked-episode-5",
-    "meta": "bo3",
-    "event": "Stake Ranked Episode 5",
-    "team1": {
-      "name": "Eternal Fire",
-      "logo": "https://img-cdn.hltv.org/teamlogo/Tafdq71X3B_-73b73bAixr.png?ixlib=java-2.1.0&w=50&s=f1505e0f7e03bed0d0d2b4c809768198"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
-    }
-  },
-  {
-    "hour": "20:30",
-    "date": "2026-10-29",
-    "link": "/matches/2399966/nrg-vs-tactical-chaos-fire-last-chance-2026",
+    "hour": "00:00",
+    "date": "2026-10-30",
+    "link": "/matches/2399968/nrg-vs-galorys-procyon-winner-fire-last-chance-2026",
     "meta": "bo3",
     "event": "FiRe Last Chance 2026",
     "team1": {
@@ -190,53 +10,23 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/SJZaPBCyZssru-pUDS3aZe.png?ixlib=java-2.1.0&w=50&s=5f4ca255d90b4ea7092882834bbf1bdc"
     },
     "team2": {
-      "name": "Tactical Chaos",
-      "logo": "/dynamic-svg/teamplaceholder?letter=T"
+      "name": null,
+      "logo": null
     }
   },
   {
-    "hour": "20:30",
-    "date": "2026-10-29",
-    "link": "/matches/2399967/galorys-vs-procyon-fire-last-chance-2026",
+    "hour": "00:00",
+    "date": "2026-10-30",
+    "link": "/matches/2399969/tactical-chaos-vs-galorys-procyon-loser-fire-last-chance-2026",
     "meta": "bo3",
     "event": "FiRe Last Chance 2026",
     "team1": {
-      "name": "Galorys",
-      "logo": "https://img-cdn.hltv.org/teamlogo/GljsUhNlV1YdE2Z1ge-HzK.png?ixlib=java-2.1.0&w=50&s=fd7e8570af28b29e7dfa34eab2c506b1"
+      "name": "Tactical Chaos",
+      "logo": "/dynamic-svg/teamplaceholder?letter=T"
     },
     "team2": {
-      "name": "Procyon",
-      "logo": "https://img-cdn.hltv.org/teamlogo/j3cZThec5Smnc2QLlkMZjX.png?ixlib=java-2.1.0&w=50&s=b90d609f9f63e6e1dcd8ef9772e7f92a"
-    }
-  },
-  {
-    "hour": "21:00",
-    "date": "2026-10-29",
-    "link": "/matches/2399950/dendele-vs-low-cortisol-br-gamers-club-masters-vii",
-    "meta": "bo3",
-    "event": "Gamers Club Masters VII",
-    "team1": {
-      "name": "DENDELE",
-      "logo": "https://img-cdn.hltv.org/teamlogo/xKB2zOMgkFKoD-MLU484IV.png?ixlib=java-2.1.0&w=50&s=ca11299f789fb7c48d83130b8396af9f"
-    },
-    "team2": {
-      "name": "Low Cortisol BR",
-      "logo": "/dynamic-svg/teamplaceholder?letter=L"
-    }
-  },
-  {
-    "hour": "00:30",
-    "date": "2026-10-30",
-    "link": "/matches/2399951/turma-do-pagode-vs-alka-gamers-club-masters-vii",
-    "meta": "bo3",
-    "event": "Gamers Club Masters VII",
-    "team1": {
-      "name": "Turma do Pagode",
-      "logo": "https://img-cdn.hltv.org/teamlogo/pl_iLOTm1KzDRG3AAc2PZf.png?ixlib=java-2.1.0&w=50&s=03cce9ed68c407f5adcf04bdedcdc8ae"
-    },
-    "team2": {
-      "name": "ALKA",
-      "logo": "https://img-cdn.hltv.org/teamlogo/ZVjnHx9996Pt7TIeUzyD_9.png?ixlib=java-2.1.0&w=50&s=4f480a3245f489efeac12fd660d4e520"
+      "name": null,
+      "logo": null
     }
   },
   {
@@ -347,7 +137,7 @@
   {
     "hour": "13:00",
     "date": "2026-10-30",
-    "link": "/matches/2400024/nuclear-tigeres-vs-fire-flux-private-winner-cis-esports-league-cyberclash-season-2-finals",
+    "link": "/matches/2400024/nuclear-tigeres-vs-private-cis-esports-league-cyberclash-season-2-finals",
     "meta": "bo3",
     "event": "CIS Esports League CyberClash Season 2 Finals",
     "team1": {
@@ -355,8 +145,38 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/GcO3SLh1j8cgiNGoEXNUVS.png?ixlib=java-2.1.0&w=50&s=856dc9f0ffdbeedbe76d9874fbcdb546"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "PRIVATE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/r31Wu6qCyS8909Zj1ftP36.png?ixlib=java-2.1.0&w=50&s=a74a13c148071d5419921ec93071c3f6"
+    }
+  },
+  {
+    "hour": "14:00",
+    "date": "2026-10-30",
+    "link": "/matches/2399717/mibr-vs-eternal-fire-stake-ranked-episode-5",
+    "meta": "bo3",
+    "event": "Stake Ranked Episode 5",
+    "team1": {
+      "name": "MIBR",
+      "logo": "https://img-cdn.hltv.org/teamlogo/sVnH-oAf1J5TnMwoY4cxUC.png?ixlib=java-2.1.0&w=50&s=b0ef463fa0f1638bce72a89590fbaddf"
+    },
+    "team2": {
+      "name": "Eternal Fire",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Tafdq71X3B_-73b73bAixr.png?ixlib=java-2.1.0&w=50&s=f1505e0f7e03bed0d0d2b4c809768198"
+    }
+  },
+  {
+    "hour": "14:00",
+    "date": "2026-10-30",
+    "link": "/matches/2399952/quintessncia-vs-naocopulas-gamers-club-masters-vii",
+    "meta": "bo3",
+    "event": "Gamers Club Masters VII",
+    "team1": {
+      "name": "QUINTESS\u00caNCIA",
+      "logo": "/dynamic-svg/teamplaceholder?letter=Q"
+    },
+    "team2": {
+      "name": "NAOCOPULAS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/SjdG7sZHAp0fBkKer2tWCI.png?ixlib=java-2.1.0&w=50&s=c5442b175203f7c217879480fe34782f"
     }
   },
   {
@@ -405,6 +225,51 @@
     }
   },
   {
+    "hour": "16:00",
+    "date": "2026-10-30",
+    "link": "/matches/2399757/mouz-vs-furia-pgl-masters-bucharest-2026",
+    "meta": "bo3",
+    "event": "PGL Masters Bucharest 2026",
+    "team1": {
+      "name": "MOUZ",
+      "logo": "https://img-cdn.hltv.org/teamlogo/IejtXpquZnE8KqYPB1LNKw.svg?ixlib=java-2.1.0&s=7fd33b8def053fbfd8fdbb58e3bdcd3c"
+    },
+    "team2": {
+      "name": "FURIA",
+      "logo": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-10-30",
+    "link": "/matches/2400025/pcific-vs-omega-cis-esports-league-cyberclash-season-2-finals",
+    "meta": "bo3",
+    "event": "CIS Esports League CyberClash Season 2 Finals",
+    "team1": {
+      "name": "PCIFIC",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ucoaKK-PQ_3K_dboEuYnto.png?ixlib=java-2.1.0&w=50&s=9b085fc0e9f7f653b58a194aca309be9"
+    },
+    "team2": {
+      "name": "Omega",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Q9UB4lO8MMt_CQmtRkOKxQ.png?ixlib=java-2.1.0&w=50&s=aa17db8852f77ced212387620c9fef57"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-10-30",
+    "link": "/matches/2400030/leo-vs-honvd-cct-2026-europe-series-13-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+    "team1": {
+      "name": "Leo",
+      "logo": "https://img-cdn.hltv.org/teamlogo/8W-UeGbtwFEzEz0RiPxxLS.png?ixlib=java-2.1.0&w=50&s=8e4a2a65e1aed01c87c1f317a81366ce"
+    },
+    "team2": {
+      "name": "Honv\u00e9d",
+      "logo": "https://img-cdn.hltv.org/teamlogo/GRDCTjbpIWDj6cS-k5j69x.png?ixlib=java-2.1.0&w=50&s=9eeb2cd0832ec343547466896a0b8f89"
+    }
+  },
+  {
     "hour": "17:15",
     "date": "2026-10-30",
     "link": "/matches/2399935/metizport-vs-snitko-hyperx-retake-season-13",
@@ -435,6 +300,36 @@
     }
   },
   {
+    "hour": "17:30",
+    "date": "2026-10-30",
+    "link": "/matches/2399718/fnatic-vs-mibr-eternal-fire-winner-stake-ranked-episode-5",
+    "meta": "bo5",
+    "event": "Stake Ranked Episode 5",
+    "team1": {
+      "name": "fnatic",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "17:30",
+    "date": "2026-10-30",
+    "link": "/matches/2399953/low-cortisol-br-vs-tdp-alka-loser-gamers-club-masters-vii",
+    "meta": "bo3",
+    "event": "Gamers Club Masters VII",
+    "team1": {
+      "name": "Low Cortisol BR",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
     "hour": "19:00",
     "date": "2026-10-30",
     "link": "/matches/2399525/phantom-vs-lavked-cct-2026-europe-series-12",
@@ -447,6 +342,21 @@
     "team2": {
       "name": "Lavked",
       "logo": "/dynamic-svg/teamplaceholder?letter=L"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-10-30",
+    "link": "/matches/2400031/spirit-academy-vs-falcons-force-cct-2026-europe-series-13-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+    "team1": {
+      "name": "Spirit Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/txUq00aBKY7O4fLVJegmi_.png?ixlib=java-2.1.0&w=50&s=0be2e166db241569e89ac4ab8f5fb9a2"
+    },
+    "team2": {
+      "name": "Falcons Force",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YfOBM0ri-zSsx9Cc8q6nz-.png?ixlib=java-2.1.0&w=50&s=458ef7af43f0a705811f82722fc58f2d"
     }
   },
   {
@@ -477,6 +387,36 @@
     "team2": {
       "name": "BTH",
       "logo": "https://img-cdn.hltv.org/teamlogo/zBRI18T262XoB6aq_JkPL0.png?ixlib=java-2.1.0&w=50&s=95cb3eb79c9f41c1247beea8128daeed"
+    }
+  },
+  {
+    "hour": "21:00",
+    "date": "2026-10-30",
+    "link": "/matches/2399954/imperial-vs-pain-gamers-club-masters-vii",
+    "meta": "bo3",
+    "event": "Gamers Club Masters VII",
+    "team1": {
+      "name": "Imperial",
+      "logo": "https://img-cdn.hltv.org/teamlogo/bBDk6-rND06sAzn67b5RdP.png?ixlib=java-2.1.0&w=50&s=467e31ba123f509130d647fbf1e04ef2"
+    },
+    "team2": {
+      "name": "paiN",
+      "logo": "https://img-cdn.hltv.org/teamlogo/iUUCFwCOFmOrwhB8q8smMg.svg?ixlib=java-2.1.0&s=1446e1cf3d02deb8190fe6efd14e4ce4"
+    }
+  },
+  {
+    "hour": "00:30",
+    "date": "2026-10-31",
+    "link": "/matches/2399955/dendele-vs-tdp-alka-winner-gamers-club-masters-vii",
+    "meta": "bo3",
+    "event": "Gamers Club Masters VII",
+    "team1": {
+      "name": "DENDELE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/xKB2zOMgkFKoD-MLU484IV.png?ixlib=java-2.1.0&w=50&s=ca11299f789fb7c48d83130b8396af9f"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
     }
   },
   {
@@ -537,6 +477,21 @@
     "team2": {
       "name": "5star",
       "logo": "https://img-cdn.hltv.org/teamlogo/DxfB_DH6Hhb1l1okhNQxxu.png?ixlib=java-2.1.0&w=50&s=4b5d0620de51193343d84d5247bc3fa5"
+    }
+  },
+  {
+    "hour": "14:00",
+    "date": "2026-10-31",
+    "link": "/matches/2399978/barca-vs-bounty-hunters-fire-last-chance-2026",
+    "meta": "bo3",
+    "event": "FiRe Last Chance 2026",
+    "team1": {
+      "name": "BARCA",
+      "logo": "https://img-cdn.hltv.org/teamlogo/yKmeAPcrC8K0KTmxyD2Hu1.png?ixlib=java-2.1.0&w=50&s=1d078eb04f488f3dc987aecde0fdaf87"
+    },
+    "team2": {
+      "name": "Bounty Hunters",
+      "logo": "https://img-cdn.hltv.org/teamlogo/gID-fM4ZxvO6B78-OIKipA.png?ixlib=java-2.1.0&w=50&s=f230dcaef9e8bda5e8be0e7daeed1c9f"
     }
   },
   {
