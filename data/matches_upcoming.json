@@ -1,58 +1,13 @@
 [
   {
-    "hour": "00:00",
+    "hour": "07:00",
     "date": "2026-10-30",
-    "link": "/matches/2399968/nrg-vs-galorys-procyon-winner-fire-last-chance-2026",
-    "meta": "bo3",
-    "event": "FiRe Last Chance 2026",
-    "team1": {
-      "name": "NRG",
-      "logo": "https://img-cdn.hltv.org/teamlogo/SJZaPBCyZssru-pUDS3aZe.png?ixlib=java-2.1.0&w=50&s=5f4ca255d90b4ea7092882834bbf1bdc"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
-    }
-  },
-  {
-    "hour": "00:00",
-    "date": "2026-10-30",
-    "link": "/matches/2399969/tactical-chaos-vs-galorys-procyon-loser-fire-last-chance-2026",
-    "meta": "bo3",
-    "event": "FiRe Last Chance 2026",
-    "team1": {
-      "name": "Tactical Chaos",
-      "logo": "/dynamic-svg/teamplaceholder?letter=T"
-    },
-    "team2": {
-      "name": null,
-      "logo": null
-    }
-  },
-  {
-    "hour": "04:00",
-    "date": "2026-10-30",
-    "link": "/matches/2399898/alter-ego-vs-abyssal-dfrag-invitational-2026",
+    "link": "/matches/2399900/alter-ego-vs-flyquest-dfrag-invitational-2026",
     "meta": "bo3",
     "event": "DFRAG Invitational 2026",
     "team1": {
       "name": "Alter Ego",
       "logo": "https://img-cdn.hltv.org/teamlogo/rcVrbr1QiFUoakiO5jGExR.png?ixlib=java-2.1.0&w=50&s=81bf2c78f6ef16e4f315ef2024527fc6"
-    },
-    "team2": {
-      "name": "Abyssal",
-      "logo": "https://img-cdn.hltv.org/teamlogo/U7fek6lTSLbntoy7CPINPF.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=6a373faf166e038ba3c765bcf47133ee"
-    }
-  },
-  {
-    "hour": "04:00",
-    "date": "2026-10-30",
-    "link": "/matches/2399899/nexvoid-vs-flyquest-dfrag-invitational-2026",
-    "meta": "bo3",
-    "event": "DFRAG Invitational 2026",
-    "team1": {
-      "name": "NEXVOID",
-      "logo": "https://img-cdn.hltv.org/teamlogo/dtGHo6Ay84XO2R3eQTiwgA.png?ixlib=java-2.1.0&w=50&s=9d3b53b8688ae30a8c4557fa8d6dab61"
     },
     "team2": {
       "name": "FlyQuest",
@@ -317,7 +272,7 @@
   {
     "hour": "17:30",
     "date": "2026-10-30",
-    "link": "/matches/2399953/low-cortisol-br-vs-tdp-alka-loser-gamers-club-masters-vii",
+    "link": "/matches/2399953/low-cortisol-br-vs-alka-gamers-club-masters-vii",
     "meta": "bo3",
     "event": "Gamers Club Masters VII",
     "team1": {
@@ -325,8 +280,8 @@
       "logo": "/dynamic-svg/teamplaceholder?letter=L"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "ALKA",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ZVjnHx9996Pt7TIeUzyD_9.png?ixlib=java-2.1.0&w=50&s=4f480a3245f489efeac12fd660d4e520"
     }
   },
   {
@@ -407,7 +362,7 @@
   {
     "hour": "00:30",
     "date": "2026-10-31",
-    "link": "/matches/2399955/dendele-vs-tdp-alka-winner-gamers-club-masters-vii",
+    "link": "/matches/2399955/dendele-vs-turma-do-pagode-gamers-club-masters-vii",
     "meta": "bo3",
     "event": "Gamers Club Masters VII",
     "team1": {
@@ -415,8 +370,23 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/xKB2zOMgkFKoD-MLU484IV.png?ixlib=java-2.1.0&w=50&s=ca11299f789fb7c48d83130b8396af9f"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "Turma do Pagode",
+      "logo": "https://img-cdn.hltv.org/teamlogo/pl_iLOTm1KzDRG3AAc2PZf.png?ixlib=java-2.1.0&w=50&s=03cce9ed68c407f5adcf04bdedcdc8ae"
+    }
+  },
+  {
+    "hour": "04:00",
+    "date": "2026-10-31",
+    "link": "/matches/2399902/abyssal-vs-nexvoid-dfrag-invitational-2026",
+    "meta": "bo3",
+    "event": "DFRAG Invitational 2026",
+    "team1": {
+      "name": "Abyssal",
+      "logo": "https://img-cdn.hltv.org/teamlogo/U7fek6lTSLbntoy7CPINPF.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=6a373faf166e038ba3c765bcf47133ee"
+    },
+    "team2": {
+      "name": "NEXVOID",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dtGHo6Ay84XO2R3eQTiwgA.png?ixlib=java-2.1.0&w=50&s=9d3b53b8688ae30a8c4557fa8d6dab61"
     }
   },
   {
@@ -492,6 +462,21 @@
     "team2": {
       "name": "Bounty Hunters",
       "logo": "https://img-cdn.hltv.org/teamlogo/gID-fM4ZxvO6B78-OIKipA.png?ixlib=java-2.1.0&w=50&s=f230dcaef9e8bda5e8be0e7daeed1c9f"
+    }
+  },
+  {
+    "hour": "14:00",
+    "date": "2026-10-31",
+    "link": "/matches/2399979/galorys-vs-procyon-fire-last-chance-2026",
+    "meta": "bo3",
+    "event": "FiRe Last Chance 2026",
+    "team1": {
+      "name": "Galorys",
+      "logo": "https://img-cdn.hltv.org/teamlogo/GljsUhNlV1YdE2Z1ge-HzK.png?ixlib=java-2.1.0&w=50&s=fd7e8570af28b29e7dfa34eab2c506b1"
+    },
+    "team2": {
+      "name": "Procyon",
+      "logo": "https://img-cdn.hltv.org/teamlogo/j3cZThec5Smnc2QLlkMZjX.png?ixlib=java-2.1.0&w=50&s=b90d609f9f63e6e1dcd8ef9772e7f92a"
     }
   },
   {
