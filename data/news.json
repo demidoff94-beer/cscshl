@@ -1,16 +1,65 @@
 [
   {
-    "title": "Live updates from PGL Masters Bucharest semi-finals ",
+    "title": "imd: \"There are no plans for Snax to be IGLing for GamerLegion next season\" ",
+    "img": "/img/static/flags/30x20/PL.gif",
+    "date": "2026-10-30",
+    "comments": "15 comments",
+    "link": "/news/45866/imd-there-are-no-plans-for-snax-to-be-igling-for-gamerlegion-next-season"
+  },
+  {
+    "title": "Short news: Week 42 ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-10-30",
+    "comments": "152 comments",
+    "link": "/news/45811/short-news-week-42"
+  },
+  {
+    "title": "Eternal Fire inch closer to shock Major qualification with Stake Ranked trophy ",
+    "img": "/img/static/flags/30x20/ES.gif",
+    "date": "2026-10-30",
+    "comments": "34 comments",
+    "link": "/news/45865/eternal-fire-inch-closer-to-shock-major-qualification-with-stake-ranked-trophy"
+  },
+  {
+    "title": "KSCERATO: \"We're trying to play on feeling\" ",
+    "img": "/img/static/flags/30x20/BR.gif",
+    "date": "2026-10-30",
+    "comments": "14 comments",
+    "link": "/news/45864/kscerato-were-trying-to-play-on-feeling"
+  },
+  {
+    "title": "FURIA beat MOUZ en route to Bucharest final ",
     "img": "/img/static/flags/30x20/RO.gif",
     "date": "2026-10-30",
-    "comments": "4 comments",
-    "link": "/news/45859/live-updates-from-pgl-masters-bucharest-semi-finals"
+    "comments": "47 comments",
+    "link": "/news/45863/furia-beat-mouz-en-route-to-bucharest-final"
+  },
+  {
+    "title": "PGL Masters Bucharest semi-finals as they happened ",
+    "img": "/img/static/flags/30x20/RO.gif",
+    "date": "2026-10-30",
+    "comments": "27 comments",
+    "link": "/news/45859/pgl-masters-bucharest-semi-finals-as-they-happened"
+  },
+  {
+    "title": "BLAST Open 2027 S3 to be held in USA with updated format ",
+    "img": "/img/static/flags/30x20/US.gif",
+    "date": "2026-10-30",
+    "comments": "55 comments",
+    "link": "/news/45862/blast-open-2027-s3-to-be-held-in-usa-with-updated-format"
+  },
+  {
+    "title": "Nemiga stun Vitality 2-0 to reach PGL Masters Bucharest final ",
+    "img": "/img/static/flags/30x20/RO.gif",
+    "date": "2026-10-30",
+    "comments": "96 comments",
+    "link": "/news/45861/nemiga-stun-vitality-2-0-to-reach-pgl-masters-bucharest-final"
   },
   {
     "title": "Maka: \"We had like 1% hope, and I truly believed\" ",
     "img": "/img/static/flags/30x20/FR.gif",
     "date": "2026-10-30",
-    "comments": "31 comments",
+    "comments": "43 comments",
     "link": "/news/45851/maka-we-had-like-1-hope-and-i-truly-believed"
   },
   {
@@ -24,7 +73,7 @@
     "title": "FalleN: \"I like the way Boombl4 thinks about the game\" ",
     "img": "/img/static/flags/30x20/BR.gif",
     "date": "2026-10-29",
-    "comments": "30 comments",
+    "comments": "39 comments",
     "link": "/news/45856/fallen-i-like-the-way-boombl4-thinks-about-the-game"
   },
   {
@@ -70,13 +119,6 @@
     "link": "/news/45852/vitality-march-into-pgl-masters-bucharest-semis-over-navi"
   },
   {
-    "title": "Short news: Week 42 ",
-    "img": "/img/static/flags/30x20/WORLD.gif",
-    "date": "2026-10-29",
-    "comments": "115 comments",
-    "link": "/news/45811/short-news-week-42"
-  },
-  {
     "title": "cmtry expected to miss Singapore Major for Astralis after FUT's quarter-final exit in Bucharest ",
     "img": "/img/static/flags/30x20/UA.gif",
     "date": "2026-10-29",
@@ -94,7 +136,7 @@
     "title": "Nemiga beat FUT 2-0 to reach semis in Bucharest ",
     "img": "/img/static/flags/30x20/RO.gif",
     "date": "2026-10-29",
-    "comments": "37 comments",
+    "comments": "38 comments",
     "link": "/news/45848/nemiga-beat-fut-2-0-to-reach-semis-in-bucharest"
   },
   {
@@ -164,7 +206,7 @@
     "title": "jL: \"This is why Vitality is the best team in the world, they have the ability to cover for players\" ",
     "img": "/img/static/flags/30x20/LT.gif",
     "date": "2026-10-28",
-    "comments": "78 comments",
+    "comments": "79 comments",
     "link": "/news/45835/jl-this-is-why-vitality-is-the-best-team-in-the-world-they-have-the-ability-to-cover-for-players"
   },
   {
@@ -325,7 +367,7 @@
     "title": "ENCE file for bankruptcy ",
     "img": "/img/static/flags/30x20/FI.gif",
     "date": "2026-10-26",
-    "comments": "240 comments",
+    "comments": "241 comments",
     "link": "/news/45814/ence-file-for-bankruptcy"
   },
   {
@@ -934,7 +976,7 @@
     "title": "ESIC bans NOMERCY for match manipulation ",
     "img": "/img/static/flags/30x20/EU.gif",
     "date": "2026-10-15",
-    "comments": "126 comments",
+    "comments": "128 comments",
     "link": "/news/45727/esic-bans-nomercy-for-match-manipulation"
   },
   {
@@ -1074,7 +1116,7 @@
     "title": "Live updates from the race for PGL Major Singapore ",
     "img": "/img/static/flags/30x20/SG.gif",
     "date": "2026-10-12",
-    "comments": "748 comments",
+    "comments": "765 comments",
     "link": "/news/45705/live-updates-from-the-race-for-pgl-major-singapore"
   },
   {
