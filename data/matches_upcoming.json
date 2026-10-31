@@ -1,23 +1,8 @@
 [
   {
-    "hour": "04:00",
-    "date": "2026-10-31",
-    "link": "/matches/2399902/abyssal-vs-nexvoid-dfrag-invitational-2026",
-    "meta": "bo3",
-    "event": "DFRAG Invitational 2026",
-    "team1": {
-      "name": "Abyssal",
-      "logo": "https://img-cdn.hltv.org/teamlogo/U7fek6lTSLbntoy7CPINPF.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=6a373faf166e038ba3c765bcf47133ee"
-    },
-    "team2": {
-      "name": "NEXVOID",
-      "logo": "https://img-cdn.hltv.org/teamlogo/dtGHo6Ay84XO2R3eQTiwgA.png?ixlib=java-2.1.0&w=50&s=9d3b53b8688ae30a8c4557fa8d6dab61"
-    }
-  },
-  {
     "hour": "07:00",
     "date": "2026-10-31",
-    "link": "/matches/2399903/alter-ego-vs-abyssal-nexvoid-winner-dfrag-invitational-2026",
+    "link": "/matches/2399903/alter-ego-vs-nexvoid-dfrag-invitational-2026",
     "meta": "bo3",
     "event": "DFRAG Invitational 2026",
     "team1": {
@@ -25,8 +10,8 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/rcVrbr1QiFUoakiO5jGExR.png?ixlib=java-2.1.0&w=50&s=81bf2c78f6ef16e4f315ef2024527fc6"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "NEXVOID",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dtGHo6Ay84XO2R3eQTiwgA.png?ixlib=java-2.1.0&w=50&s=9d3b53b8688ae30a8c4557fa8d6dab61"
     }
   },
   {
@@ -225,6 +210,36 @@
     }
   },
   {
+    "hour": "14:00",
+    "date": "2026-10-31",
+    "link": "/matches/2400035/the-last-resort-vs-the-pigs-epic49",
+    "meta": "bo3",
+    "event": "EPIC49",
+    "team1": {
+      "name": "The Last Resort",
+      "logo": "https://img-cdn.hltv.org/teamlogo/AI65hTB4kG_d6jJ8DiS4nZ.svg?ixlib=java-2.1.0&s=1bb2618494315b819daaf94547cca525"
+    },
+    "team2": {
+      "name": "The Pigs",
+      "logo": "/dynamic-svg/teamplaceholder?letter=T"
+    }
+  },
+  {
+    "hour": "14:00",
+    "date": "2026-10-31",
+    "link": "/matches/2400036/ryvex-vs-privateer-epic49",
+    "meta": "bo3",
+    "event": "EPIC49",
+    "team1": {
+      "name": "Ryvex",
+      "logo": "https://img-cdn.hltv.org/teamlogo/8fb_49_81-pameJfTmnkQJ.png?ixlib=java-2.1.0&w=50&s=c7dbf7d07da3ed8227257247684a4f9a"
+    },
+    "team2": {
+      "name": "Privateer",
+      "logo": "https://img-cdn.hltv.org/teamlogo/WNG2XtUyzlCEDCwL5SFd3M.png?ixlib=java-2.1.0&w=50&s=da08ed10b01177566f320f2b15dbb991"
+    }
+  },
+  {
     "hour": "14:30",
     "date": "2026-10-31",
     "link": "/matches/2400033/esprots-vs-galaxy-goexanimo-battle-of-baltics-2026",
@@ -237,6 +252,21 @@
     "team2": {
       "name": "Galaxy",
       "logo": "https://img-cdn.hltv.org/teamlogo/ZtDzON1Y9f3VzfEmtOKW6Q.png?ixlib=java-2.1.0&w=50&s=925dff71ad8d4593eb1aa9da0bb03a2a"
+    }
+  },
+  {
+    "hour": "15:30",
+    "date": "2026-10-31",
+    "link": "/matches/2399942/jijiehao-vs-basement-boys-hyperx-retake-season-13",
+    "meta": "bo3",
+    "event": "HyperX Retake Season 13",
+    "team1": {
+      "name": "JiJieHao",
+      "logo": "https://img-cdn.hltv.org/teamlogo/OmcJcjX0obWnKkP7ChpuFA.png?ixlib=java-2.1.0&w=50&s=8e3bd16625d6f62c95285c98080ded66"
+    },
+    "team2": {
+      "name": "BASEMENT BOYS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/IAgnK7oXGijw4nomIKEVIw.png?ixlib=java-2.1.0&w=50&s=b4de8c1c642e9e648d878215fc8ac9ba"
     }
   },
   {
@@ -300,9 +330,24 @@
     }
   },
   {
+    "hour": "17:15",
+    "date": "2026-10-31",
+    "link": "/matches/2399981/hacha-vs-wildcard-fire-last-chance-2026",
+    "meta": "bo3",
+    "event": "FiRe Last Chance 2026",
+    "team1": {
+      "name": "Hacha",
+      "logo": "https://img-cdn.hltv.org/teamlogo/2nErexNT3M48np8RuuJ2he.png?ixlib=java-2.1.0&w=50&s=fafcb0d41a8f7510bbac4eec95d0ddda"
+    },
+    "team2": {
+      "name": "Wildcard",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-46lJ-DcmPL_j_5R2WvLiS.png?ixlib=java-2.1.0&w=50&s=3bf750ca209fefcb665134fd61f43ffb"
+    }
+  },
+  {
     "hour": "17:30",
     "date": "2026-10-31",
-    "link": "/matches/2399957/low-cortisol-br-vs-dendele-turma-do-pagode-loser-gamers-club-masters-vii",
+    "link": "/matches/2399957/low-cortisol-br-vs-turma-do-pagode-gamers-club-masters-vii",
     "meta": "bo3",
     "event": "Gamers Club Masters VII",
     "team1": {
@@ -310,8 +355,23 @@
       "logo": "/dynamic-svg/teamplaceholder?letter=L"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "Turma do Pagode",
+      "logo": "https://img-cdn.hltv.org/teamlogo/pl_iLOTm1KzDRG3AAc2PZf.png?ixlib=java-2.1.0&w=50&s=03cce9ed68c407f5adcf04bdedcdc8ae"
+    }
+  },
+  {
+    "hour": "18:30",
+    "date": "2026-10-31",
+    "link": "/matches/2399943/iberian-soul-vs-og-hyperx-retake-season-13",
+    "meta": "bo3",
+    "event": "HyperX Retake Season 13",
+    "team1": {
+      "name": "Iberian Soul",
+      "logo": "https://img-cdn.hltv.org/teamlogo/HD2YseMU5u5fOtLMzN4o2i.png?ixlib=java-2.1.0&w=50&s=541c2792dc12ee0ab7c589bb741feed0"
+    },
+    "team2": {
+      "name": "OG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/DfvLcyBWZPzMcRRqzxUfqL.png?ixlib=java-2.1.0&w=50&s=91d21a528d5bd893fb659abfe7077d40"
     }
   },
   {
@@ -345,6 +405,96 @@
     }
   },
   {
+    "hour": "20:30",
+    "date": "2026-10-31",
+    "link": "/matches/2399982/bestia-vs-procyon-galorys-winner-fire-last-chance-2026",
+    "meta": "bo3",
+    "event": "FiRe Last Chance 2026",
+    "team1": {
+      "name": "BESTIA",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Z_R5K__qrvHmPjF66iCay-.png?ixlib=java-2.1.0&w=50&s=7e2afd72c2b3cabf53244ed6bc5142e3"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "20:30",
+    "date": "2026-10-31",
+    "link": "/matches/2399983/fluxo-vs-bounty-hunters-barca-winner-fire-last-chance-2026",
+    "meta": "bo3",
+    "event": "FiRe Last Chance 2026",
+    "team1": {
+      "name": "Fluxo",
+      "logo": "https://img-cdn.hltv.org/teamlogo/zGveLNj821BCJGMu93qnj-.png?ixlib=java-2.1.0&w=50&s=f7d69ef82fdaf8d8b7f5a1a7fa8f13ed"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "21:00",
+    "date": "2026-10-31",
+    "link": "/matches/2399958/dendele-vs-pain-naocopulas-winner-gamers-club-masters-vii",
+    "meta": "bo3",
+    "event": "Gamers Club Masters VII",
+    "team1": {
+      "name": "DENDELE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/xKB2zOMgkFKoD-MLU484IV.png?ixlib=java-2.1.0&w=50&s=ca11299f789fb7c48d83130b8396af9f"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "23:15",
+    "date": "2026-10-31",
+    "link": "/matches/2399984/100-thieves-vs-shinden-isurus-winner-fire-last-chance-2026",
+    "meta": "bo3",
+    "event": "FiRe Last Chance 2026",
+    "team1": {
+      "name": "100 Thieves",
+      "logo": "https://img-cdn.hltv.org/teamlogo/QdpX-_6C2wHMgv98VAE6il.png?ixlib=java-2.1.0&w=50&s=5f34e763e5f7c7d0408a8814f42d7a87"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "23:15",
+    "date": "2026-10-31",
+    "link": "/matches/2399985/nrg-vs-wildcard-hacha-winner-fire-last-chance-2026",
+    "meta": "bo3",
+    "event": "FiRe Last Chance 2026",
+    "team1": {
+      "name": "NRG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/SJZaPBCyZssru-pUDS3aZe.png?ixlib=java-2.1.0&w=50&s=5f4ca255d90b4ea7092882834bbf1bdc"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "00:30",
+    "date": "2026-11-01",
+    "link": "/matches/2399959/imperial-vs-turma-do-pagode-low-cortisol-br-winner-gamers-club-masters-vii",
+    "meta": "bo3",
+    "event": "Gamers Club Masters VII",
+    "team1": {
+      "name": "Imperial",
+      "logo": "https://img-cdn.hltv.org/teamlogo/bBDk6-rND06sAzn67b5RdP.png?ixlib=java-2.1.0&w=50&s=467e31ba123f509130d647fbf1e04ef2"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
     "hour": "04:00",
     "date": "2026-11-01",
     "link": "/matches/2399901/flyquest-vs-tbd-dfrag-invitational-2026",
@@ -353,6 +503,36 @@
     "team1": {
       "name": "FlyQuest",
       "logo": "https://img-cdn.hltv.org/teamlogo/fmqTgF6Ziw0uied7MO3_ri.png?ixlib=java-2.1.0&w=50&s=255b5a4c460ad03161509ff7eb77b2dc"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "11:00",
+    "date": "2026-11-01",
+    "link": "/matches/2399944/metizport-vs-jijiehao-basement-boys-winner-hyperx-retake-season-13",
+    "meta": "bo3",
+    "event": "HyperX Retake Season 13",
+    "team1": {
+      "name": "Metizport",
+      "logo": "https://img-cdn.hltv.org/teamlogo/L6vT42LZaQh88EXiZ5FpHK.png?ixlib=java-2.1.0&w=50&s=85eeac10933db8bdbf17dfcc28972af2"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "14:00",
+    "date": "2026-11-01",
+    "link": "/matches/2399945/wbt-academy-vs-iberian-soul-og-winner-hyperx-retake-season-13",
+    "meta": "bo3",
+    "event": "HyperX Retake Season 13",
+    "team1": {
+      "name": "WBT Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/7KNFH_dHt34XK5hMxOBYZm.png?ixlib=java-2.1.0&w=50&s=ffc4e8f82ff309c53a32718a71ab389e"
     },
     "team2": {
       "name": null,
