@@ -1,37 +1,65 @@
 [
   {
+    "title": "Short news: Week 42 ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-11-01",
+    "comments": "212 comments",
+    "link": "/news/45811/short-news-week-42"
+  },
+  {
+    "title": "Jee returns to TYLOO lineup for IEM Beijing ",
+    "img": "/img/static/flags/30x20/CN.gif",
+    "date": "2026-11-01",
+    "comments": "30 comments",
+    "link": "/news/45878/jee-returns-to-tyloo-lineup-for-iem-beijing"
+  },
+  {
+    "title": "JBOEN: \"Going to the Major is definitely more relaxing now. We don't have to stress about the points anymore, but we still need to win\" ",
+    "img": "/img/static/flags/30x20/DK.gif",
+    "date": "2026-11-01",
+    "comments": "17 comments",
+    "link": "/news/45875/jboen-going-to-the-major-is-definitely-more-relaxing-now-we-dont-have-to-stress-about-the-points-anymore-but-we-still-need-to-win"
+  },
+  {
+    "title": "1win take Moscow Cyber Games title in huge blow to HOTU's Major hopes ",
+    "img": "/img/static/flags/30x20/RU.gif",
+    "date": "2026-11-01",
+    "comments": "17 comments",
+    "link": "/news/45877/1win-take-moscow-cyber-games-title-in-huge-blow-to-hotus-major-hopes"
+  },
+  {
+    "title": "zhokiNg: \"We had no choice but to play in that Retake event\" ",
+    "img": "/img/static/flags/30x20/CN.gif",
+    "date": "2026-11-01",
+    "comments": "29 comments",
+    "link": "/news/45874/zhoking-we-had-no-choice-but-to-play-in-that-retake-event"
+  },
+  {
     "title": "YEKINDAR: \"Finding strength to overcome all the doubts was something very important for me\" ",
     "img": "/img/static/flags/30x20/LV.gif",
     "date": "2026-10-31",
-    "comments": "29 comments",
+    "comments": "34 comments",
     "link": "/news/45872/yekindar-finding-strength-to-overcome-all-the-doubts-was-something-very-important-for-me"
   },
   {
     "title": "YEKINDAR wins career-first MVP at PGL Masters ",
     "img": "/img/static/flags/30x20/LV.gif",
     "date": "2026-10-31",
-    "comments": "98 comments",
+    "comments": "107 comments",
     "link": "/news/45871/yekindar-wins-career-first-mvp-at-pgl-masters"
   },
   {
     "title": "FURIA secure second consecutive trophy with PGL Masters Bucharest victory ",
     "img": "/img/static/flags/30x20/RO.gif",
     "date": "2026-10-31",
-    "comments": "86 comments",
+    "comments": "94 comments",
     "link": "/news/45870/furia-secure-second-consecutive-trophy-with-pgl-masters-bucharest-victory"
-  },
-  {
-    "title": "Short news: Week 42 ",
-    "img": "/img/static/flags/30x20/WORLD.gif",
-    "date": "2026-10-31",
-    "comments": "197 comments",
-    "link": "/news/45811/short-news-week-42"
   },
   {
     "title": "MOUZ claim third place in Romania over Vitality ",
     "img": "/img/static/flags/30x20/RO.gif",
     "date": "2026-10-31",
-    "comments": "67 comments",
+    "comments": "76 comments",
     "link": "/news/45869/mouz-claim-third-place-in-romania-over-vitality"
   },
   {
@@ -45,21 +73,21 @@
     "title": "TYLOO likely to miss out on Singapore following HyperX Retake withdrawal ",
     "img": "/img/static/flags/30x20/PT.gif",
     "date": "2026-10-31",
-    "comments": "52 comments",
+    "comments": "53 comments",
     "link": "/news/45867/tyloo-likely-to-miss-out-on-singapore-following-hyperx-retake-withdrawal"
   },
   {
     "title": "imd: \"There are no plans for Snax to be IGLing for GamerLegion next season\" ",
     "img": "/img/static/flags/30x20/PL.gif",
     "date": "2026-10-30",
-    "comments": "37 comments",
+    "comments": "38 comments",
     "link": "/news/45866/imd-there-are-no-plans-for-snax-to-be-igling-for-gamerlegion-next-season"
   },
   {
     "title": "Eternal Fire inch closer to shock Major qualification with Stake Ranked trophy ",
     "img": "/img/static/flags/30x20/ES.gif",
     "date": "2026-10-30",
-    "comments": "64 comments",
+    "comments": "67 comments",
     "link": "/news/45865/eternal-fire-inch-closer-to-shock-major-qualification-with-stake-ranked-trophy"
   },
   {
@@ -73,7 +101,7 @@
     "title": "FURIA beat MOUZ en route to Bucharest final ",
     "img": "/img/static/flags/30x20/RO.gif",
     "date": "2026-10-30",
-    "comments": "57 comments",
+    "comments": "58 comments",
     "link": "/news/45863/furia-beat-mouz-en-route-to-bucharest-final"
   },
   {
@@ -87,7 +115,7 @@
     "title": "BLAST Open 2027 S3 to be held in USA with updated format ",
     "img": "/img/static/flags/30x20/US.gif",
     "date": "2026-10-30",
-    "comments": "65 comments",
+    "comments": "66 comments",
     "link": "/news/45862/blast-open-2027-s3-to-be-held-in-usa-with-updated-format"
   },
   {
@@ -241,7 +269,7 @@
     "title": "Legacy bench n1ssim, ksloks to stand in for the rest of 2026* ",
     "img": "/img/static/flags/30x20/BR.gif",
     "date": "2026-10-28",
-    "comments": "125 comments",
+    "comments": "126 comments",
     "link": "/news/45838/legacy-bench-n1ssim-ksloks-to-stand-in-for-the-rest-of-2026"
   },
   {
@@ -1158,7 +1186,7 @@
     "title": "Live updates from the race for PGL Major Singapore ",
     "img": "/img/static/flags/30x20/SG.gif",
     "date": "2026-10-12",
-    "comments": "866 comments",
+    "comments": "914 comments",
     "link": "/news/45705/live-updates-from-the-race-for-pgl-major-singapore"
   },
   {
