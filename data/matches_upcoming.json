@@ -1,65 +1,5 @@
 [
   {
-    "hour": "03:00",
-    "date": "2026-11-02",
-    "link": "/matches/2399855/legacy-vs-the-mongolz-iem-beijing-2026",
-    "meta": "bo3",
-    "event": "IEM Beijing 2026",
-    "team1": {
-      "name": "Legacy",
-      "logo": "https://img-cdn.hltv.org/teamlogo/RWbHH6RA8uGwJurGeLFvSr.png?ixlib=java-2.1.0&w=50&s=3d251032e156cab2f6df8c630ca29745"
-    },
-    "team2": {
-      "name": "The MongolZ",
-      "logo": "https://img-cdn.hltv.org/teamlogo/bRk2sh_tSTO6fq1GLhgcal.png?ixlib=java-2.1.0&w=50&s=8b08e53858eb817852ae74b30a30151d"
-    }
-  },
-  {
-    "hour": "03:00",
-    "date": "2026-11-02",
-    "link": "/matches/2399856/heroic-vs-b8-iem-beijing-2026",
-    "meta": "bo3",
-    "event": "IEM Beijing 2026",
-    "team1": {
-      "name": "HEROIC",
-      "logo": "https://img-cdn.hltv.org/teamlogo/4S22uk_gnZTiQiI-hhH4yp.png?ixlib=java-2.1.0&w=50&s=3619ddf1d490573ab3dc261b8c2f3f6f"
-    },
-    "team2": {
-      "name": "B8",
-      "logo": "https://img-cdn.hltv.org/teamlogo/O6nRWTCjUzBAR4pcOcrpSG.png?ixlib=java-2.1.0&w=50&s=305dde82e764725dab7e626800328137"
-    }
-  },
-  {
-    "hour": "05:30",
-    "date": "2026-11-02",
-    "link": "/matches/2399861/aurora-vs-liquid-iem-beijing-2026",
-    "meta": "bo3",
-    "event": "IEM Beijing 2026",
-    "team1": {
-      "name": "Aurora",
-      "logo": "https://img-cdn.hltv.org/teamlogo/yJzPNOeXlyiniNxanYJCrv.png?ixlib=java-2.1.0&w=50&s=2c08f70c2f2f8c2024a438ddcf19bbf1"
-    },
-    "team2": {
-      "name": "Liquid",
-      "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62"
-    }
-  },
-  {
-    "hour": "05:30",
-    "date": "2026-11-02",
-    "link": "/matches/2399862/parivision-vs-g2-iem-beijing-2026",
-    "meta": "bo3",
-    "event": "IEM Beijing 2026",
-    "team1": {
-      "name": "PARIVISION",
-      "logo": "https://img-cdn.hltv.org/teamlogo/MFcDe-M8wfGOUU6x4sRELR.png?ixlib=java-2.1.0&w=50&s=1d91076a58b354d8c3eaeda3162c292e"
-    },
-    "team2": {
-      "name": "G2",
-      "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b"
-    }
-  },
-  {
     "hour": "08:00",
     "date": "2026-11-02",
     "link": "/matches/2399857/furia-vs-faze-iem-beijing-2026",
@@ -87,6 +27,21 @@
     "team2": {
       "name": "BETBOOM",
       "logo": "https://img-cdn.hltv.org/teamlogo/G4ZrdB0-q41USPd_z27IQA.png?ixlib=java-2.1.0&w=50&s=9c15ddf70f9c66399d4a47e0d8e93511"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-11-02",
+    "link": "/matches/2400064/maybe-vs-honvd-cct-2026-europe-series-13-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+    "team1": {
+      "name": "MAYBE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/gvXj4AGwCvP_6KEUFypEsW.png?ixlib=java-2.1.0&w=50&s=c880d5397fafc9b511969c86181eae1e"
+    },
+    "team2": {
+      "name": "Honv\u00e9d",
+      "logo": "https://img-cdn.hltv.org/teamlogo/GRDCTjbpIWDj6cS-k5j69x.png?ixlib=java-2.1.0&w=50&s=9eeb2cd0832ec343547466896a0b8f89"
     }
   },
   {
@@ -135,6 +90,36 @@
     }
   },
   {
+    "hour": "13:00",
+    "date": "2026-11-02",
+    "link": "/matches/2400065/falcons-force-vs-megoshort-cct-2026-europe-series-13-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+    "team1": {
+      "name": "Falcons Force",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YfOBM0ri-zSsx9Cc8q6nz-.png?ixlib=java-2.1.0&w=50&s=458ef7af43f0a705811f82722fc58f2d"
+    },
+    "team2": {
+      "name": "megoshort",
+      "logo": "https://img-cdn.hltv.org/teamlogo/KZxIFGye1KNVn7Q6Zt6hiV.png?ixlib=java-2.1.0&w=50&s=55ddac5f2aaddb4510f3dad57779c859"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-11-02",
+    "link": "/matches/2400066/misa-vs-psychoface-cct-2026-europe-series-13-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+    "team1": {
+      "name": "Misa",
+      "logo": "https://img-cdn.hltv.org/teamlogo/NZDgFz0RzIniP7zbNUoHuU.png?ixlib=java-2.1.0&w=50&s=f04ee2b4b27a2aa62a3aca91566e92f4"
+    },
+    "team2": {
+      "name": "PsychoFace",
+      "logo": "/dynamic-svg/teamplaceholder?letter=P"
+    }
+  },
+  {
     "hour": "19:00",
     "date": "2026-11-02",
     "link": "/matches/2400059/ex-ence-vs-sinqu-nodwin-clutch-series-14-closed-qualifier",
@@ -147,6 +132,21 @@
     "team2": {
       "name": "SINQU",
       "logo": "https://img-cdn.hltv.org/teamlogo/HCDj_182RlDUnkq7I4w5pv.png?ixlib=java-2.1.0&w=50&s=12ab1a7214643f8b4cdb053b5bb5e263"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-11-02",
+    "link": "/matches/2400067/lfo-10-vs-illyrians-cct-2026-europe-series-13-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+    "team1": {
+      "name": "LFO 10",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L"
+    },
+    "team2": {
+      "name": "Illyrians",
+      "logo": "https://img-cdn.hltv.org/teamlogo/cCPQDYWgTSfZKfjVvVLMoy.png?ixlib=java-2.1.0&w=50&s=7013d02394a2fc3236a41f19869f5b36"
     }
   },
   {
