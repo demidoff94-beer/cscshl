@@ -1,51 +1,114 @@
 [
   {
+    "title": "PGL Major Singapore race as it happened ",
+    "img": "/img/static/flags/30x20/SG.gif",
+    "date": "2026-11-02",
+    "comments": "978 comments",
+    "link": "/news/45705/pgl-major-singapore-race-as-it-happened"
+  },
+  {
+    "title": "Valve release Major-deciding November VRS update ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-11-02",
+    "comments": "57 comments",
+    "link": "/news/45890/valve-release-major-deciding-november-vrs-update"
+  },
+  {
+    "title": "NAVI send Falcons to lower bracket as first day of IEM Beijing comes to a close ",
+    "img": "/img/static/flags/30x20/CN.gif",
+    "date": "2026-11-02",
+    "comments": "55 comments",
+    "link": "/news/45889/navi-send-falcons-to-lower-bracket-as-first-day-of-iem-beijing-comes-to-a-close"
+  },
+  {
+    "title": "Introducing the advanced stats tab ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-11-02",
+    "comments": "69 comments",
+    "link": "/news/45885/introducing-the-advanced-stats-tab"
+  },
+  {
+    "title": "dastan: \"I worked on myself not to show a bad mood\" ",
+    "img": "/img/static/flags/30x20/KZ.gif",
+    "date": "2026-11-02",
+    "comments": "51 comments",
+    "link": "/news/45886/dastan-i-worked-on-myself-not-to-show-a-bad-mood"
+  },
+  {
+    "title": "Short news: Week 43 ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-11-02",
+    "comments": "37 comments",
+    "link": "/news/45887/short-news-week-43"
+  },
+  {
+    "title": "flashie: \"JT sees the game very similarly to me, so that guidance is now there. It wasn't really possible to get to that point [before]\" ",
+    "img": "/img/static/flags/30x20/HU.gif",
+    "date": "2026-11-02",
+    "comments": "12 comments",
+    "link": "/news/45884/flashie-jt-sees-the-game-very-similarly-to-me-so-that-guidance-is-now-there-it-wasnt-really-possible-to-get-to-that-point-before"
+  },
+  {
+    "title": "Techno: \"It almost feels like we are playing with two IGLs\" ",
+    "img": "/img/static/flags/30x20/MN.gif",
+    "date": "2026-11-02",
+    "comments": "20 comments",
+    "link": "/news/45882/techno-it-almost-feels-like-we-are-playing-with-two-igls"
+  },
+  {
+    "title": "Liquid crush Aurora in IEM Beijing opener ",
+    "img": "/img/static/flags/30x20/CN.gif",
+    "date": "2026-11-02",
+    "comments": "35 comments",
+    "link": "/news/45883/liquid-crush-aurora-in-iem-beijing-opener"
+  },
+  {
     "title": "The best highlights from IEM Beijing group stage ",
     "img": "/img/static/flags/30x20/CN.gif",
     "date": "2026-11-02",
-    "comments": "6 comments",
+    "comments": "32 comments",
     "link": "/news/45881/the-best-highlights-from-iem-beijing-group-stage"
   },
   {
     "title": "woxic: \"After some time, the trophy is not looking so far away\" ",
     "img": "/img/static/flags/30x20/TR.gif",
     "date": "2026-11-02",
-    "comments": "24 comments",
+    "comments": "43 comments",
     "link": "/news/45876/woxic-after-some-time-the-trophy-is-not-looking-so-far-away"
   },
   {
     "title": "PGL Major Singapore invites set ",
     "img": "/img/static/flags/30x20/SG.gif",
     "date": "2026-11-02",
-    "comments": "128 comments",
+    "comments": "166 comments",
     "link": "/news/45879/pgl-major-singapore-invites-set"
   },
   {
     "title": "100 Thieves win FiRe Last Chance to book last Singapore Major spot ",
     "img": "/img/static/flags/30x20/AR.gif",
     "date": "2026-11-01",
-    "comments": "84 comments",
+    "comments": "93 comments",
     "link": "/news/45880/100-thieves-win-fire-last-chance-to-book-last-singapore-major-spot"
   },
   {
     "title": "m0NESY: \"Maybe sometimes kyousuke overthinks and he thinks that he's forced to say something, to always do something\" ",
     "img": "/img/static/flags/30x20/RU.gif",
     "date": "2026-11-01",
-    "comments": "36 comments",
+    "comments": "42 comments",
     "link": "/news/45873/m0nesy-maybe-sometimes-kyousuke-overthinks-and-he-thinks-that-hes-forced-to-say-something-to-always-do-something"
   },
   {
     "title": "Short news: Week 42 ",
     "img": "/img/static/flags/30x20/WORLD.gif",
     "date": "2026-11-01",
-    "comments": "226 comments",
+    "comments": "233 comments",
     "link": "/news/45811/short-news-week-42"
   },
   {
     "title": "Jee returns to TYLOO lineup for IEM Beijing ",
     "img": "/img/static/flags/30x20/CN.gif",
     "date": "2026-11-01",
-    "comments": "36 comments",
+    "comments": "39 comments",
     "link": "/news/45878/jee-returns-to-tyloo-lineup-for-iem-beijing"
   },
   {
@@ -66,7 +129,7 @@
     "title": "zhokiNg: \"We had no choice but to play in that Retake event\" ",
     "img": "/img/static/flags/30x20/CN.gif",
     "date": "2026-11-01",
-    "comments": "28 comments",
+    "comments": "29 comments",
     "link": "/news/45874/zhoking-we-had-no-choice-but-to-play-in-that-retake-event"
   },
   {
@@ -80,7 +143,7 @@
     "title": "YEKINDAR wins career-first MVP at PGL Masters ",
     "img": "/img/static/flags/30x20/LV.gif",
     "date": "2026-10-31",
-    "comments": "113 comments",
+    "comments": "114 comments",
     "link": "/news/45871/yekindar-wins-career-first-mvp-at-pgl-masters"
   },
   {
@@ -213,7 +276,7 @@
     "title": "MOUZ overrun Aurora to book semi-final spot in Bucharest ",
     "img": "/img/static/flags/30x20/RO.gif",
     "date": "2026-10-29",
-    "comments": "30 comments",
+    "comments": "31 comments",
     "link": "/news/45854/mouz-overrun-aurora-to-book-semi-final-spot-in-bucharest"
   },
   {
@@ -269,7 +332,7 @@
     "title": "NAVI embarrass Spirit for last playoff berth ",
     "img": "/img/static/flags/30x20/RO.gif",
     "date": "2026-10-28",
-    "comments": "140 comments",
+    "comments": "141 comments",
     "link": "/news/45843/navi-embarrass-spirit-for-last-playoff-berth"
   },
   {
@@ -381,7 +444,7 @@
     "title": "Aleksib convicted of aggravated tax fraud ",
     "img": "/img/static/flags/30x20/FI.gif",
     "date": "2026-10-27",
-    "comments": "349 comments",
+    "comments": "352 comments",
     "link": "/news/45828/aleksib-convicted-of-aggravated-tax-fraud"
   },
   {
@@ -1216,13 +1279,6 @@
     "date": "2026-10-12",
     "comments": "29 comments",
     "link": "/news/45706/thunderpick-world-championship-teams-format-schedule-prizes-talent-fantasy"
-  },
-  {
-    "title": "Live updates from the race for PGL Major Singapore ",
-    "img": "/img/static/flags/30x20/SG.gif",
-    "date": "2026-10-12",
-    "comments": "969 comments",
-    "link": "/news/45705/live-updates-from-the-race-for-pgl-major-singapore"
   },
   {
     "title": "TOBIZ returns to MOUZ as head of talent development ",
