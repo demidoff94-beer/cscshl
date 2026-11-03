@@ -1,1 +1,392 @@
-[]
+[
+  {
+    "hour": "23:00",
+    "date": "2026-11-03",
+    "link": "/matches/2400075/bestia-academy-vs-zetta-cct-2026-south-america-series-8",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 8",
+    "team1": {
+      "name": "BESTIA Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Z_R5K__qrvHmPjF66iCay-.png?ixlib=java-2.1.0&w=50&s=7e2afd72c2b3cabf53244ed6bc5142e3"
+    },
+    "team2": {
+      "name": "Zetta",
+      "logo": "https://img-cdn.hltv.org/teamlogo/tBiNrfgQd520MFoJr7_8KA.png?ixlib=java-2.1.0&w=50&s=8010403785497ba945ef28e8eef4e549"
+    }
+  },
+  {
+    "hour": "03:00",
+    "date": "2026-11-04",
+    "link": "/matches/2399998/liquid-vs-tyloo-iem-beijing-2026",
+    "meta": "bo3",
+    "event": "IEM Beijing 2026",
+    "team1": {
+      "name": "Liquid",
+      "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62"
+    },
+    "team2": {
+      "name": "TYLOO",
+      "logo": "https://img-cdn.hltv.org/teamlogo/hMPKtNMDxp07n3lrBEHCuq.svg?ixlib=java-2.1.0&s=6d22fc4af07d0cd9d31fcd7f3023af9a"
+    }
+  },
+  {
+    "hour": "03:00",
+    "date": "2026-11-04",
+    "link": "/matches/2399999/aurora-vs-betboom-iem-beijing-2026",
+    "meta": "bo3",
+    "event": "IEM Beijing 2026",
+    "team1": {
+      "name": "Aurora",
+      "logo": "https://img-cdn.hltv.org/teamlogo/yJzPNOeXlyiniNxanYJCrv.png?ixlib=java-2.1.0&w=50&s=2c08f70c2f2f8c2024a438ddcf19bbf1"
+    },
+    "team2": {
+      "name": "BETBOOM",
+      "logo": "https://img-cdn.hltv.org/teamlogo/G4ZrdB0-q41USPd_z27IQA.png?ixlib=java-2.1.0&w=50&s=9c15ddf70f9c66399d4a47e0d8e93511"
+    }
+  },
+  {
+    "hour": "05:30",
+    "date": "2026-11-04",
+    "link": "/matches/2400000/falcons-vs-heroic-iem-beijing-2026",
+    "meta": "bo3",
+    "event": "IEM Beijing 2026",
+    "team1": {
+      "name": "Falcons",
+      "logo": "https://img-cdn.hltv.org/teamlogo/4eJSkDQINNM6Tbs4WvLzkN.png?ixlib=java-2.1.0&w=50&s=d8c857ea47046f61eca695beab0d12ef"
+    },
+    "team2": {
+      "name": "HEROIC",
+      "logo": "https://img-cdn.hltv.org/teamlogo/4S22uk_gnZTiQiI-hhH4yp.png?ixlib=java-2.1.0&w=50&s=3619ddf1d490573ab3dc261b8c2f3f6f"
+    }
+  },
+  {
+    "hour": "05:30",
+    "date": "2026-11-04",
+    "link": "/matches/2400001/natus-vincere-vs-b8-iem-beijing-2026",
+    "meta": "bo3",
+    "event": "IEM Beijing 2026",
+    "team1": {
+      "name": "Natus Vincere",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c"
+    },
+    "team2": {
+      "name": "B8",
+      "logo": "https://img-cdn.hltv.org/teamlogo/O6nRWTCjUzBAR4pcOcrpSG.png?ixlib=java-2.1.0&w=50&s=305dde82e764725dab7e626800328137"
+    }
+  },
+  {
+    "hour": "08:00",
+    "date": "2026-11-04",
+    "link": "/matches/2400003/parivision-vs-mouz-iem-beijing-2026",
+    "meta": "bo3",
+    "event": "IEM Beijing 2026",
+    "team1": {
+      "name": "PARIVISION",
+      "logo": "https://img-cdn.hltv.org/teamlogo/MFcDe-M8wfGOUU6x4sRELR.png?ixlib=java-2.1.0&w=50&s=1d91076a58b354d8c3eaeda3162c292e"
+    },
+    "team2": {
+      "name": "MOUZ",
+      "logo": "https://img-cdn.hltv.org/teamlogo/IejtXpquZnE8KqYPB1LNKw.svg?ixlib=java-2.1.0&s=7fd33b8def053fbfd8fdbb58e3bdcd3c"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-11-04",
+    "link": "/matches/2400209/illyrians-vs-bebop-cct-2026-europe-series-14-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+    "team1": {
+      "name": "Illyrians",
+      "logo": "https://img-cdn.hltv.org/teamlogo/cCPQDYWgTSfZKfjVvVLMoy.png?ixlib=java-2.1.0&w=50&s=7013d02394a2fc3236a41f19869f5b36"
+    },
+    "team2": {
+      "name": "Bebop",
+      "logo": "/dynamic-svg/teamplaceholder?letter=B"
+    }
+  },
+  {
+    "hour": "10:30",
+    "date": "2026-11-04",
+    "link": "/matches/2400005/the-mongolz-vs-furia-iem-beijing-2026",
+    "meta": "bo3",
+    "event": "IEM Beijing 2026",
+    "team1": {
+      "name": "The MongolZ",
+      "logo": "https://img-cdn.hltv.org/teamlogo/bRk2sh_tSTO6fq1GLhgcal.png?ixlib=java-2.1.0&w=50&s=8b08e53858eb817852ae74b30a30151d"
+    },
+    "team2": {
+      "name": "FURIA",
+      "logo": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-11-04",
+    "link": "/matches/2400210/megoshort-vs-honvd-cct-2026-europe-series-14-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+    "team1": {
+      "name": "megoshort",
+      "logo": "https://img-cdn.hltv.org/teamlogo/KZxIFGye1KNVn7Q6Zt6hiV.png?ixlib=java-2.1.0&w=50&s=55ddac5f2aaddb4510f3dad57779c859"
+    },
+    "team2": {
+      "name": "Honv\u00e9d",
+      "logo": "https://img-cdn.hltv.org/teamlogo/GRDCTjbpIWDj6cS-k5j69x.png?ixlib=java-2.1.0&w=50&s=9eeb2cd0832ec343547466896a0b8f89"
+    }
+  },
+  {
+    "hour": "14:00",
+    "date": "2026-11-04",
+    "link": "/matches/2400076/meia-noite-vs-damajuana-cct-2026-south-america-series-8",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 8",
+    "team1": {
+      "name": "MEIA NOITE",
+      "logo": "/dynamic-svg/teamplaceholder?letter=M"
+    },
+    "team2": {
+      "name": "DAMAJUANA",
+      "logo": "https://img-cdn.hltv.org/teamlogo/QGEAzsxlc66HnbvhgKMuFV.png?ixlib=java-2.1.0&w=50&s=c19a936b9c993f687acd0afda35ed99e"
+    }
+  },
+  {
+    "hour": "17:00",
+    "date": "2026-11-04",
+    "link": "/matches/2400077/grmio-vs-your-end-cct-2026-south-america-series-8",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 8",
+    "team1": {
+      "name": "Gr\u00eamio",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_X9jYYKByFuVx9o4KveYnB.svg?ixlib=java-2.1.0&s=b0354212f03962da301e922ebd9401cd"
+    },
+    "team2": {
+      "name": "your end",
+      "logo": "/dynamic-svg/teamplaceholder?letter=y"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-11-04",
+    "link": "/matches/2400212/prestige-vs-maybe-cct-2026-europe-series-14-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+    "team1": {
+      "name": "Prestige",
+      "logo": "https://img-cdn.hltv.org/teamlogo/LsfU1sYlLVaPls3d21lLuU.png?ixlib=java-2.1.0&w=50&s=35fa313eac1111bbbb40a8d028124525"
+    },
+    "team2": {
+      "name": "MAYBE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/gvXj4AGwCvP_6KEUFypEsW.png?ixlib=java-2.1.0&w=50&s=c880d5397fafc9b511969c86181eae1e"
+    }
+  },
+  {
+    "hour": "20:00",
+    "date": "2026-11-04",
+    "link": "/matches/2400078/borracheiros-vs-low-cortisol-cct-2026-south-america-series-8",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 8",
+    "team1": {
+      "name": "BORRACHEIROS",
+      "logo": "/dynamic-svg/teamplaceholder?letter=B"
+    },
+    "team2": {
+      "name": "Low Cortisol",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Q3gr6-GHh7CEdD9JfvJDpE.png?ixlib=java-2.1.0&w=50&s=afb387aa5de9b636ab8fe0bd44341ef6"
+    }
+  },
+  {
+    "hour": "23:00",
+    "date": "2026-11-04",
+    "link": "/matches/2400079/isurus-vs-underworld-cct-2026-south-america-series-8",
+    "meta": "bo3",
+    "event": "CCT 2026 South America Series 8",
+    "team1": {
+      "name": "Isurus",
+      "logo": "https://img-cdn.hltv.org/teamlogo/VjHKZDxfmmvDKnlRMmxiNY.png?ixlib=java-2.1.0&w=50&s=80581e5cabf96feca782959829a3039f"
+    },
+    "team2": {
+      "name": "Underworld",
+      "logo": "/dynamic-svg/teamplaceholder?letter=U"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-11-05",
+    "link": "/matches/2400060/baks-vs-honvd-nodwin-clutch-series-14-closed-qualifier",
+    "meta": "bo3",
+    "event": "NODWIN Clutch Series 14 Closed Qualifier",
+    "team1": {
+      "name": "BAKS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/addrkF7msTiD-HdGMcCXbZ.png?ixlib=java-2.1.0&w=50&s=77c6157e0f8f6c0cc067dba37eb1110c"
+    },
+    "team2": {
+      "name": "Honv\u00e9d",
+      "logo": "https://img-cdn.hltv.org/teamlogo/GRDCTjbpIWDj6cS-k5j69x.png?ixlib=java-2.1.0&w=50&s=9eeb2cd0832ec343547466896a0b8f89"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-11-05",
+    "link": "/matches/2400061/fire-flux-vs-illyrians-nodwin-clutch-series-14-closed-qualifier",
+    "meta": "bo3",
+    "event": "NODWIN Clutch Series 14 Closed Qualifier",
+    "team1": {
+      "name": "Fire Flux",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dEkPG3QFLGo6xl9DtGPsm2.png?ixlib=java-2.1.0&w=50&s=9a9c4eeb77fd921baa804a425d4e2825"
+    },
+    "team2": {
+      "name": "Illyrians",
+      "logo": "https://img-cdn.hltv.org/teamlogo/cCPQDYWgTSfZKfjVvVLMoy.png?ixlib=java-2.1.0&w=50&s=7013d02394a2fc3236a41f19869f5b36"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-11-05",
+    "link": "/matches/2400062/basement-boys-vs-misa-nodwin-clutch-series-14-closed-qualifier",
+    "meta": "bo3",
+    "event": "NODWIN Clutch Series 14 Closed Qualifier",
+    "team1": {
+      "name": "BASEMENT BOYS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/IAgnK7oXGijw4nomIKEVIw.png?ixlib=java-2.1.0&w=50&s=b4de8c1c642e9e648d878215fc8ac9ba"
+    },
+    "team2": {
+      "name": "Misa",
+      "logo": "https://img-cdn.hltv.org/teamlogo/NZDgFz0RzIniP7zbNUoHuU.png?ixlib=java-2.1.0&w=50&s=f04ee2b4b27a2aa62a3aca91566e92f4"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-11-05",
+    "link": "/matches/2400063/johnny-speeds-vs-drama-nodwin-clutch-series-14-closed-qualifier",
+    "meta": "bo3",
+    "event": "NODWIN Clutch Series 14 Closed Qualifier",
+    "team1": {
+      "name": "Johnny Speeds",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Qmj_vOYob6-N4w0-MkiQhT.png?ixlib=java-2.1.0&w=50&s=1ac8b274e801c8c4b265b4fc3ea1900c"
+    },
+    "team2": {
+      "name": "Drama",
+      "logo": "https://img-cdn.hltv.org/teamlogo/J0n3Qe1dF_JXSikg6Wu7Vd.png?ixlib=java-2.1.0&w=50&s=87cb2bf8d200ac68215e1d7ebfb57de5"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-11-06",
+    "link": "/matches/2400213/saw-youngsters-vs-four-magic-cct-2026-europe-series-14-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+    "team1": {
+      "name": "SAW Youngsters",
+      "logo": "https://img-cdn.hltv.org/teamlogo/jYQ4aML6vXnDCKEQ04ano1.png?ixlib=java-2.1.0&w=50&s=33afd7f95988d02b181f7c4a75c7fb79"
+    },
+    "team2": {
+      "name": "Four Magic",
+      "logo": "https://img-cdn.hltv.org/teamlogo/s48ySdUp5ztbflUVuGDth5.png?ixlib=java-2.1.0&w=50&s=05ab6291af72b9db0a8c521f1c5cb72d"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-11-06",
+    "link": "/matches/2400214/lfo-10-vs-masonic-cct-2026-europe-series-14-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+    "team1": {
+      "name": "LFO 10",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L"
+    },
+    "team2": {
+      "name": "MASONIC",
+      "logo": "https://img-cdn.hltv.org/teamlogo/LXy16DLCLqmbZWSr4RxeQu.svg?ixlib=java-2.1.0&s=dcd79250b3b5e2e757a89b7c27c6770d"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-11-06",
+    "link": "/matches/2400215/drama-vs-ryvex-cct-2026-europe-series-14-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+    "team1": {
+      "name": "Drama",
+      "logo": "https://img-cdn.hltv.org/teamlogo/J0n3Qe1dF_JXSikg6Wu7Vd.png?ixlib=java-2.1.0&w=50&s=87cb2bf8d200ac68215e1d7ebfb57de5"
+    },
+    "team2": {
+      "name": "Ryvex",
+      "logo": "https://img-cdn.hltv.org/teamlogo/8fb_49_81-pameJfTmnkQJ.png?ixlib=java-2.1.0&w=50&s=c7dbf7d07da3ed8227257247684a4f9a"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-11-06",
+    "link": "/matches/2400216/saint-sinners-vs-phantom-academy-cct-2026-europe-series-14-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+    "team1": {
+      "name": "Saint Sinners",
+      "logo": "/dynamic-svg/teamplaceholder?letter=S"
+    },
+    "team2": {
+      "name": "Phantom Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/1-ndJrd3Y-vYo3AYM1HywD.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=1c3d4a2021cea1c8a6d2384310747363"
+    }
+  },
+  {
+    "hour": "03:00",
+    "date": "2026-11-11",
+    "link": "/matches/2399851/legacy-vs-furia-blast-rivals-2026-season-2",
+    "meta": "bo3",
+    "event": "BLAST Rivals 2026 Season 2",
+    "team1": {
+      "name": "Legacy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/RWbHH6RA8uGwJurGeLFvSr.png?ixlib=java-2.1.0&w=50&s=3d251032e156cab2f6df8c630ca29745"
+    },
+    "team2": {
+      "name": "FURIA",
+      "logo": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c"
+    }
+  },
+  {
+    "hour": "05:30",
+    "date": "2026-11-11",
+    "link": "/matches/2399852/vitality-vs-falcons-blast-rivals-2026-season-2",
+    "meta": "bo3",
+    "event": "BLAST Rivals 2026 Season 2",
+    "team1": {
+      "name": "Vitality",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ogcHrcCdzRvxbYvAz04KAN.png?ixlib=java-2.1.0&w=50&s=e1f6019aa9f274ffe45a5e99c88dbc02"
+    },
+    "team2": {
+      "name": "Falcons",
+      "logo": "https://img-cdn.hltv.org/teamlogo/4eJSkDQINNM6Tbs4WvLzkN.png?ixlib=java-2.1.0&w=50&s=d8c857ea47046f61eca695beab0d12ef"
+    }
+  },
+  {
+    "hour": "08:00",
+    "date": "2026-11-11",
+    "link": "/matches/2399853/spirit-vs-fut-blast-rivals-2026-season-2",
+    "meta": "bo3",
+    "event": "BLAST Rivals 2026 Season 2",
+    "team1": {
+      "name": "Spirit",
+      "logo": "https://img-cdn.hltv.org/teamlogo/syrtYYKR7sBRw3ZHy1YFX7.png?ixlib=java-2.1.0&w=50&s=40e66714687bec05ea422255b1c0099e"
+    },
+    "team2": {
+      "name": "FUT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Os71GAOy8KDuQFc0M8HE6O.png?ixlib=java-2.1.0&w=50&s=86f2bded6bcb7c690a42a62250ed69e7"
+    }
+  },
+  {
+    "hour": "10:30",
+    "date": "2026-11-11",
+    "link": "/matches/2399854/mouz-vs-g2-blast-rivals-2026-season-2",
+    "meta": "bo3",
+    "event": "BLAST Rivals 2026 Season 2",
+    "team1": {
+      "name": "MOUZ",
+      "logo": "https://img-cdn.hltv.org/teamlogo/IejtXpquZnE8KqYPB1LNKw.svg?ixlib=java-2.1.0&s=7fd33b8def053fbfd8fdbb58e3bdcd3c"
+    },
+    "team2": {
+      "name": "G2",
+      "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b"
+    }
+  }
+]
