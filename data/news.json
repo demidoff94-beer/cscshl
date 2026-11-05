@@ -1,16 +1,58 @@
 [
   {
+    "title": "Hall of Fame: Unveiling the 10 nominees of 2026 ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-11-05",
+    "comments": "68 comments",
+    "link": "/news/45912/hall-of-fame-unveiling-the-10-nominees-of-2026"
+  },
+  {
+    "title": "Short news: Week 43 ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-11-05",
+    "comments": "148 comments",
+    "link": "/news/45887/short-news-week-43"
+  },
+  {
+    "title": "HLTV Prospects ranking: November 2026 ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-11-05",
+    "comments": "67 comments",
+    "link": "/news/45899/hltv-prospects-ranking-november-2026"
+  },
+  {
+    "title": "Falcons put academy team on hold ",
+    "img": "/img/static/flags/30x20/EU.gif",
+    "date": "2026-11-05",
+    "comments": "72 comments",
+    "link": "/news/45921/falcons-put-academy-team-on-hold"
+  },
+  {
+    "title": "w0nderful and b1t surge in popularity for IEM Beijing Playoffs Fantasy ",
+    "img": "/img/static/flags/30x20/CN.gif",
+    "date": "2026-11-05",
+    "comments": "15 comments",
+    "link": "/news/45919/w0nderful-and-b1t-surge-in-popularity-for-iem-beijing-playoffs-fantasy"
+  },
+  {
+    "title": "BLAST Rivals Season 2 talent announced ",
+    "img": "/img/static/flags/30x20/HK.gif",
+    "date": "2026-11-05",
+    "comments": "51 comments",
+    "link": "/news/45918/blast-rivals-season-2-talent-announced"
+  },
+  {
     "title": "zonic: \"When we get off to a bad start, it can destroy our entire game\" ",
     "img": "/img/static/flags/30x20/DK.gif",
     "date": "2026-11-04",
-    "comments": "92 comments",
+    "comments": "118 comments",
     "link": "/news/45917/zonic-when-we-get-off-to-a-bad-start-it-can-destroy-our-entire-game"
   },
   {
     "title": "FISSURE CEO: \"Around half of our CS2 debt has already been paid\" ",
     "img": "/img/static/flags/30x20/RU.gif",
     "date": "2026-11-04",
-    "comments": "46 comments",
+    "comments": "66 comments",
     "link": "/news/45916/fissure-ceo-around-half-of-our-cs2-debt-has-already-been-paid"
   },
   {
@@ -24,14 +66,14 @@
     "title": "iM: \"On Inferno, we were like four kids in w0nderful's backpack\" ",
     "img": "/img/static/flags/30x20/RO.gif",
     "date": "2026-11-04",
-    "comments": "52 comments",
+    "comments": "59 comments",
     "link": "/news/45915/im-on-inferno-we-were-like-four-kids-in-w0nderfuls-backpack"
   },
   {
     "title": "IEM Beijing 2026 playoff bracket set ",
     "img": "/img/static/flags/30x20/CN.gif",
     "date": "2026-11-04",
-    "comments": "36 comments",
+    "comments": "37 comments",
     "link": "/news/45914/iem-beijing-2026-playoff-bracket-set"
   },
   {
@@ -45,22 +87,15 @@
     "title": "NAVI send Falcons home from IEM Beijing after 12-0 T side on map three ",
     "img": "/img/static/flags/30x20/CN.gif",
     "date": "2026-11-04",
-    "comments": "157 comments",
+    "comments": "161 comments",
     "link": "/news/45911/navi-send-falcons-home-from-iem-beijing-after-12-0-t-side-on-map-three"
   },
   {
     "title": "The MongolZ join MOUZ in IEM Beijing semis after beating FURIA ",
     "img": "/img/static/flags/30x20/CN.gif",
     "date": "2026-11-04",
-    "comments": "47 comments",
+    "comments": "51 comments",
     "link": "/news/45913/the-mongolz-join-mouz-in-iem-beijing-semis-after-beating-furia"
-  },
-  {
-    "title": "Short news: Week 43 ",
-    "img": "/img/static/flags/30x20/WORLD.gif",
-    "date": "2026-11-04",
-    "comments": "143 comments",
-    "link": "/news/45887/short-news-week-43"
   },
   {
     "title": "BETBOOM edge past Liquid to reach playoffs ",
@@ -87,7 +122,7 @@
     "title": "BETBOOM eliminate Aurora from IEM Beijing ",
     "img": "/img/static/flags/30x20/CN.gif",
     "date": "2026-11-04",
-    "comments": "12 comments",
+    "comments": "13 comments",
     "link": "/news/45905/betboom-eliminate-aurora-from-iem-beijing"
   },
   {
@@ -108,7 +143,7 @@
     "title": "xertioN: \"I think this is the best MOUZ we have ever seen\"* ",
     "img": "/img/static/flags/30x20/IL.gif",
     "date": "2026-11-03",
-    "comments": "106 comments",
+    "comments": "107 comments",
     "link": "/news/45895/xertion-i-think-this-is-the-best-mouz-we-have-ever-seen"
   },
   {
@@ -129,7 +164,7 @@
     "title": "Legacy crash out of IEM Beijing after loss to B8 ",
     "img": "/img/static/flags/30x20/CN.gif",
     "date": "2026-11-03",
-    "comments": "19 comments",
+    "comments": "22 comments",
     "link": "/news/45902/legacy-crash-out-of-iem-beijing-after-loss-to-b8"
   },
   {
@@ -157,7 +192,7 @@
     "title": "Falcons condemn FaZe to last-place exit in Beijing ",
     "img": "/img/static/flags/30x20/CN.gif",
     "date": "2026-11-03",
-    "comments": "63 comments",
+    "comments": "61 comments",
     "link": "/news/45896/falcons-condemn-faze-to-last-place-exit-in-beijing"
   },
   {
@@ -255,7 +290,7 @@
     "title": "PGL Major Singapore invites set ",
     "img": "/img/static/flags/30x20/SG.gif",
     "date": "2026-11-02",
-    "comments": "190 comments",
+    "comments": "192 comments",
     "link": "/news/45879/pgl-major-singapore-invites-set"
   },
   {
