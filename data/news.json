@@ -1,58 +1,86 @@
 [
   {
+    "title": "Who are 2026's rookies? ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-11-12",
+    "comments": "66 comments",
+    "link": "/news/45716/who-are-2026s-rookies"
+  },
+  {
+    "title": "Short news: Week 44 ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-11-12",
+    "comments": "77 comments",
+    "link": "/news/45949/short-news-week-44"
+  },
+  {
+    "title": "YEKINDAR: \"Today we were better, but also luckier to some degree\" ",
+    "img": "/img/static/flags/30x20/LV.gif",
+    "date": "2026-11-12",
+    "comments": "24 comments",
+    "link": "/news/45976/yekindar-today-we-were-better-but-also-luckier-to-some-degree"
+  },
+  {
+    "title": "Spirit through to Hong Kong semis as BLAST Rivals bracket is set ",
+    "img": "/img/static/flags/30x20/HK.gif",
+    "date": "2026-11-12",
+    "comments": "36 comments",
+    "link": "/news/45978/spirit-through-to-hong-kong-semis-as-blast-rivals-bracket-is-set"
+  },
+  {
+    "title": "MOUZ narrowly escape last-place elimination at BLAST against FUT ",
+    "img": "/img/static/flags/30x20/HK.gif",
+    "date": "2026-11-12",
+    "comments": "70 comments",
+    "link": "/news/45977/mouz-narrowly-escape-last-place-elimination-at-blast-against-fut"
+  },
+  {
     "title": "FURIA hand Vitality first-ever 13-0 defeat to make Rivals semi-finals ",
     "img": "/img/static/flags/30x20/HK.gif",
     "date": "2026-11-12",
-    "comments": "40 comments",
+    "comments": "99 comments",
     "link": "/news/45975/furia-hand-vitality-first-ever-13-0-defeat-to-make-rivals-semi-finals"
   },
   {
     "title": "Falcons crush Legacy to make Rivals playoffs ",
     "img": "/img/static/flags/30x20/HK.gif",
     "date": "2026-11-12",
-    "comments": "29 comments",
+    "comments": "43 comments",
     "link": "/news/45974/falcons-crush-legacy-to-make-rivals-playoffs"
-  },
-  {
-    "title": "Short news: Week 44 ",
-    "img": "/img/static/flags/30x20/WORLD.gif",
-    "date": "2026-11-11",
-    "comments": "60 comments",
-    "link": "/news/45949/short-news-week-44"
   },
   {
     "title": "torzsi: \"We don't need to overanalyze this game; we just need to be more ready for tomorrow\" ",
     "img": "/img/static/flags/30x20/HU.gif",
     "date": "2026-11-11",
-    "comments": "35 comments",
+    "comments": "37 comments",
     "link": "/news/45972/torzsi-we-dont-need-to-overanalyze-this-game-we-just-need-to-be-more-ready-for-tomorrow"
   },
   {
     "title": "G2 snap loss streak with win over MOUZ ",
     "img": "/img/static/flags/30x20/HK.gif",
     "date": "2026-11-11",
-    "comments": "64 comments",
+    "comments": "75 comments",
     "link": "/news/45971/g2-snap-loss-streak-with-win-over-mouz"
   },
   {
     "title": "Las Vegas Major 2028 gets key boost as LVCVA reportedly approves $2m BLAST sponsorship ",
     "img": "/img/static/flags/30x20/US.gif",
     "date": "2026-11-11",
-    "comments": "62 comments",
+    "comments": "68 comments",
     "link": "/news/45970/las-vegas-major-2028-gets-key-boost-as-lvcva-reportedly-approves-2m-blast-sponsorship"
   },
   {
     "title": "PGL confirm Singapore Major Stage 1 schedule ",
     "img": "/img/static/flags/30x20/SG.gif",
     "date": "2026-11-11",
-    "comments": "65 comments",
+    "comments": "66 comments",
     "link": "/news/45969/pgl-confirm-singapore-major-stage-1-schedule"
   },
   {
     "title": "Spirit handed first-ever 13-0 defeat in CS2, but recover to beat Krabeni-less FUT 2-1 ",
     "img": "/img/static/flags/30x20/HK.gif",
     "date": "2026-11-11",
-    "comments": "51 comments",
+    "comments": "52 comments",
     "link": "/news/45968/spirit-handed-first-ever-13-0-defeat-in-cs2-but-recover-to-beat-krabeni-less-fut-2-1"
   },
   {
@@ -94,7 +122,7 @@
     "title": "NertZ on G2's season: \"No matter what, it's a tragedy\" ",
     "img": "/img/static/flags/30x20/IL.gif",
     "date": "2026-11-10",
-    "comments": "62 comments",
+    "comments": "63 comments",
     "link": "/news/45956/nertz-on-g2s-season-no-matter-what-its-a-tragedy"
   },
   {
@@ -129,7 +157,7 @@
     "title": "Economy filters added to stats pages ",
     "img": "/img/static/flags/30x20/WORLD.gif",
     "date": "2026-11-10",
-    "comments": "87 comments",
+    "comments": "93 comments",
     "link": "/news/45946/economy-filters-added-to-stats-pages"
   },
   {
@@ -234,7 +262,7 @@
     "title": "xertioN secures first MVP at IEM Beijing ",
     "img": "/img/static/flags/30x20/IL.gif",
     "date": "2026-11-08",
-    "comments": "92 comments",
+    "comments": "95 comments",
     "link": "/news/45943/xertion-secures-first-mvp-at-iem-beijing"
   },
   {
@@ -388,7 +416,7 @@
     "title": "Hall of Fame: Unveiling the 10 nominees of 2026 ",
     "img": "/img/static/flags/30x20/WORLD.gif",
     "date": "2026-11-05",
-    "comments": "218 comments",
+    "comments": "219 comments",
     "link": "/news/45912/hall-of-fame-unveiling-the-10-nominees-of-2026"
   },
   {
@@ -416,7 +444,7 @@
     "title": "BLAST Rivals Season 2 talent announced ",
     "img": "/img/static/flags/30x20/HK.gif",
     "date": "2026-11-05",
-    "comments": "51 comments",
+    "comments": "52 comments",
     "link": "/news/45918/blast-rivals-season-2-talent-announced"
   },
   {
