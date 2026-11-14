@@ -1,1 +1,617 @@
-[]
+[
+  {
+    "hour": "08:00",
+    "date": "2026-11-15",
+    "link": "/matches/2400540/alienn-academy-vs-revenge-bro-cyber-league-season-2",
+    "meta": "bo3",
+    "event": "BRO Cyber League Season 2",
+    "team1": {
+      "name": "alienn academy",
+      "logo": "/dynamic-svg/teamplaceholder?letter=a"
+    },
+    "team2": {
+      "name": "Revenge",
+      "logo": "https://img-cdn.hltv.org/teamlogo/NaC0R6wc4m12dGWAS82Kvw.png?ixlib=java-2.1.0&w=50&s=c79df7dcb44ba1e3ca30be00bf22b6b2"
+    }
+  },
+  {
+    "hour": "08:00",
+    "date": "2026-11-15",
+    "link": "/matches/2400541/dnk-vs-paqt-bro-cyber-league-season-2",
+    "meta": "bo3",
+    "event": "BRO Cyber League Season 2",
+    "team1": {
+      "name": "DNK",
+      "logo": "/dynamic-svg/teamplaceholder?letter=D"
+    },
+    "team2": {
+      "name": "PAQT",
+      "logo": "/dynamic-svg/teamplaceholder?letter=P"
+    }
+  },
+  {
+    "hour": "09:00",
+    "date": "2026-11-15",
+    "link": "/matches/2400208/spirit-vs-furia-blast-rivals-2026-season-2",
+    "meta": "bo5",
+    "event": "BLAST Rivals 2026 Season 2",
+    "team1": {
+      "name": "Spirit",
+      "logo": "https://img-cdn.hltv.org/teamlogo/syrtYYKR7sBRw3ZHy1YFX7.png?ixlib=java-2.1.0&w=50&s=40e66714687bec05ea422255b1c0099e"
+    },
+    "team2": {
+      "name": "FURIA",
+      "logo": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-11-15",
+    "link": "/matches/2400161/virtuspro-vs-hype-tech-cct-2026-europe-series-13",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 13",
+    "team1": {
+      "name": "Virtus.pro",
+      "logo": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875"
+    },
+    "team2": {
+      "name": "Hype Tech",
+      "logo": "/dynamic-svg/teamplaceholder?letter=H"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-11-15",
+    "link": "/matches/2400253/walczaki-vs-mouz-nxt-cct-2026-europe-series-14",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 14",
+    "team1": {
+      "name": "Walczaki",
+      "logo": "https://img-cdn.hltv.org/teamlogo/7J1EJEnAG7-_sekQrIc_8E.png?ixlib=java-2.1.0&w=50&s=8984799e60101fff9a9c9edd76cc50df"
+    },
+    "team2": {
+      "name": "MOUZ NXT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/RfR1zmFJ0eP08VmFb6UOu3.png?ixlib=java-2.1.0&w=50&s=051cbffad4d1c25468d83abee6f4fe23"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-11-15",
+    "link": "/matches/2400347/ex-rustec-vs-drama-nodwin-clutch-series-14",
+    "meta": "bo3",
+    "event": "NODWIN Clutch Series 14",
+    "team1": {
+      "name": "ex-RUSTEC",
+      "logo": "/dynamic-svg/teamplaceholder?letter=e"
+    },
+    "team2": {
+      "name": "Drama",
+      "logo": "https://img-cdn.hltv.org/teamlogo/J0n3Qe1dF_JXSikg6Wu7Vd.png?ixlib=java-2.1.0&w=50&s=87cb2bf8d200ac68215e1d7ebfb57de5"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-11-15",
+    "link": "/matches/2400397/private-vs-forze-reload-european-pro-league-series-10",
+    "meta": "bo3",
+    "event": "European Pro League Series 10",
+    "team1": {
+      "name": "PRIVATE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/r31Wu6qCyS8909Zj1ftP36.png?ixlib=java-2.1.0&w=50&s=a74a13c148071d5419921ec93071c3f6"
+    },
+    "team2": {
+      "name": "FORZE Reload",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YJnWBDwmRDJ9o2uOUrhNeQ.png?ixlib=java-2.1.0&w=50&s=83f5ce35b3f98833671987bc637c74b7"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-11-15",
+    "link": "/matches/2400411/faze-vs-fnatic-pgl-cluj-napoca-2027-closed-qualifier",
+    "meta": "bo3",
+    "event": "PGL Cluj-Napoca 2027 Closed Qualifier",
+    "team1": {
+      "name": "FaZe",
+      "logo": "https://img-cdn.hltv.org/teamlogo/OKLwq88GXjl5GQ48Y5SrvW.png?ixlib=java-2.1.0&w=50&s=0a0d65eeb1b0e82ada20c42c038552fa"
+    },
+    "team2": {
+      "name": "fnatic",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-11-15",
+    "link": "/matches/2400412/heroic-vs-magic-pgl-cluj-napoca-2027-closed-qualifier",
+    "meta": "bo3",
+    "event": "PGL Cluj-Napoca 2027 Closed Qualifier",
+    "team1": {
+      "name": "HEROIC",
+      "logo": "https://img-cdn.hltv.org/teamlogo/4S22uk_gnZTiQiI-hhH4yp.png?ixlib=java-2.1.0&w=50&s=3619ddf1d490573ab3dc261b8c2f3f6f"
+    },
+    "team2": {
+      "name": "magic",
+      "logo": "https://img-cdn.hltv.org/teamlogo/KYi27Dm-DVyEUj0WIG5Bdx.png?ixlib=java-2.1.0&w=50&s=d490c0b14e24cbc6ddd70f0534ff3651"
+    }
+  },
+  {
+    "hour": "12:30",
+    "date": "2026-11-15",
+    "link": "/matches/2400398/ww-vs-g2-ares-european-pro-league-series-10",
+    "meta": "bo3",
+    "event": "European Pro League Series 10",
+    "team1": {
+      "name": "WW",
+      "logo": "https://img-cdn.hltv.org/teamlogo/eCREd3vUcWijSsxUZ7GEoW.png?ixlib=java-2.1.0&w=50&s=aeda10fd2ce9c4467e66c3c4415b8cdc"
+    },
+    "team2": {
+      "name": "G2 Ares",
+      "logo": "https://img-cdn.hltv.org/teamlogo/7s-UIVdwo4C6iV1zYq20Ou.png?ixlib=java-2.1.0&w=50&s=30beb08dcc7ff03452b4ab839828307a"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-11-15",
+    "link": "/matches/2400162/omega-vs-iberian-soul-cct-2026-europe-series-13",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 13",
+    "team1": {
+      "name": "Omega",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Q9UB4lO8MMt_CQmtRkOKxQ.png?ixlib=java-2.1.0&w=50&s=aa17db8852f77ced212387620c9fef57"
+    },
+    "team2": {
+      "name": "Iberian Soul",
+      "logo": "https://img-cdn.hltv.org/teamlogo/HD2YseMU5u5fOtLMzN4o2i.png?ixlib=java-2.1.0&w=50&s=541c2792dc12ee0ab7c589bb741feed0"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-11-15",
+    "link": "/matches/2400254/leo-vs-the-last-resort-cct-2026-europe-series-14",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 14",
+    "team1": {
+      "name": "Leo",
+      "logo": "https://img-cdn.hltv.org/teamlogo/8W-UeGbtwFEzEz0RiPxxLS.png?ixlib=java-2.1.0&w=50&s=8e4a2a65e1aed01c87c1f317a81366ce"
+    },
+    "team2": {
+      "name": "The Last Resort",
+      "logo": "https://img-cdn.hltv.org/teamlogo/AI65hTB4kG_d6jJ8DiS4nZ.svg?ixlib=java-2.1.0&s=1bb2618494315b819daaf94547cca525"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-11-15",
+    "link": "/matches/2400348/brute-vs-ex-inox-nodwin-clutch-series-14",
+    "meta": "bo3",
+    "event": "NODWIN Clutch Series 14",
+    "team1": {
+      "name": "BRUTE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Bh8oZnAYofBgma_vPu55I7.svg?ixlib=java-2.1.0&s=98154a0be5a53ccadf51c17bdcd57536"
+    },
+    "team2": {
+      "name": "ex-INOX",
+      "logo": "/dynamic-svg/teamplaceholder?letter=e"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-11-15",
+    "link": "/matches/2400413/eternal-fire-vs-100-thieves-pgl-cluj-napoca-2027-closed-qualifier",
+    "meta": "bo3",
+    "event": "PGL Cluj-Napoca 2027 Closed Qualifier",
+    "team1": {
+      "name": "Eternal Fire",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Tafdq71X3B_-73b73bAixr.png?ixlib=java-2.1.0&w=50&s=f1505e0f7e03bed0d0d2b4c809768198"
+    },
+    "team2": {
+      "name": "100 Thieves",
+      "logo": "https://img-cdn.hltv.org/teamlogo/QdpX-_6C2wHMgv98VAE6il.png?ixlib=java-2.1.0&w=50&s=5f34e763e5f7c7d0408a8814f42d7a87"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-11-15",
+    "link": "/matches/2400414/parivision-vs-33-pgl-cluj-napoca-2027-closed-qualifier",
+    "meta": "bo3",
+    "event": "PGL Cluj-Napoca 2027 Closed Qualifier",
+    "team1": {
+      "name": "PARIVISION",
+      "logo": "https://img-cdn.hltv.org/teamlogo/MFcDe-M8wfGOUU6x4sRELR.png?ixlib=java-2.1.0&w=50&s=1d91076a58b354d8c3eaeda3162c292e"
+    },
+    "team2": {
+      "name": "33",
+      "logo": "https://img-cdn.hltv.org/teamlogo/15vvyZtbtOeQVaqSITBxrA.png?ixlib=java-2.1.0&w=50&s=8667190105318dc4d8cdb076f6f6837e"
+    }
+  },
+  {
+    "hour": "15:00",
+    "date": "2026-11-15",
+    "link": "/matches/2400428/xept-vs-coinstep-svenska-cupen-2026-closed-qualifier",
+    "meta": "bo3",
+    "event": "Svenska Cupen 2026 Closed Qualifier",
+    "team1": {
+      "name": "XEPT",
+      "logo": "/dynamic-svg/teamplaceholder?letter=X"
+    },
+    "team2": {
+      "name": "Coinstep",
+      "logo": "/dynamic-svg/teamplaceholder?letter=C"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-11-15",
+    "link": "/matches/2400255/forze-reload-vs-nexus-cct-2026-europe-series-14",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 14",
+    "team1": {
+      "name": "FORZE Reload",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YJnWBDwmRDJ9o2uOUrhNeQ.png?ixlib=java-2.1.0&w=50&s=83f5ce35b3f98833671987bc637c74b7"
+    },
+    "team2": {
+      "name": "Nexus",
+      "logo": "https://img-cdn.hltv.org/teamlogo/TsvwZ9z4tVRO9Ry1jYxs_n.png?ixlib=java-2.1.0&w=50&s=ca777e2c0f8a3e0b26d0c90d98d72fbe"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-11-15",
+    "link": "/matches/2400349/butterfly-vs-baks-nodwin-clutch-series-14",
+    "meta": "bo3",
+    "event": "NODWIN Clutch Series 14",
+    "team1": {
+      "name": "Butterfly",
+      "logo": "https://img-cdn.hltv.org/teamlogo/hgDb3HGkIozP3l72DbEtpp.png?ixlib=java-2.1.0&w=50&s=fa2f5a7d8bad88a0e91b6b27c9d22a06"
+    },
+    "team2": {
+      "name": "BAKS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/addrkF7msTiD-HdGMcCXbZ.png?ixlib=java-2.1.0&w=50&s=77c6157e0f8f6c0cc067dba37eb1110c"
+    }
+  },
+  {
+    "hour": "17:30",
+    "date": "2026-11-15",
+    "link": "/matches/2400433/talent-factory-vs-lilmix-svenska-cupen-2026-closed-qualifier",
+    "meta": "bo3",
+    "event": "Svenska Cupen 2026 Closed Qualifier",
+    "team1": {
+      "name": "Talent Factory",
+      "logo": "/dynamic-svg/teamplaceholder?letter=T"
+    },
+    "team2": {
+      "name": "Lilmix",
+      "logo": "https://img-cdn.hltv.org/teamlogo/PivV1r_I1_8u2BoxMyd4zH.svg?ixlib=java-2.1.0&s=b11d58720f2279be14920d45887bb9dd"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-11-15",
+    "link": "/matches/2400164/betclic-vs-private-cct-2026-europe-series-13",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 13",
+    "team1": {
+      "name": "Betclic",
+      "logo": "https://img-cdn.hltv.org/teamlogo/iX5wi-ZLkdHTARnXcMEvZF.png?ixlib=java-2.1.0&w=50&s=d543c7f38ede96ef911a66c407b6b6cd"
+    },
+    "team2": {
+      "name": "PRIVATE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/r31Wu6qCyS8909Zj1ftP36.png?ixlib=java-2.1.0&w=50&s=a74a13c148071d5419921ec93071c3f6"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-11-15",
+    "link": "/matches/2400256/butterfly-vs-hype-tech-cct-2026-europe-series-14",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 14",
+    "team1": {
+      "name": "Butterfly",
+      "logo": "https://img-cdn.hltv.org/teamlogo/hgDb3HGkIozP3l72DbEtpp.png?ixlib=java-2.1.0&w=50&s=fa2f5a7d8bad88a0e91b6b27c9d22a06"
+    },
+    "team2": {
+      "name": "Hype Tech",
+      "logo": "/dynamic-svg/teamplaceholder?letter=H"
+    }
+  },
+  {
+    "hour": "21:15",
+    "date": "2026-11-16",
+    "link": "/matches/2400502/the-last-resort-vs-ryvex-ukic-masters-winter-2026",
+    "meta": "bo3",
+    "event": "UKIC Masters Winter 2026",
+    "team1": {
+      "name": "The Last Resort",
+      "logo": "https://img-cdn.hltv.org/teamlogo/AI65hTB4kG_d6jJ8DiS4nZ.svg?ixlib=java-2.1.0&s=1bb2618494315b819daaf94547cca525"
+    },
+    "team2": {
+      "name": "Ryvex",
+      "logo": "https://img-cdn.hltv.org/teamlogo/8fb_49_81-pameJfTmnkQJ.png?ixlib=java-2.1.0&w=50&s=c7dbf7d07da3ed8227257247684a4f9a"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-11-17",
+    "link": "/matches/2400401/wbt-vs-ex-ence-european-pro-league-series-10",
+    "meta": "bo3",
+    "event": "European Pro League Series 10",
+    "team1": {
+      "name": "WBT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_coqH_U02fBToVR-m_CKsU.png?ixlib=java-2.1.0&w=50&s=75768cd6a2752f22940f96c831bb31a6"
+    },
+    "team2": {
+      "name": "ex-ENCE",
+      "logo": "/dynamic-svg/teamplaceholder?letter=e"
+    }
+  },
+  {
+    "hour": "11:00",
+    "date": "2026-11-17",
+    "link": "/matches/2400518/sinners-vs-nexus-tipsport-rush-brno-2026",
+    "meta": "bo3",
+    "event": " Tipsport RUSH Brno 2026",
+    "team1": {
+      "name": "SINNERS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9l_WdQSU9JsNHzpK-pwOG2.svg?ixlib=java-2.1.0&s=af432c3ef61c0c843331cc0dc2fed1ed"
+    },
+    "team2": {
+      "name": "Nexus",
+      "logo": "https://img-cdn.hltv.org/teamlogo/TsvwZ9z4tVRO9Ry1jYxs_n.png?ixlib=java-2.1.0&w=50&s=ca777e2c0f8a3e0b26d0c90d98d72fbe"
+    }
+  },
+  {
+    "hour": "12:00",
+    "date": "2026-11-17",
+    "link": "/matches/2400283/inner-circle-vs-betclic-stake-ranked-episode-6",
+    "meta": "bo3",
+    "event": "Stake Ranked Episode 6",
+    "team1": {
+      "name": "Inner Circle",
+      "logo": "https://img-cdn.hltv.org/teamlogo/nzJhoae6HI3i1UORM-DBFD.png?ixlib=java-2.1.0&w=50&s=35faf966127b13f4cc4b7250a5aed454"
+    },
+    "team2": {
+      "name": "Betclic",
+      "logo": "https://img-cdn.hltv.org/teamlogo/iX5wi-ZLkdHTARnXcMEvZF.png?ixlib=java-2.1.0&w=50&s=d543c7f38ede96ef911a66c407b6b6cd"
+    }
+  },
+  {
+    "hour": "12:30",
+    "date": "2026-11-17",
+    "link": "/matches/2400402/infinite-vs-mouz-nxt-european-pro-league-series-10",
+    "meta": "bo3",
+    "event": "European Pro League Series 10",
+    "team1": {
+      "name": "INFINITE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Bq4oCmwPwqkpV5XvHqmVhI.png?ixlib=java-2.1.0&w=50&s=16e18db9b1e19dc66aeed84ec4c6367e"
+    },
+    "team2": {
+      "name": "MOUZ NXT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/RfR1zmFJ0eP08VmFb6UOu3.png?ixlib=java-2.1.0&w=50&s=051cbffad4d1c25468d83abee6f4fe23"
+    }
+  },
+  {
+    "hour": "14:00",
+    "date": "2026-11-17",
+    "link": "/matches/2400519/alliance-vs-iberian-soul-tipsport-rush-brno-2026",
+    "meta": "bo3",
+    "event": " Tipsport RUSH Brno 2026",
+    "team1": {
+      "name": "Alliance",
+      "logo": "https://img-cdn.hltv.org/teamlogo/xsWK0BtR26rN776qdnWFC1.png?ixlib=java-2.1.0&w=50&s=4aaf659c3855ebf08c78c157a0653352"
+    },
+    "team2": {
+      "name": "Iberian Soul",
+      "logo": "https://img-cdn.hltv.org/teamlogo/HD2YseMU5u5fOtLMzN4o2i.png?ixlib=java-2.1.0&w=50&s=541c2792dc12ee0ab7c589bb741feed0"
+    }
+  },
+  {
+    "hour": "14:30",
+    "date": "2026-11-17",
+    "link": "/matches/2400284/big-vs-sangal-stake-ranked-episode-6",
+    "meta": "bo3",
+    "event": "Stake Ranked Episode 6",
+    "team1": {
+      "name": "BIG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/OgMRQA35hopXA8kDwMFHIY.svg?ixlib=java-2.1.0&s=ec7bc44165c7acf4224a22a1338ab7d7"
+    },
+    "team2": {
+      "name": "Sangal",
+      "logo": "https://img-cdn.hltv.org/teamlogo/zPv_FeMF8CANC10Jz32P9l.png?ixlib=java-2.1.0&w=50&s=741a13d27b484b39f24cdc76dbf80568"
+    }
+  },
+  {
+    "hour": "17:00",
+    "date": "2026-11-17",
+    "link": "/matches/2400285/ninjas-in-pyjamas-vs-unity-stake-ranked-episode-6",
+    "meta": "bo3",
+    "event": "Stake Ranked Episode 6",
+    "team1": {
+      "name": "Ninjas in Pyjamas",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-ttGATBV_P_HcZazxNNtIb.png?ixlib=java-2.1.0&w=50&s=ba94f7812d1f47183a83f3f34ab959eb"
+    },
+    "team2": {
+      "name": "UNiTY",
+      "logo": "https://img-cdn.hltv.org/teamlogo/coucDlsynd0Ujutb5o2SC-.png?ixlib=java-2.1.0&w=50&s=a5d9a7be6bddda8b8c01ab037786a465"
+    }
+  },
+  {
+    "hour": "17:00",
+    "date": "2026-11-17",
+    "link": "/matches/2400520/bbl-vs-phantom-tipsport-rush-brno-2026",
+    "meta": "bo3",
+    "event": " Tipsport RUSH Brno 2026",
+    "team1": {
+      "name": "BBL",
+      "logo": "https://img-cdn.hltv.org/teamlogo/tzt1wJ9t26NGc8HNo-hIJy.png?ixlib=java-2.1.0&w=50&s=4e7e19f273052fbbff7c749184db1e35"
+    },
+    "team2": {
+      "name": "Phantom",
+      "logo": "https://img-cdn.hltv.org/teamlogo/DzhUnKXRRy9yV2MILp29YH.png?ixlib=java-2.1.0&w=50&s=a856dc9cf0a2e9cb79c3166059885bed"
+    }
+  },
+  {
+    "hour": "19:30",
+    "date": "2026-11-17",
+    "link": "/matches/2400286/gamerlegion-vs-luminosity-stake-ranked-episode-6",
+    "meta": "bo3",
+    "event": "Stake Ranked Episode 6",
+    "team1": {
+      "name": "GamerLegion",
+      "logo": "https://img-cdn.hltv.org/teamlogo/vN7O46QoQ346WIRZ8D3spC.png?ixlib=java-2.1.0&w=50&s=f139433d31902eea5898c3a63fcc643a"
+    },
+    "team2": {
+      "name": "Luminosity",
+      "logo": "https://img-cdn.hltv.org/teamlogo/HRSwDY9X42P2TiJqy1oeEJ.png?ixlib=java-2.1.0&w=50&s=987bcf053f274f928cf18f57f50076a6"
+    }
+  },
+  {
+    "hour": "20:00",
+    "date": "2026-11-17",
+    "link": "/matches/2400521/envy-vs-metizport-tipsport-rush-brno-2026",
+    "meta": "bo3",
+    "event": " Tipsport RUSH Brno 2026",
+    "team1": {
+      "name": "Envy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/caSZsIlWR3MQuSWMCJDj8V.svg?ixlib=java-2.1.0&s=52dab8f2955522087be3c5d43013bea8"
+    },
+    "team2": {
+      "name": "Metizport",
+      "logo": "https://img-cdn.hltv.org/teamlogo/L6vT42LZaQh88EXiZ5FpHK.png?ixlib=java-2.1.0&w=50&s=85eeac10933db8bdbf17dfcc28972af2"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-11-18",
+    "link": "/matches/2400403/balkan-outlaws-vs-pcific-european-pro-league-series-10",
+    "meta": "bo3",
+    "event": "European Pro League Series 10",
+    "team1": {
+      "name": "Balkan Outlaws",
+      "logo": "/dynamic-svg/teamplaceholder?letter=B"
+    },
+    "team2": {
+      "name": "PCIFIC",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ucoaKK-PQ_3K_dboEuYnto.png?ixlib=java-2.1.0&w=50&s=9b085fc0e9f7f653b58a194aca309be9"
+    }
+  },
+  {
+    "hour": "05:00",
+    "date": "2026-11-24",
+    "link": "/matches/2400494/heroic-vs-imperial-pgl-major-singapore-2026-stage-1",
+    "meta": "bo1",
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": {
+      "name": "HEROIC",
+      "logo": "https://img-cdn.hltv.org/teamlogo/4S22uk_gnZTiQiI-hhH4yp.png?ixlib=java-2.1.0&w=50&s=3619ddf1d490573ab3dc261b8c2f3f6f"
+    },
+    "team2": {
+      "name": "Imperial",
+      "logo": "https://img-cdn.hltv.org/teamlogo/bBDk6-rND06sAzn67b5RdP.png?ixlib=java-2.1.0&w=50&s=467e31ba123f509130d647fbf1e04ef2"
+    }
+  },
+  {
+    "hour": "05:00",
+    "date": "2026-11-24",
+    "link": "/matches/2400495/9z-vs-lynn-vision-pgl-major-singapore-2026-stage-1",
+    "meta": "bo1",
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": {
+      "name": "9z",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ih4DgTvRI4y8l9DKevo2G8.png?ixlib=java-2.1.0&w=50&s=1348941de4a36a47d1e3bc5a7e25020a"
+    },
+    "team2": {
+      "name": "Lynn Vision",
+      "logo": "https://img-cdn.hltv.org/teamlogo/DPcHT21uWwK1hDD_3txlL9.png?ixlib=java-2.1.0&w=50&s=4b5d5a187f00caf9bbae2d0fcbca6ff6"
+    }
+  },
+  {
+    "hour": "06:00",
+    "date": "2026-11-24",
+    "link": "/matches/2400496/ninjas-in-pyjamas-vs-m80-pgl-major-singapore-2026-stage-1",
+    "meta": "bo1",
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": {
+      "name": "Ninjas in Pyjamas",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-ttGATBV_P_HcZazxNNtIb.png?ixlib=java-2.1.0&w=50&s=ba94f7812d1f47183a83f3f34ab959eb"
+    },
+    "team2": {
+      "name": "M80",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YsaWwP_VrkbHzuhszuANEK.png?ixlib=java-2.1.0&w=50&s=47a8cff375da8242af9137a2a592b97d"
+    }
+  },
+  {
+    "hour": "06:00",
+    "date": "2026-11-24",
+    "link": "/matches/2400497/100-thieves-vs-chinggis-warriors-pgl-major-singapore-2026-stage-1",
+    "meta": "bo1",
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": {
+      "name": "100 Thieves",
+      "logo": "https://img-cdn.hltv.org/teamlogo/QdpX-_6C2wHMgv98VAE6il.png?ixlib=java-2.1.0&w=50&s=5f34e763e5f7c7d0408a8814f42d7a87"
+    },
+    "team2": {
+      "name": "Chinggis Warriors",
+      "logo": "https://img-cdn.hltv.org/teamlogo/esvV905BqvAKUUPLq8e89T.png?ixlib=java-2.1.0&w=50&s=dd947742be3993f7b235cd1928ab078e"
+    }
+  },
+  {
+    "hour": "07:00",
+    "date": "2026-11-24",
+    "link": "/matches/2400498/liquid-vs-bcgame-pgl-major-singapore-2026-stage-1",
+    "meta": "bo1",
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": {
+      "name": "Liquid",
+      "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62"
+    },
+    "team2": {
+      "name": "BC.Game",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Sh3oQBtd6xemdynQ-H_NJa.png?ixlib=java-2.1.0&w=50&s=75de32fe0ecfa58e1267b9ebd3d577bd"
+    }
+  },
+  {
+    "hour": "07:00",
+    "date": "2026-11-24",
+    "link": "/matches/2400499/parivision-vs-dendele-pgl-major-singapore-2026-stage-1",
+    "meta": "bo1",
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": {
+      "name": "PARIVISION",
+      "logo": "https://img-cdn.hltv.org/teamlogo/MFcDe-M8wfGOUU6x4sRELR.png?ixlib=java-2.1.0&w=50&s=1d91076a58b354d8c3eaeda3162c292e"
+    },
+    "team2": {
+      "name": "DENDELE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/xKB2zOMgkFKoD-MLU484IV.png?ixlib=java-2.1.0&w=50&s=ca11299f789fb7c48d83130b8396af9f"
+    }
+  },
+  {
+    "hour": "08:00",
+    "date": "2026-11-24",
+    "link": "/matches/2400500/faze-vs-wildcard-pgl-major-singapore-2026-stage-1",
+    "meta": "bo1",
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": {
+      "name": "FaZe",
+      "logo": "https://img-cdn.hltv.org/teamlogo/OKLwq88GXjl5GQ48Y5SrvW.png?ixlib=java-2.1.0&w=50&s=0a0d65eeb1b0e82ada20c42c038552fa"
+    },
+    "team2": {
+      "name": "Wildcard",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-46lJ-DcmPL_j_5R2WvLiS.png?ixlib=java-2.1.0&w=50&s=3bf750ca209fefcb665134fd61f43ffb"
+    }
+  },
+  {
+    "hour": "08:00",
+    "date": "2026-11-24",
+    "link": "/matches/2400501/eternal-fire-vs-flyquest-pgl-major-singapore-2026-stage-1",
+    "meta": "bo1",
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": {
+      "name": "Eternal Fire",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Tafdq71X3B_-73b73bAixr.png?ixlib=java-2.1.0&w=50&s=f1505e0f7e03bed0d0d2b4c809768198"
+    },
+    "team2": {
+      "name": "FlyQuest",
+      "logo": "https://img-cdn.hltv.org/teamlogo/fmqTgF6Ziw0uied7MO3_ri.png?ixlib=java-2.1.0&w=50&s=255b5a4c460ad03161509ff7eb77b2dc"
+    }
+  }
+]
