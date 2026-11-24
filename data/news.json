@@ -1,9 +1,72 @@
 [
   {
+    "title": "Short news: Week 46 ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-11-24",
+    "comments": "20 comments",
+    "link": "/news/46029/short-news-week-46"
+  },
+  {
+    "title": "FaZe to play BC.Game as round 1 ends ",
+    "img": "/img/static/flags/30x20/SG.gif",
+    "date": "2026-11-24",
+    "comments": "18 comments",
+    "link": "/news/46039/faze-to-play-bcgame-as-round-1-ends"
+  },
+  {
+    "title": "Wildcard send FaZe to 0-1 pool ",
+    "img": "/img/static/flags/30x20/SG.gif",
+    "date": "2026-11-24",
+    "comments": "21 comments",
+    "link": "/news/46038/wildcard-send-faze-to-0-1-pool"
+  },
+  {
+    "title": "Liquid annihilate BC.Game 13-1 in Singapore ",
+    "img": "/img/static/flags/30x20/SG.gif",
+    "date": "2026-11-24",
+    "comments": "51 comments",
+    "link": "/news/46037/liquid-annihilate-bcgame-13-1-in-singapore"
+  },
+  {
+    "title": "saadzin: \"Against EU teams it's a chess game\" ",
+    "img": "/img/static/flags/30x20/BR.gif",
+    "date": "2026-11-24",
+    "comments": "17 comments",
+    "link": "/news/46035/saadzin-against-eu-teams-its-a-chess-game"
+  },
+  {
+    "title": "Lynn Vision prevail as 9z losing streak continues ",
+    "img": "/img/static/flags/30x20/SG.gif",
+    "date": "2026-11-24",
+    "comments": "17 comments",
+    "link": "/news/46036/lynn-vision-prevail-as-9z-losing-streak-continues"
+  },
+  {
+    "title": "Imperial upset HEROIC in Singapore Major opener ",
+    "img": "/img/static/flags/30x20/SG.gif",
+    "date": "2026-11-24",
+    "comments": "28 comments",
+    "link": "/news/46034/imperial-upset-heroic-in-singapore-major-opener"
+  },
+  {
+    "title": "On the ground at PGL Major Singapore Stage 1 ",
+    "img": "/img/static/flags/30x20/SG.gif",
+    "date": "2026-11-24",
+    "comments": "21 comments",
+    "link": "/news/46033/on-the-ground-at-pgl-major-singapore-stage-1"
+  },
+  {
+    "title": "PGL Major Singapore Stage 1 Day 1 highlights ",
+    "img": "/img/static/flags/30x20/SG.gif",
+    "date": "2026-11-24",
+    "comments": "16 comments",
+    "link": "/news/46032/pgl-major-singapore-stage-1-day-1-highlights"
+  },
+  {
     "title": "SunPayus opens up about early struggles in CS2, what didn't work in G2, and signing with FUT ",
     "img": "/img/static/flags/30x20/ES.gif",
     "date": "2026-11-23",
-    "comments": "68 comments",
+    "comments": "83 comments",
     "link": "/news/46025/sunpayus-opens-up-about-early-struggles-in-cs2-what-didnt-work-in-g2-and-signing-with-fut"
   },
   {
@@ -17,28 +80,21 @@
     "title": "NAVI bag $466,521 after topping ESL's Annual Club Incentive leaderboard ",
     "img": "/img/static/flags/30x20/WORLD.gif",
     "date": "2026-11-23",
-    "comments": "97 comments",
+    "comments": "106 comments",
     "link": "/news/46030/navi-bag-466521-after-topping-esls-annual-club-incentive-leaderboard"
-  },
-  {
-    "title": "Short news: Week 46 ",
-    "img": "/img/static/flags/30x20/WORLD.gif",
-    "date": "2026-11-23",
-    "comments": "16 comments",
-    "link": "/news/46029/short-news-week-46"
   },
   {
     "title": "PGL Major Singapore teams, format, schedule, talent, fantasy ",
     "img": "/img/static/flags/30x20/SG.gif",
     "date": "2026-11-23",
-    "comments": "34 comments",
+    "comments": "35 comments",
     "link": "/news/46028/pgl-major-singapore-teams-format-schedule-talent-fantasy"
   },
   {
     "title": "No longer a stepping stone for players, DENDELE are on an upward path ",
     "img": "/img/static/flags/30x20/BR.gif",
     "date": "2026-11-22",
-    "comments": "32 comments",
+    "comments": "33 comments",
     "link": "/news/46021/no-longer-a-stepping-stone-for-players-dendele-are-on-an-upward-path"
   },
   {
@@ -87,7 +143,7 @@
     "title": "Betclic part ways with ultimate ",
     "img": "/img/static/flags/30x20/PL.gif",
     "date": "2026-11-21",
-    "comments": "113 comments",
+    "comments": "115 comments",
     "link": "/news/46019/betclic-part-ways-with-ultimate"
   },
   {
@@ -108,14 +164,14 @@
     "title": "Jason Lake to receive HLTV Lifetime Achievement Award ",
     "img": "/img/static/flags/30x20/US.gif",
     "date": "2026-11-20",
-    "comments": "169 comments",
+    "comments": "170 comments",
     "link": "/news/46016/jason-lake-to-receive-hltv-lifetime-achievement-award"
   },
   {
     "title": "Infographic: PGL Major Singapore ",
     "img": "/img/static/flags/30x20/SG.gif",
     "date": "2026-11-20",
-    "comments": "42 comments",
+    "comments": "43 comments",
     "link": "/news/46020/infographic-pgl-major-singapore"
   },
   {
@@ -248,7 +304,7 @@
     "title": "Ksharp, solo, NEO and dupreeh to enter Hall of Fame ",
     "img": "/img/static/flags/30x20/WORLD.gif",
     "date": "2026-11-15",
-    "comments": "244 comments",
+    "comments": "245 comments",
     "link": "/news/45987/ksharp-solo-neo-and-dupreeh-to-enter-hall-of-fame"
   },
   {
