@@ -1,1 +1,452 @@
-[]
+[
+  {
+    "hour": "09:45",
+    "date": "2026-11-26",
+    "link": "/matches/2400575/lynn-vision-vs-parivision-pgl-major-singapore-2026-stage-1",
+    "meta": "bo3",
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": {
+      "name": "Lynn Vision",
+      "logo": "https://img-cdn.hltv.org/teamlogo/DPcHT21uWwK1hDD_3txlL9.png?ixlib=java-2.1.0&w=50&s=4b5d5a187f00caf9bbae2d0fcbca6ff6"
+    },
+    "team2": {
+      "name": "PARIVISION",
+      "logo": "https://img-cdn.hltv.org/teamlogo/MFcDe-M8wfGOUU6x4sRELR.png?ixlib=java-2.1.0&w=50&s=1d91076a58b354d8c3eaeda3162c292e"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-11-26",
+    "link": "/matches/2400576/100-thieves-vs-9z-pgl-major-singapore-2026-stage-1",
+    "meta": "bo3",
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": {
+      "name": "100 Thieves",
+      "logo": "https://img-cdn.hltv.org/teamlogo/QdpX-_6C2wHMgv98VAE6il.png?ixlib=java-2.1.0&w=50&s=5f34e763e5f7c7d0408a8814f42d7a87"
+    },
+    "team2": {
+      "name": "9z",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ih4DgTvRI4y8l9DKevo2G8.png?ixlib=java-2.1.0&w=50&s=1348941de4a36a47d1e3bc5a7e25020a"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-11-26",
+    "link": "/matches/2400657/forze-reload-vs-drama-cct-2026-europe-series-15",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 15",
+    "team1": {
+      "name": "FORZE Reload",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YJnWBDwmRDJ9o2uOUrhNeQ.png?ixlib=java-2.1.0&w=50&s=83f5ce35b3f98833671987bc637c74b7"
+    },
+    "team2": {
+      "name": "Drama",
+      "logo": "https://img-cdn.hltv.org/teamlogo/J0n3Qe1dF_JXSikg6Wu7Vd.png?ixlib=java-2.1.0&w=50&s=87cb2bf8d200ac68215e1d7ebfb57de5"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-11-26",
+    "link": "/matches/2400880/ex-inox-vs-illyrians-exort-fiesta-series-4",
+    "meta": "bo3",
+    "event": "Exort Fiesta Series 4",
+    "team1": {
+      "name": "ex-INOX",
+      "logo": "/dynamic-svg/teamplaceholder?letter=e"
+    },
+    "team2": {
+      "name": "Illyrians",
+      "logo": "https://img-cdn.hltv.org/teamlogo/cCPQDYWgTSfZKfjVvVLMoy.png?ixlib=java-2.1.0&w=50&s=7013d02394a2fc3236a41f19869f5b36"
+    }
+  },
+  {
+    "hour": "12:00",
+    "date": "2026-11-26",
+    "link": "/matches/2400577/imperial-vs-liquid-pgl-major-singapore-2026-stage-1",
+    "meta": "bo3",
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": {
+      "name": "Imperial",
+      "logo": "https://img-cdn.hltv.org/teamlogo/bBDk6-rND06sAzn67b5RdP.png?ixlib=java-2.1.0&w=50&s=467e31ba123f509130d647fbf1e04ef2"
+    },
+    "team2": {
+      "name": "Liquid",
+      "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62"
+    }
+  },
+  {
+    "hour": "12:00",
+    "date": "2026-11-26",
+    "link": "/matches/2400578/wildcard-vs-chinggis-warriors-pgl-major-singapore-2026-stage-1",
+    "meta": "bo3",
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": {
+      "name": "Wildcard",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-46lJ-DcmPL_j_5R2WvLiS.png?ixlib=java-2.1.0&w=50&s=3bf750ca209fefcb665134fd61f43ffb"
+    },
+    "team2": {
+      "name": "Chinggis Warriors",
+      "logo": "https://img-cdn.hltv.org/teamlogo/esvV905BqvAKUUPLq8e89T.png?ixlib=java-2.1.0&w=50&s=dd947742be3993f7b235cd1928ab078e"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-11-26",
+    "link": "/matches/2400658/hype-tech-vs-xmeta-cct-2026-europe-series-15",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 15",
+    "team1": {
+      "name": "Hype Tech",
+      "logo": "https://img-cdn.hltv.org/teamlogo/FLOvypvN744rUqAR5_2_Q3.png?ixlib=java-2.1.0&w=50&s=6ee3bd1865733927c4ce9ed08728d385"
+    },
+    "team2": {
+      "name": "XMETA",
+      "logo": "/dynamic-svg/teamplaceholder?letter=X"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-11-26",
+    "link": "/matches/2400803/nordic-partners-vs-drama-cct-2026-europe-series-16-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 16 Closed Qualifier",
+    "team1": {
+      "name": "Nordic Partners",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ThJ-T9QS6Wy5JjNstspK4x.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=31f36bdc17f619f5d3cca27ab92513f2"
+    },
+    "team2": {
+      "name": "Drama",
+      "logo": "https://img-cdn.hltv.org/teamlogo/J0n3Qe1dF_JXSikg6Wu7Vd.png?ixlib=java-2.1.0&w=50&s=87cb2bf8d200ac68215e1d7ebfb57de5"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-11-26",
+    "link": "/matches/2400881/quazar-vs-infurity-exort-fiesta-series-4",
+    "meta": "bo3",
+    "event": "Exort Fiesta Series 4",
+    "team1": {
+      "name": "QUAZAR",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YiIFGuv43P9_fALVOSLJHh.png?ixlib=java-2.1.0&w=50&s=fb7fb2d19c66e04b89e883b0948ca78a"
+    },
+    "team2": {
+      "name": "INFURITY",
+      "logo": "https://img-cdn.hltv.org/teamlogo/O7_8BAktLrHF0mbFRXzpHB.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=61f0d77bfb334f6e64a37ddeab895d0b"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-11-26",
+    "link": "/matches/2400659/baks-vs-nordic-partners-cct-2026-europe-series-15",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 15",
+    "team1": {
+      "name": "BAKS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/addrkF7msTiD-HdGMcCXbZ.png?ixlib=java-2.1.0&w=50&s=77c6157e0f8f6c0cc067dba37eb1110c"
+    },
+    "team2": {
+      "name": "Nordic Partners",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ThJ-T9QS6Wy5JjNstspK4x.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=31f36bdc17f619f5d3cca27ab92513f2"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-11-26",
+    "link": "/matches/2400660/lir-vs-spirit-academy-cct-2026-europe-series-15",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 15",
+    "team1": {
+      "name": "Lir",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L"
+    },
+    "team2": {
+      "name": "Spirit Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/txUq00aBKY7O4fLVJegmi_.png?ixlib=java-2.1.0&w=50&s=0be2e166db241569e89ac4ab8f5fb9a2"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-11-26",
+    "link": "/matches/2400805/donstu-vs-lfo-10-cct-2026-europe-series-16-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 16 Closed Qualifier",
+    "team1": {
+      "name": "DONSTU",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9ueb9xIjZJND19aXJ-02H-.png?ixlib=java-2.1.0&w=50&s=aafb584d0a8eee097f9129fe1b7602db"
+    },
+    "team2": {
+      "name": "LFO 10",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-11-27",
+    "link": "/matches/2400806/mouz-nxt-vs-masonic-cct-2026-europe-series-16-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 16 Closed Qualifier",
+    "team1": {
+      "name": "MOUZ NXT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/RfR1zmFJ0eP08VmFb6UOu3.png?ixlib=java-2.1.0&w=50&s=051cbffad4d1c25468d83abee6f4fe23"
+    },
+    "team2": {
+      "name": "MASONIC",
+      "logo": "https://img-cdn.hltv.org/teamlogo/LXy16DLCLqmbZWSr4RxeQu.svg?ixlib=java-2.1.0&s=dcd79250b3b5e2e757a89b7c27c6770d"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-11-27",
+    "link": "/matches/2400884/hype-tech-vs-pcific-exort-fiesta-series-4",
+    "meta": "bo3",
+    "event": "Exort Fiesta Series 4",
+    "team1": {
+      "name": "Hype Tech",
+      "logo": "https://img-cdn.hltv.org/teamlogo/FLOvypvN744rUqAR5_2_Q3.png?ixlib=java-2.1.0&w=50&s=6ee3bd1865733927c4ce9ed08728d385"
+    },
+    "team2": {
+      "name": "PCIFIC",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ucoaKK-PQ_3K_dboEuYnto.png?ixlib=java-2.1.0&w=50&s=9b085fc0e9f7f653b58a194aca309be9"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-11-27",
+    "link": "/matches/2400807/azuolas-vs-honvd-cct-2026-europe-series-16-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 16 Closed Qualifier",
+    "team1": {
+      "name": "Azuolas",
+      "logo": "https://img-cdn.hltv.org/teamlogo/lDm1RZz0u9tr0BPIV6YiGX.png?ixlib=java-2.1.0&w=50&s=12976fe6ec2c3e0d1bfd785fcb438307"
+    },
+    "team2": {
+      "name": "Honv\u00e9d",
+      "logo": "https://img-cdn.hltv.org/teamlogo/GRDCTjbpIWDj6cS-k5j69x.png?ixlib=java-2.1.0&w=50&s=9eeb2cd0832ec343547466896a0b8f89"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-11-27",
+    "link": "/matches/2400885/rune-eaters-vs-lph-exort-fiesta-series-4",
+    "meta": "bo3",
+    "event": "Exort Fiesta Series 4",
+    "team1": {
+      "name": "Rune Eaters",
+      "logo": "https://img-cdn.hltv.org/teamlogo/0tz6_3o6A0NY93l0krNNVE.png?ixlib=java-2.1.0&w=50&s=3a6acfc6c37d490a77a59847edc81882"
+    },
+    "team2": {
+      "name": "LPH",
+      "logo": "https://img-cdn.hltv.org/teamlogo/J0cvf2_BNvKf1f9c6NAY1v.png?ixlib=java-2.1.0&w=50&s=0ca957f59f3a8aa7e3404d3e5c9a76ef"
+    }
+  },
+  {
+    "hour": "16:30",
+    "date": "2026-11-27",
+    "link": "/matches/2400874/prestige-vs-sinqu-elisa-open-finland-season-14",
+    "meta": "bo3",
+    "event": "Elisa Open Finland Season 14",
+    "team1": {
+      "name": "Prestige",
+      "logo": "https://img-cdn.hltv.org/teamlogo/LsfU1sYlLVaPls3d21lLuU.png?ixlib=java-2.1.0&w=50&s=35fa313eac1111bbbb40a8d028124525"
+    },
+    "team2": {
+      "name": "SINQU",
+      "logo": "https://img-cdn.hltv.org/teamlogo/HCDj_182RlDUnkq7I4w5pv.png?ixlib=java-2.1.0&w=50&s=12ab1a7214643f8b4cdb053b5bb5e263"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-11-27",
+    "link": "/matches/2400809/lunacy-vs-megoshort-cct-2026-europe-series-16-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 16 Closed Qualifier",
+    "team1": {
+      "name": "Lunacy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/fyMp_Z4JuU5p-fZUVPnKwx.png?ixlib=java-2.1.0&w=50&s=a553fde4cdaacb68c6d47bfb2c145e6c"
+    },
+    "team2": {
+      "name": "megoshort",
+      "logo": "https://img-cdn.hltv.org/teamlogo/KZxIFGye1KNVn7Q6Zt6hiV.png?ixlib=java-2.1.0&w=50&s=55ddac5f2aaddb4510f3dad57779c859"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-11-27",
+    "link": "/matches/2400875/havu-vs-bojong-elisa-open-finland-season-14",
+    "meta": "bo3",
+    "event": "Elisa Open Finland Season 14",
+    "team1": {
+      "name": "HAVU",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_bpWybCQhDRnPq8Z2ZYO5h.png?ixlib=java-2.1.0&w=50&s=2e3c9e1a0a833d4d92ce10ec8adddf00"
+    },
+    "team2": {
+      "name": "BOJONG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/JKh2pPif4Yew8qRv6nSg41.png?ixlib=java-2.1.0&w=50&s=cdca4132d6e03879a596c9079e6f5966"
+    }
+  },
+  {
+    "hour": "12:00",
+    "date": "2026-11-30",
+    "link": "/matches/2400701/fnatic-vs-brute-rog-journey-winter-2026",
+    "meta": "bo3",
+    "event": "ROG JOURNEY Winter 2026",
+    "team1": {
+      "name": "fnatic",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e"
+    },
+    "team2": {
+      "name": "BRUTE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Bh8oZnAYofBgma_vPu55I7.svg?ixlib=java-2.1.0&s=98154a0be5a53ccadf51c17bdcd57536"
+    }
+  },
+  {
+    "hour": "12:00",
+    "date": "2026-11-30",
+    "link": "/matches/2400702/betclic-vs-alliance-rog-journey-winter-2026",
+    "meta": "bo3",
+    "event": "ROG JOURNEY Winter 2026",
+    "team1": {
+      "name": "Betclic",
+      "logo": "https://img-cdn.hltv.org/teamlogo/iX5wi-ZLkdHTARnXcMEvZF.png?ixlib=java-2.1.0&w=50&s=d543c7f38ede96ef911a66c407b6b6cd"
+    },
+    "team2": {
+      "name": "Alliance",
+      "logo": "https://img-cdn.hltv.org/teamlogo/xsWK0BtR26rN776qdnWFC1.png?ixlib=java-2.1.0&w=50&s=4aaf659c3855ebf08c78c157a0653352"
+    }
+  },
+  {
+    "hour": "15:00",
+    "date": "2026-11-30",
+    "link": "/matches/2400703/fnatic-vs-betclic-alliance-winner-rog-journey-winter-2026",
+    "meta": "bo3",
+    "event": "ROG JOURNEY Winter 2026",
+    "team1": {
+      "name": "fnatic",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "15:00",
+    "date": "2026-11-30",
+    "link": "/matches/2400704/brute-vs-betclic-alliance-loser-rog-journey-winter-2026",
+    "meta": "bo3",
+    "event": "ROG JOURNEY Winter 2026",
+    "team1": {
+      "name": "BRUTE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Bh8oZnAYofBgma_vPu55I7.svg?ixlib=java-2.1.0&s=98154a0be5a53ccadf51c17bdcd57536"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
+    }
+  },
+  {
+    "hour": "12:00",
+    "date": "2026-12-01",
+    "link": "/matches/2400706/b8-vs-pure-rog-journey-winter-2026",
+    "meta": "bo3",
+    "event": "ROG JOURNEY Winter 2026",
+    "team1": {
+      "name": "B8",
+      "logo": "https://img-cdn.hltv.org/teamlogo/O6nRWTCjUzBAR4pcOcrpSG.png?ixlib=java-2.1.0&w=50&s=305dde82e764725dab7e626800328137"
+    },
+    "team2": {
+      "name": "PURE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Djq1hZ4t4zziK0Wij3PvHM.png?ixlib=java-2.1.0&w=50&s=e581a94987f5319a5c971bc036581c7d"
+    }
+  },
+  {
+    "hour": "12:00",
+    "date": "2026-12-01",
+    "link": "/matches/2400707/sangal-vs-iberian-soul-rog-journey-winter-2026",
+    "meta": "bo3",
+    "event": "ROG JOURNEY Winter 2026",
+    "team1": {
+      "name": "Sangal",
+      "logo": "https://img-cdn.hltv.org/teamlogo/zPv_FeMF8CANC10Jz32P9l.png?ixlib=java-2.1.0&w=50&s=741a13d27b484b39f24cdc76dbf80568"
+    },
+    "team2": {
+      "name": "Iberian Soul",
+      "logo": "https://img-cdn.hltv.org/teamlogo/HD2YseMU5u5fOtLMzN4o2i.png?ixlib=java-2.1.0&w=50&s=541c2792dc12ee0ab7c589bb741feed0"
+    }
+  },
+  {
+    "hour": "12:00",
+    "date": "2026-12-02",
+    "link": "/matches/2400711/inner-circle-vs-nexus-rog-journey-winter-2026",
+    "meta": "bo3",
+    "event": "ROG JOURNEY Winter 2026",
+    "team1": {
+      "name": "Inner Circle",
+      "logo": "https://img-cdn.hltv.org/teamlogo/nzJhoae6HI3i1UORM-DBFD.png?ixlib=java-2.1.0&w=50&s=35faf966127b13f4cc4b7250a5aed454"
+    },
+    "team2": {
+      "name": "Nexus",
+      "logo": "https://img-cdn.hltv.org/teamlogo/TsvwZ9z4tVRO9Ry1jYxs_n.png?ixlib=java-2.1.0&w=50&s=ca777e2c0f8a3e0b26d0c90d98d72fbe"
+    }
+  },
+  {
+    "hour": "12:00",
+    "date": "2026-12-02",
+    "link": "/matches/2400712/envy-vs-metizport-rog-journey-winter-2026",
+    "meta": "bo3",
+    "event": "ROG JOURNEY Winter 2026",
+    "team1": {
+      "name": "Envy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/caSZsIlWR3MQuSWMCJDj8V.svg?ixlib=java-2.1.0&s=52dab8f2955522087be3c5d43013bea8"
+    },
+    "team2": {
+      "name": "Metizport",
+      "logo": "https://img-cdn.hltv.org/teamlogo/L6vT42LZaQh88EXiZ5FpHK.png?ixlib=java-2.1.0&w=50&s=85eeac10933db8bdbf17dfcc28972af2"
+    }
+  },
+  {
+    "hour": "12:00",
+    "date": "2026-12-03",
+    "link": "/matches/2400716/big-vs-eyeballers-rog-journey-winter-2026",
+    "meta": "bo3",
+    "event": "ROG JOURNEY Winter 2026",
+    "team1": {
+      "name": "BIG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/OgMRQA35hopXA8kDwMFHIY.svg?ixlib=java-2.1.0&s=ec7bc44165c7acf4224a22a1338ab7d7"
+    },
+    "team2": {
+      "name": "EYEBALLERS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/3-Mfc-yWBTls8MPSEFhma5.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=2ffde3e377d01663937bf08b74d2057b"
+    }
+  },
+  {
+    "hour": "12:00",
+    "date": "2026-12-03",
+    "link": "/matches/2400717/gamerlegion-vs-saw-rog-journey-winter-2026",
+    "meta": "bo3",
+    "event": "ROG JOURNEY Winter 2026",
+    "team1": {
+      "name": "GamerLegion",
+      "logo": "https://img-cdn.hltv.org/teamlogo/vN7O46QoQ346WIRZ8D3spC.png?ixlib=java-2.1.0&w=50&s=f139433d31902eea5898c3a63fcc643a"
+    },
+    "team2": {
+      "name": "SAW",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9vOlYp2U_z0vXPb9aLK-4r.png?ixlib=java-2.1.0&w=50&s=22abd048c4d198e504696f27e8ff68d1"
+    }
+  },
+  {
+    "hour": "15:00",
+    "date": "2026-12-12",
+    "link": "/matches/2400728/legendary100-vs-ryvex-ukic-masters-winter-2026-finals",
+    "meta": "bo5",
+    "event": "UKIC Masters Winter 2026 Finals",
+    "team1": {
+      "name": "Legendary100",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L"
+    },
+    "team2": {
+      "name": "Ryvex",
+      "logo": "https://img-cdn.hltv.org/teamlogo/8fb_49_81-pameJfTmnkQJ.png?ixlib=java-2.1.0&w=50&s=c7dbf7d07da3ed8227257247684a4f9a"
+    }
+  }
+]
