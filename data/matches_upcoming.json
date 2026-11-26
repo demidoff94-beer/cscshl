@@ -1,8 +1,8 @@
 [
   {
-    "hour": "09:45",
-    "date": "2026-11-26",
-    "link": "/matches/2400575/lynn-vision-vs-parivision-pgl-major-singapore-2026-stage-1",
+    "hour": "07:00",
+    "date": "2026-11-27",
+    "link": "/matches/2400579/lynn-vision-vs-heroic-pgl-major-singapore-2026-stage-1",
     "meta": "bo3",
     "event": "PGL Major Singapore 2026 Stage 1",
     "team1": {
@@ -10,59 +10,14 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/DPcHT21uWwK1hDD_3txlL9.png?ixlib=java-2.1.0&w=50&s=4b5d5a187f00caf9bbae2d0fcbca6ff6"
     },
     "team2": {
-      "name": "PARIVISION",
-      "logo": "https://img-cdn.hltv.org/teamlogo/MFcDe-M8wfGOUU6x4sRELR.png?ixlib=java-2.1.0&w=50&s=1d91076a58b354d8c3eaeda3162c292e"
+      "name": "HEROIC",
+      "logo": "https://img-cdn.hltv.org/teamlogo/4S22uk_gnZTiQiI-hhH4yp.png?ixlib=java-2.1.0&w=50&s=3619ddf1d490573ab3dc261b8c2f3f6f"
     }
   },
   {
-    "hour": "10:00",
-    "date": "2026-11-26",
-    "link": "/matches/2400576/100-thieves-vs-9z-pgl-major-singapore-2026-stage-1",
-    "meta": "bo3",
-    "event": "PGL Major Singapore 2026 Stage 1",
-    "team1": {
-      "name": "100 Thieves",
-      "logo": "https://img-cdn.hltv.org/teamlogo/QdpX-_6C2wHMgv98VAE6il.png?ixlib=java-2.1.0&w=50&s=5f34e763e5f7c7d0408a8814f42d7a87"
-    },
-    "team2": {
-      "name": "9z",
-      "logo": "https://img-cdn.hltv.org/teamlogo/ih4DgTvRI4y8l9DKevo2G8.png?ixlib=java-2.1.0&w=50&s=1348941de4a36a47d1e3bc5a7e25020a"
-    }
-  },
-  {
-    "hour": "10:00",
-    "date": "2026-11-26",
-    "link": "/matches/2400657/forze-reload-vs-drama-cct-2026-europe-series-15",
-    "meta": "bo3",
-    "event": "CCT 2026 Europe Series 15",
-    "team1": {
-      "name": "FORZE Reload",
-      "logo": "https://img-cdn.hltv.org/teamlogo/YJnWBDwmRDJ9o2uOUrhNeQ.png?ixlib=java-2.1.0&w=50&s=83f5ce35b3f98833671987bc637c74b7"
-    },
-    "team2": {
-      "name": "Drama",
-      "logo": "https://img-cdn.hltv.org/teamlogo/J0n3Qe1dF_JXSikg6Wu7Vd.png?ixlib=java-2.1.0&w=50&s=87cb2bf8d200ac68215e1d7ebfb57de5"
-    }
-  },
-  {
-    "hour": "10:00",
-    "date": "2026-11-26",
-    "link": "/matches/2400880/ex-inox-vs-illyrians-exort-fiesta-series-4",
-    "meta": "bo3",
-    "event": "Exort Fiesta Series 4",
-    "team1": {
-      "name": "ex-INOX",
-      "logo": "/dynamic-svg/teamplaceholder?letter=e"
-    },
-    "team2": {
-      "name": "Illyrians",
-      "logo": "https://img-cdn.hltv.org/teamlogo/cCPQDYWgTSfZKfjVvVLMoy.png?ixlib=java-2.1.0&w=50&s=7013d02394a2fc3236a41f19869f5b36"
-    }
-  },
-  {
-    "hour": "12:00",
-    "date": "2026-11-26",
-    "link": "/matches/2400577/imperial-vs-liquid-pgl-major-singapore-2026-stage-1",
+    "hour": "09:30",
+    "date": "2026-11-27",
+    "link": "/matches/2400580/imperial-vs-wildcard-pgl-major-singapore-2026-stage-1",
     "meta": "bo3",
     "event": "PGL Major Singapore 2026 Stage 1",
     "team1": {
@@ -70,113 +25,8 @@
       "logo": "https://img-cdn.hltv.org/teamlogo/bBDk6-rND06sAzn67b5RdP.png?ixlib=java-2.1.0&w=50&s=467e31ba123f509130d647fbf1e04ef2"
     },
     "team2": {
-      "name": "Liquid",
-      "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62"
-    }
-  },
-  {
-    "hour": "12:00",
-    "date": "2026-11-26",
-    "link": "/matches/2400578/wildcard-vs-chinggis-warriors-pgl-major-singapore-2026-stage-1",
-    "meta": "bo3",
-    "event": "PGL Major Singapore 2026 Stage 1",
-    "team1": {
       "name": "Wildcard",
       "logo": "https://img-cdn.hltv.org/teamlogo/-46lJ-DcmPL_j_5R2WvLiS.png?ixlib=java-2.1.0&w=50&s=3bf750ca209fefcb665134fd61f43ffb"
-    },
-    "team2": {
-      "name": "Chinggis Warriors",
-      "logo": "https://img-cdn.hltv.org/teamlogo/esvV905BqvAKUUPLq8e89T.png?ixlib=java-2.1.0&w=50&s=dd947742be3993f7b235cd1928ab078e"
-    }
-  },
-  {
-    "hour": "13:00",
-    "date": "2026-11-26",
-    "link": "/matches/2400658/hype-tech-vs-xmeta-cct-2026-europe-series-15",
-    "meta": "bo3",
-    "event": "CCT 2026 Europe Series 15",
-    "team1": {
-      "name": "Hype Tech",
-      "logo": "https://img-cdn.hltv.org/teamlogo/FLOvypvN744rUqAR5_2_Q3.png?ixlib=java-2.1.0&w=50&s=6ee3bd1865733927c4ce9ed08728d385"
-    },
-    "team2": {
-      "name": "XMETA",
-      "logo": "/dynamic-svg/teamplaceholder?letter=X"
-    }
-  },
-  {
-    "hour": "13:00",
-    "date": "2026-11-26",
-    "link": "/matches/2400803/nordic-partners-vs-drama-cct-2026-europe-series-16-closed-qualifier",
-    "meta": "bo3",
-    "event": "CCT 2026 Europe Series 16 Closed Qualifier",
-    "team1": {
-      "name": "Nordic Partners",
-      "logo": "https://img-cdn.hltv.org/teamlogo/ThJ-T9QS6Wy5JjNstspK4x.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=31f36bdc17f619f5d3cca27ab92513f2"
-    },
-    "team2": {
-      "name": "Drama",
-      "logo": "https://img-cdn.hltv.org/teamlogo/J0n3Qe1dF_JXSikg6Wu7Vd.png?ixlib=java-2.1.0&w=50&s=87cb2bf8d200ac68215e1d7ebfb57de5"
-    }
-  },
-  {
-    "hour": "13:00",
-    "date": "2026-11-26",
-    "link": "/matches/2400881/quazar-vs-infurity-exort-fiesta-series-4",
-    "meta": "bo3",
-    "event": "Exort Fiesta Series 4",
-    "team1": {
-      "name": "QUAZAR",
-      "logo": "https://img-cdn.hltv.org/teamlogo/YiIFGuv43P9_fALVOSLJHh.png?ixlib=java-2.1.0&w=50&s=fb7fb2d19c66e04b89e883b0948ca78a"
-    },
-    "team2": {
-      "name": "INFURITY",
-      "logo": "https://img-cdn.hltv.org/teamlogo/O7_8BAktLrHF0mbFRXzpHB.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=61f0d77bfb334f6e64a37ddeab895d0b"
-    }
-  },
-  {
-    "hour": "16:00",
-    "date": "2026-11-26",
-    "link": "/matches/2400659/baks-vs-nordic-partners-cct-2026-europe-series-15",
-    "meta": "bo3",
-    "event": "CCT 2026 Europe Series 15",
-    "team1": {
-      "name": "BAKS",
-      "logo": "https://img-cdn.hltv.org/teamlogo/addrkF7msTiD-HdGMcCXbZ.png?ixlib=java-2.1.0&w=50&s=77c6157e0f8f6c0cc067dba37eb1110c"
-    },
-    "team2": {
-      "name": "Nordic Partners",
-      "logo": "https://img-cdn.hltv.org/teamlogo/ThJ-T9QS6Wy5JjNstspK4x.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=31f36bdc17f619f5d3cca27ab92513f2"
-    }
-  },
-  {
-    "hour": "19:00",
-    "date": "2026-11-26",
-    "link": "/matches/2400660/lir-vs-spirit-academy-cct-2026-europe-series-15",
-    "meta": "bo3",
-    "event": "CCT 2026 Europe Series 15",
-    "team1": {
-      "name": "Lir",
-      "logo": "/dynamic-svg/teamplaceholder?letter=L"
-    },
-    "team2": {
-      "name": "Spirit Academy",
-      "logo": "https://img-cdn.hltv.org/teamlogo/txUq00aBKY7O4fLVJegmi_.png?ixlib=java-2.1.0&w=50&s=0be2e166db241569e89ac4ab8f5fb9a2"
-    }
-  },
-  {
-    "hour": "19:00",
-    "date": "2026-11-26",
-    "link": "/matches/2400805/donstu-vs-lfo-10-cct-2026-europe-series-16-closed-qualifier",
-    "meta": "bo3",
-    "event": "CCT 2026 Europe Series 16 Closed Qualifier",
-    "team1": {
-      "name": "DONSTU",
-      "logo": "https://img-cdn.hltv.org/teamlogo/9ueb9xIjZJND19aXJ-02H-.png?ixlib=java-2.1.0&w=50&s=aafb584d0a8eee097f9129fe1b7602db"
-    },
-    "team2": {
-      "name": "LFO 10",
-      "logo": "/dynamic-svg/teamplaceholder?letter=L"
     }
   },
   {
@@ -210,6 +60,36 @@
     }
   },
   {
+    "hour": "12:00",
+    "date": "2026-11-27",
+    "link": "/matches/2400581/m80-vs-100-thieves-pgl-major-singapore-2026-stage-1",
+    "meta": "bo3",
+    "event": "PGL Major Singapore 2026 Stage 1",
+    "team1": {
+      "name": "M80",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YsaWwP_VrkbHzuhszuANEK.png?ixlib=java-2.1.0&w=50&s=47a8cff375da8242af9137a2a592b97d"
+    },
+    "team2": {
+      "name": "100 Thieves",
+      "logo": "https://img-cdn.hltv.org/teamlogo/QdpX-_6C2wHMgv98VAE6il.png?ixlib=java-2.1.0&w=50&s=5f34e763e5f7c7d0408a8814f42d7a87"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-11-27",
+    "link": "/matches/2400662/lir-vs-drama-cct-2026-europe-series-15",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 15",
+    "team1": {
+      "name": "Lir",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L"
+    },
+    "team2": {
+      "name": "Drama",
+      "logo": "https://img-cdn.hltv.org/teamlogo/J0n3Qe1dF_JXSikg6Wu7Vd.png?ixlib=java-2.1.0&w=50&s=87cb2bf8d200ac68215e1d7ebfb57de5"
+    }
+  },
+  {
     "hour": "13:00",
     "date": "2026-11-27",
     "link": "/matches/2400807/azuolas-vs-honvd-cct-2026-europe-series-16-closed-qualifier",
@@ -237,6 +117,21 @@
     "team2": {
       "name": "LPH",
       "logo": "https://img-cdn.hltv.org/teamlogo/J0cvf2_BNvKf1f9c6NAY1v.png?ixlib=java-2.1.0&w=50&s=0ca957f59f3a8aa7e3404d3e5c9a76ef"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-11-27",
+    "link": "/matches/2400663/nordic-partners-vs-xmeta-cct-2026-europe-series-15",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 15",
+    "team1": {
+      "name": "Nordic Partners",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ThJ-T9QS6Wy5JjNstspK4x.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=31f36bdc17f619f5d3cca27ab92513f2"
+    },
+    "team2": {
+      "name": "XMETA",
+      "logo": "/dynamic-svg/teamplaceholder?letter=X"
     }
   },
   {
@@ -282,6 +177,66 @@
     "team2": {
       "name": "BOJONG",
       "logo": "https://img-cdn.hltv.org/teamlogo/JKh2pPif4Yew8qRv6nSg41.png?ixlib=java-2.1.0&w=50&s=cdca4132d6e03879a596c9079e6f5966"
+    }
+  },
+  {
+    "hour": "10:00",
+    "date": "2026-11-28",
+    "link": "/matches/2400665/forze-reload-vs-leo-cct-2026-europe-series-15",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 15",
+    "team1": {
+      "name": "FORZE Reload",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YJnWBDwmRDJ9o2uOUrhNeQ.png?ixlib=java-2.1.0&w=50&s=83f5ce35b3f98833671987bc637c74b7"
+    },
+    "team2": {
+      "name": "Leo",
+      "logo": "https://img-cdn.hltv.org/teamlogo/8W-UeGbtwFEzEz0RiPxxLS.png?ixlib=java-2.1.0&w=50&s=8e4a2a65e1aed01c87c1f317a81366ce"
+    }
+  },
+  {
+    "hour": "16:00",
+    "date": "2026-11-28",
+    "link": "/matches/2400667/hype-tech-vs-baks-cct-2026-europe-series-15",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 15",
+    "team1": {
+      "name": "Hype Tech",
+      "logo": "https://img-cdn.hltv.org/teamlogo/FLOvypvN744rUqAR5_2_Q3.png?ixlib=java-2.1.0&w=50&s=6ee3bd1865733927c4ce9ed08728d385"
+    },
+    "team2": {
+      "name": "BAKS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/addrkF7msTiD-HdGMcCXbZ.png?ixlib=java-2.1.0&w=50&s=77c6157e0f8f6c0cc067dba37eb1110c"
+    }
+  },
+  {
+    "hour": "19:00",
+    "date": "2026-11-28",
+    "link": "/matches/2400668/aimclub-vs-spirit-academy-cct-2026-europe-series-15",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 15",
+    "team1": {
+      "name": "aimclub",
+      "logo": "https://img-cdn.hltv.org/teamlogo/PhNn8XgEQgZbp6ti-_IfFT.png?ixlib=java-2.1.0&w=50&s=846feccd98ac0b3b9cca3409929ed3e3"
+    },
+    "team2": {
+      "name": "Spirit Academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/txUq00aBKY7O4fLVJegmi_.png?ixlib=java-2.1.0&w=50&s=0be2e166db241569e89ac4ab8f5fb9a2"
+    }
+  },
+  {
+    "hour": "13:00",
+    "date": "2026-11-29",
+    "link": "/matches/2400815/drama-vs-donstu-lfo-10-loser-cct-2026-europe-series-16-closed-qualifier",
+    "meta": "bo3",
+    "event": "CCT 2026 Europe Series 16 Closed Qualifier",
+    "team1": {
+      "name": "Drama",
+      "logo": "https://img-cdn.hltv.org/teamlogo/J0n3Qe1dF_JXSikg6Wu7Vd.png?ixlib=java-2.1.0&w=50&s=87cb2bf8d200ac68215e1d7ebfb57de5"
+    },
+    "team2": {
+      "name": null,
+      "logo": null
     }
   },
   {
