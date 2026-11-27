@@ -1,23 +1,100 @@
 [
   {
+    "title": "Visualized: Every team at PGL Major Singapore Stage 2 ",
+    "img": "/img/static/flags/30x20/SG.gif",
+    "date": "2026-11-27",
+    "comments": "12 comments",
+    "link": "/news/46069/visualized-every-team-at-pgl-major-singapore-stage-2"
+  },
+  {
+    "title": "rain: \"I'm happy we've managed to get past [the tier 2 grind] now hopefully\" ",
+    "img": "/img/static/flags/30x20/NO.gif",
+    "date": "2026-11-27",
+    "comments": "29 comments",
+    "link": "/news/46078/rain-im-happy-weve-managed-to-get-past-the-tier-2-grind-now-hopefully"
+  },
+  {
+    "title": "On the ground at PGL Major Singapore Stage 1 ",
+    "img": "/img/static/flags/30x20/SG.gif",
+    "date": "2026-11-27",
+    "comments": "186 comments",
+    "link": "/news/46033/on-the-ground-at-pgl-major-singapore-stage-1"
+  },
+  {
+    "title": "All 16 teams set for Singapore Stage 2 Fantasy ",
+    "img": "/img/static/flags/30x20/SG.gif",
+    "date": "2026-11-27",
+    "comments": "7 comments",
+    "link": "/news/46077/all-16-teams-set-for-singapore-stage-2-fantasy"
+  },
+  {
+    "title": "Short news: Week 46 ",
+    "img": "/img/static/flags/30x20/WORLD.gif",
+    "date": "2026-11-27",
+    "comments": "141 comments",
+    "link": "/news/46029/short-news-week-46"
+  },
+  {
+    "title": "aliStair: \"It's really about trying to be the glue because they have so much fucking talent\" ",
+    "img": "/img/static/flags/30x20/AU.gif",
+    "date": "2026-11-27",
+    "comments": "27 comments",
+    "link": "/news/46051/alistair-its-really-about-trying-to-be-the-glue-because-they-have-so-much-fucking-talent"
+  },
+  {
+    "title": "PGL Major Singapore Stage 2 opening matches set ",
+    "img": "/img/static/flags/30x20/SG.gif",
+    "date": "2026-11-27",
+    "comments": "15 comments",
+    "link": "/news/46076/pgl-major-singapore-stage-2-opening-matches-set"
+  },
+  {
+    "title": "100 Thieves eliminate M80 to make it to Stage 2 ",
+    "img": "/img/static/flags/30x20/SG.gif",
+    "date": "2026-11-27",
+    "comments": "32 comments",
+    "link": "/news/46074/100-thieves-eliminate-m80-to-make-it-to-stage-2"
+  },
+  {
+    "title": "HexT: \"In tier two, salaries are going to be lower until they change, if they change, Major revenue\" ",
+    "img": "/img/static/flags/30x20/CA.gif",
+    "date": "2026-11-27",
+    "comments": "54 comments",
+    "link": "/news/46073/hext-in-tier-two-salaries-are-going-to-be-lower-until-they-change-if-they-change-major-revenue"
+  },
+  {
+    "title": "Imperial outlast Wildcard to progress to Stage 2 ",
+    "img": "/img/static/flags/30x20/SG.gif",
+    "date": "2026-11-27",
+    "comments": "20 comments",
+    "link": "/news/46072/imperial-outlast-wildcard-to-progress-to-stage-2"
+  },
+  {
+    "title": "Snappi: \"Major pressure maybe hit us\" ",
+    "img": "/img/static/flags/30x20/DK.gif",
+    "date": "2026-11-27",
+    "comments": "52 comments",
+    "link": "/news/46071/snappi-major-pressure-maybe-hit-us"
+  },
+  {
     "title": "Lynn Vision qualify for Stage 2 over HEROIC ",
     "img": "/img/static/flags/30x20/SG.gif",
     "date": "2026-11-27",
-    "comments": "35 comments",
+    "comments": "58 comments",
     "link": "/news/46070/lynn-vision-qualify-for-stage-2-over-heroic"
   },
   {
     "title": "L1haNg joins TYLOO on trial ",
     "img": "/img/static/flags/30x20/CN.gif",
     "date": "2026-11-27",
-    "comments": "34 comments",
+    "comments": "40 comments",
     "link": "/news/46066/l1hang-joins-tyloo-on-trial"
   },
   {
     "title": "Gizmy on leading veterans: \"You just need a strong personality, and trust, and you can [earn] trust by showing class and good stuff in game\" ",
     "img": "/img/static/flags/30x20/GB.gif",
     "date": "2026-11-26",
-    "comments": "27 comments",
+    "comments": "28 comments",
     "link": "/news/46062/gizmy-on-leading-veterans-you-just-need-a-strong-personality-and-trust-and-you-can-earn-trust-by-showing-class-and-good-stuff-in-game"
   },
   {
@@ -28,13 +105,6 @@
     "link": "/news/46064/naf-people-need-to-realize-that-pressure-is-where-the-fun-is"
   },
   {
-    "title": "On the ground at PGL Major Singapore Stage 1 ",
-    "img": "/img/static/flags/30x20/SG.gif",
-    "date": "2026-11-26",
-    "comments": "158 comments",
-    "link": "/news/46033/on-the-ground-at-pgl-major-singapore-stage-1"
-  },
-  {
     "title": "Matchups set for final day of Stage 1 ",
     "img": "/img/static/flags/30x20/SG.gif",
     "date": "2026-11-26",
@@ -42,11 +112,11 @@
     "link": "/news/46068/matchups-set-for-final-day-of-stage-1"
   },
   {
-    "title": "PGL Major Singapore Stage 1 highlights ",
+    "title": "Best highlights from PGL Major Singapore Stage 1 ",
     "img": "/img/static/flags/30x20/SG.gif",
     "date": "2026-11-26",
-    "comments": "67 comments",
-    "link": "/news/46032/pgl-major-singapore-stage-1-highlights"
+    "comments": "78 comments",
+    "link": "/news/46032/best-highlights-from-pgl-major-singapore-stage-1"
   },
   {
     "title": "Wildcard outlast Chinggis Warriors to stay alive in Singapore ",
@@ -59,14 +129,14 @@
     "title": "BLAST announces invited teams for Bounty 2027 ",
     "img": "/img/static/flags/30x20/MT.gif",
     "date": "2026-11-26",
-    "comments": "75 comments",
+    "comments": "76 comments",
     "link": "/news/46067/blast-announces-invited-teams-for-bounty-2027"
   },
   {
     "title": "HObbit: \"If dastan was on level five when I played with him, now he is level 10\" ",
     "img": "/img/static/flags/30x20/KZ.gif",
     "date": "2026-11-26",
-    "comments": "19 comments",
+    "comments": "22 comments",
     "link": "/news/46061/hobbit-if-dastan-was-on-level-five-when-i-played-with-him-now-he-is-level-10"
   },
   {
@@ -91,17 +161,10 @@
     "link": "/news/46059/parivision-dispatch-lynn-vision-to-make-stage-2"
   },
   {
-    "title": "Short news: Week 46 ",
-    "img": "/img/static/flags/30x20/WORLD.gif",
-    "date": "2026-11-26",
-    "comments": "110 comments",
-    "link": "/news/46029/short-news-week-46"
-  },
-  {
     "title": "HEROIC dump FaZe out of Singapore ",
     "img": "/img/static/flags/30x20/SG.gif",
     "date": "2026-11-26",
-    "comments": "103 comments",
+    "comments": "106 comments",
     "link": "/news/46058/heroic-dump-faze-out-of-singapore"
   },
   {
@@ -115,7 +178,7 @@
     "title": "Media: NiKo to take over as Falcons' in-game leader and karrigan set to be benched after Singapore ",
     "img": "/img/static/flags/30x20/EU.gif",
     "date": "2026-11-25",
-    "comments": "602 comments",
+    "comments": "617 comments",
     "link": "/news/46056/media-niko-to-take-over-as-falcons-in-game-leader-and-karrigan-set-to-be-benched-after-singapore"
   },
   {
@@ -136,14 +199,14 @@
     "title": "Chinggis Warriors condemn BC.Game to 0-3 exit in Singapore ",
     "img": "/img/static/flags/30x20/SG.gif",
     "date": "2026-11-25",
-    "comments": "197 comments",
+    "comments": "200 comments",
     "link": "/news/46053/chinggis-warriors-condemn-bcgame-to-0-3-exit-in-singapore"
   },
   {
     "title": "NIP beat Liquid to reach Stage 2 in Singapore ",
     "img": "/img/static/flags/30x20/SG.gif",
     "date": "2026-11-25",
-    "comments": "31 comments",
+    "comments": "32 comments",
     "link": "/news/46052/nip-beat-liquid-to-reach-stage-2-in-singapore"
   },
   {
@@ -507,7 +570,7 @@
     "title": "Ksharp, solo, NEO and dupreeh to enter Hall of Fame ",
     "img": "/img/static/flags/30x20/WORLD.gif",
     "date": "2026-11-15",
-    "comments": "247 comments",
+    "comments": "248 comments",
     "link": "/news/45987/ksharp-solo-neo-and-dupreeh-to-enter-hall-of-fame"
   },
   {
