@@ -1,35 +1,5 @@
 [
   {
-    "hour": "07:00",
-    "date": "2026-11-27",
-    "link": "/matches/2400579/lynn-vision-vs-heroic-pgl-major-singapore-2026-stage-1",
-    "meta": "bo3",
-    "event": "PGL Major Singapore 2026 Stage 1",
-    "team1": {
-      "name": "Lynn Vision",
-      "logo": "https://img-cdn.hltv.org/teamlogo/DPcHT21uWwK1hDD_3txlL9.png?ixlib=java-2.1.0&w=50&s=4b5d5a187f00caf9bbae2d0fcbca6ff6"
-    },
-    "team2": {
-      "name": "HEROIC",
-      "logo": "https://img-cdn.hltv.org/teamlogo/4S22uk_gnZTiQiI-hhH4yp.png?ixlib=java-2.1.0&w=50&s=3619ddf1d490573ab3dc261b8c2f3f6f"
-    }
-  },
-  {
-    "hour": "09:30",
-    "date": "2026-11-27",
-    "link": "/matches/2400580/imperial-vs-wildcard-pgl-major-singapore-2026-stage-1",
-    "meta": "bo3",
-    "event": "PGL Major Singapore 2026 Stage 1",
-    "team1": {
-      "name": "Imperial",
-      "logo": "https://img-cdn.hltv.org/teamlogo/bBDk6-rND06sAzn67b5RdP.png?ixlib=java-2.1.0&w=50&s=467e31ba123f509130d647fbf1e04ef2"
-    },
-    "team2": {
-      "name": "Wildcard",
-      "logo": "https://img-cdn.hltv.org/teamlogo/-46lJ-DcmPL_j_5R2WvLiS.png?ixlib=java-2.1.0&w=50&s=3bf750ca209fefcb665134fd61f43ffb"
-    }
-  },
-  {
     "hour": "10:00",
     "date": "2026-11-27",
     "link": "/matches/2400806/mouz-nxt-vs-masonic-cct-2026-europe-series-16-closed-qualifier",
@@ -227,16 +197,16 @@
   {
     "hour": "13:00",
     "date": "2026-11-29",
-    "link": "/matches/2400815/drama-vs-donstu-lfo-10-loser-cct-2026-europe-series-16-closed-qualifier",
+    "link": "/matches/2400815/lfo-10-vs-drama-cct-2026-europe-series-16-closed-qualifier",
     "meta": "bo3",
     "event": "CCT 2026 Europe Series 16 Closed Qualifier",
     "team1": {
-      "name": "Drama",
-      "logo": "https://img-cdn.hltv.org/teamlogo/J0n3Qe1dF_JXSikg6Wu7Vd.png?ixlib=java-2.1.0&w=50&s=87cb2bf8d200ac68215e1d7ebfb57de5"
+      "name": "LFO 10",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L"
     },
     "team2": {
-      "name": null,
-      "logo": null
+      "name": "Drama",
+      "logo": "https://img-cdn.hltv.org/teamlogo/J0n3Qe1dF_JXSikg6Wu7Vd.png?ixlib=java-2.1.0&w=50&s=87cb2bf8d200ac68215e1d7ebfb57de5"
     }
   },
   {
